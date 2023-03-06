@@ -1,0 +1,71 @@
+Dans le cadre de notre developpement à Montreal, nous recherchons activement des Developpeurs Web Full-Stack.
+
+Tu veux rejoindre une communaute d’experts et nous accompagner à identifier les problematiques chez nos clients et les aider à generer de la valeur en construisant des experiences utilisateurs qui font du sens ? Rejoins notre equipe !
+
+Tes Missions
+
+Developper des produits numeriques performants grâce à tes expertises en Javascript natif et ta maîtrise d’un ou plusieurs frameworks - librairies.
+Respecter les deadlines et les estimations
+Alerter rapidement lorsque des obstacles se presentent
+Faire grandir les clients sur des sujets techniques
+Comprendre les enjeux numeriques et maitriser la chaîne de valeur
+Proposer des solutions qui repondent à une problematique en prenant en compte les contraintes d'environnement (SI) et les objectifs clients, sans chercher à imposer son point de vue
+Animer des reunions pour resoudre les problematiques avec d'autres corps de metiers (marketing, PO, devs, ...)
+Savoir integrer les enjeux business dans la chaine de production
+Être force de proposition - savoir exprimer une critique positive
+Être autonome et proactif dans son metier
+Organiser, prioriser et alerter
+Être actif dans le developpement d'Atecna
+Être actif dans la construction de l'esprit d'equipe.
+Favoriser les collaborations et rechercher l'amelioration de l’equipe
+
+
+Requirements
+
+Ta boite à outils
+
+Vanilla JS
+Maîtrise des frameworks : ReactJS, VueJS, Svelte
+NodeJS
+Redis-MongoDB-SQL Server pour les bases de donnees
+Docker-Kubernetes-Gitlab CI et-ou equivalent
+GraphQL
+SSR-SSG-SPA
+Nos projets doivent aussi s’integrer avec plusieurs API
+Un interêt particulier sera porte à la mise en place des meilleures pratiques de developpement (integration continu, code review, pair programming…)
+Maîtrise de la qualite Web et tres bonnes connaissances des normes d’accessibilite
+
+
+Ton profil
+
+Detenir un baccalaureat en informatique ou genie informatique ou toutes autres formations equivalentes
+Posseder un minimum de 7 ans d’experience en programmation Web
+Avoir de l'experience comme Developpeur full-stack avec une connaissance solide des composantes back end (API - REST - Caching), et pour le developpement front-end (http, cookies, headers) ainsi qu'une large connaissance de l’ecosysteme tech.
+Avoir de l'interêt pour le devops (deploiement, integration continue …)
+Avoir la capacite à comprendre et tenir compte des besoins des utilisateurs
+Être debrouillard, avoir le sens de l’initiative, et la capacite à resoudre des problemes avec des solutions elegantes et innovantes
+Avoir le souci de la qualite, et l’exprimer tout au long du cycle de developpement (via des questions, tests unitaires ...)
+Avoir de bonnes habiletes relationnelles et de communication
+Aimer travailler en equipe
+Être capable de s’adapter aux changements
+Être oriente resultat
+
+
+Benefits
+
+Assurance collective
+1 journee bien-être offerte par an pour se faire plaisir avec un budget de 500 $
+Abonnement à Dialogue, plateforme de sante virtuelle
+Abonnement annuel BIXI, c’est notre cete ecolo
+3 semaines de conges annuel la premiere annee (+1 semaine offerte au 3eme anniversaire chez Atecna)
+5 jours de conges maladie + 2 jours de statutaires
+Tele-travail hybride et politique flexible de conges sans solde
+Des evenements de team building et des Atecn’aperos
+Un acces à Perkopolis, un espace de programme d'avantages speciaux et rabais aupres de plus de 1 000 compagnies canadiennes
+Et de futurs avantages à co-construire ensemble
+
+
+Nos locaux :
+
+Nos bureaux sont situes au coeur du Mile End, 5455 Avenue de Gaspe. Barista, baby-foot, table de ping-pong sont mis à disposition sur des espaces ouverts.
+और दिखाएं

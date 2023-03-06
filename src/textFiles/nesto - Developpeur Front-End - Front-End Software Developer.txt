@@ -1,0 +1,333 @@
+English description follows
+
+
+
+
+
+* Cette position peut être realisee de la maison en tout temps, partout au Canada.*
+
+
+
+
+nesto a pour mission d’offrir une experience de financement immobilier positive, et transparente, simplifiee du debut � la fin.
+
+
+
+
+Grâce � notre technologie, nous examinons l’ensemble du marche en quelques secondes pour trouver l’hypothèque la plus abordable, tandis que nos experts sans commission fournissent aux clients un soutien impartial tout au long du processus. Les personnes qui utilisent notre technologie l’adorent, tout simplement!
+
+
+
+
+Nous sommes une equipe composee d’experts en technologie, de specialistes hypothecaires qualifies et attentionnes et d’une equipe de marketing diversifiee de premier ordre qui travaillent tous vers un objectif commun : Incarner le changement de l’industrie hypothecaire. Nous sommes très collaboratifs et chanceux d’avoir une equipe multidisciplinaire qui apporte une variete de perspectives.
+
+
+
+
+À propos de l’equipe
+
+
+
+
+Plusieurs projets technologiques progressent parallèlement. Notre equipe de developpement travaille sur differents produits et differentes experiences nesto inter-relies. Notre technologie permet aux clients de rechercher et d’acceder aux meilleurs produits hypothecaires et remplir leurs demandes et transactions hypothecaires de manière 100% numerique.
+
+
+
+
+Nous avons dès le depart cree une plateforme moderne et nativement nuagique, adherant aux plus hauts standards de l’industrie en termes de processus de developpement et d’operations. Notre front-end est ecrit en Typescript avec React et notre back-end en Go, sous forme de microservices encapsules dans des conteneurs docker, bien decouples grâce � des API REST et des files pub-sub et isoles derrière differents API gateways. Le tout est orchestre par Kubernetes et instrumente grâce � Datadog. Nos pipelines CI-CD sont automatises grâce � Codefresh et notre infrastructure est geree via Pulumi (de manière similaire � Terraform).
+
+
+
+
+En tant que developpeur Front-End, vous aurez un impact significatif sur notre produit ainsi que sur l'experience client. Nos equipes de developpement Front-End, rendent faciles et intuitives des processus � logique complexe. Dans ce poste, vous construirez des applications ecrites en JavaScript-TypeScript.
+
+
+
+
+Ce que vous ferez
+
+
+
+
+Developper le front-end evolutif sur une ou plusieurs de nos plateformes en evolution;
+
+
+
+
+Appliquer de solides competences techniques en conception-codage-testing-debogage;
+
+
+
+
+Collaborer avec votre equipe immediate composee de developpeurs, de specialistes en assurance-qualite, de gestionnaires de produits et de designers pour creer des experiences utilisateur exceptionnelles;
+
+
+
+
+Collaborer avec l’equipe Front-End et les developpeurs juniors, pour partager vos connaissances et les meilleures pratiques.
+
+
+
+
+Nous recherchons
+
+
+
+
+Baccalaureat ou une maîtrise en informatique ou dans un autre domaine technique;
+
+
+
+
+Une experience professionnelle de 3+ ans en developpement Front-End;
+
+
+
+
+Une experience professionnelle avec React, Redux (Idealement avec Typescript);
+
+
+
+
+De solides competences en CSS;
+
+
+
+
+Vous aimez l’idee de rejoindre une startup avec la possibilite d'avoir un impact significatif sur le produit
+
+
+
+
+Vous êtes confortable au sein d'une equipe et un environnement creatif et � haute velocite;
+
+
+
+
+Ce que nous offrons
+
+
+
+
+Contribuez directement � façonner l’experience qui modernisera le secteur hypothecaire canadien;
+
+
+
+
+De multiples opportunites de croissance au sein de l’entreprise;
+
+
+
+
+Une remuneration competitive;
+
+
+
+
+Nous offrons des options d’achat d’actions � tous nos employes;
+
+
+
+
+Une politique de conges genereuse incluant 4 semaines de vacances;
+
+
+
+
+Plan d’avantages sociaux de premier ordre entièrement paye par nesto, comprenant un plan d'assurance complet et un accès illimite � un service de tele-medecine pour vous et votre famille dès le jour 1;
+
+
+
+
+Un budget sante annuel
+
+
+
+
+Un programme de travail international accessible;
+
+
+
+
+Possibilite de travailler de la maison � 100 % (depuis le Canada) ou depuis de magnifiques bureaux au centre-ville de Montreal (metro Peel). Nos espaces sont bienvenus aux chiens!
+
+
+
+
+Diversite et inclusion
+
+
+
+
+Chez nesto, nous croyons fermement que la creativite et la collaboration sont le fruit de la diversite. Nous sommes engages � favoriser, � cultiver et � preserver une culture de diversite, d’equite, d’inclusion et d’appartenance, et sommes fiers d’assurer des pratiques impartiales et inclusives pour acceder � l’emploi et � la croissance professionnelle. Tous les candidats qualifies seront pris en consideration sans egard � leur âge, leur couleur, leur handicap, leur origine ethnique, l’etat familial ou matrimonial, l’identite ou l’expression de genre, leur langue, leur capacite physique et mentale, leur affiliation politique, leur religion, leur orientation sexuelle, leur situation sociale, leur statut de veteran et toutes autres caracteristiques qui rendent nos employes uniques.
+
+
+
+
+*This position can be remote, from anywhere in Canada*
+
+
+
+
+nesto is on a mission to offer a positive, empowering and transparent property financing experience, simplified from start to finish.
+
+
+
+
+With our technology, we scan the entire market in seconds to find the most affordable mortgage, while our commission-free experts provide clients with unbiased support throughout the process. People who use our technology simply love it!
+
+
+
+
+About The Team
+
+
+
+
+Several tech projects are progressing in parallel at a high delivery pace. Structured by squads, the tech team is working on different products and nesto experiences based on strong algorithms and AI to meet business objectives. Our technology stack allows customers to shop and access mortgage products by enabling them to complete their mortgage applications and transactions digitally.
+
+
+
+
+From the very beginning, we created a modern, cloud-native tech platform (based on Google Cloud) adhering to the industry's highest standards in terms of development and operation processes. Our front-end is written in Typescript with React and our back-end in Go, in the form of loosely coupled docker-containerized microservices, well decoupled via RESTful APIs and pub-sub queues, and isolated behind different API gateways. Those containers are orchestrated using Kubernetes, instrumented with Datadog and monitored for security via Lacework. Our CI-CD pipelines are automated using Google Cloud Build and Codefresh and our infrastructure is managed using Pulumi (similar to Terraform, but using a rich and extensible programming language and API, in our case TypeScript).
+
+
+
+
+As a Front-End Developer, you’ll take ownership of significant parts of the product and build apps that are written in JavaScript-TypeScript.
+
+
+
+
+What you would be doing
+
+
+
+
+Developing the scalable front-end on one or many of our evolving platforms;
+
+
+
+
+Apply strong technical skills in design-coding-testing-debugging ;
+
+
+
+
+Collaborating with your immediate squad composed of Backend Developers, QA, Product Owner, and Product Designers to create an excellent user experience ;
+
+
+
+
+Collaborate with the FrontEnd team to share knowledge and best practices;
+
+
+
+
+Who we are looking for
+
+
+
+
+You have a B.S., B.S. or M.S. in Computer Science, Software Engineering or another technical field;
+
+
+
+
+You have 3+ years of professional experience in Front-End development;
+
+
+
+
+You have experience with React (ideally on Typescript);
+
+
+
+
+You have strong CSS skills (Ideally with Styled-Component or Sass);
+
+
+
+
+You like the idea of joining a startup with a growing team of great engineers;
+
+
+
+
+You are self-driven and like fast-paced teams and environments;
+
+
+
+
+You enjoy both sweating the details and deliberate, long-term system thinking;
+
+
+
+
+You’ve built and shipped great apps;
+
+
+
+
+You’ve comfortable with the architecture of modern applications.
+
+
+
+
+What we offer
+
+
+
+
+Contribute directly to shaping the experience that will modernize the Canadian mortgage industry;
+
+
+
+
+Multiple growth opportunities within the company;
+
+
+
+
+Competitive compensation;
+
+
+
+
+We offer stock options to all of our employees;
+
+
+
+
+A generous time-off policy including 4weeks vacation per year;
+
+
+
+
+Premium benefits plan fully paid by nesto, including a top-class insurance plan and unlimited access to telemedicine service for you and your family from day 1;
+
+
+
+
+An annual health budget;
+
+
+
+
+An accessible international work program;
+
+
+
+
+Possibility to work 100% from home (from Canada) or from beautiful offices in downtown Montreal (Peel Station). Our space is dog-friendly!
+
+
+
+
+Diversity and inclusion
+
+
+
+
+At nesto, we firmly believe that creativity and collaboration are the fruit of diversity. We are committed to fostering, cultivating and preserving a culture of diversity, equity, inclusion and belonging, and are proud to ensure impartial and inclusive practices for accessing employment and professional growth. All qualified applicants will be considered without regard to age, colour, disability, ethnic origin, family or marital status, gender identity or expression, language, physical and mental ability, political affiliation, religion, sexual orientation, social status, veteran status and any other characteristics that make our employees unique.
+Show moreلمزيد

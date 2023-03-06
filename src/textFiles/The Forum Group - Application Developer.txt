@@ -1,0 +1,42 @@
+Stable, mid-sized investment firm , in business for over twenty five years. is seeking a seasoned SW Developer who is skilled in both mobile app and Windows Development. You must have both iOS and Windows experience. This is a hybrid remote role requiring the Developer to work on-site three days per week in midtown Manhattan. The firm offers excellent benefits.
+
+
+
+
+Responsibilities:
+
+
+
+
+· Designing, developing, testing, and supporting iOS applications using Swift and Objective-C
+
+· Designing, developing, testing, and supporting .Net applications using Microsoft .NET C#, JavaScript, MS-SQL, jQuery, and REST development with in-cloud applications.
+
+· Communicating effectively with business users to understand business requirements.
+
+· Evaluate technical solutions and strategies to identify the optimal solution utilizing the appropriate technology.
+
+· Testing and releasing with a focus on delivering solutions aligned to business goals.
+
+
+
+
+Required Skills and experience:
+
+
+
+
+5+ years of software development experience (required)
+3+ years of experience with Objective-C and Swift for iOS development and-or another mobile development platform (React Native, Xamarin, Ionic, Flutter, Node)
+3+ years of experience with .Net and C#
+2+ years of experience with web services (consuming or creating) with REST or SOAP
+
+· Working experience within agile development teams and full development lifecycle.
+
+Strong knowledge of Swift with iOS SDK
+Excellent knowledge of the iOS Human Interface Guidelines
+Excellent analytical, problem-solving, and troubleshooting skills.
+Excellent written and verbal communication skills.
+Familiarity with project collaboration, and source control methodologies utilizing Visual Studio Online, Team Foundation Server (TFS) and GIT-github.
+
+Mostrar más

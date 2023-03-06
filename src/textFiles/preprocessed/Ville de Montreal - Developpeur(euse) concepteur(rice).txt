@@ -1,0 +1,60 @@
+Offre d'emploi : Développeur·euse concepteur·rice
+
+Organisation : Service des technologies de l'information
+
+Destinataires : Employé·e·s de la ville et candidat·e·s externes
+
+Type d'emploi à pourvoir : Emploi permanent
+
+Période d'inscription : Du 20 février au 10 mars 2023
+
+Salaire : Échelle salariale (2023) : 59 039 $ à 98 887 $ | Groupe de traitement : 29-001
+
+Avis de modification : Catégorie d'emploi : Professionnel général
+
+Horaire : 35 h-semaine - possibilité de télétravail
+
+Adresse : 80 rue Queen
+
+Ce processus vise à pourvoir 1 poste permanent (88234). Pour les employé·e·s et employé·e·s appartenant à l’accréditation des professionnels généraux, la liste d’éligibilité issue de ce processus servira à pourvoir tous les postes de cette fonction au Service des technologies de l'Information, dont les exigences sont les mêmes ou similaires.
+
+NOTRE OFFRE
+
+La collaboration, le travail d'équipe et la contribution à la satisfaction des visiteurs des 5 musées d'Espace pour la vie (le Biodôme, la Biosphère, le Jardin botanique, l'Insectarium et le Planétarium) t'interpelle ?
+
+Rejoins notre équipe dynamique qui a à cœur le soutien technologique et l'évolution des solutions utilisées par les musées d'Espace pour la vie.
+
+Ce poste est pour toi !
+
+Votre mandat
+
+Tu programmes de nouvelles fonctionnalités sur différentes plateformes utilisées et maintiens le bon fonctionnement de celles qui existent déjà. Tu fais partie prenante des réflexions, de l'analyse et de la conception des solutions en place pour notre client interne. Plus spécifiquement, tu :
+
+configures et optimises des systèmes de billetterie, les rapports et autres systèmes utilisés par Espace pour la vie et ses 5 musées ;
+participes à la conception, au développement et au soutien des applications ;
+définis les caractéristiques fonctionnelles des interfaces ;
+organises les scénarios de tests pour valider les vulnérabilités potentielles ;
+documentes les résultats et leur analyse et identifie les besoins en tests fonctionnels et non fonctionnels ;
+identifie, consigne et analyse les types d'incidents et les interruptions de service, les classe selon leurs impacts, leurs causes et leurs résolutions ;
+assure le support des applications en production.
+
+Des questions ? N’hésitez pas à communiquer avec Rindra Randriamneloma rindra.randriambeloma@montreal.ca , spécialiste en acquisition de talents.
+
+PROFIL RECHERCHÉ
+
+Diplôme universitaire en informatique ou autre domaine pertinent
+2 années d'expérience en lien avec les responsabilités du poste
+Expérience en :
+programmation NodeJS et Angular
+base de données SQL
+.Net, Python, SSRS sont des atouts
+
+NOS AVANTAGES
+
+Des défis d'envergure
+Une carrière au service de la population montréalaise
+Une rémunération et des avantages concurrentiels
+La conciliation travail-vie personnelle
+La possibilité de faire progresser votre carrière
+
+Soyez fière ou fier de travailler pour le premier employeur en importance de la région métropolitaine et la plus importante métropole francophone en Amérique

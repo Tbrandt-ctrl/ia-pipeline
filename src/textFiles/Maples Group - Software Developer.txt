@@ -1,0 +1,123 @@
+Position: Software Developer
+
+Location: Montreal, Canada
+
+
+
+
+About the role
+
+You will work as part of a Scrum team to deliver software to internal and external customers of Maples Group. We work closely with fellow software engineers, testers, infrastructure engineers, products owners, scrum masters and business stakeholders to deliver products to the highest quality standards.
+
+
+
+
+You will use test driven development (TDD), appropriate design patterns and SOLID principles. You will be responsible for writing unit, integration and GUI tests where appropriate. You will be responsible for peer reviewing pull requests and associated testing. You will maintain and improve the Continuous Integration and Continuous Delivery pipeline for your products. You will be expected to innovate and implement enhancements to the existing processes, technology and techniques utilized by the team.
+
+
+
+
+You take responsibility as part of a team for deployments, monitoring and support of your product in production.
+
+
+
+
+You will be given the opportunity to work with the latest techniques and technologies in a professional and supportive environment.
+
+
+
+
+Working with Business Analysts to obtain a good understanding of the business to ensure delivering the most possible business value.
+Working with the scrum team to define acceptance criteria and provide estimates for the Product Backlog.
+Working with the scrum team to break down Product Backlog Items into Tasks during Sprint planning.
+Working with the scrum team to develop and deliver high quality software products during a sprint cycle.
+Participating in the design and development of business applications with the team.
+Tracking your work in progress, reviewing the code of your teammates.
+Helping the team to maintain the existing applications.
+
+
+
+
+What you bring
+
+3+ years of experience in software development using C# and .Net platform.
+Have good understanding of Data structures, Algorithms, Object Oriented Design, Design Patterns and SOLID principles.
+Experience developing web applications using ASP .Net MVC.
+Experience developing REST APIs using frameworks like ASP .Net API.
+Experience developing applications with ORM like Entity framework.
+Experience implementing automated tests using MSTest or other frameworks like NUnit, xUnit, Specflow.
+Experience with one or more front-end frameworks (React or Angular).
+Experience with design relational databases with SQL Server or other relational databases.
+Experience with responsive Web UI design using HTML5 and CSS.
+Have a good understanding of DevOps concept.
+Experience working with Agile using Scrum or other agile methodologies.
+Experience in creating and maintaining Continuous Integration and Continuous Delivery pipelines.
+
+
+
+
+Poste: Developeur de logiciels
+
+Emplacement: Montreal, Canada
+
+
+
+
+À propos du poste
+
+Vous travaillerez au sein de l’equipe scrum pour fournir des logiciels aux clients internes et externes de Maples Group. Nous collaborons etroitement avec des collegues ingenieurs en logiciels et en infrastructures, testeurs, responsables de produit, Scrum Masters et intervenants commerciaux afin de livrer des produits qui repondent aux normes de qualite les plus elevees.
+
+
+
+
+Vous aurez recours au TDD (developpements pilotes par les tests), aux modeles de conception appropries et aux principes SOLID. Vous aurez la responsabilite de rediger les tests d’unites, d’integration et d’interface graphique, au besoin. Vous vous occuperez des demandes de tirage (pull requests) d’examens par les pairs et des tests associes. Vous assurerez la maintenance et l’amelioration du pipeline d’integration continue et de livraison continue de vos produits. On s’attendra à ce que vous innoviez et apportiez des ameliorations aux processus, technologies et techniques existants utilises par l’equipe.
+
+
+
+
+En tant que membre d’une equipe, vous assumez la responsabilite des deploiements, du suivi et du soutien en ce qui a trait à votre produit en production.
+
+Vous aurez l’occasion d’utiliser les plus recentes techniques et technologies dans un milieu professionnel et positif.
+
+
+
+
+Votre contribution
+
+Travailler avec des analystes d’affaires afin d’avoir une bonne idee de l’entreprise en vue d’assurer la prestation d’une valeur operationnelle optimale.
+Travailler avec l’equipe scrum pour definir les criteres d’acceptation et fournir des estimations pour le carnet de produits.
+Travailler avec l’equipe scrum pour repartir les elements du carnet de produits dans les tâches lors de la planification acceleree.
+Travailler avec l’equipe scrum pour developper et livrer des produits logiciels de grande qualite pendant un cycle accelere.
+Participer à la conception et au developpement d’applications d’affaires avec l’equipe.
+Effectuer le suivi de vos travaux en cours et reviser le code de vos coequipiers.
+Aider l’equipe à assurer la maintenance des applications existantes.
+3+ ans d’experience dans le developpement de logiciels avec l’utilisation des plateformes C# et .Net.
+Bonne comprehension des structures de donnees, des algorithmes, de la conception orientee objet, des modeles de conception et des principes SOLID.
+Experience dans le developpement d’applications Web avec ASP .Net MVC.
+Experience dans le developpement d’API REST à l’aide de cadriciels comme l’API ASP .Net.
+Experience dans le developpement d’applications avec un cadriciel d’entites de type ORM (modelisation de reles d’objets).
+Experience dans la mise en œuvre de tests automatises au moyen de MSTest ou d’autres cadriciels comme NUnit, xUnit, Specflow.
+Experience avec un ou plusieurs cadriciels frontaux (React ou Angular).
+Experience dans la conception de bases de donnees relationnelles avec SQL Server ou d’autres bases de donnees relationnelles.
+Experience dans la conception d’interfaces utilisateur Web receptives avec HTML5 et CSS.
+Bonne comprehension du concept DevOps.
+Experience dans le developpement Agile avec Scrum ou d’autres methodes agiles.
+Experience dans la creation et le maintien de pipelines d’integration continue et de livraison continue.
+
+
+
+
+Avantages sociaux et recompenses
+
+Les relations professionnelles les plus durables sont les relations reciproques. Le Groupe Maples accorde la priorite à la sante et au bien-être des employes. Selon votre lieu de residence, nous vous offrons une gamme d’avantages sociaux, notamment :
+
+une protection complete en matiere de sante (soins medicaux, soins dentaires et soins de la vue);
+des offres de vacances competitives;
+des programmes d’aide à l’education et de perfectionnement professionnel;
+un regime de retraite ou d’epargne;
+une assurance vie;
+une assurance voyage;
+un programme global de bien-être mental;
+des clubs sportifs et des activites sociales.
+
+Mehr anzeigen

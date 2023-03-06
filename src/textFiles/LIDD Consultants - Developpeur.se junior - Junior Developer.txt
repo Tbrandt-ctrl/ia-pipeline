@@ -1,0 +1,176 @@
+À propos de LIDD
+
+LIDD est une firme d’experts-conseils de premier plan en matiere de chaîne d’approvisionnement. Nous offrons nos services partout en Amerique du Nord ainsi qu’en Asie. Nous concevons de grands entrepets et des systemes logistiques complexes afin d’aider nos clients à faire circuler leurs marchandises plus efficacement. Nos clients sont des manufacturiers, distributeurs et detaillants dont certains sont de grandes marques dans les industries alimentaires et des biens à la consommation. Notre equipe grandissante de consultants, d’analystes, de concepteurs et de programmeurs opere depuis nos bureaux à Montreal, Toronto, Los Angeles et Seoul.
+
+
+
+
+Notre declaration sur la diversite
+
+LIDD est un employeur qui respecte l'egalite des chances. En rejoignant notre equipe, vous vous sentirez à votre place, quels que soient votre ethnie, religion, couleur de peau, origine, sexe, orientation sexuelle, âge, etat civil ou handicap. Faites-nous savoir si vous avez besoin d’accommodements durant le processus de recrutement.
+
+
+
+
+Quel est votre rele?
+
+Notre Developpeur.se Junior Solochain doit agir comme un.e conseiller.ere aupres de nos clients.es sur les decisions technologiques qu'ils doivent prendre, en fournissant une vision sur le rele de chaque systeme et en indiquant où les investissements sont necessaires en:
+
+Developpant des ameliorations aux plateformes existantes;
+Enquêter sur les problemes techniques et corriger les erreurs;
+En menant à terme des projets d’integration.
+
+Les principales tâches et responsabilites, sans être limitees à celles-ci, sont les suivantes:
+
+Soutenir la mise en œuvre de technologies dans le cadre d'un nouveau deploiement et de projets d'amelioration continue;
+Maintenir et optimiser une importante base de code existante dans un environnement d'equipe;
+Examiner les tickets avec les membres de l'equipe pour evaluation et resolution;
+Utiliser les normes de l'industrie pour apporter des personnalisations aux systemes conformement aux meilleures pratiques;
+Faciliter l'attribution et le suivi des tâches par application et processus dans le respect des directives SLA, selon les besoins;
+Resoudre les problemes de production, maintenir une communication efficace avec la direction technique-architecte et l'equipe immediate;
+Analyser la source des problemes, reperer les tendances et recommander des mesures qui minimiseront ou elimineront les occurrences futures;
+Collaborer avec des collegues pour rechercher des problemes et trouver des solutions;
+Mettre en œuvre, tester et corriger les solutions logicielles.
+
+
+
+
+Exigences - Pour être qualifie.e pour ce rele, vous avez:
+
+Habiter à Montreal, QC
+Dipleme d'associe ou de Baccalaureat en informatique et logiciels, technologie de l'information, gestion de la chaîne d'approvisionnement, genie industriel, distribution OU domaine connexe;
+Experience avec Java et SQL;
+Comprehension de divers processus et pratiques commerciales de la chaîne d'approvisionnement;
+Comprehension fondamentale du cycle de vie du developpement de logiciels et des techniques d'assurance de la qualite à l'aide de referentiels de contrele du code source, experience du debogage et des tests;
+Excellent anglais et français ecrit et parle.
+
+Considere comme un atout:
+
+Experience du deploiement-de la mise en service d'applications de distribution à grande echelle.
+Connaissance des pratiques de gestion des bases de donnees.
+Connaissance des transactions de services Web, SOAP et REST.
+
+Nous recherchons des candidats.es qui ont:
+
+Une capacite à bien travailler sous pression au sein d'une equipe;
+Capacite à determiner les exigences du projet;
+De fortes capacites de resolution de problemes;
+Un souci du detail et de la qualite;
+Capacite à gerer plusieurs tâches simultanement avec un encadrement limite;
+Capacite à travailler de maniere independante dans un environnement ambigu avec des delais serres.
+
+
+
+
+Avantages - Votre salaire et vos avantages:
+
+Salaire selon l'experience;
+3 semaines de conges payes;
+Prime annuelle;
+Regime collectif d'assurance maladie et d'assurance vie des la premiere journee;
+Horaire flexible et possibilite de travailler à distance;
+Subvention de formation et excellentes possibilites de developpement professionnel;
+Prime de referencement;
+Bureaux modernes avec boissons et collations gratuites;
+Évenements sociaux d'entreprise;
+Culture exceptionnelle incluant la collaboration avec des collegues à travers les six bureaux de l'entreprise.
+
+
+
+
+____________
+
+
+
+
+About LIDD
+
+LIDD (LIDD.com) is a leading supply chain management consulting firm. We design complex warehouses and logistics systems to help companies move goods more efficiently. Our clients are manufacturers, distributors and retailers, including many brand names in food & beverage and consumer goods. From our offices in Montreal, Toronto, Los Angeles and Seoul, we tackle challenging projects in a fun and supportive environment.
+
+
+
+
+Our Diversity Statement
+
+LIDD is an equal opportunity employer. When you join our team, you'll feel like you belong regardless of your ethnicity, religion, race, origin, gender, sexual orientation, age, marital status or disability. Let us know if you need accommodation during the recruitment process.
+
+
+
+
+Donnee
+
+What’s your role:
+
+Our Junior Solochain Developer will act as an advisor to our clients on the technological decisions they need to make, providing insight on the role of each system and where investments are needed by:
+
+Developing enhancements to existing platforms;
+Investigating technical issues and correcting errors;
+Completing integration projects.
+
+
+
+
+Day-to-day you will:
+
+Support the implementation of technologies as part of a new deployment and continuous improvement projects.
+Configure, maintain and support existing installations of our WMS software solutions.
+Work alongside a team to encode project requirements into computer language.
+Maintain and optimize large existing codebase in a team based environment.
+Review tickets with team members for assessment and resolution;
+Use industry standards to make customizations to systems in accordance with best practices;
+Facilitate task assignment and monitoring by application and process within SLA guidelines, as needed;
+Resolve production issues, maintain effective communication with technical leadership-architect, immediate team and management;
+Analyze the source of problems, locating trends, and recommending measures that will minimize or eliminate future occurrences;
+Partner with co-workers to research problems and find solutions; participate in diagnostic procedures;
+Implement, test and correct software solutions.
+
+
+
+
+Requirements
+
+To qualify for this role, you’ll need:
+
+Live in Montreal, QC
+Associate or bachelor’s degree in development, information technology, supply chain management, industrial engineering, distribution or related field
+Really good understanding of JAVA and SQL.
+Being operational process oriented and customer oriented.
+Core understanding of the software development lifecycle and of Quality Assurance techniques using source code control repositories, debugging and testing experience.
+Excellent written and spoken French and English
+
+Considered a plus:
+
+Experience in deployment-go-live of large-scale distribution applications
+Experience with business software for operations (ERP, WMS, TMS, MES)
+
+We’re looking for candidates who have:
+
+Interest in supply chain management, logistics and distribution operations
+Ability to work well under pressure within a team
+Ability to determine project requirements
+Strong problem-solving capabilities
+Superior verbal and written communication and presentation skills
+Attention to detail and quality
+Ability to handle multiple assignments simultaneously with limited guidance
+Comfort working independently in an ambiguous environment with pressing deadlines
+
+
+
+
+Benefits
+
+Your salary & benefits:
+
+Salary depending on experience;
+3 weeks of paid vacation;
+Annual bonus;
+Group health and life insurance plan from day 1;
+Flexible schedule and some remote work;
+Training grants and excellent professional development opportunities;
+Referral bonus program;
+New, modern offices with free drinks and snacks;
+Company parties and events;
+Outstanding culture allowing you to collaborate with colleagues across six corporate offices.
+Mostrar másrties and events;
+Outstanding culture including collaboration with colleagues across six corporate offices.
+और दिखाएं

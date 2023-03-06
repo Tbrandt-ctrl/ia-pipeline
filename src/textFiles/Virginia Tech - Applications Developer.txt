@@ -1,0 +1,78 @@
+Job Description
+
+When was the last time you changed the world?
+
+In Virginia Tech’s Division of Student Affairs, that’s exactly what we’re doing every day—guiding, nurturing, and supporting students as they learn and grow into the leaders and world-changers of today and tomorrow.
+
+We’re currently searching for a highly motivated and experienced Applications Developer to join our Student Affairs IT team in Blacksburg, VA to help us in our mission. So, if you have a proven track record of delivering robust and scalable web-based applications and are excited to work on projects that will have a direct impact on our organization, employees, and students, please keep reading.
+
+Here’s what you need to know about the role:
+
+You’ll be designing, developing, and maintaining high-quality, scalable, and secure web-based applications using LAMP stack (Linux, Apache, MySQL-MariaDB, and PHP).
+You’ll be collaborating with cross-functional teams to understand business requirements and provide technical solutions.
+You’ll be responsible for ensuring the performance, quality, and responsiveness of applications.
+You’ll be working with database technologies such as MySQL-MariaDB, focusing on performance, data integrity and security.
+You’ll be writing, maintaining, and documenting technical specifications, and system and database designs.
+You’ll be expected to stay up to date with emerging trends and technologies in web development. The ideal candidate should have a strong desire to continuously learn and grow professionally and be passionate about technology and its application in real-world business problems.
+
+Here's what you need to know about working at Virginia Tech:
+
+THE UNIVERSITY: Virginia Tech as an employer is committed to developing well-rounded employees who are active members of the university community as well as the community at-large. From comprehensive insurance plans to tuition assistance, Virginia Tech offers employees a variety of benefits and perks to help team members build a fuller and more balanced life.
+THE DIVISION: For our students and ourselves, the Division of Student Affairs believes that changing the world requires courageous leadership and commitment to curiosity, integrity, civility, and service to others. Our culture is defined by a commitment to our Aspirations for Student Learning.
+THE TEAM: The IT team in Student Affairs is a talented and dynamic group of excellent problem-solvers, who are results driven and understand the importance of collaboration.
+
+Required Qualifications
+
+Bachelor’s degree from an accredited institution in Technology, Computer Science, Management Information Systems, or a related field
+At least 3 years of professional experience in software development
+In-depth knowledge of the LAMP stack (Linux, Apache, MySQL-MariaDB, and PHP), as well as HTML, CSS, Java, and JavaScript
+Demonstrated a strong understanding of data security and best practices for balancing availability with security
+Strong communication and interpersonal skills
+Experience with managing complex projects, analyzing data, troubleshooting application-related issues, and supporting business requests
+Experience in developing small to medium-sized web applications
+Possess a working understanding of XML and JSON formatting, database administration using MySQL or MariaDB
+Proven ability to work well under pressure
+Proven history to work successfully independently as well as part of a team
+
+Preferred Qualifications
+
+Master’s degree from an accredited institution in Computer Science, Information Technology, or a related field
+5+ years of experience in application development
+Experience in process automation using O365 services, specifically with Power Automate and Power Apps
+Experience in database design, data modeling, and data migration
+Experience in developing solutions for the cloud, specifically with Microsoft Azure
+Experience in automating business processes and improving efficiency through technology
+Familiarity with code version control systems such as Git and understanding of software development methodologies such as Agile, Scrum
+
+Pay Band
+
+5
+
+Appointment Type
+
+Regular
+
+Salary Information
+
+$54,000-$64,000 commensurate upon experience
+
+Review Date
+
+3-10-2023
+
+Additional Information
+
+The successful candidate will be required to have a criminal conviction check.
+
+About Virginia Tech
+
+Dedicated to its motto, Ut Prosim (That I May Serve), Virginia Tech pushes the boundaries of knowledge by taking a hands-on, transdisciplinary approach to preparing scholars to be leaders and problem-solvers. A comprehensive land-grant institution that enhances the quality of life in Virginia and throughout the world, Virginia Tech is an inclusive community dedicated to knowledge, discovery, and creativity. The university offers more than 280 majors to a diverse enrollment of more than 36,000 undergraduate, graduate, and professional students in eight undergraduate colleges , a school of medicine , a veterinary medicine college, Graduate School , and Honors College . The university has a significant presence across Virginia, including the Innovation Campus in Northern Virginia; the Health Sciences and Technology Campus in Roanoke; sites in Newport News and Richmond; and numerous Extension offices and research centers . A leading global research institution, Virginia Tech conducts more than $500 million in research annually.
+
+Virginia Tech does not discriminate against employees, students, or applicants on the basis of age, color, disability, sex (including pregnancy), gender, gender identity, gender expression, genetic information, national origin, political affiliation, race, religion, sexual orientation, or military status, or otherwise discriminate against employees or applicants who inquire about, discuss, or disclose their compensation or the compensation of other employees or applicants, or on any other basis protected by law.
+
+If you are an individual with a disability and desire accommodation, please contact Stacey Duncan at staceyd@vt.edu during regular business hours at least 10 business days prior to the event.
+
+About Student Affairs
+
+Student Affairs at Virginia Tech fosters a community where each student creates a customized experience to meet their goals. Building on our motto of Ut Prosim (that I may serve), Virginia Tech is dedicated to serving in the spirit of community, diversity, and excellence . We seek candidates who adopt and practice our Principles of Community , which are fundamental to our ongoing efforts to increase access and inclusion and to create a community that nurtures learning and growth. We are actively seeking people to join our community and help us prepare leaders for the world. Our people in Student Affairs are committed to student well-being and assuring that all students ExperienceVT by demonstrating, supporting, and operationalizing our Aspirations for Student Learning . If you are someone dedicated to ensuring student success, then we want you to consider being a part of our team!
+Mostrar más

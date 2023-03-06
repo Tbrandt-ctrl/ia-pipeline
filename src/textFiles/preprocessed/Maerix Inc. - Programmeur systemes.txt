@@ -1,0 +1,21 @@
+Voici un poste d'emploi, si le texte est en anglais traduit le en français (si une partie du texte est déjà en français, efface la partie anglaise). Si le texte était déjà en français corrige seulement les erreurs d'encodage et enlève les parties en anglais. 
+
+Nous recherchons un programmeur expérimenté pour rejoindre notre équipe de développement et participer à nos projets. Peut-être que ce n'est pas aussi sexy que le développement d'un jeu vidéo, mais sache que ton travail pourrait prévenir une fuite d'hydrocarbures en Norvège ou sauver la vie d'un travailleur québécois.
+
+Exigences spécifiques, compétences requises et conditions de travail :
+- Diplôme d'études collégiales, baccalauréat ou expérience équivalente en programmation
+- Minimum 5 ans d'expérience en architecture logicielle (niveau senior)
+- Emploi permanent à temps plein, 37,5 heures par semaine du lundi au vendredi
+- Savoir faire du bon café quand tu viens au bureau (sinon tu peux rester chez toi en télétravail !)
+- Date d'entrée en poste : dès que possible
+
+Ici chez Maerix :
+- Pas de méthode AGILE, nous préférons la méthode à Simon !
+- Pas de stress
+- Pas d'horodateur
+- Pas de hiérarchie, que des humains
+- Des humains qui construisent leur avenir en équipe, une ligne de code à la fois (OK si tu veux en faire plusieurs, le patron ne va pas t'en empêcher !)
+
+Enfin (c'est notre dernière chance de te convaincre !), tu ne peux pas rester indifférent à notre simplicité, notre efficacité et notre ingéniosité légendaire. Fais donc comme nos 350 clients, dont P&G, Volvo, SC Johnson, GE, Bridgestone, L'Oréal, la SAQ (ici, je me demande encore qui est le client dans cette relation d'affaires !?!) et viens écrire ton chapitre dans notre merveilleuse histoire. Envoie-nous ton CV !
+
+À tout de suite !

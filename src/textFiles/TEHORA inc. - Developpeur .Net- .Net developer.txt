@@ -1,0 +1,74 @@
+TEHORA est presentement à la recherche d’un collaborateur .Net Programmeur-Analyste, ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses competences au sein d’une equipe polyvalente.
+
+Principales Responsabilites
+
+Conceptualiser, documenter, developper, deployer et supporter de nouvelles applications-KPI-rapports (SQL) en utilisant un framework web (Logi) ;
+Conceptualiser, documenter, developper, deployer et supporter de nouvelles applications-DLL en .NET (C#, ASP) et Stored Proc. sur SQL Server
+Conceptualiser, documenter, developper, deployer et supporter de nouveaux mappings d’interfaces EDI avec divers clients-partenaires ;
+Conceptualiser, documenter, developper, deployer et supporter de nouvelles Bases de donnees et maintenir celles existantes (SQL Server, DB2-400) ;
+Fournir des estimations en termes d’effort et de coûts pour la planification des projets TI ;
+Creer et executer des scenarii de tests d’acceptation client ;
+Fournir du support-resolution de problemes ;
+Bien documenter le fonctionnel et la technique des travaux livres ;
+Bien comprendre les differentes sources de donnees ;
+
+
+Requirements
+
+Éducation:
+
+Baccalaureat en genie logiciel, informatique ou equivalent
+
+Annees d'experience de travail:
+
+3+ ans d'experience en programmation .Net
+
+Experience Professionnelle Et Qualifications
+
+Tres bonne connaissance de SQL (Microsoft SQL Server 2005-2008-2012)
+Maitrise de la programmation (SQL, C#)
+Capacite à comprendre, decrire, traduire et documenter les besoins des utilisateurs en langage informatique (analyse fonctionnelle)
+Connaissances en Procedures stockees et Performance Tuning
+Forte capacite à travailler en equipe
+Excellent sens du detail et de la precision
+Autonome et polyvalent
+Flexibilite concernant l’horaire de travail pour supporter les echanges en cas de probleme
+Excellentes aptitudes de communication – bilinguisme atout important
+Experience avec un Framework WEB
+Connaissances AS400
+Connaissances EDI (format X12, EDIFACT, protocole AS2, VAN)
+
+
+Benefits
+
+TEHORA applique un programme d’acces à l’egalite et invite les femmes, les minorites visibles, les Autochtones et les personnes handicapees à presenter leur candidature.
+
+Lieu de travail
+
+Le lieu de travail est hybride: en tele-travail et sur site.
+
+Pourquoi se joindre à TEHORA ?
+
+TEHORA se distingue par sa culture d’entreprise, axee sur le bonheur de ses employes et la diversite. Chez TEHORA, chaque collaborateur est un membre important de l'equipe qui contribue à notre succes collectif. Nos membres ont la flexibilite requise pour avoir un equilibre entre le travail et leur vie privee, tout en menant une carriere enrichissante.
+
+Nous offrons un environnement de travail motivant. La diversite des projets, la grande autonomie et l’interaction directe avec les clients sont appreciees. Une telle proximite est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre equipe et les clients.
+
+Avantages
+
+Du teletravail et de la flexibilite pour s’adapter à vos obligations familiales
+Un programme d’assurance collective complete
+Un REER collectif avec une contribution de l’employeur
+Couverture d'assurance collective flexible
+Conges en cas de maladie et à l'occasion d'evenements familiaux
+Outils informatiques adaptes
+Espace de travail epanouissant et motivant.
+Initiatives sociales et environnementales
+Programme d’apprentissage en milieu de travail
+
+
+Salaire
+
+Le salaire sera calculer sur la base du taux horaire moyen correspondant à votre profil.
+
+******DOIT POUVOIR TRAVAILLER AU CANADA OU DANS LE FUSEAU HORAIRE DE MONTRÉAL******
+Show more

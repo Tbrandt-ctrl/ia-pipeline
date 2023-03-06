@@ -1,0 +1,41 @@
+Le titulaire du poste participera à l'amélioration et au développement d'une application Web et mobile en pleine expansion. Le candidat sera responsable d'analyser les nouveaux projets pour la plateforme et établir un plan de correspondance pour la conception des nouvelles fonctionnalités.
+
+Principales responsabilités
+
+Participer à toutes les étapes de conception et de développement d'une gamme de produits logiciels : Design, architecture, analyse et programmation;
+Développer de nouvelles fonctionnalités et assurer la maintenance des programmes en place;
+Veiller à la qualité des programmes et des services informatiques selon les standards, les normes et les procédures en vigueur;
+Concevoir et appliquer des solutions aux défaillances informatiques tout en perfectionnant les programmes;
+Documenter et effectuer les scénarios de tests assurant ainsi la qualité des livrables et maintenir à jour la documentation de suivi de projets;
+Prise en charge de projet concernant les besoins des utilisateurs, analyser et proposer des solutions qu'il développera par la suite conjointement avec les personnes concernées;
+
+Formation-Expérience-Certification
+
+BAC-DEC-AEC lié à la programmation Web.
+
+Connaissances
+
+Connaissances en PHP et MySQL;
+Développement Mobile.
+Environnement Linux.
+Une connaissance en C# .NET est un grand atout.
+
+Compétences et aptitudes requises
+
+Autonomie dans le travail : la personne doit être à l'aise d'apprendre par elle-même par l'intermédiaire de recherches;
+Capacité d'adaptation : Les projets peuvent changer rapidement et demandent une adaptation rapide afin de pouvoir bien opérer dans différents environnements;
+Prise en charge de projet : Le programmeur sera amené à prendre en compte les besoins des utilisateurs, les analyser et proposer des solutions qu'il développera par la suite conjointement avec les personnes concernées;
+Esprit d'équipe : Pouvoir travailler conjointement avec d'autres programmeurs et/ou utilisateurs dans le but de réaliser les projets selon les attentes;
+Communication : La personne doit être en mesure de communiquer avec les différents départements-intervenants d'un projet pour que tous soient au courant des développements et de l'avancement des projets. Il faut également être en mesure d'écrire des procédures et de créer des documents explicatifs clairs.
+
+Conditions de travail
+
+Environnement de travail de bureau;
+Possibilité de télétravail;
+Peut être appelé à faire de la route parmi nos différentes divisions.
+
+Expérience requise
+
+5 ans d'expérience ou plus
+
+Type d'emploi : Temps plein, Permanent

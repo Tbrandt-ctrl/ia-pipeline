@@ -1,0 +1,162 @@
+DevOps Team Lead
+
+
+
+
+Start Date: As soon as possible
+
+Type of position: permanent
+
+Location: remote
+
+Number of Positions: 1
+
+Language skills: Excellent communication skills in French and English.
+
+Perks: Work with cutting edge technology with a dynamic and innovative company. Excellent benefits, including employer contribution to group RRSP, paid personal days, flexible work schedule, dental and medical insurance, and more.
+
+
+
+
+Reporting to the Director of Operations and Special Projects, in this role you will be responsible for the management of the cloud environment, automation and information management.
+
+Therefore, you will be responsible for the management of the cloud environment, automated releases, and security.
+
+
+
+
+Principal Duties and Responsibilities:
+
+· Manage the deployment and updates of applications and services developed by the company, ensuring the reliability and efficiency of the process (responsible for release pipelines, CI-CD):
+
+o Ensure in a DevSecOps and Agile culture the creation of resources, application updates in the development, production, backup, etc. environments.;
+
+o Advise, guide and work with the existing software development team to plan and facilitate DevSecOps team releases.
+
+o Ensure that the necessary elements are in place to facilitate transitions to operational mode (monitoring, alerting, kb, etc.);
+
+o Regularly checking the status of the services under his responsibility.
+
+· Serve as responsible for the high availability of critical services and applications, including disaster recovery and business continuity for the company services and applications (regularly update and execute the disaster recovery plan)
+
+· Guarantee the implementation of policies, make recommendations, and implement procedures to ensure compliance with the Security Governance Framework.
+
+· Engage in incident management and assist in the identification and resolution of incidents and problems.
+
+· Establish and report on the various key performance indicators (KPIs) for availability, performance, and security of IT services under his-her responsibility.
+
+· Oversee the technologies under his responsibility and propose innovative solutions to meet the company needs.
+
+· Evaluate IT solutions, select products, draft policies, and procedures, write and-or validate needs analysis.
+
+· Manage various projects in accordance with the project office standards in force.
+
+
+
+
+Education:
+
+Bachelor’s degree in Computer Science, Computer Engineering, Software Engineering or equivalent.
+
+
+
+
+Required Skills:
+
+· 7+ years of DevOps, Cloud and-or Development experience, including demonstrated experience in team management.
+
+· Strong leadership skills and ability to bring a team together.
+
+· Good knowledge of DevOps-DevSecOps, Agile, Everything as Code, Cloud automation, etc.
+
+· Excellent knowledge of cloud computing (Microsoft Azure).
+
+· Good ability to analyze, identify solutions and respect scaling principles.
+
+· Knowledge of IT security.
+
+· Excellent communication skills in French and English, both verbal and written.
+
+· Advanced skills in Microsoft Office, JIRA, Confluence, and Powershell.
+
+
+
+
+Preferred skills:
+
+· Experience in the real estate sector
+
+· Microsoft Azure certifications
+
+
+
+
+Developeur DevOps
+
+
+
+
+Date de debut: Des que possible
+
+Type de poste: permanent
+
+Lieu: travail à distance
+
+Nombre de Positions: 1
+
+Competences linguistiques: Excellentes competences en communication en français et en anglais.
+
+Avantages: Travaillez avec une technologie de pointe avec une entreprise dynamique et innovante. Excellents benefices, incluant une contribution de l’employeur au REER collectif, des journees personnelles payees, horaire de travail flexible, assurance dentaire et soins medicaux, le teletravail et bien plus.
+
+
+
+
+Sous la responsabilite du directeur des operations et des projets speciaux, dans ce rele, vous serez responsable de la gestion de l'environnement cloud, de l'automatisation et de la gestion de l'information. Par consequent, vous serez responsable de la gestion de l'environnement en nuage, des versions automatisees et de la securite.
+
+
+
+
+Principales tâches et responsabilites :
+
+Gerer le deploiement et les mises à jour des applications et des services developpes par l'entreprise, en assurant la fiabilite et l'efficacite du processus (responsable des pipelines de diffusion, CI-CD) :
+Assurer au sein d'une culture DevSecOps et Agile la creation de ressources, la mise à jour des applications dans les environnements de developpement, de production, de sauvegarde, etc
+Conseiller, guider et travailler avec l'equipe de developpement logiciel existante pour planifier et faciliter les releases de l'equipe DevSecOps
+S'assurer que les elements necessaires sont en place pour faciliter les transitions vers le mode operationnel (surveillance, alerte, kb, etc.)
+Verifier regulierement l'etat des services sous sa responsabilite.
+Assumer la responsabilite de la haute disponibilite des services et applications critiques, y compris la reprise apres sinistre et la continuite des activites pour les services et applications de l'entreprise (mettre à jour et executer regulierement le plan de reprise apres sinistre).
+Garantir la mise en œuvre des politiques, faire des recommandations et mettre en œuvre des procedures pour assurer la conformite avec le cadre de gouvernance de la securite.
+S'engager dans la gestion des incidents et aider à l'identification et à la resolution des incidents et des problemes.
+Établir et rendre compte des differents indicateurs cles de performance (ICP) pour la disponibilite, la performance et la securite des services informatiques sous sa responsabilite.
+Superviser les technologies sous sa responsabilite et proposer des solutions innovantes pour repondre aux besoins de l'entreprise.
+Évaluer les solutions informatiques, selectionner les produits, rediger les politiques et les procedures, rediger et-ou valider l'analyse des besoins.
+Gerer divers projets selon les normes du bureau de projet en vigueur.
+
+
+
+
+Éducation:
+
+AEC ou DEC en technologie de l'information ou dans un domaine connexe.
+
+
+
+
+Competences requises:
+
+7+ ans d'experience en DevOps, Cloud et-ou developpement, y compris une experience averee en gestion d'equipe.
+Solides competences en leadership et capacite à regrouper une equipe.
+Bonne connaissance de DevOps-DevSecOps, Agile, Everything as Code, automatisation du cloud, etc.
+Excellente connaissance du cloud computing (Microsoft Azure).
+Bonne capacite à analyser, à identifier des solutions et à respecter les principes de mise à l'echelle.
+Connaissance de la securite informatique.
+Excellentes competences en communication en français et en anglais, tant à l'oral qu'à l'ecrit.
+Competences avancees en Microsoft Office, JIRA, Confluence et PowerShell.
+
+
+
+
+Competences preferees :
+
+Experience dans le secteur de l'immobilier
+Certifications Microsoft Azure
+Show more

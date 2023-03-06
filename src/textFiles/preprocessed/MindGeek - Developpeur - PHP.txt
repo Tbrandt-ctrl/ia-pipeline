@@ -1,0 +1,28 @@
+Nous recherchons des Développeurs back-end PHP qui participent à toutes les étapes du cycle de vie du développement Web.
+
+Ce que vous ferez :
+
+Élaborer, mettre en œuvre et maintenir des applications back-end orientées objet avec PHP et MySQL 
+Aider à la production et au lancement de sites 
+Effectuer la vérification du code et déterminer les recommandations pour l'adaptation 
+Analyser les processus afin d'apporter des solutions 
+Encadrer des Développeurs plus juniors
+
+
+Ce dont vous aurez besoin pour réussir:
+
+Compétences essentielles :
+
+Baccalauréat en informatique-ingénierie ou expérience professionnelle connexe équivalente de 5 ans 
+Excellente connaissance des technologies Web en PHP et de base de données
+Connaissances de base en HTML-JS-CSS
+
+
+Atouts :
+
+Expérience dans le traitement de sites Web à grande échelle 
+Connaissance de UNIX et de NGINX
+
+En tant qu'employeur souscrivant au principe de l'égalité d'accès à l'emploi, notre entreprise célèbre la diversité et s'engage à créer un environnement inclusif pour tous ses employés.
+
+Ce poste peut vous exposer à du contenu pour adultes.

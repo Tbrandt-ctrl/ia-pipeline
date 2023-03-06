@@ -1,0 +1,23 @@
+Nous sommes à la recherche d'un(e) informaticien(ne) industriel - Développeur(se) MES pour s'occuper des systèmes d'informations servant à la production, au contrôle de performance et à la maintenance des équipements industriels. Il/elle devra diagnostiquer les problèmes de fonctionnement et apporter des solutions.
+
+Principales fonctions :
+- Faire des rapports de production;
+- Connaître, diagnostiquer et corriger les systèmes informatiques industriels;
+- Diagnostiquer les problèmes d’intégrité des données et proposer des améliorations;
+- Développer et supporter les sections de programmes PLC utilisées dans l’intégration des systèmes d’informations comme le MES , avec le personnel des équipes d'automation;
+- Former et supporter les utilisateurs dans l’usine (techniciens, contremaîtres, qualité, etc.) dans l’utilisation et la configuration de nos systèmes MES et HMI par exemple;
+- Tester les configurations, modifications ou les nouvelles applications, outils, développés par l’équipe d’ingénierie;
+- Créer les modèles de rapports de production relationnels (SQL) et dimensionnels (MDX, Cube) dans un contexte de réutilisation;
+- Support aux techniciens d'automation;
+- Participer et collaborer avec l’équipe d’ingénierie dans les développements et le choix de nouveaux processus et systèmes ou dans l’amélioration de ceux existants;
+- Promouvoir l’utilisation des systèmes en place.
+
+Description des compétences :
+- Connaissance de C#, SQL;
+- Connaissance des PLC est un atout;
+- Avoir déjà travaillé avec un MES est un atout.
+
+Niveau d’études et/ou expérience :
+- Bachelier(ère) en informatique ou Technicien en Automation.
+
+Type d’emploi : Temps Plein, Permanent

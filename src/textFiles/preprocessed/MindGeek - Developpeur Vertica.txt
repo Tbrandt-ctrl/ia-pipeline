@@ -1,0 +1,29 @@
+En tant que Développeur d'Architecture de Données, vous soutiendrez l'une des plus grandes plateformes publicitaires du secteur du divertissement en ligne, qui diffuse six milliards de publicités par jour. Vous vous joindrez à une communauté de développeurs réunis par leur passion pour l'architecture de données, la créativité et l'exploration des dernières tendances technologiques. Vous interagirez avec des développeurs de logiciels et de méthodes d'assurance qualité afin de vous assurer que notre vision cadre avec la réussite de nos projets dans un environnement exigeant mais gratifiant. Ce poste s'adresse à des développeurs PHP expérimentés désirant faire le saut du côté base de données et à des professionnels en base de données souhaitant apprendre ou renforcer leurs compétences sur Vertica !
+
+Ce que vous ferez :
+
+Concevoir l'architecture des tableaux et enquêter sur les problèmes liés aux données ;
+Surveiller et superviser la performance des algorithmes ;
+Rédiger, tenir à jour et optimiser les requêtes et les procédures conservées ;
+Redessiner la structure des données et des tableaux pour en assurer la performance et l'optimisation ;
+Agir en tant que spécialiste des bases de données auprès de l'équipe de développement Web.
+
+Ce dont vous aurez besoin pour réussir :
+
+Compétences essentielles :
+
+Diplôme universitaire en sciences - génie informatique ou dans un domaine connexe ou expérience pertinente ;
+Au moins 4 ans d'expérience pratique en architecture de données sur MySQL ;
+Expérience en programmation ou volonté d'apprendre des langages Web ;
+Excellentes capacités d'analyse, de résolution de problèmes et de prise de décision ;
+Compréhension de la complexité, de l'extensibilité et de la sécurité des calculs et des données.
+
+Atouts :
+
+Connaissance pratique des méthodologies de développement Agile de préférence ;
+Connaissance de Vertica ;
+Expérience de la programmation en PHP et des plateformes de données à grande échelle.
+
+En tant qu'employeur souscrivant au principe de l'égalité d'accès à l'emploi, notre entreprise célèbre la diversité et s'engage à créer un environnement inclusif pour tous ses employés.
+
+Ce poste peut vous exposer à du contenu pour adultes.

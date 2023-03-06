@@ -1,0 +1,80 @@
+Company Description
+
+Points is a trusted partner to the world’s leading loyalty programs, leveraging its unique Loyalty Commerce Platform and analytic expertise to build, power, and grow a network of ways members can get and use their favourite loyalty currency.
+
+Our platform combines insights, technology, and resources to make the movement of loyalty currency simpler and more intelligent for nearly 60 reward programs worldwide. Founded in 2000, Points is headquartered in Toronto with teams operating around the globe. Points was acquired by Plusgrade in 2022, making the combined companies the global leaders in ancillary revenue for the travel industry.
+
+Job Description
+
+English version below
+
+
+Rôle
+
+Points recherche un developpeur web (specialiste produit) pour rejoindre notre equipe de services de livraison pour un poste permanent.
+
+Nous sommes une organisation de premier plan qui redefinit continuellement la façon dont les consommateurs interagissent avec leurs programmes de fidelite. Nous travaillons avec les plus grands programmes de recompenses aeriennes, hôtelières, financières et de vente au detail au monde pour relever des defis complexes et proposer des solutions de commerce electronique innovantes. Si vous souhaitez en faire partie, nous aimerions avoir de vos nouvelles.
+
+Vous ferez partie d'une equipe qui redefinit continuellement la façon dont les consommateurs obtiennent plus de valeur de leurs programmes de fidelite. Vous êtes une personne intelligente et enthousiaste avec un interêt pour travailler avec les programmes de fidelite les plus importants et les plus reussis au monde.
+
+En tant que specialiste produit, vous jouerez un rôle cle dans les mises en œuvre nouvelles et existantes de Points Loyalty Commerce Solutions. Avec votre equipe, vous aiderez les programmes de fidelite du monde entier en configurant, personnalisant et deployant de nouvelles solutions en leur nom. En tirant parti de votre attention exceptionnelle aux details, � la qualite et � vos competences en communication, vous identifierez, implementerez, testerez et deploierez ces solutions.
+
+Relevant du responsable de l'equipe Loyalty Commerce Solutions, vous serez responsable des tâches suivantes:
+
+Implementer de nouvelles solutions pour nos partenaires de programmes de fidelite en configurant et personnalisant les plateformes et produits de Points.
+Effectuer une configuration basee sur le Web en utilisant HTML, CSS, JavaScript, React et SQL.
+Fournir une assistance de support technique et de depannage pour les solutions de garantie.
+Collaborer et participer aux discussions d'integration technique avec les partenaires de programmes de fidelite pour analyser les exigences d'integration et de service Web.
+Recueillir les exigences de solution en travaillant directement avec nos partenaires de programmes de fidelite et les intervenants internes.
+Fournir une supervision de gestion de projet aux mises en œuvre plus petites - en veillant � ce que la solution soit construite conformement � la portee et au calendrier convenus.
+S'assurer que les solutions que nous deployons sont de la plus haute qualite en utilisant des methodologies de QA appropriees et en championnant la resolution des problèmes.
+Communiquer efficacement, � travers de nombreux canaux, votre progression avec votre equipe et les parties prenantes.
+
+
+Points is looking for a Web Developer (Product Specialist) to join our Delivery Services team on a permanent basis.
+
+We’re an industry-leading organization that is continuously reshaping how consumers interact with their loyalty programs. We work with the world’s largest airline, hotel, financial, and retail rewards programs, to tackle complex challenges and come up with innovative e-commerce solutions. If you’d like to be a part of it, we’d love to hear from you.
+
+You will be part of a team that is continuously reshaping how consumers get more value from their loyalty programs. You are a smart, enthusiastic person with an interest in working with the world’s largest and most successful loyalty programs.
+
+As a Product Specialist, you will play a key role in new and existing implementations of Points Loyalty Commerce Solutions. Together with your team, you will help the world’s loyalty programs by configuring, customizing and deploying new solutions on their behalf. Leveraging your outstanding attention to detail, quality and communication skills you will identify, implement, test and deploy these solutions.
+
+Reporting to the Team Lead, Loyalty Commerce Solutions, you will be responsible for the following:
+
+Implementing new solutions for our Loyalty Program Partners by configuring and customizing Points platforms and products.
+Performing Web-based configuration using HTML, CSS, JavaScript, React, and SQL.
+Providing technical support and troubleshooting assistance for warranty solutions.
+Collaborating and participating in technical integration discussions with loyalty program partners to analyze integration and web service requirements.
+Gathering solution requirements by working directly with our Loyalty Program Partners & Internal Stakeholders.
+Providing project management oversight to smaller implementations - ensuring the solution is built according to the scope and timeline agreed upon.
+Ensuring the solutions we deploy are of the highest quality using appropriate QA methodologies and champion issue resolution.
+Effectively communicating, across many channels, your progress with your team & stakeholders.
+
+
+Qualifications
+
+Experience en programmation HTML, CSS et JavaScript sur des plateformes multiplateformes, des navigateurs et des appareils mobiles.
+Comprehension solide du design responsive, des normes web et des meilleures pratiques UI-UX.
+Experience dans les normes et technologies de services Web (par exemple, XML, SOAP, WSDL, REST, JSON, etc.).
+2 ans ou plus d'experience dans un rôle d'assurance qualite-developpement.
+Experience avec les methodologies de l'assurance qualite.
+L'experience dans les outils de test automatises est un atout, par exemple, Selenium.
+Experience dans la collecte des exigences fonctionnelles et la preparation des histoires d'utilisation.
+Connaissance des systèmes de contrôle de version comme GitHub.
+L'experience en developpement de logiciels est consideree comme un atout.
+Experience dans un environnement de solution geree ou de SaaS.
+Experience anterieure dans la construction de modèles d'e-mail.
+Confortable de travailler dans un environnement Agile.
+Experienced HTML, CSS and JavaScript programming in cross-platform, browser and mobile device platforms
+Solid understanding of responsive design, web standards, UI-UX best practices
+Experience in Web Services standards and technologies (e.g. XML, SOAP, WSDL, REST, JSON etc.)
+2+ Years’ experience in a quality assurance-development role
+Experience with QA methodologies
+Experience in automated testing tools is an asset e.g. Selenium
+Experience in gathering functional requirements and preparing use case stories
+Knowledge of version control systems like GitHub
+Software development experience is considered an asset
+Experience in a managed solution or SaaS environment
+Previous experience in building email templates
+Comfortable working in an Agile environment
+Show moreلمزيد

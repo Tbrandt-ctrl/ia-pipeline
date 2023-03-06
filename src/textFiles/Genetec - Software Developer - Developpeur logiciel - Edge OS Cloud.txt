@@ -1,0 +1,121 @@
+The team:
+
+The Cloud Edge OS team is responsible for delivering a cloud-managed, zero-touch edge appliance to enable the frictionless delivery, management, and monitoring of Genetec applications at our customers' sites.
+
+You could become a key part of an enthusiastic and friendly team of software developers aiming to create a reliable, secure, and modern cloud platform to support distributed physical appliances in the field.
+
+If you are naturally curious, enjoy having exposure to a large variety of different technologies, interested in understanding how things work under-the-hood and have a knack for troubleshooting complex systems anomalies – we'd love to talk with you!
+
+What your day will look like:
+
+The position is code intensive and specializes in software development using modern technologies. The candidate will work in a fast-paced environment, joining a team of talented and enthusiastic engineers.
+
+Key responsibilities include:
+
+Consults with the team leader and tech leader for high level direction and objectives
+Participate actively in the different phases of project development (Analysis, Development, Documentation, Tests, Release)
+Be autonomous in the analysis, development and tests of complex features
+Implement the requirements and functionalities and ensure that they are useful, and representative of the end user needs
+Participate in architectural and design discussions and ensures that the team's objectives are met: Quality, security, good design practices and automation
+Conduct code reviews in order to increase the overall skill level of the team and the quality of the product
+Follow and apply the team’s processes and activities revolving around task management and acceptance criteria
+Raise any potential problems or risks as soon as they are detected
+
+
+About you:
+Must be functional in French and English
+Solid analytical and troubleshooting skills
+Able to work with a high level of autonomy
+Ability to multitask, work iteratively and handle shifting priorities
+Technical experience with:
+C#-.NET
+Kubernetes
+Docker
+Dev Ops
+Microservice Architecture
+
+Great if you have:
+Technical experience with:
+Web (REACT, TypeScript, etc.)
+Azure
+Visual Studio-GIT
+Testing (unit, integration, contract)
+SQL
+
+Let’s talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L’equipe :
+
+L’equipe de Edge OS Cloud offre un appareil de pointe gere par le nuage et sans contact permettant la livraison, la gestion et la surveillance des applications Genetec chez nos clients.
+
+Vous pourriez jouer un rôle-cle au sein d’une equipe enthousiaste et sympathique de developpeurs logiciel qui visent � creer une plateforme cloud fiable, securisee et moderne dans le but de supporter une vaste quantite d’appareils physiques chez nos clients.
+
+Si vous être curieux, aimez être expose � une grande variete de technologies, avec de l’interêt pour comprendre comment les choses fonctionnent sous le capot et que vous avez un talent pour resoudre des anomalies de systèmes complexes, nous aimerions vous rencontrer!
+
+À quoi ressemblera votre journee :
+
+Les tâches liees au poste exigent beaucoup de developpement et des connaissances specialisees principalement sur des technologies modernes. Le candidat travaillera dans un environnement dynamique au sein d’une equipe d’ingenieurs competents et enthousiastes.
+
+Les responsabilites cles comprennent :
+
+Faire appel au chef d’equipe et responsable technique pour obtenir des directives et des objectifs emanant d’un haut niveau
+Participer activement dans l’analyse, la conception et les differentes phases du developpement des differents projets
+Être autonome dans l’analyse, le code et les tests des tâches complexes
+Implementer les requis et fonctionnalites developpees par l’equipe pour s’assurer qu’ils sont utiles et representatifs aux besoins des clients finaux
+Participer dans les discussions portant sur la conception et l’architecture et veiller � l’atteinte des objectifs techniques de l’equipe : qualite, securite, pratiques exemplaires de conception, automatisation et service de la dette technique
+Faire des revues de code � fin d’ameliorer les connaissances techniques globales de l’equipe et la qualite du produit
+Suivre et appliquer les processus autour de la gestion des tâches et des critères d’acceptation
+Soulever les problèmes et risques rapidement et efficacement dès leur decouverte
+
+
+Votre profil :
+Être fonctionnel en français et en anglais
+Bonne capacite d’analyse et de resolution de problèmes
+Capacite � travailler en grande autonomie
+Capacite � gerer plusieurs tâches simultanement, � adopter une approche par iterations et � composer avec des priorites changeantes
+Connaissances techniques avec :
+C#-.NET
+Kubernetes
+Docker
+Dev Ops
+Architecture de microservice
+
+Encore mieux si vous possedez ces atouts :
+
+Connaissances techniques avec :
+
+Web (REACT, TypeScript, etc.)
+Azure
+Visual Studio-GIT
+Tests (unitaires, integration, contrat)
+SQL
+
+
+Voil� ce que nous offrons !
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes � notre incroyable Bistro (Les Cordons Bleus)
+Équilibre entre vie professionnelle et vie privee grâce � un horaire de travail flexible
+Cafe gratuit � volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place
+
+
+Si vous souhaitez savoir � quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise: Culture � Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises � soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+Show more

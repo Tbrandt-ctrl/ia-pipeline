@@ -1,0 +1,32 @@
+En tant que developpeur PHP, vous aurez l'occasion de mettre sur pied certains des sites Web les plus visites au monde, de travailler avec des megadonnees et de repousser vos limites en vous familiarisant avec de nouvelles technologies et en collaborant avec certains des developpeurs les plus talentueux.
+
+Ce que vous ferez :
+
+Concevoir et tenir � jour des microservices, des API et des applications bâties autour du langage PHP et d'un cadre Symfony.
+Exploiter le plein potentiel de diverses technologies dorsales afin de tirer parti du traitement en pipeline en temps reel de megadonnees securisees.
+Travailler avec des caches, des files d'attente de messages, des bases de donnees et divers systèmes internes et externes.
+Assimiler les connaissances sur les composants et les domaines en guidant vos pairs au moyen de demandes de retrait et de revues de code. Participer � la propagation de la culture, des processus et des valeurs de developpement partages par l'equipe.
+
+
+Ce dont vous aurez besoin pour reussir :
+
+Competences essentielles :
+
+Au moins 3 ans d'experience professionnelle connexe en tant que developpeur de logiciels dorsaux
+Baccalaureat en informatique-en ingenierie (atout)
+Excellente connaissance d'un langage Web (PHP, Java Web, Python, GO, etc.)
+Comprehension de la complexite, de l'extensibilite et de la securite des calculs et des donnees
+
+
+Atouts :
+
+Experience du langage PHP et d'un cadre (Lumen, Yii, Laravel, Symfony, etc.)
+Experience avec Docker, ELK, RabbitMQ, Redis et GitLabCI
+Connaissance approfondie des technologies de base de donnees permettant de faire evoluer les sites Web � fort volume (Redis, Memcached)
+Experience de la gestion de sites Web de grande envergure recevant des millions de visites par jour
+
+
+En tant qu'employeur souscrivant au principe de l'egalite d'accès � l'emploi, notre entreprise celèbre la diversite et s'engage � creer un environnement inclusif pour tous ses employes.
+
+Ce poste peut vous exposer � du contenu pour adultes.
+Show moreلمزيد

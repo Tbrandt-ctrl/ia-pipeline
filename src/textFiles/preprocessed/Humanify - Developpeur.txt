@@ -1,0 +1,36 @@
+Aujourd’hui, nous avons une place pour celles et ceux qui ont un goût prononcé pour penser des produits exceptionnels, pour assurer le bon déroulement des opérations, pour mettre leur ingéniosité au service de leur équipe, en plus de contribuer à valoriser leur expertise et développer des pratiques uniques!
+
+Alors n’attends plus et rejoins-nous! Tu y rencontreras des ambitieux·ses et des passionné·es du monde du divertissement!
+
+Ta mission
+
+Être responsable des déploiements à travers l’outil de release management;
+Effectuer les activités de développement en respectant les requis d’affaire, les normes de développement et les orientations d’architecture;
+Être axé sur l’automatisation des tâches répétitives (automatisation de pipeline ex: CI, CD);
+Utiliser au mieux toutes les capacités de communication et de rétroaction de notre outil de planification agile (Azure DevOps);
+Assurer la maintenance et le support du parc des applications maison;
+Contribuer dans la communauté de Développeurs (Partage de connaissance, Accompagnement, Wiki, framework et espace de collaboration);
+Animer et contribuer au wiki et à l’espace de collaboration pour les Développeurs;
+Contribuer à l’évolution de la plateforme Cloud de la compagnie à travers les exigences des projets et autres initiatives de développement;
+Participer aux activités de revue de code;
+Participer au développement de notre plateforme Cloud, sécurité, performance, enjeux technologiques, solutions de contournement quand Technologie pas suffisante ou en problème;
+Travailler avec l’équipe de données dans l’ensemble des projets pour uniformiser la définition des modèles de données et l’échange des données;
+Travailler avec l’équipe d’architecture (interne et Microsoft) pour faire évoluer nos plateformes.
+
+Compétences
+
+Minimum de 5 ans d'expérience dans le domaine du développement et intégration applicatif;
+DEC ou Baccalauréat ou l'équivalent en informatique concentration Développement -Intégration Web ou dans un domaine connexe;
+Maîtriser l'outil de contrôle de code source Git: branches, pull requests, rebase;
+Connaissance de la plateforme Microsoft en général, des solutions Web, Plateforme .Net 4.5 et plus, ASP.Net, WebApi, Visual Studio- VSCode, SQL;
+Maîtrise de C# et Entity Framework;
+Maîtrise de javascript ou typescript (expérience significative en développement React souhaitée);
+Être à l'aise avec les principes d'architecture REST, de code asynchrone, l’Inversion de Contrôle, le protocole HTTP et le pipeline OWIN;
+Connaissances de Microsoft Azure, ressources d’intégration (Service Bus, Logic Apps, Function Apps);
+Être à l'affût des innovations et des technologies émergentes en matière du Web;
+Langues: français et anglais;
+Habileté à travailler dans un contexte Agile qui évolue;
+Esprit d’équipe et habiletés relationnelles pour influencer les autres de manière efficace et constructive vers l'atteinte des objectifs fixes;
+Capacité à travailler dans un environnement de développement itératif très dynamique et axé sur la satisfaction du client et les livraisons régulières.
+
+Avantages

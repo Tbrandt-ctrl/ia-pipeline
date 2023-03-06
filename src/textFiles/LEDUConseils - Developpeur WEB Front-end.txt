@@ -1,0 +1,20 @@
+Notre client developpe une solution novatrice dans le domaine financier. Sa croissance exige le recrutement plusieurs Developpeurs WEB (HTML, CSS, JavaScript) qui desirent « faire la difference ».
+
+Fonctions
+
+Contribuer à toutes les phases du cycle de developpement, du processus creatif au design et à la livraison de la solution.
+Developper du code simple d’entretien, robuste, secure et bien teste.
+Appliquer les meilleures pratiques en matiere de developpement (integration continue, Scrum, etc.).
+Participer, avec les membres de l’equipe, à la resolution de problemes complexes.
+Assurer le soutien de l’application lorsque requis.
+
+Competences
+
+Baccalaureat en informatique ou dans tout autre domaine connexe
+3 annees d’experience en developpement de solutions WEB Front-end
+Excellente connaissance de React, Vue ou de tout autre outil « front-end » JS
+Experience avec JavaScript, Ajax, Webpack, HTML et CSS
+Experience de developpement dans un environnement DevOps
+Passion pour le code simple, propre et efficient
+Bilinguisme souhaite
+Daha fazla göster

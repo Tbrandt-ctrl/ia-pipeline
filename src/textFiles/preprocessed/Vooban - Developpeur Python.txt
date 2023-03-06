@@ -1,0 +1,40 @@
+Si ton expertise en programmation était la seule chose qui t'empêchait de prévenir une catastrophe environnementale, de réduire le gaspillage alimentaire ou d'accélérer l'adoption des voitures autonomes ?
+
+En tant que développeur Python, tu concevras des architectures logicielles, en plus de t'assurer de la maintenabilité du code à long terme pour l'ensemble des projets en intelligence artificielle. Tu auras à coder les API qui permettent l'utilisation des algorithmes et des modèles d'IA développés par l'équipe. Tu devras également travailler en étroite collaboration avec différentes équipes de développement afin d'automatiser le déploiement des solutions et résoudre des problèmes techniques à l'interne.
+
+On recherche des personnes méthodiques avec de bonnes connaissances en IA et une expérience accrue en Python, en architecture logicielle, en cloud et en réseautique. Si tu es un amateur de défis et d'environnements stimulants, on a une place pour toi !
+
+Ce que tu feras au quotidien :
+
+- Développer l'architecture logicielle en début de projet permettant une bonne maintenabilité du code, qui sera en partie développé par les AI scientists.
+- S'assurer de la maintenabilité du code à long terme pour l'ensemble de projets.
+- Code review et être responsable de l'application des bonnes pratiques et de les instaurer.
+- Coder les API qui permettent l'utilisation des algorithmes et modèles AI développés par les AI scientists.
+- Tâches DevOps, conteneurisation des environnements de production et développement. Mettre en place les pipelines CI-CD et tests.
+- Déploiement des solutions dans les infrastructures on premise ou cloud (Azure, AWS, GCP).
+- S'assurer de la couverture du code par des tests unitaires et d'intégrations.
+- Faire le transfert des connaissances technologiques vers les clients en fin de projet et collaboration avec les AI Scientists.
+- Participer aux meetings clients pour comprendre leur environnement de travail et leurs enjeux technologiques.
+- Participer à la veille technologique et mettre à jour les stacks en continue.
+- Procéder à de l'optimisation des coûts, etc.
+- Assurer la fiabilité et la disponibilité des systèmes ainsi que la sécurité de l'infrastructure.
+- Travailler en étroite collaboration avec différentes équipes afin d'automatiser le déploiement et résoudre des problèmes techniques.
+- Effectuer de la configuration management. 
+
+Les forces que nous aimerions te voir apporter à l'équipe :
+
+- Expérience senior en Python.
+- Expérience en architecture logicielle.
+- Expérience en Linux, ligne de commande et réseautique.
+- Expérience en CI-CD.
+- Expérience avec les bases de données (SQL, NoSQL, etc.).
+- Expérience Kubernetes (un atout).
+- Certifications cloud (un atout).
+- Connaissance en AI, mathématique et algorithmique (un atout).
+- Bilingue (un atout).
+
+En plus de faire partie d'une équipe trippante et de profiter d'une super vibe, chez Vooban :
+
+✅ Tu es maître de tes heures (tu veux faire 35h c'est parfait, tu veux en faire 40h c'est bien beau aussi) et chaque heure travaillée est payée !
+
+✅ REER collectif (faut bien penser un pe

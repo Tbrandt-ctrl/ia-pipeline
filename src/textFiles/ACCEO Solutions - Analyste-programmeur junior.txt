@@ -1,0 +1,81 @@
+L'equipe de GTechna, une division d'ACCEO Solutions, redefinit l'industrie du stationnement avec des solutions en temps reel utilisees par des centaines de milliers de personnes. Notre logiciel de reconnaissance de plaques d'immatriculation et de permis virtuel est revolutionnaire. En tant que Developpeur Java junior, vous serez responsable de la conception, de la programmation, de la documentation et de la mise en œuvre completes ou partielles de logiciels conformement aux informations fournies par les analystes ou les clients. C'est votre chance de rejoindre un groupe de specialistes qui developpent des produits innovants qui touchent des milliers d'utilisateurs.
+
+
+
+
+Nous recherchons un Developpeur Java junior pour rejoindre notre equipe. Le candidat ideal aura de l'experience avec Java, ainsi qu'une familiarite avec React, JSP, Tomcat, Linux, et les methodologies Agile-Scrum.
+
+
+
+
+Responsabilites :
+Developper et maintenir des applications web basees sur Java
+Collaborer avec d'autres equipes pour livrer des corrections de bogues, de nouvelles fonctionnalites et des ameliorations dans une equipe de sprint.
+Participer aux ceremonies Agile-Scrum, y compris la planification de sprint, les stand-ups et les retrospectives.
+Travailler avec React, JSP, Tomcat
+Tester et deployer dans un environnement de production Linux
+
+
+
+
+Qualifications
+
+
+
+
+Experience avec Java et SQL.
+Experience avec React, JSP, Tomcat, Linux.
+Familiarite avec les methodologies Agile-Scrum - Solides competences en matiere de resolution de problemes et d'analyse
+Solides competences en communication et en travail d'equipe
+Baccalaureat en informatique ou dans un domaine connexe. Des portefeuilles impressionnants avec des certificats bootcamp peuvent remplacer la qualification de baccalaureat.
+
+
+
+
+Nous offrons un salaire competitif, des avantages sociaux et des possibilites de croissance et de developpement pour ceux qui le souhaitent.
+
+
+
+
+Our team at GTechna, a division of ACCEO Solutions, is redefining the parking industry with real-time solutions used by hundreds of thousands of people. Our global licence-plate recognition and virtual permit software is revolutionary. As a Junior Java Developer, you will be responsible for the full or partial designing, programming, documenting, and implementing of software in accordance with analyst or client information. This is your chance to join a group of specialists who develop innovative products which reach thousands of users.
+
+
+
+
+We are seeking a Junior Java Developer to join our team. The ideal candidate will have experience with Java, as well as a familiarity with React, JSP, Tomcat, Linux, and Agile-Scrum methodologies.
+
+
+
+
+Responsibilities
+
+
+
+
+Develop and maintain Java-based web applications
+Collaborate with other teams to deliver bug fixes, new features and improvements in a sprint team.
+Participate in Agile-Scrum ceremonies, including sprint planning, stand-ups, and retrospectives.
+Work with React, JSP, Tomcat
+Test and deploy in a Linux production environment
+
+
+
+
+Qualifications
+
+
+
+
+Experience with Java and SQL.
+Experience with React, JSP, Tomcat, Linux
+Familiarity with Agile-Scrum methodologies
+Strong problem-solving and analytical skills
+Strong communication and teamwork skills
+Bachelor's degree in Computer Science or related field.
+Impressive portfolios with bootcamp certificates can substitute the bachelor degree qualification.
+
+
+
+
+We offer a competitive salary, benefits, and opportunities for growth and development for those who seek it.
+Show more

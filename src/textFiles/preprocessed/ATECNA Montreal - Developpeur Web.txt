@@ -1,0 +1,46 @@
+Dans le cadre de notre développement à Montréal, nous recherchons activement des Développeurs Web Full-Stack. Tu veux rejoindre une communauté d’experts et nous accompagner à identifier les problématiques chez nos clients et les aider à générer de la valeur en construisant des expériences utilisateurs qui font sens ? Rejoins notre équipe !
+
+Tes missions :
+
+- Développer des produits numériques performants grâce à tes expertises en Javascript natif et ta maîtrise d’un ou plusieurs frameworks - librairies ;
+- Respecter les deadlines et les estimations ;
+- Alerter rapidement lorsque des obstacles se présentent ;
+- Faire grandir les clients sur des sujets techniques ;
+- Comprendre les enjeux numériques et maîtriser la chaîne de valeur ;
+- Proposer des solutions qui répondent à une problématique en prenant en compte les contraintes d'environnement (SI) et les objectifs clients, sans chercher à imposer son point de vue ;
+- Animer des réunions pour résoudre les problématiques avec d'autres corps de métiers (marketing, PO, devs, ...) ;
+- Savoir intégrer les enjeux business dans la chaîne de production ;
+- Être force de proposition - savoir exprimer une critique positive ;
+- Être autonome et proactif dans son métier ;
+- Organiser, prioriser et alerter ;
+- Être actif dans le développement d'Atecna ;
+- Être actif dans la construction de l'esprit d'équipe ;
+- Favoriser les collaborations et rechercher l'amélioration de l’équipe.
+
+Requirements :
+
+Ta boîte à outils :
+
+- Vanilla JS ;
+- Maîtrise des frameworks : ReactJS, VueJS, Svelte ;
+- NodeJS ;
+- Redis-MongoDB-SQL Server pour les bases de données ;
+- Docker-Kubernetes-Gitlab CI et/ou équivalent ;
+- GraphQL ;
+- SSR-SSG-SPA ;
+- Nos projets doivent aussi s’intégrer avec plusieurs API ;
+- Un intérêt particulier sera porté à la mise en place des meilleures pratiques de développement (intégration continue, code review, pair programming…) ;
+- Maîtrise de la qualité Web et très bonnes connaissances des normes d’accessibilité.
+
+Ton profil :
+
+- Détenteur d'un baccalauréat en informatique ou génie informatique ou toutes autres formations équivalentes ;
+- Posséder un minimum de 7 ans d’expérience en programmation Web ;
+- Avoir de l'expérience comme Développeur full-stack avec une connaissance solide des composantes back end (API - REST - Caching), et pour le développement front-end (http, cookies, headers) ainsi qu'une large connaissance de l’écosystème tech ;
+- Avoir de l'intérêt pour le devops (déploiement, intégration continue…) ;
+- Avoir la capacité à comprendre et tenir compte des besoins des utilisateurs ;
+- Être débrouillard, avoir le sens de l’initiative, et la capacité à résoudre des problèmes avec des solutions élégantes et innovantes ;
+- Avoir le souci de la qualité, et l’exprimer tout au long du cycle de développement (via des questions, tests unitaires...) ;
+- Avoir de bonnes habiletés relationnelles et de communication ;
+- Aimer travailler en équipe ;
+-

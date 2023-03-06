@@ -1,0 +1,82 @@
+Role: Application developer (Fully remote)
+
+
+
+
+Location: Colorado (Candidate must be local)
+
+
+
+
+Provide support and debug issues identified within the Colorado Child Welfare System environment
+Create and enhance scripts-snippets of code for the application to be run on the RedHat Enterprise Linux environment.
+Developing client server application-process and libraries.
+Identifying bottlenecks or bugs and troubleshooting integration issues.
+Testing code quality and durability.
+Maintaining the automation and quality of the code.
+Be capable of maintaining source repository using AureDevOps-Team Foundation Server.
+Perform unit testing and documentation of developed code.
+Debug issues identified within testing efforts and generate bug descriptions and service desk tickets as needed.
+
+
+
+
+Resource Requirements
+
+
+
+
+In depth knowledge of application development, and application design.
+Demonstrated a high level of understanding in development concepts, technical designs, database designs, application specifications and system integration.
+Full stack application development experience.
+Front End Technologies-Concepts: HTML, CSS, Javascript, JQuery.
+Back End Technologies-Concepts: ASP.NET MVC, C# and RESTful API design.
+Relational (Oracle, SQL Server).
+Oracle experience - Required
+Source control using git - Required
+Working with legacy code - Required
+Familiarity with Powershell & Unix Bash Shell Scripting
+Familiarity with Networking, Debugging networking issues
+Familiarity with Working knowledge of Continuous Integration-Continuous Deployment and DevOps principles
+Familiarity experience with Azure DevOps tool suite is strongly preferred: Boards, Wiki, Repos, Pipeline, Test Plan, Artifacts, etc.
+Familiarity experience with real-time logging and monitoring tools like Splunk and Dynatrace
+Excellent team player with the ability to influence and negotiate
+Effective time management. Must be able to prioritize and multi-task effectively
+Passion for enterprise-level agile development, problem solving, the ability to quickly learn new concepts, and must be able to interact with all levels of technical and business teams
+Team player, self-motivated and able to work collaboratively across organizations.
+
+
+
+
+Yeshwanth M
+
+
+
+
+Technical Recruiter
+
+
+
+
+Email
+
+
+
+
+Work:lt;-p>
+
+
+
+
+Rockville, MD | McLean, VA | Palo Alto, CA
+
+
+
+
+StellarIT.com | StellariDeaLabs.com
+
+
+
+
+provided by Dice
+Mostrar más

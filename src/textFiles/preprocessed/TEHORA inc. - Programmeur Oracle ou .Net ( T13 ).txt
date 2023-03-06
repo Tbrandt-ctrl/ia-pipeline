@@ -1,0 +1,39 @@
+TEHORA est actuellement à la recherche d'un·e Programmeur·se Oracle ou .Net ayant d'excellentes aptitudes techniques, d'excellentes connaissances et qui souhaite mettre à profit ses compétences au sein d'une équipe polyvalente.
+
+Sans être exhaustifs, voici les services et livrables que devra fournir la personne retenue :
+
+- Programmer et effectuer les tests unitaires ;
+- Collaborer en tant que conseiller et réalisateur de programmes informatiques et maintenir la portée de la solution conforme aux exigences formellement établies ;
+- Participer aux réunions de suivi de l'équipe de réalisation et faire part de son niveau d'avancement, d'avenues de solution ou de problèmes pouvant compromettre les échéanciers ou la réalisation du projet ;
+- Participer au prototypage et aux tests de systèmes, selon les analyses approuvées ;
+- Collaborer à l'implémentation des correctifs et évolutions apportés aux systèmes ;
+- Participer à l'élaboration des solutions (conception d'approches répondant aux contraintes techniques) ;
+- Participer à la validation de certains livrables d'architecture détaillée et d'analyse si requis ;
+- Effectuer le développement nécessaire pour l'adaptation des modules identifiés par les architectes et/ou analystes ;
+- Participer à l'analyse des problèmes de production et à leur résolution ;
+- S'assurer du respect des échéanciers des mandats à sa charge ;
+- Effectuer toutes autres tâches connexes à son profil et à son expertise.
+
+Requirements
+
+- Cumuler un minimum de cinq (5) ans d'expérience en programmation dans la technologie visée (spécifiée dans la demande d'intervention) ;
+- Avoir participé à au moins un (1) mandat dans un environnement technologique comparable à celui du Tribunal en tant qu'analyste fonctionnel au cours des deux (2) années précédant la demande d'intervention ;
+- Avoir participé activement en tant que programmeur dans la technologie visée à au moins un (1) mandat d'une envergure minimale de 1000 j-p au cours des deux (2) années précédant la demande d'intervention.
+
+Avantages
+
+LIEU DE TRAVAIL
+
+Le lieu de travail sera déterminé selon le mandat, il peut être en télétravail ou chez le client.
+
+POURQUOI SE JOINDRE À TEHORA ?
+
+TEHORA est une firme québécoise multidisciplinaire reconnue pour l'excellence de ses services professionnels, de nature technique et de gestion de projets à l'échelle nationale et internationale. Notre mission est d'accompagner nos clients dans la concrétisation de leurs projets par l'excellence de notre savoir-faire et de notre créativité.
+
+Depuis sa création en 2017, notre équipe de professionnels connaît une croissance exponentielle en répondant aux besoins importants en gestion de projets multidisciplinaires, dans le domaine des transports, du génie civil, du TI et plus.
+
+Nos collaborateurs travaillent sur des mandats aussi bien à l'interne que chez des clients d'envergures.
+
+TEHORA se distingue par sa culture d'entreprise, axée sur le bonheur de ses employés et la diversité.
+
+Chez TEHORA, chaque collaborateur est un membre important de l'équipe qui contribue à

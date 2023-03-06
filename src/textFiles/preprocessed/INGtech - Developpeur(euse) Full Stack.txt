@@ -1,0 +1,37 @@
+Êtes-vous passionné par la programmation et l'informatique ? Cherchez-vous une opportunité vous permettant de relever des défis stimulants auprès d'une équipe des plus dynamiques ? Si vous vous reconnaissez, ce poste de développeur full-stack est fait pour vous !
+
+RESPONSABILITÉS :
+
+- Comprendre et valider le besoin émis par le client, et ce, en étroite collaboration avec le responsable de produit (PO) et/ou les utilisateurs ;
+- Communiquer et discuter des choix techniques avec ses pairs ;
+- Appliquer les meilleures pratiques de développement ;
+- Mesurer la qualité de la solution développée (performance, robustesse, couverture fonctionnelle des tests, etc.) ;
+- Soutenir techniquement la solution une fois en production (anomalies, maintenance, surveillance, etc.) ;
+- Contribuer au processus de revue de code ;
+- Contribuer à la documentation.
+
+PROFIL TECHNIQUE RECHERCHÉ :
+
+- Diplôme d'études collégiales ou baccalauréat en informatique ou tout autre domaine connexe pertinent (autodidactes passionnés avec expérience pertinente acceptés) ;
+- Minimum 3 ans d'expérience en technologies de l'information ;
+- Connaissance des principes agile et DevOps et capacité à les appliquer dans un contexte de travail d'équipe ;
+- Maîtrise des langages de programmation Typescript, Javascript, et/ou PHP et/ou Java ;
+- Maîtrise des technologies Web, API REST, Git, Docker (GraphQL, et les micro- services sont un plus) ;
+- Maîtrise des bases de données SQL serveur ;
+- Expérience en programmation orientée objet et des principes SOLID ;
+- Expérience en tests unitaires.
+
+AUTRES COMPÉTENCES RECHERCHÉES :
+
+- Esprit d'équipe ;
+- Capacité à communiquer en français à l'oral comme à l'écrit ;
+- Curiosité et passion du métier ;
+- Goût du défi.
+
+AVANTAGES :
+
+- Salaire et avantages sociaux concurrentiels ;
+- Entreprise en croissance ;
+- Télétravail et/ou hybride ;
+- Activités d'équipe ;
+- 3 semaines de vacances.

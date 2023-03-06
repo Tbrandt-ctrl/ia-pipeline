@@ -1,0 +1,96 @@
+À PROPOS DE NOUS
+
+
+
+
+Originaires de tous horizons, nous sommes unis par la passion. Chez nous, chaque nouveau projet est une page blanche qui n’attend que la creativite et le talent de tous, qu’importent les responsabilites, les rôles ou les domaines de competences. Avoir le goût d’inventer, d’essayer, d’echouer pour recommencer et d’apprendre des autres nous permet de participer collectivement � des projets plus grands que soi. C’est aujourd’hui grâce � une equipe de 350 creatifs que nous avons la chance de creer des environnements multimedia immersifs au service d’artistes, de musees, d’aeroports, de marques, de parcs thematiques ou d’evenements, en plus de nos spectacles signature. Qu’importe le canevas, la soif d’experimenter et d’innover en video, eclairage, architecture multimedia, design sonore, effets speciaux et interactivite est au cœur de notre ADN.
+
+
+
+
+TON ÉQUIPE
+
+
+
+
+Nos divers talents de l’equipe système opèrent au cœur du departement interactif. Tu te joindras � notre equipe multidisciplinaire composee de developpeurs de differents horizons: front-end, back-end, micro-contrôleurs, ingenieurs, musiciens, autodidactes. Nous sommes instrumentaux dans la liaison entre les divers systèmes et departements au sein de Moment Factory.
+
+
+
+
+Notre petite equipe tissee serree prône l’entraide et le partage de connaissances. Nous apprecions egalement la compagnie de nos collègues lors de nos activites sociales et sportives. Bien qu’etant tous developpeurs.euses, nous avons aussi une grande affinite pour les arts, la musique et l’interactivite.
+
+
+
+
+TA MISSION
+
+
+
+
+Dans ton rôle de developpeur.euse système, tu auras � trouver des solutions innovantes pour soutenir nos installations immersives. Tu travailleras sur des projets varies, dont la duree et les echeanciers varieront. Tu seras en collaboration avec les architectes logiciels et les autres developpeurs afin de determiner l’orientation technique � suivre.
+
+
+
+
+FONCTIONS ET RESPONSABILITÉS
+
+
+
+
+Programmer des solutions event driven pour les projets;
+Trouver et explorer de nouvelles librairies necessaires � la bonne realisation des projets;
+Interfacer du materiel (capteurs, appareils) avec nos solutions logicielles;
+Interfacer les projets avec des sources de donnees externes (APIs, bases de donnees);
+Comprendre les differents protocoles multimedia utilises dans l’industrie;
+Prototyper des preuves de concept;
+S’assurer de la qualite de son travail � l’aide de tests unitaires et fonctionnels;
+Programmer des plateformes embarquees (Raspberry PI, micro-contrôleurs);
+Deployer son code de manière efficace avec nos solutions d’integration continue (Gitlab, Balena, Docker)
+
+
+EST-CE QUE TON PARCOURS CONTIENT…
+
+
+
+
+Une experience en contexte professionnel d’au moins 4 ans;
+Connaissance de Node.JS et ou JavaScript;
+Connaissance de Git;
+Connaissance ou interêt � l’apprentissage de Node-RED;
+Connaissance de Linux, Windows;
+Connaissance ou interêt � l’apprentissage de Docker;
+Connaissance des protocoles multimedia (MQTT, OSC, Art-Net, DMX, MIDI) un atout;
+Connaissance des langages de programmation C ou C++ un atout;
+Connaissance de React un atout;
+Experience avec les systèmes embarques et micro-contrôleurs un atout (Raspberry Pi, Arduino, ESP32)
+
+
+TES QUALITÉS
+
+
+
+
+L’autonomie est la qualite qui te sera le plus utile pour ce rôle;
+Tu as un sens de l’initiative developpe;
+Tu n’as pas froid au yeux lorsqu’il s’agit d’experimenter avec de nouvelles solutions;
+Tu es capable de faire face au changement de façon sereine;
+Tu aimes apprendre de nouvelles technologies rapidement;
+Tu aimes partager tes connaissances avec tes pairs;
+Tu es une personne ouverte � l’echange d’idees et � l’amelioration des pratiques;
+L’idee de voyager pour deployer les projets t’excite;
+Ta polyvalence sera d’un grand atout pour ce rôle
+
+
+Exemples de projets:
+
+
+
+
+https:--momentfactory.com-projets-all-all-kamuy-luminahttps:--momentfactory.com-projets-all-all-illumination-du-pont-jacques-cartierhttps:--momentfactory.com-projets-all-all-jeux-augmentes
+
+
+
+
+Si tu corresponds � ce poste, nous t’invitons � soumettre ta candidature dès maintenant. Nous ne sommes pas en mesure d’assurer un suivi auprès de chaque candidat, c’est pourquoi nous ne contacterons que les personnes selectionnees. Merci de considerer une carrière chez Moment Factory. Nous nous rejouissons de faire ta connaissance!
+Mostrar más�زيد

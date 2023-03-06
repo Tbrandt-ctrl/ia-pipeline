@@ -1,0 +1,56 @@
+Hamilton Porter is a boutique technical recruiting firm that partners with a variety of companies ranging from start-ups to Fortune 500's. Due to growth, one of our top enterprise clients in the Las Vegas area is actively looking to hire a full-time Embedded Software Engineer to join the team. Our client is a leading provider of hardware and software products that are heavily leveraged to enable automated payment-transaction processing in industries such as banking, financial, gaming, kiosk, retail, transportation, and vending. We are open to recent college graduates with a limited background of professional experience supporting embedded devices.
+
+
+
+
+Our client operates a 4 day work week with 10 hour days Monday through Thursday. Enjoy a 3 day weekend each week!!! Option to work fully remote or be onsite at our Headquarters in Las Vegas.
+
+
+
+
+Role & Responsibilities:
+
+Design, develop, debug and test software
+Create, maintain and review engineering documentation
+Perform unit testing and reviewing of new-modified code.
+Maintain-Enhance existing products currently in operation.
+Develop new products and technologies.
+Perform integration, validation, and certification of unit-tested software.
+Work in a collaborative setting with other Software Engineers to develop software
+Reports to and takes direction from Software Engineering Lead - Manager
+
+
+
+
+Requirements:
+
+0-4+ years of professional software development experience with a Bachelor's Degree in Computer Science, Computer Engineering, or related field
+Developing embedded devices using C and-or C++.
+Developing software for Embedded Systems and-or RTOS.
+Experience debugging-troubleshooting using JTAG devices.
+Understand of basic software version control systems such as Subversion-Mercurial.
+
+
+
+
+Compensation & Benefits:
+
+Competitive Annual Salary ($65,000 - $85,000 DOE)
+Option to work fully remote OR support a hybrid onsite schedule (Las Vegas)
+Health Benefits (Medical, Dental, Vision)
+Life Insurance, Short & Long Term Disability Insurance, AD&D Insurance
+FSA Options
+401(k) Plan - 50% match up to the first 2% of employee deferral and 25% of the next 12% of employee deferral
+12 days vacation, 40 hours of sick time, 11 paid holidays, and more!
+
+
+
+
+We are looking to interview and hire ASAP. This is a fantastic opportunity with lots of growth potential, please apply with your resume!
+
+
+
+
+*Please note, all candidates must complete a background check and drug screening prior to employment*
+
+Show more

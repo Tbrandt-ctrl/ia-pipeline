@@ -1,0 +1,53 @@
+Location: Remote or Columbis, SC
+
+Job Summary
+
+Develop, maintains, and integrates application software, related project management activity, and production support; works closely with internal and external clients, business analysts, and team members to understand business requirements; Develops and integrates application software, including unit testing and implementation efforts; continues to maintain and support software implementation.
+
+Principal Duties & Responsibilities
+
+Works on a limited number of projects as a member of each project team
+Works on small and large, moderately complex projects that require increased skill in multiple technical environments and disciplines; participates on one or more project teams, application analysis, design, development, integration and enhancement activities, as well as related maintenance and production support
+Works with project teams to define and design scope for each project
+Participates in project planning sessions with clients, business analysts, and team members to analyze development requirements and make recommendations for moderate to complex systems
+Tests and implements application modules from multiple systems the team has developed or modified, ensuring application meets the needs of client and business
+Provides ongoing maintenance of iSeries, mainframe and-or client-server applications or tools, depending upon previous involvement with projects
+Mainframe, and-or client-server applications or tools, depending upon previous involvement with projects
+Handles production support within their area of expertise and supports issues referred to them by developers or managers
+Provides design recommendations, developing and integrating programs per written specifications, occasionally responsible for writing moderate to complex design specifications
+Makes moderate to complex modifications to existing software applications and modules in accordance with written specifications and division standards
+Develops software application modules using disciplined software development processes; makes recommendations towards the development of object-oriented base class reuse
+Translates business and technical requirements into detailed design specifications for application code and modules.
+Prepares and presents status updates on various projects
+On-call duties required as assigned
+Performs other duties as required
+
+Education & Experience Required
+
+Bachelor’s Degree in Computer Science, Information Systems or programming
+Three or more years of programming experience or related work experience
+Experience and understanding of multiple programming languages and applicable applications.
+
+Or an equivalent combination of education and experience
+
+Job Knowledge & Skills
+
+Object Oriented Development: Java, C++, C#, Python, R, PHP, Visual Basic.NET, JavaScript, Ruby, Perl, SIMSCRIPT, Object Pascal, Objective-C, Dart, Swift, Scala, Kotlin, Common Lisp, MATLAB, and Smalltalk.
+API development
+DevOps experience, not just the tools but the mindset like continuous improvement. Tools for us would be Git, GitHub, JFrog, AzureDevOps
+Agile experience, specifically scrum
+Good Engineer Practices like automated unit testing, test-driven development
+Cloud experience, specifically AWS if possible
+Fundamental knowledge of data to be able to create scripts and data patchers
+Bonus is automated testing development in Postman, Rest Assured, Robot Framework
+
+Competencies
+
+Acting with Integrity - Clearly states goals and beliefs; lets people know his-her true intentions; does what he she said they would do; follows through on commitments
+Communicating Effectively - Expresses ideas and information in a clear and concise manner; tailors message to fit the interests and needs of the audience; delivers information in a manner that is interesting and compelling to the listener
+Pursuing Self-Development - Demonstrates ambition and desire to move forward in his-her career; engages others in discussions about career development; seeks feedback on ways to increase his-her performance; takes advantage of opportunities to build new skills and capabilities
+Serving Customers - Builds strong relationships with customers; stays aware of customer needs, concerns and satisfaction; responds promptly to customer questions and requests; effectively manages
+Supporting Change - Enthusiastically participates in new change initiatives and programs; focuses on reasons why changes will work and how they will be beneficial
+Supporting Organizational Goals - Actively supports organizational goals and values; demonstrates enthusiasm toward the company's goals and mission; aligns actions around organizational goals
+Working with Diverse Populations - Shows respect for the beliefs and traditions of others; encourages and promotes practices that support cultural diversity; discourages behaviors or practices that may be perceived as unfair, biased, or critical toward people with certain backgrounds
+Mostrar más

@@ -1,0 +1,36 @@
+Qui nous sommes
+
+Busbud est le site web de réservation de voyages en bus interurbain offrant la plus grande couverture internationale. Les voyages sont notre passion, et nous travaillons dur pour offrir le réseau de transport interurbain le plus complet. Nous offrons plus de 2,3 millions de routes à travers 80 pays et 21 000 villes. Notre ambition est de mettre un monde écologique, accessible et interconnecté à la portée de tous.
+
+Le rôle
+
+Salut ! Busbud recherche un·e Développeur·euse Fullstack pour rejoindre son équipe ! À titre de Développeur·euse full-stack senior, tu contribues à créer les API ainsi que les expériences utilisateur qui alimentent le site web de Busbud, adapté aux téléphones mobiles et utilisé par des millions de voyageurs dans le monde entier. Tu travailles sur une base de code moderne et entièrement native (Typescript, Javascript, React, NodeJS, Postgres et Redis).
+
+En quoi consiste cette opportunité ?
+
+Concevoir, réaliser et livrer la prochaine génération de fonctionnalités pour les voyageurs utilisant notre API publique ainsi que notre site web adapté aux mobiles pour réserver des billets d’autobus
+Collaborer avec les gestionnaires de produits et les ingénieurs logiciels, tant au sein de ton équipe (équipes inter-fonctionnelles telles que les paiements, l’approvisionnement, l'expérience produit et le marketing) que dans d'autres équipes de Busbud, afin de fournir des produits de haute qualité pour nos utilisateurs.
+Suivre des approches fondées sur les données pour mener des expériences et itérer des fonctionnalités
+Identifier et traiter les axes d'amélioration afin que notre plateforme soit la meilleure dans sa catégorie
+Procéder à des revues de code
+Mettre en œuvre des plans appropriés de couverture de tests, d'automatisation, de suivi et de déploiement
+Trouver un équilibre entre l’ampleur des projets et les délais afin de garantir la qualité et la rapidité
+
+Comment peux-tu nous impressionner ?
+
+Environ 5 ans d'expérience professionnelle à temps plein dans le domaine du génie logiciel, axée sur le développement d'API ou de sites web
+Tu as déployé une ou plusieurs API, applications web ou mobiles, idéalement disponibles actuellement sur internet, Google Play Store ou l'App Store
+Tu es enthousiaste à l'idée de nous montrer des projets personnels qui montrent une aptitude à l'excellence technique et un sens du produit sur les appareils mobiles
+Ton esprit d'entreprise : tu peux livrer des projets efficacement avec des ressources limitées et une petite équipe
+Tu as de solides connaissances techniques : tu es respecté·e et tes collègues ont confiance en tes opinions
+Ta passion et ton esprit de croissance : tu aimes ce que tu fais et tu es toujours désireux·se d'apprendre de nouvelles choses.
+
+Qu'y a-t-il pour vous ?
+
+Rémunération compétitive
+Congés payés illimités
+Prestations de soins de santé (santé, médicaments, vision, dentaire)
+Culture à distance d'abord
+Des équipements Apple pour travailler efficacement depuis chez soi
+Billets de bus gratuits pour le monde entier
+Travailler dans un environnement diversifié

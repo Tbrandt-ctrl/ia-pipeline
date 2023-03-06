@@ -1,0 +1,37 @@
+Êtes-vous un développeur web front-end proactif à la recherche de son prochain défi dans une entreprise en croissance située à Laval ? Cherchez-vous à travailler comme développeur front-end dans une équipe située à Laval qui fournit des technologies de pointe en matière de traitement, analyse et transmission vidéo ? Cette opportunité de développeur front-end est une occasion à ne pas manquer pour tous les développeurs qui cherchent à rejoindre une entreprise en croissance à Laval, incluant une équipe très dynamique qui leur permettra de développer considérablement leurs compétences et leurs capacités.
+
+Avantages
+
+Assurance télémédecine 
+Trois semaines de vacances 
+Compte de gestion santé 
+Congé anniversaire 
+Quatre jours de congé pendant les périodes des fêtes 
+Cinq jours de maladie par année 
+Options stock 
+Horaire et mode de travail flexibles 
+Équipe dynamique et environnement stimulant 
+
+Responsabilités
+
+Participer à la définition de l’architecture et des spécifications techniques des différentes interfaces utilisateurs (application, mobile et web). 
+Développement d’applications clientes et des interfaces utilisateurs web utilisant des services web provenant des différents produits et/ou d’une infrastructure infonuagique. 
+Développement d’outils facilitant le dépannage et le débogage des diverses interfaces web mises en place. 
+Participer à la mise en place d’une infrastructure de CD-CI permettant une automatisation des processus de test et de livraison. 
+Définir les tests unitaires et/ou les tests d’intégration et apporter un support à l’intégration et la validation des modules. 
+Assurer un niveau de qualité élevé des modules logiciels conçus et développés. 
+Rédiger la documentation technique sur les produits et solutions de l’entreprise ou maintenir la documentation existante.
+
+Qualifications
+
+Collaborer avec des gestionnaires pour définir et comprendre leurs besoins d'affaires 
+Maîtriser des langages de programmation React JS et Typescript 
+Maîtriser le développement des applications de gestion 
+
+Sommaire
+
+Le rôle t'intéresse ? N'hésite pas à appliquer et/ou à envoyer ton CV à ayad.nahas@randstad.ca 
+
+Au plaisir ! 
+
+Randstad Canada s'engage à favoriser une main-d'œuvre représentative de toutes les populations du Canada. Nous nous engageons en conséquence à développer et à mettre en œuvre des stratégies pour promouvoir l'équité, la diversité et l'inclusion dans toutes nos sphères d'activité en examinant nos politiques, pratiques et systèmes internes tout au long du cycle de vie de notre main-d'œuvre, y compris au niveau du recrutement, de la rétention et de l'avancement pour tout individu. En plus de notre profond engagement sur le respect des principes des droits de la personne, nous nous engageons à prendre toute mesure positive pour influer sur les changements à mettre en place en vue de garantir la participation de tout individu dans le monde du travail et ce, sans obstacle, systémique ou autre, en particulier pour les groupes en quête d'équité généralement sous-représentés dans la main-d'œuvre au Canada, y compris les person

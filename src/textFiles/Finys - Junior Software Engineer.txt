@@ -1,0 +1,52 @@
+Who WE Are
+
+
+
+
+Finys is a leading producer of packaged and custom software for the insurance industry. The successful candidates will work in a team environment and implement the latest technology in our product suite. We have multiple permanent openings available for candidates with the following skill sets.
+
+
+
+
+What It Takes(some or all)
+
+Strong software development skills
+Experience using .Net
+ASP.NET MVC 5, C#, Entity Framework, Linq, JavaScript, KendoUI
+Structured Query Language (Microsoft SQL Server, Oracle or equivalent)
+Microsoft Visual Studio Development Environment
+
+Other Skills:
+
+Strong analytical-problem-solving skills
+Ability to work with minimal supervision, exercising discretion and independent judgment
+Highly motivated to be the best and produce the best
+Excellent verbal and written communication skills
+
+
+
+
+What YOU Will Be Doing
+
+Build state-of-the-art web applications using modern object-oriented programming techniques
+Work on high volume mission critical systems
+Ability to plan and develop reusable code for new and existing components
+Use both front and back end technologies
+Work in a team environment, collaborating with project leaders and highly skilled developers
+
+
+
+
+What WE Offer YOU
+
+
+
+
+Finys offers a competitive compensation package with generous benefits including health, life, paid vacation, paid holidays, matching retirement plan, flex time, and bonus opportunities. We are a rapidly growing software company, offering advancement opportunities, producing-developing premier software applications. If you are a talented individual, passionate about innovation and development, a fantastic career opportunity is awaiting you.
+
+
+
+
+www.finys.com
+
+Show more

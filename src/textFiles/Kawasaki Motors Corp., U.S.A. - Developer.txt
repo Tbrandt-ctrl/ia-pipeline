@@ -1,0 +1,86 @@
+Position Summary:
+
+Working under minimal supervision, this position is responsible for the development and maintenance of enterprise computer applications using a variety of languages, platforms, and tools according to prescribed standards-procedures and within established time frames. Will also perform analysis as directed by Project Lead or independently, to support the preparation of functional specifications for computer application development, or to support research and problem resolution.
+
+
+
+
+Duties and Responsibilities:
+
+Demonstrate quick and efficient application development and problem-solving skills.
+Develop and execute test plans that optimize cost efficiency with risk tolerance.
+Perform impact analysis for proposed system changes.
+Analyze systems to determine process flow and functionality.
+Understanding and experience with Software Development Life Cycle (SDLC)
+Understanding and experience with MultiTier Application Architecture
+Understanding and experience with Relational Database Management System (RDMS)
+Understanding and experience with Service Oriented Architecture (SOA)
+Proficient in software development platforms, languages and tools in use by Kawasaki (see Skills and Qualifications section).
+Ability to work both independently and as part of a team.
+Provide accurate development time estimates to Project Lead and be proactive in identifying-communicating risk to previously established timelines.
+Design computer systems that are efficient, functional, scalable and maintainable.
+Prepare system documentation including process flow and data flow diagrams.
+Prepare clear and accurate functional specifications for development by others.
+Monitor industry trends and advise management on introducing new technology that may benefit the organization.
+Ability to communicate effectively and respectfully with Project Lead, Business Analysts, peers, support staff, and internal-external users.
+Awareness and compliance with standards and procedures.
+Be available for rotating after hours on call support.
+Prepare weekly status reports and complete other administrative tasks in the manner and timeframe prescribed by the Applications Development Supervisor.
+Represent Kawasaki in a positive and professional manner when interacting with business partners, customers and contractors.
+Prepare, provide and-or present training materials for system users or new hires within the App Development group.
+Acquire and retain business and system knowledge to leverage productivity and increase value to the organization.
+Interact with and challenge project requestor, if needed, to determine and document project requirements from the business perspective.
+Perform a Project Lead role on projects of small scope.
+
+
+
+
+Education and Experience:
+
+High school diploma or general education degree (GED) is mandatory. Bachelor’s degree (BA-BS) or equivalent from four-year college is desired. Minimum 2 years programming experience, preferably with common enterprise business applications
+
+(Sales, Distribution, Inventory Management, Finance).
+
+
+
+
+Skills and Qualifications:
+
+To perform this job successfully, you must be able to perform each essential duty satisfactorily. The items listed below are representative of the knowledge, skill, and-or ability required:
+
+
+
+
+ASP.NET MVC
+C#
+NET 4.0 Framework
+HTML, HTML5, PHP, CSS, BootStrap
+Javascript
+Team Foundation Server or equivalent source repository usage methodology
+Visual Studio
+VBScript
+Powershell
+SQL
+Oracle
+Microsoft SSIS
+Informatica ETL - PowerCenter
+Report Writing (SSRS, Cognos, Tableau, native HTML…)
+SAP ABAP - NetWeaver
+Microsoft Office Suite, MS-Visio, MS-Project
+
+
+
+
+Benefits:
+
+Your health and wellness are important to you – and to us. That’s why we provide a comprehensive benefits program designed with you (and your family) in mind.
+
+Medical, dental, and vision plans
+Life insurance
+Flexible spending account
+401K
+Generous Time off
+Educational Assistance
+Ongoing training and development
+Team member product purchase program
+Voir plus

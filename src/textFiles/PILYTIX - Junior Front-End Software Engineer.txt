@@ -1,0 +1,35 @@
+PILYTIX brings Explainable Artificial Intelligence (XAI) to sales teams so they can be more effective and close more deals, faster. We use best-in-class tools to deliver data-driven insights to our clients with our state-of-the-art SaaS product.
+
+Responsibilities:
+
+Maintain and add new features to a ReactJS web application
+Collaborate with the Data Science and Data Engineering teams to integrate with internal REST APIs
+Participate in design meetings to enhance UX and ensure the product satisfies business requirements
+Create mockups and prototypes of new UI features
+Participate in Agile-Kanban practices on a daily basis
+Comply with change management policies to ensure data integrity and system stability
+
+
+Requirements
+
+BS in a STEM Field or completion of a front-end focused Coding BootCamp
+1-2 years of experience building web front-ends with a JavaScript web framework
+1-2 years of experience with the ReactJS framework
+1-2 years of experience with styling (CSS-JSS)
+Ability to create design mockups
+Interest to use Agile-Kanban Methodologies
+Experience with Git (Preferred)
+Experience with building REST services (Preferred)
+
+
+Company is based in Austin, Texas, but the job is open to exceptional fully-remote candidates that are willing to travel to Austin on occasion.
+
+Benefits
+
+Competitive base salary with ability to earn bonuses
+Professional development and entrepreneurial opportunities
+Paid time off
+401(k)
+Medical and Dental plans
+Work from Home
+Tunjukkan lagi

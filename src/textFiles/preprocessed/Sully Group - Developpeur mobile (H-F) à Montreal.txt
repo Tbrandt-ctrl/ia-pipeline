@@ -1,0 +1,25 @@
+Vous avez envie de prendre part à un beau challenge ? Nous avons certainement ce qu’il vous faut au sein de notre agence située à Montréal dirigée par Pascal LEBRUN, en collaboration avec notre Centre de services mobilité. 
+
+Olivier AUDEGOND, Responsable de notre Centre de services mobilité, vous en dit plus sur notre fonctionnement : 
+
+« Au sein du Centre de services mobilité, réunissant 30 experts dédiés, nous avons besoin de compléter notre équipe projet afin d’assurer les développements de nos clients. Nous intervenons aussi bien dans la maintenance, la refonte et la réalisation de projets from scratch, que ce soit en natif ou crossplatform. 
+
+Notre mode de fonctionnement ? Depuis plusieurs années, nous travaillons en multisites, ce qui permet à l’ensemble de nos collaborateurs d’intervenir sur les projets, quelle que soit leur agence de rattachement. » 
+
+Vos missions : 
+- Analyser et comprendre le périmètre ; 
+- Produire un code facilement testable et bien testé (unité, intégration, performance, etc.) ; 
+- Effectuer des révisions de code ; 
+- Respecter les normes et les engagements qualité ; 
+- Prendre du recul sur les réalisations menées pour proposer des améliorations. 
+
+Stack technique : natif Android - natif iOS ou crossplatform - méthodes agiles. 
+
+Ce poste est à pourvoir en mandat de longue durée dès que possible et est basé à Montréal. 
+
+Parlons de vous : d’un naturel communicant, vous aimez travailler en équipe, vous êtes rigoureux et impliqué sur les projets. Vous avez envie de développer et partager vos connaissances au sein d’une équipe conviviale et soudée.
+Pour une prise de poste en toute sérénité, une expérience de 3 à 5 ans est nécessaire. 
+
+Si vous avez lu jusqu’ici et vous vous reconnaissez, alors il ne nous reste plus qu’à faire connaissance ! 
+
+Pour plus d'informations, n'hésitez pas à contacter Pascal LEBRUN, Directeur d'Agence : pascal.lebrun@sully-group.com

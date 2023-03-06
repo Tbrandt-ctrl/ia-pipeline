@@ -1,0 +1,34 @@
+Trusted Concepts, a division of Two Six Technologies is looking for a junior-level developer who will work on the Automated Constellation Scheduler. This is a complex heuristics-based application that leverages a lot of data structures and algorithms most never get to use in normal application development. Must be comfortable thinking outside of the box, and willing to learn new things. Must also be willing to support customer changes in a Kanban environment.
+
+Clearance: TS-SCI with Polygraph required
+
+Primary Responsibilities
+
+Willingness to code in Java, acceptable if the developer has no prior experience
+Building new features and capabilities on the Automated Constellation Scheduler.
+Working on taking user inputted data, and have the scheduler interpret it correctly and lay it down
+
+on a timeline
+
+Ability to add unit tests to newly added code to the system
+
+Keys For Success
+
+1 year of experience writing in Java-C-C++-Python-other
+1 year of experience with various data structures and their intended usage
+1 year of experience within agile methodologies
+
+Bonus Points
+
+Knowledge of multi-threaded data structures
+Knowledge of unit test, integration testing, and end-to-end testing
+Knowledge of web development (frameworks like Angular-React, etc)
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law.
+
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodations@twosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+
+EOE, including disability-vets.
+Daha fazla göster

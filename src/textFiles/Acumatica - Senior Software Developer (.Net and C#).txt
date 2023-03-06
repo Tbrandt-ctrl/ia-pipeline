@@ -1,0 +1,88 @@
+Acumatica is a company on a mission. We are a leading innovator in cloud ERP with customers located around the world. But don’t take our word for it—read what analysts like G2 and Info-Tech have to say about us.
+
+
+
+
+Acumatica is a leading provider of cloud business management software that empowers small and mid-size businesses to unlock their potential and drive growth. Built on the world’s best cloud and mobile technology and a unique customer-centric licensing model, Acumatica delivers a suite of fully integrated business management applications, such as Financials, Distribution, CRM, and Project Accounting, on a robust and flexible platform. In an interconnected world, Acumatica enables customers to take full control of their businesses, play to their organizations’ unique strengths, and support their clients by following them anywhere on any device.
+
+
+
+
+Acumatica’s culture is casual and high-energy. We are passionate about our product and our mission and we are loyal to each other and our company. We value work-life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world. Acumatica offers exceptional professional and financial growth potential.
+
+
+
+
+As a Senior Software Developer (platform) you will be part of Acumatica team of developers that collaborate and create large-scale, production-grade cloud-based ERP, CRM, and other web applications using Microsoft technologies (.NET, C#, MS Sql Server) for businesses around the world. We are hiring Senior Software Developers in Montreal, Quebec, Ottawa, and we will consider consider candidates for remote work in Toronto or other areas, too.
+
+
+
+
+What you will do:
+
+
+
+
+Participate in the design and development of the core Acumatica Cloud xRP Platform
+Develop and enhance core programming interfaces of Acumatica xRP Platform (business controllers API, automatic DTO collection, access rights engine, background jobs scheduling, multitenancy, audit, no-code-low-code customization, and many more)
+Implement core reporting features, including in-memory OLAP processing, dashboards engine, and no-code inquiry builder
+Research and prototyping cross-cutting ERP features and integrations using new technologies
+Support for existing code, code optimization and refactoring
+Analyze the code, search for and correct errors in the existing functionality
+Working with other developers on architecture and code reviews
+Mentoring new junior-middle developers and helping new senior developers with onboarding
+Provide guidance and support to application developers and evangelize the Acumatica xRP framework
+
+
+
+
+You:
+
+
+
+
+You have 5 + years of full-time experience in building web applications or frameworks using modern technologies and languages
+You have 3 + years of experience in building web applications or frameworks using .NET and C#
+You have strong knowledge of C# and experience with popular .NET libraries and frameworks (Autofac, Serilog, ASP.NET Boilerplate, etc.) and ORM (Entity Framework, Dapper, NHibernate or similar)
+You have knowledge of ASP.NET Core, new .NET Core APIs (configuration, in-memory caching, distributed caching, data protection, etc.) and Reflection
+You have experience in building RESTful APIs on ASP.NET Web API or ASP.NET Core
+You have experience in teamwork with version control systems (preferably Git)
+You have strong knowledge of the principles, patterns, and design of complex software systems, and the ability to apply them in practice.
+Experience in TypeScript-JavaScript and experience with popular UI frameworks (React.js, Vue.js, AngularJS, Aurelia)
+Experience with cloud platforms (AWS, Azure, GCP) is a plus
+You’re passionate about writing things that are “elegant and efficient” – things that are robust, scalable, and that perform well.
+Your personal software practices ensure you deliver high quality even under pressure.
+You have had exposure to complex business solutions (ideally ERP, Financial, Supply Chain, E-commerce, CRM, or other business management software).
+You have a willingness to work with other teams and support engineers to investigate, gather product feedback, and solve problems
+You enjoy collaborating with, learning from, and teaching others (including across disciplines) so we all become better.
+
+
+
+
+Us:
+
+
+
+
+We are passionate about quality, and enjoy optimizing our systems for speed, reliability and scale. We strive to build easy to use, beautiful, well-structured products that delight our customers. Our team is built from culturally and linguistically diverse backgrounds, and we are seasoned veterans of working with a distributed team, across multiple time zones. English is the glue that holds us together, but multiple languages are spoken throughout our offices in Seattle, Columbus, Washington, Montreal, Moscow Myanmar, Indonesia, Thailand, Vietnam and Philippines and Singapore.
+
+
+
+
+Acumatica Cloud ERP products are used by thousands of organizations on all continents (USA, Canada, Southeast Asia, Australia, New Zealand, Western Europe) every day.
+
+
+
+
+Acumatica is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+4cL53VsQ30
+Show more

@@ -1,0 +1,37 @@
+L'équipe d'Humanify est fière de contribuer au succès de son client, acteur majeur du secteur du commerce de détail, en l'accompagnant dans ses recherches d'un(e) :
+
+Développeur(euse) motivé(e), fiable et équipier(ère) consciencieux(se)
+
+Une jeune startup montréalaise, formée d'une dizaine de cerveaux déterminés à révolutionner le marché des présentations. Notre produit est une application web novatrice Software as a Service (SAAS), destinée aux créateurs de présentations et dont le lancement est prévu en 2022. Nous effectuons aussi plusieurs mandats de développement applicatif en tous genres.
+
+Nous sommes à la recherche de talents afin de rejoindre notre aventure entrepreneuriale et d’avoir la chance de participer à un projet innovant dans un contexte dynamique. Vous aurez directement accès à des gens d’expérience autant dans le domaine technique que la gestion des affaires. Nous travaillons fort à la réalisation de notre projet d’entreprise, mais nous croyons en une culture de collaboration dans une atmosphère professionnelle, décontractée et flexible.
+
+Technologies privilégiées pour ce poste : .NET-C#, JavaScript, Typescript, Java, Python, SQL, Node.js, React.js, Docker, Azure, ElasticSearch et CircleCI.
+
+Années d'expérience requise : 2 à 6 ans
+
+RESPONSABILITÉS
+
+Nous sommes à la recherche de Développeurs passionnés par la programmation qui apprécient travailler dans une culture de collaboration avec des collègues talentueux et centrés sur la livraison d’applications innovantes et de qualité.
+
+Votre engagement
+
+Faire preuve d’ouverture d’esprit en évaluant les solutions à un problème ;
+Respecter vos collègues et travailler en collaboration plutôt qu’en solitaire ;
+Développer continuellement vos aptitudes techniques et interpersonnelles ;
+Approcher avec enthousiasme les défis de toutes sortes, peu importe la technologie requise ;
+Aider vos pairs aux meilleurs de vos capacités afin de toujours améliorer le niveau de l’équipe.
+
+Profil
+
+À PROPOS DE VOUS
+
+Si apprendre et réaliser des défis est plus important que l'assurance de travailler seulement sur le back-end, le front-end, les outils DevOps ou l'intégration web, nous voulons vous rencontrer.
+
+Si travailler avec d’autres Développeurs intelligents et passionnés vous motive plus que vous effraie, nous voulons vous rencontrer.
+
+Si vous privilégiez le code simple, élégant et performant, aux solutions trop astucieuses, nous voulons vous rencontrer.
+
+Que vous ayez peu ou énormément d'expérience, si vous êtes passionné par la technologie et sa capacité à simplifier notre vie, merci de faire parvenir votre candidature.
+
+Nous offrons le télétravail illimité tout en offrant un espace de bureau situé au centre-ville de Montréal.

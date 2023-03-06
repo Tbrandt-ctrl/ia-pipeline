@@ -1,0 +1,86 @@
+About Us
+
+
+
+
+INAMAX Powered by Ultra is a family of companies that bring innovative, entertaining experiences to retail.
+
+
+
+
+Ultra is a Class B Master License Holder and a provider of Coin Operated Amusement Machines (COAM) to businesses throughout Georgia. Ultra is an exclusive provider of Titan, a reloadable Player Card System that enhances the player experience and reduces friction for the retailer.
+
+
+
+
+INAMAX is a management consulting firm operating multiple gaming and retail companies across several states. We offer retailers the expertise needed to add or improve current terminal gaming operations, such as COAM, VLT, and VGT. We help our partners successfully manage risk while adding a highly profitable revenue stream and leveraging underutilized space.
+
+
+
+
+Position Summary
+
+
+
+
+We are looking for an enthusiastic Junior Software Developer to join our software design team. The Junior Software Developer will report directly to the engineering manager and assist with all functions of software design, coding and bug fixing. The primary focus will be to learn the codebase, gather user data, and respond to requests from the engineering team. To ensure success as a junior software developer, you should have a good working knowledge of basic programming languages & algorithms, the ability to learn new technology quickly, and the ability to work in a team environment.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Assist the Engineering Manager with all aspects of software design and coding.
+Attend and contributing to company development meetings
+Learn the codebase and improving your coding skills
+Write and maintain code
+Work on minor bug fixes
+Monitor the technical performance of internal systems
+Respond to requests from the development team
+Gather information from applications-servers about program functionality
+Write reports
+Conduct development tests
+Work with other members of the R&D team to develop and implement new programs, as well as find improvements to existing programs
+Recommend future improvements to the company’s growing list of projects under development
+Utilize source code management system (currently Azure DevOps)
+Provide technical knowledge to assist technicians in field and development teams
+Develop code that meets standards, design and architectural requirements
+Understand the impact of changes across the application
+Enhance and maintain existing application software, continually providing support for internally developed applications
+Accurately communicate development status on a regular basis
+Assist the production support team in defect analysis
+Other programming and IT duties as required
+
+
+
+
+Qualifications & Experience
+
+
+
+
+Bachelor’s degree in Computer Science or similar field
+1 - 3 years’ experience
+Knowledge of basic coding languages including C++, HTML5, C#, .NET and JavaScript
+Basic programming knowledge
+Good understanding of data structure and algorithms
+Basic knowledge of debugging and unit testing
+Knowledge of relational databases
+Ability to learn new software and technologies quickly
+Problem solving skills & ability to learn quickly
+Ability to work independently with confidence
+Drive to produce top quality work in a fast-paced environment
+
+
+
+
+Powered by JazzHR
+
+
+
+
+J2V2ldmiqB
+Show more

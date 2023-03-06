@@ -1,0 +1,30 @@
+En tant que développeur logiciel chez Mirego, tu travailles chaque jour à créer des applications innovantes qui ont pour ambition de changer le monde, à petite ou grande échelle. Tu n’as pas peur des défis et tu es toujours à l'affût des dernières nouveautés en matière de développement. Tu éprouves une grande fierté à livrer d’excellents produits et services; c’est pourquoi tu aimes t’entourer des meilleurs afin de toujours en apprendre davantage.
+
+TES FUTURS ACCOMPLISSEMENTS
+
+Informer et divertir via les applications de Bell Fibe TV et les applications de TV5Unis;
+Alimenter la passion des fans de hockey via l’application du Canadien de Montréal;
+Repenser l’épicerie via les applications de Sobeys-IGA;
+Donner accès à un médecin 24-7 via l’application de télémédecine Olive;
+Planifier et simplifier des sorties en motoneige via l’application BRP GO! de BRP;
+Faciliter la recherche et la découverte de vins et spiritueux via l’application de la SAQ;
+Assurer un service d’information régionale via l’écosystème de journaux numériques de CN2i-Omerlo;
+Bâtir la pharmacie de demain via l’écosystème de Familiprix
+
+TON QUOTIDIEN
+
+Tu collabores à la conception et à la réalisation de produits numériques de calibre mondial (applications mobiles, applications Web et services Cloud Native);
+Tu participes aux cérémonies agiles et tu as ton mot à dire sur l’évolution des produits, peu importe ton rôle dans l’équipe;
+Tu enrichis l’équipe avec tes connaissances;
+Tu contribues à créer des expériences utilisateurs exceptionnelles.
+
+CE QU'IL TE FAUT
+
+Tu es passionné et toujours orienté vers les résultats. Tu es capable d’évaluer et gérer les priorités et tu as une bonne capacité à analyser et comprendre les situations.
+Tu as une expérience de travail variée et tu es familier avec les frameworks modernes Web ou mobiles.
+Tu as des connaissances Elixir, Kotlin, Swift, Ruby, TypeScript, Java, React ou GraphQL (ou pas, pourvu que tu veuilles apprendre !);
+Tu as la volonté de bâtir des produits et services de haute qualité;
+Tu es autonome et proactif ;
+Ton savoir-faire et ton savoir-être contribuent à rendre l’équipe meilleure;
+Tu as un minimum d’expérience en développement logiciel;
+Tu as une connaissance approfondie des concepts fondamentaux de design, de développement orienté objet (ou de développement fonctionnel!) et tu as un intérêt pour la programmation réactive.

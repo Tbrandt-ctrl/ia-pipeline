@@ -1,0 +1,65 @@
+Idea Entity, a Microsoft Gold Partner, is a global change management consulting firm committed to delivering customer outcomes that change the way business is done. We are looking for a Full Stack Application Developer who will assume a key role on our team. This role has responsibility to support the objectives of the Surgeon General and the DHA principles within Resource Management, the RM office has been tasked to provide enduring and adaptable internal business solutions in various areas within DHA. To do this, the Resource Management office requires a unique set of skillsets and dedicated CME to perform these business process initiatives.
+
+We are looking for candidates who are team players, with a passion for software development and technology, as well as a results-oriented approach. The ideal candidate is an avid communicator and life-long learner, who is eager to contribute to the team's success. This project may represent a new set of challenges that will provide the right candidate exposure to new clients, new business issues, as well as will involve a range of responsibilities.
+
+This role will be operating on-site out of San Antonio, TX (Ft. Sam Houston). Due to the nature of this role, US Citizenship-Green Card Work Authorization is required and is not eligible for sponsorship.
+
+Requirements
+
+Responsibilities
+
+Develop, create, and modify general computer applications software or specialized utility programs.
+Design software or customize software for client use with the aim of optimizing operational efficiency.
+Test and deploy web applications that meet project requirements.
+Obtain data for automation from standard resources.
+Partners closely with business analyst, other senior developers, and manager on all projects.
+Evaluate detailed business, functional, and mid-level technical requirements including recovery, security, and compliance.
+Recognize and understand the use of design patterns at a basic to intermediate level.
+Identify support issues and initiate action to resolve them.
+Provide technical assistance relating to developed applications.
+Create logical data modeling for basic to intermediate application database requirements.
+May analyze and design databases within an application area, working individually or coordinating database development as part of a team.
+Convert logical models into physical data models for basic application databases.
+Implement basic to intermediate queries, scripts and database jobs.
+Ensure acceptable use of system resources and application performance.
+Troubleshooting, researching, and resolving complex technical issues.
+Write, maintain, and update technical documentation and other related system documentation outlining application overview and process flow.
+
+
+Minimum Qualifications:
+
+Prior experience with Web and mobile applications development using .Net, .Net Core. C#, MVC4-5.
+Experience with .Net 4.5-4.7, Linq, C#, ASP.net, CSS3, CanvasJs, JavaScript, JSON, jQuery, Angular, Node, AJAX, HTML5, Bootstrap 3-4, Razor, MVC5, and Web APIs and responsive web design.
+Knowledge of Agile-SCRUM methodologies and test driven development.
+Knowledge and experience of relational database schemas including XML and SQL, including writing and maintaining SQL stored procedures and SSIS packages
+Must be proficient in the use of Microsoft Visual Studio 2012+, use of Team Foundation Server and TCM, and source control applications such as Git
+Must be familiar with DISA Application STIG's and secure coding principles with regards to application development within the DoD environment.
+Knowledge of Shell scripting, any scripting language (Python, Ruby, PHP or other)
+Security + certification or ability to obtain within 6 months of hire date.
+Demonstrated ability to self-direct, prioritize, and manage multiple tasks and priorities.
+Exceptional communicator with both technical and nontechnical audiences.
+Strong interpersonal skills with ability to collaborate effectively in cross-functional teams.
+Demonstrated ability to solve challenging technical problems with innovative solutions.
+Customer service oriented and approachable.
+
+
+Preferred Qualifications:
+
+Experience with Electronic Health Records-Electronic Medical Records (EHR-EMR).
+Prior DoD experience.
+
+
+At Idea Entity, we work hard every day to nurture an inclusive culture where employees feel valued and like they belong. We are an Equal Opportunity Employer and employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military-veteran status or other characteristics protected by law.
+
+Benefits
+
+Competitive Health Care Plan (Medical, Dental & Vision)
+Retirement Plan (401k, IRA) with employer match
+Paid Time Off (Vacation and Sick)
+All Federal Public Holidays as PTO
+Training & Development opportunities
+Work From Home hybrid schedule
+
+
+At Idea Entity, we work hard every day to nurture an inclusive culture where employees feel valued and like they belong. We are an Equal Opportunity Employer and employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military-veteran status or other characteristics protected by law.
+Show more

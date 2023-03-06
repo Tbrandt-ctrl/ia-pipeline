@@ -1,0 +1,56 @@
+EnergyBot is a digital marketplace disrupting the billion-dollar energy industry. Focused on building an online platform to enable small businesses to find the best energy plan for their business, EnergyBot is a tech startup that is now building a team of technology, product, sales, and marketing experts.
+
+We are looking for software engineers who are interested in working in a fast moving agile startup.
+
+Ideal candidate would be interested in working as a full-stack engineer with experience in one or more of the following areas:
+
+Front-end frameworks (Vue.js - React - AngularJS)
+Back-end (API - Microservices - Batch processing)
+DevOps (Terraform - AWS - Azure - Google Cloud)
+Databases (MongoDB - Cassandra - Oracle - PostgreSQL - Aurora)
+Analytics - Machine Learning
+
+
+Responsibilities
+
+Develop quality software and web applications
+Analyze and maintain existing software applications
+Design highly scalable, testable code
+Discover and fix programming bugs
+
+
+Minimum Qualifications
+
+1+ years of relevant software development experience
+Proficiency in Java, Kotlin, or JavaScript
+Exposure to cloud environments like AWS, Azure, or Google Cloud
+Ability to quickly pick up new concepts and technologies fast
+Have a learning mindset and be proactive about technical growth
+Good understand of design and integration patterns
+Understanding of high-availability, fault-tolerant, scalable and distributed systems
+Should embrace team first culture
+Works in a friction free manner with cross-functional team
+Knowledgable about Agile development and TDD
+Bachelor’s degree in Computer Science or related discipline
+
+
+Must be authorized to work in the United States. This position does not offer sponsorship.
+
+No 3rd party agencies - we are not using recruiters for this role.
+
+Work location: Plano, TX (Hybrid)
+
+What’s in it for You?
+
+Competitive salary and bonus compensation
+Great benefits
+Fun start-up environment
+Tons of room for growth
+
+
+About EnergyBot
+
+Disrupting the energy market and helping small businesses find the best energy plan is a mission that inspires us daily. It gets us up in the morning and keeps us up at night. And just in case we need an extra dose of energy during the day, we like to take a moment and revel in the fact that we are building a new company from the ground up. From a competitive salary to comprehensive health insurance, you’ll find plenty of benefits and perks that reflect our appreciation for all of the thinking and doing that goes on here at EnergyBot.
+
+Website: https:--www.energybot.com
+Daha fazla göster

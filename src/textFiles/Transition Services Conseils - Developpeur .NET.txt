@@ -1,0 +1,77 @@
+(English will follow)
+
+Description
+
+Transition Services Conseils est presentement � la recherche de plusieurs Developpeur .NET pour se joindre � notre equipe. Si vous êtes une personne autonome et qui se nourrit de defis, alors cette offre demploi est exclusivement pour vous!
+
+Qui sommes-nous ?
+
+Transition Services Conseils œuvre � titre de partenaire-conseils dans le domaine de la transformation numerique et des ressources informationnelles depuis plus de 18 ans. Nous offrons une gamme elargie de services en gestion et en optimisation des TI et des organisations.
+
+La personne qui se joindra � nous aura la chance de travailler pour un employeur de choix au sein d’une equipe reconnue pour son expertise de haut niveau. Transition offre un milieu � echelle humaine alliant gestion de proximite et opportunites de developpement professionnel accelere.
+
+Vos responsabilites
+
+Dans le cadre du developpement ou de l’entretien de la solution logicielle :
+
+Participer, avec les membres de l’equipe, � l’estimation des histoires du carnet de commandes (carnet de produit);
+Realiser, en collaboration avec les membres de l’equipe, le decoupage des histoires en tâches (unites de programmation);
+Effectuer la programmation des tâches (unites de programmation);
+Documenter la programmation;
+Realiser les essais unitaires;
+Participer activement � la qualite du code produit (documentation, revue de code, propriete collective du code);
+Realiser la mise en place du developpement pilote par les tests TDD et du developpement pilote par le comportement BDD;
+Livrer la solution logicielle de manière incrementale;
+Demontrer les resultats obtenus au terme de chacune des iterations;
+Entretenir et faire evoluer la notion de termine;
+Soutenir les membres de l’equipe responsables des essais Fonctionnels Integres Inter-Système (FIIS);
+Soutenir les utilisateurs dans leurs essais d’acceptation;
+Participer � la realisation des essais systèmes et inter-systèmes;
+Participer � la mise en place et l’implantation des solutions;
+
+Transition Services Conseils is currently looking for a . NET Developer to join our team. If you are an independent person who thrives on challenges, then this job is for you!
+
+Who are we?
+
+Transition Services Conseils has been a consulting partner in digital transformation and information resources for over 18 years. We offer a wide range of IT and organizational management and optimization services.
+
+The selected candidate will have the opportunity to work for an employer of choice, within a team recognized for its high-level expertise. Transition offers a people-centred environment that combines proximity management with accelerated professional development opportunities.
+
+Your Responsibilities
+
+Development or maintenance of software solutions:
+
+Along with team members, participate in the estimation of backlog stories (product backlogs)
+Breakdown stories into tasks (programming units) with team members
+Execute software solutions
+Carry out task programming (programming units)
+Document programming
+Conduct unit tests
+Participate actively in ensuring the quality of the code produced (documentation, code review, collective ownership)
+Implement test-driven development (TDD) and behaviour-driven development (BDD) practices
+Deliver software solutions incrementally
+Demonstrate the results achieved at the end of each iteration
+Maintain and develop the concept of completion
+Support the team members responsible for Inter-System Integration Testing
+Support users in acceptance testing
+Participate in the system and inter-system testing
+Implement solutions
+
+Profil
+
+Detenir un Baccalaureat ou un DEC en informatique ou dans un domaine connexe. Un resultat devaluation comparative des etudes effectuees hors du Quebec ou une preuve de demande en cours sera demandee pour une scolarite effectuee � letranger.
+Maîtriser une des demarches methodologiques de developpement agile de type Scrum, Scrumban, kanban, DAD ou SAFE;
+Maîtriser le developpement et l’entretien de systèmes dans un environnement .Net et WEB avec une architecture repartie selon les standards de Microsoft;
+Maîtriser les concepts d’ingenierie Iogicielle (reusinage de code (refactoring), automatisation des essais, integration continue, livraison continue, developpement pilote par les tests (TDD), developpement pilote par le comportement (BDD), propriete collective du code, revue de code, programmation en binôme, techniques de simulacres (mocking), etc.);
+Avoir des connaissances en programmation dans un environnement .Net utilisant entre autres : VB, C#, Visual Studio (ILS, ASP, etc.) ou des connaissances en programmation JAVA utilisant entre autres :JAVA, Javascript, Angular 4.0 et + ainsi que Jasmine;
+Avoir de l’experience avec les concepts orientes objet et certaines des technologies suivantes : MVC5, MVW, AJAX, REST-SOAP, Bootstrap, JQuery, JSON etc.);
+Avoir des connaissances de Team Foundation Server (TFS) 2012 ou d’une version plus recente ou d’un autre outil de gestionnaire de source dont les fonctionnalites sont similaires � TFS (exemple GIT).
+A bachelor’s degree or a Diploma of College Studies (DCS) in computer science or a related field. For studies completed abroad, a comparative evaluation of studies completed outside of Quebec or proof of current application is required.
+Solid knowledge of one of the agile development approaches, such as Scrum, Scrumban, Kanban, DAD, or SAFE
+A strong ability to develop and maintain systems in a .NET and Web environment with a distributed architecture, in accordance with Microsoft standards
+Solid knowledge of software engineering concepts (refactoring, automation of testing, continuous integration, continuous delivery, Test-Driven Development [TDD], Behaviour-Driven Development [BDD], collective code ownership, code review, pair programming, mocking techniques, etc.);
+Knowledge of programming in a .NET environment using, among others, VB, C#, Visual Studio (ILS, ASP, etc.), or knowledge of JAVA programming using, among others, JAVA, JavaScript, Angular 4.0 or later, as well as Jasmine
+Experience with object-oriented concepts and some of the following technologies: MVC5, MVW, AJAX, REST-SOAP, Bootstrap, JQuery, JSON, etc.
+Knowledge of Team Foundation Server (TFS) 2012 or later, or other source manager tools with functionality similar to that of TFS (e.g. GIT)
+
+Mostrar más�زيد

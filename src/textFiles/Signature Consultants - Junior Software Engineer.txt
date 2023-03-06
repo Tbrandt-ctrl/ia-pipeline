@@ -1,0 +1,138 @@
+Job Summary:
+
+
+
+Signature Consultants is seeking a Junior Software Engineer for an opportunity with a client located in Austin, TX.
+
+
+
+
+
+
+
+Responsibilities:
+
+
+
+Understand and perform basic analysis of previously written software, and be able to modify, develop, and maintain the code
+Carry out security, bug-fixing, and app improvement (i.e. detect, investigate, and fix defects)
+Participate in design discussions, code walkthroughs, review sessions, and accept constructive feedback; also be happy to review the work of colleagues
+Perform complex development tasks with a high level of quality, and within scheduled timeframes
+Participate in daily Scrum meetings
+Communicates effectively with peers to relay the status of work and raise challenges, concerns, questions, and issues when necessary
+Collaborate with the Customer Support and Marketing teams to understand, investigate, and resolve any reported issues and-or implement new ideas
+
+
+
+Qualifications:
+
+
+
+
+In-depth and advanced knowledge of HTML and CSS
+Intermediate knowledge of SQL
+Any web programming framework experience is encouraged to apply (please note we utilize Ruby on Rails)
+Minimum of 1 year of development experience on a team (this can include internship experience)
+Someone who is willing to learn a new framework and put in the work to help the team at large
+TDD knowledge and familiarity
+B.S. degree is a preferred qualification, but it is not required
+
+
+
+
+
+
+
+About DISYS Signature Consultants, LLC
+
+
+
+Headquartered in Fort Lauderdale, Florida, Signature Consultants was established in 1997 with a singular focus: to provide clients and consultants with superior staffing solutions. For the ninth consecutive year, Signature was voted as one of the "Best Staffing Firms to Work For" and is now the 14th largest IT staffing firm in the United States (source: Staffing Industry Analysts). With 28 locations throughout North America, Signature annually deploys thousands of consultants to support, run, and manage their clients' technology needs. Signature offers IT staffing, consulting, managed solutions, and direct placement services. For more information on the company, please visit www.sigconsult.com. Signature Consultants is the parent company to Hunter Hollis and Madison Gunn.
+
+
+
+EEO Employer
+
+
+
+Signature Consultants is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Signature will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at or 888.838.1020.
+
+
+
+
+Desired Skills and Experience
+
+Job Description
+
+We are looking for an enthusiastic, results-driven individual who is easily adaptable and ready to join our team as a Junior Software Developer. The ideal candidate is a self-motivated individual who enjoys learning new things and likes to keep up with new technologies and developments not only for product enhancement but also for personal and professional development. As a software developer, you will work closely with the company's CTO, Development, and Marketing teams, to design, develop and implement software solutions that align with the company's goals including functional and non-functional requirements for new or existing applications.
+
+
+
+If you are looking for an exciting new opportunity where your efforts will be appreciated and appropriately compensated, please read on :)
+
+
+
+Responsibilities
+
+Understand and perform basic analysis of previously written software, and be able to modify, develop, and maintain the code
+Carry out security, bug-fixing, and app improvement (i.e. detect, investigate, and fix defects)
+Participate in design discussions, code walkthroughs, review sessions, and accept constructive feedback; also be happy to review the work of colleagues
+Perform complex development tasks with a high level of quality, and within scheduled timeframes
+Participate in daily Scrum meetings
+Communicates effectively with peers to relay the status of work and raise challenges, concerns, questions, and issues when necessary
+Collaborate with the Customer Support and Marketing teams to understand, investigate, and resolve any reported issues and-or implement new ideas
+
+
+Qualifications
+
+In-depth and advanced knowledge of HTML and CSS
+Intermediate knowledge of SQL
+Any web programming framework experience is encouraged to apply (please note we utilize Ruby on Rails)
+Minimum of 1 year of development experience on a team (this can include internship experience)
+Someone who is willing to learn a new framework and put in the work to help the team at large
+TDD knowledge and familiarity
+B.S. degree is a preferred qualification, but it is not required. We encourage applicants of all backgrounds to apply
+
+
+Perks
+
+Competitive compensation based on experience
+Generous Paid Time Off Policy (20 days) and Sick Leave
+Company Laptop (Apple Macbook Pro) and Phone
+Flexible learning opportunities
+Modern Co-Working space in a Private Suite in Downtown Austin (WeWork at 600 Congress Ave)
+The excitement of a start-up structure with the stability of an established business
+
+
+This is a fully in-office role, remote work is not an option
+
+
+
+About Signature Consultants
+
+
+
+
+
+
+Signature Consultants, a Digital Intelligence Systems, LLC (DISYS) company, was established in 1997 with a singular focus: to provide clients and consultants with superior staffing solutions. Signature annually deploys thousands of consultants to support, run and manage their clients' technology needs. Signature offers IT staffing, consulting, managed solutions and direct placement services. For more information on the company, please visit https:--www.sigconsult.com.
+
+
+
+
+
+
+
+EEO Employer
+
+
+
+
+
+
+
+Signature Consultants is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Signature will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at hr@sigconsult.com or 888.838.1020.
+
+
+
+Tunjukkan lagi

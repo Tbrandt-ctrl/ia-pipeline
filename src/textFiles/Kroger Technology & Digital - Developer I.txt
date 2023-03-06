@@ -1,0 +1,55 @@
+Position Summary:
+
+The Developer is responsible for designing, developing, testing, debugging, maintaining and documenting software components in accordance to Software Development Life Cycle (SDLC) best practices. The Developer participates in the application technical design process and completes estimates and work plans for design, development, implementation, and rollout tasks. The Developer also communicates with the appropriate teams to ensure that assignments are delivered with the highest of quality and in accordance to standards. The Developer strives to continuously improve the software delivery processes and practices. Role model and demonstrate the company's core values of respect, honesty, integrity, diversity, inclusion and safety of others.
+
+
+
+
+Current tools and technologies include (insert one of the following):
+
+Java developers: Java, J2EE, SQL, JSF, Stripes, Struts, Hibernate, JPA, Spring, Acegi Security, JBoss, Websphere, DB2, Informix, Eclipse, Ant, Maven, JDBC, JUnit, Eclipse
+
+ColdFusion developers: ColdFusion, SQL, Fusebox, CFCs, WebSphere, PERL, Eclipse, Ant, Maven, CFC Unit
+
+.NET developers: Microsoft .NET, Commerce Server 2007, BizTalk, AD-AM, Sharepoint 2007-MOSS, NUnit, MBUnit, TFS, OOD.
+
+All web developers should be familiar with HTML, JavaScript, XML, AJAX, CSS, JMS, UML and have some SQL development experience with SQLServer, Informix and-or DB2
+
+Mainframe and Midrange developers: ANSI C (or C++), Unix-AIX, PERL, Cobol, CICS and MVS Informix (or other Relational DB), Embedded SQL, kshell, make, gdb, gcc and Eclipse.
+
+ETL developers: Ab Initio, shell scripts
+
+Business Intelligence developers
+
+
+
+
+Essential Job Functions:
+
+Create technical system documentation and ensure that this documentation remains current throughout all phases of the SDLC.
+Communicate timely status, including any potential risks-issues to the appropriate teams to ensure that assignment releases are managed appropriately and that completed assignments are of the highest quality.
+Support and maintain applications utilizing required tools and technologies. Provide support for applications, including involvement with the Support Center, NOC, Infrastructure teams, and vendors as appropriate. Provide off-hours support (24 x 7) as required.
+Must be able to perform the essential functions of this position with or without reasonable accommodation.
+Work within proprietary content management systems to build and optimize web and mobile digital experiences for evolving business needs.
+Perform quality assurance checks before releasing content to production.
+Monitor marketing promotional calendars and work with internal business partners to develop, update, and launch content.
+
+
+
+
+Minimum Position Qualifications:
+
+Proven communication and presentation skills to effectively communicate information to customers and to all levels within the organization
+Ability to interact well in a team environment.
+Passing score on a selected entry test for new hires. (Test selected based on project requirements.)
+Must have previous experience using a content management system.
+Must be flexible and ready to adapt timelines and change content as necessary, as well as be able to catch grammatical, image, and other site errors before they release to production.
+
+
+
+
+Desired Previous Job Experience:
+
+Bachelor's degree in IS or related equivalent work experience in an Information Systems position.
+Experience in adjacent technologies.
+Show more

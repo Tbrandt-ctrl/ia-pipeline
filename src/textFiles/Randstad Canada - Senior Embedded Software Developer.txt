@@ -1,0 +1,52 @@
+Vous avez envie de reussir au sein d'une equipe de recherche et developpement à l'ambiance familiale situe à Saint-Eustache et vous souhaitez contribuer activement à leur croissance continue tout en jouant un rele essentiel en tant que Developpeur embedded senior? Alors le poste de developeur embedded senior dans un environnement dynamique et dans une entreprise internationale a Saint-Eustache en pleine croissance est fait pour vous. Le Developpeur embedded senior qui travaillera au sein de l'equipe RD de la societe qui est situe Saint-Eustache jouera un rele essentiel dans le developpement de differents produits revolutionnaires passionnants en C-C++ embedded.
+
+Avantages
+
+Un salaire competitif et des avantages concurrentiels
+Une assurance collective et un programme REER
+4 semaines de vacances des la premiere annee d'emploi et des jours flexibles durant l'annee
+Un lieu de travail dynamique et une entreprise en pleine croissance
+Un environnement de travail familial conçu pour leurs employes et un parking gratuit
+Developpement professionnel continu et possibilite d'evoluer et de faire partie de differents projets.
+
+
+Responsabilites
+
+Responsable de tout ou partie d'un projet en C-C++ embedded
+Participer à des projets tres stimulants qui meneront à la prochaine generation de systemes.
+Travailler dans une equipe de personnes motivees et competentes qui ont à cœur de realiser un excellent produit.
+Contribuer au development de projets et faites partie d'une equipe qui cree des systemes innovants et stables.
+
+
+Qualifications
+
+Au moins 5 ans d'experience professionnelle en C-C++.
+Une passion pour travailler dans des methodologies organisees, avec des revues de code, et documenter regulierement votre code.
+Vous vous sentez à l'aise avec la plupart des termes suivants : RTOS, MCU, RS-485, RS-232, circuits analogiques-numeriques, protocoles
+
+
+RF, IP, Git, Agile, schemas, reseau, IaaS, cryptage de donnees.
+
+Un dipleme en informatique, en ingenierie informatique similaire
+Communication bilingue ou uniquement en anglais
+Avoir la passion d'amener les concepts à la realite grâce à votre expertise et voir les projets jusqu'à leur materialisation.
+Une experience prealable dans des secteurs tels que la securite, le traitement du signal, la detection de mouvement, le contrele d'acces, les capteurs, les communications ou l'electronique grand
+
+
+public est attendue ou constitue un atout.
+
+Interêt au-delà de vos connaissances de base et desir d'apprendre et d'enseigner dans un environnement d'equipe, par exemple, Linux embarque, bases de donnees relationnelles et non
+
+
+relationnelles (SQL, MongoDB), et autres langages de programmation est un plus.
+
+Sommaire
+
+Le rele t'interesse? N'hesite pas à appliquer et-ou à envoyer ton CV au ayad.nahas@randstad.ca
+
+Au plaisir!
+
+Randstad Canada s'engage à favoriser une main-d'œuvre representative de toutes les populations du Canada. Nous nous engageons en consequence à developper et à mettre en œuvre des strategies pour promouvoir l'equite, la diversite et l'inclusion dans toutes nos spheres d'activite en examinant nos politiques, pratiques et systemes internes tout au long du cycle de vie de notre main-d'œuvre, y compris au niveau du recrutement, de la retention et de l'avancement pour tout individu. En plus de notre profond engagement sur le respect des principes des droits de la personne, nous nous engageons à prendre toute mesure positive pour influer sur les changements à mettre en place en vue de garantir la participation de tout individu dans le monde du travail et ce, sans obstacle, systemique ou autre, en particulier pour les groupes en quête d'equite generalement sous-representes dans la main-d'œuvre au Canada, y compris les personnes qui s'identifient comme femmes ou personnes non-binaires-non conformes au genre, les Peuples et communautes autochtones, les personnes en situation de handicap (visible ou invisible), les personnes faisant partie des minorites visibles, les personnes racisees et des communautes LGBTQ2+.
+
+Randstad Canada s'engage à creer et à maintenir un milieu de travail inclusif et accessible pour toutes les personnes candidates et employes en soutenant leurs besoins d'accessibilite et d'accommodation tout au long du cycle de vie de l'emploi. Nous demandons à toutes les personnes demandeuses d'emploi de bien vouloir identifier leurs besoins en matiere d'accommodation en envoyant un courriel à accessibilite@randstad.ca pour s'assurer de leur capacite à participer pleinement au processus d'entrevue.
+Mehr anzeigen

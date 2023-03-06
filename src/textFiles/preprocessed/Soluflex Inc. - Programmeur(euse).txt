@@ -1,0 +1,26 @@
+ACE est une entreprise manufacturière québécoise qui conçoit et fabrique des solutions technologiques fiables pour les gestionnaires d'opérations de déneigement. Depuis plus de 20 ans, ACE a fait sa renommée en offrant simplicité, proximité, expertise et paix d'esprit à ses clients. Ces valeurs sont à la base de sa culture d'entreprise, en faisant d'elle un employeur apprécié, loyal et fidèle.
+
+Nos conditions et avantages :
+- Poste à temps plein et hybride (au bureau et en télétravail)
+- Autonomie et prise en charge complète des projets
+- Très grande flexibilité au niveau des horaires de travail
+- 18 jours de vacances dès l'embauche
+- Ambiance familiale
+- Un environnement de travail dynamique, convivial et sans stress
+- Un salaire entre 60K$ et 100K$ (selon les compétences)
+
+Nous avons besoin de vous pour :
+- Travailler sur des projets de développement et d'optimisation de nos produits, ainsi que sur des systèmes embarqués.
+- Mettre à contribution votre créativité et vos idées pour l'avancement des projets de programmation.
+- Participer à la conception, l'architecture, le design et le visuel de nos produits.
+- Faire une réelle différence dans une entreprise en pleine expansion.
+
+Le profil que nous recherchons :
+- Être habile avec les langages de programmation suivants : C, C++, base de données SQL, Lite, QML, QT, Can BUS
+- Avoir un certain intérêt pour l'électronique
+- 5 années d'expérience en programmation
+- Un bon esprit d'analyse et de synthèse
+- Avoir un bon esprit d'équipe
+
+Requirements :
+- C, C++, base de données SQL, Lite, QML, QT, Can BUS

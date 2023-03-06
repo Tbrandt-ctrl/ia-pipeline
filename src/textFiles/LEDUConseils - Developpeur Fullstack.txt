@@ -1,0 +1,17 @@
+Notre client est une entreprise qui developpe une solution innovante qui permet aux distributeurs de denrees alimentaires de reduire significativement leur empreinte ecologique. Pour poursuivre son ambitieux projet, elle desire completer son equipe actuelle en embauchant un-e Developpeur-euse Fullstack d’experience pour qui l’innovation represente un element essentiel dans un contexte professionnel. Le teletravail est inscrit dans l’ADN de l’entreprise depuis quelques annees dejà!
+
+Fonctions
+
+Contribuer à toutes les phases du cycle de developpement dans un contexte Agile.
+Participer à l’application des meilleures pratiques en matiere de developpement Fullstack.
+Developper un code performant respectueux de grandes contraintes de securite.
+Élaborer et realiser les differentes strategies aux essais.
+Collaborer etroitement avec des collegues d’autres secteurs pour assurer le succes du projet.
+
+Competences
+
+Baccalaureat dans le domaine des TI ou l’equivalent
+Cinq annees d’experience en developpement Web (Fullstack)
+Maîtrise de technologies telles React, PosgreSQL et AWS
+Experience en environnement Agile
+Mostrar mas

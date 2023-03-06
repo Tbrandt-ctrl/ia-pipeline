@@ -1,0 +1,102 @@
+L'equipe :
+
+Situee dans la ville de Quebec, l’equipe de Edge OS offre un appareil de pointe gere par le nuage et sans contact permettant la livraison, la gestion et la surveillance des applications Genetec chez nos clients.
+
+Nous cherchons un Developpeur logiciel � l’aise avec le developpement embarque ou le developpement logiciel ayant une bonne comprehension des principes fondamentaux, notamment des systèmes d’exploitation, des reseaux, de la conteneurisation et de la securite. Vous pourriez jouer un rôle-cle au sein d’une petite equipe enthousiaste et sympathique de developpeurs logiciel qui visent � creer une plateforme robuste, fiable, securisee et moderne basee sur le système d’exploitation Linux ainsi qu’un ensemble de services de gestion de base.
+
+Si vous être curieux, aimez être expose � une grande variete de technologies, avec de l’interêt pour comprendre comment les choses fonctionnent sous le capot et que vous avez un talent pour resoudre des anomalies de systèmes complexes, nous aimerions vous rencontrer!
+
+À quoi ressemblera votre journee :
+
+Participer � la conception, � la planification, au developpement, aux tests et � la livraison de tous les composants de la plateforme au sein d’une equipe Agile
+Bâtir, personnaliser et maintenir � jour des distributions Linux � l’aide de Yocto et de differents langages de script
+Developper des services de gestion et des daemons systèmes, principalement dans Rust
+Contribuer � l’amelioration de notre infrastructure de version et au processus de gestion et de mise � jour des versions
+Examiner de nouvelles technologies, methodologies et composantes et preparer des tests pour valider et affiner des analyses techniques
+Collaborer etroitement avec les membres de votre equipe pour recueillir et offrir de façon proactive de la retroaction, des conseils techniques et de l’expertise
+
+
+Votre profil :
+
+Baccalaureat en genie logiciel, en informatique ou experience equivalente
+Experience en developpement des systèmes embarques ou dans la programmation de systèmes (C, C++, Rust, Go ou equivalent)
+Connaissance du système d’exploitation Linux et de ses composantes (services, outils, etc.)
+Experience avec l’ecriture de scripts (Bash, Python ou equivalent)
+Experience en DevOps ou avec les processus de deploiements
+Excellente connaissance des concepts de reseautage (routage, pare-feu, etc.) et des protocoles (DNS, DHCP, etc.)
+Forte capacite d’analyse et resolution de problèmes
+Capacite � apprendre rapidement et � prendre en charge son travail de façon autonome
+
+
+Encore mieux si vous possedez ces atouts :
+
+Experience avec Yocto
+Experience avec Rust ou Erlang
+Experience avec tous les aspects du cycle de developpement de systèmes embarques-iOT (conception, livraison, mise � jour, depannage) et de la gestion des terminaux
+Connaissance des principes de cybersecurite et des meilleures pratiques de developpement de systèmes securises
+Connaissance des concepts et des composantes des sequences de demarrage (UEFI, TPM, bootloaders, secure boot, initramfs, etc.)
+Experience avec les technologies de conteneurisation telles que Docker et Kubernetes
+
+
+Voil� ce que nous offrons !
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Équilibre entre vie professionnelle et vie privee grâce � un horaire de travail flexible
+
+
+Si vous souhaitez savoir � quoi ressemble l’environnement de travil chez Genetec, voici le lien vers notre video d’entreprise : Culture � Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises � soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+
+The team:
+
+Based in Quebec City, the Edge OS team is responsible for delivering a cloud-managed, zero-touch edge appliance to enable the frictionless delivery, management, and monitoring of Genetec applications at our customers' sites.
+
+We are looking for a Software Developer comfortable with embedded or systems programming and a good grasp on fundamentals such as operating systems, networking, containerization, and security. You could become a key part of a small, enthusiastic, and friendly team of software developers aiming to create a rugged, reliable, secure, and modern platform composed of a Linux-based operating system and a set of core management services.
+
+If you are naturally curious, enjoy having exposure to a large variety of different technologies, interested in understanding how things work under-the-hood and have a knack for troubleshooting complex systems anomalies – we'd love to talk with you!
+
+What your day will look like:
+
+As part of an Agile team, participate in the design, planning, development, test, and delivery of all components of the platform
+Develop, customize, and maintain a Linux distribution using Yocto and various scripting languages
+Develop management services and system daemons primarily in Rust
+Work on improving our build infrastructure and take part in the build & release management process
+Explore new technologies, components and methodologies and set up experiments to validate and refine technical analyses
+Collaborate closely with your teammates to both actively seek and provide feedback, technical guidance, and expertise
+
+
+About you:
+
+Bachelor’s degree in Software Engineering, Computer Science or equivalent experience
+Experience in embedded software development or systems programming (in C, C++, Rust, Go or equivalent)
+Knowledge of the Linux operating system and its components (services, tooling, etc.)
+Experience with scripting (in Bash, Python or equivalent)
+Experience with DevOps or build tooling and processes
+Excellent knowledge of networking concepts (routing, firewall, etc.) and protocols (DNS, DHCP, etc.)
+Strong analytical and debugging skills
+Fast learner who wants personal responsibility and authority over their work
+
+
+Great if you have:
+
+Experience with Yocto
+Experience with Rust or Erlang
+Experience with the embedded-IoT firmware development lifecycle (build, release, update, troubleshooting) and fleet management
+Knowledge of cybersecurity principles and secure system development best practices
+Knowledge of the boot sequence concepts and components (UEFI, TPM, bootloaders, secure boot, initramfs, etc.)
+Experience with containerization technologies such as Docker and Kubernetes
+
+
+Let's talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Work-life balance with a flexible working schedule
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Please note that only qualified candidates will be contacted for an interview. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+Show more

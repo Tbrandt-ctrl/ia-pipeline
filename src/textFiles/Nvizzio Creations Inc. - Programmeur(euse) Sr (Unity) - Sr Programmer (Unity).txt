@@ -1,0 +1,101 @@
+Description de l'entreprise
+
+
+
+
+Depuis 2010, nous creons des jeux iconiques grâce � une excellence creative, � une execution efficace et � une attention inegalee aux details. Au debut de 2015, nous avons separe les equipes de developpement de jeux Funcom � Montreal dans le but d’offrir ce que très peu de nos concurrents peuvent: l’energie, l’agilite, la creativite et une discipline sans faille combinees pour offrir qualite, rapidite et divertissement.
+
+
+
+
+Since 2010, we make iconic live games through creative design excellence, efficient execution and unparalleled attention to detail. In early 2015, we spun off Funcom’s game development teams in Montreal with a view to offer what very few of our competitors can: Energy, agility, creativity and flawless discipline combined to provide quality, speed and fun
+
+
+
+
+Description du poste
+
+
+
+
+Le Programmeur Sr Unity est responsable de la construction de jeux pour differentes plateformes cibles basees sur l’engin Unity. Les responsabilites principales du Programmeur Unity consistent � implementer une fonctionnalite de jeu traduisant des idees, des concepts et des exigences de conception en un jeu fonctionnel et engageant. Un engagement envers la resolution collaborative de problèmes, le design sophistique et la qualite du produit est essentiel.
+
+
+
+
+Concevoir, developper et maintenir des systèmes de jeux de base
+Utiliser des dispositifs de codes de jeu avec C#-C++ en combinaison avec plusieurs langages de script
+Implementer la fonctionnalite du jeu selon la conception communiquee
+Traduire les specifications de conception en un jeu fonctionnel
+Diagnostiquer et resoudre les problèmes pour ameliorer les aspects visuels du jeu
+Collaborer avec les concepteurs de jeux et les artistes pour determiner diverses contraintes et etablir les meilleures solutions pour chaque element
+Concevoir, construire et maintenir un code efficace, reutilisable et fiable
+S’assurer de la meilleure performance, qualite et reactivite possible des applications
+Identifier les bogues et concevoir des solutions pour resoudre et attenuer ces problèmes.
+Aider � maintenir la qualite, l'organisation et l'automatisation du code.
+Optimiser le code du jeu
+
+
+
+
+The Sr Unity Programmer is responsible for building games for various target platforms based on the Unity framework. The Unity Programmer primary responsibilities will be to implement game functionality translating design ideas, concepts, and requirements into a functional and engaging game. A commitment to collaborative problem solving, sophisticated design, and a quality product are essential.
+
+
+
+
+Design, develop, and maintain the core game systems
+Code game-play features in C#-C++ in combination with multiple scripting languages
+Implement game functionality as per communicated design
+Translate design specification into functional game
+Diagnose and resolve troubles to improve the visual aspects of the game and gameplay
+Collaborate with the game designers and artists to determine various game constraints and establish best solutions for each element
+Design, build, and maintain efficient, reusable, and reliable code
+Ensure the best possible performance, quality, and responsiveness of applications
+Identify bottlenecks and bugs, and devise solutions to address and mitigate these problems
+Help maintain code quality, organization, and automatization
+Optimize game code when needed
+Qualifications
+
+
+
+
+Demontrer une efficacite dans l’utilisation de C#
+Minimum 2 annees d’experience professionnelle de developpement de jeux
+Forte connaissance de Unity 3d Game Engine
+Experience avec NUnit, SCons, Visual Studio, Subversion
+Connaissance utilises des logiciels de design (UML, Design Pattern, etc.)
+Organise, autosuffisant et aime travailler en equipe
+Familier avec programmation 3D (OpenGL or DirectX)
+Familier avec la programmation de scripts (LUA, AS3, Python) est un atout
+Experience avec iPad-iPhone (iOS), Android est un atout
+Demonstrated proficiency in C#
+Minimum 2 years of professional game development experience
+Strong knowledge of the Unity 3d Game Engine
+Experience with NUnit, SCons, Visual Studio, Subversion
+Knowledge in software design (UML, Design Pattern, etc.)
+Organized, self-reliant and a team player
+Familiar with 3D programming (OpenGL or DirectX)
+Familiar with scripting programming (LUA, AS3, Python) would be an asset
+Experience with iPad-iPhone (iOS), Android would be an asset
+
+
+
+
+Informations complementaires
+
+
+
+
+Excellents avantages pour les employes (assurance collective, jours de maladie, etc)
+Possibilite de progression de carrière
+Environnent de travail dynamique et stimulant
+Opportunites de formation
+Culture du travail d’equipe
+Évènements sociaux
+Great employee benefits (Insurance package, sick days, etc)
+Possibility of advancement
+Dynamic and challenging work environment
+Training opportunities
+Team oriented culture
+Social events and gathering
+और दिखाएं

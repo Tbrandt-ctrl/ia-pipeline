@@ -1,0 +1,10 @@
+At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.
+
+We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.
+
+Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript-TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.
+
+Why Join MixRank? Fully-remote, no HQ office. Team of 31 people across US, CA, MX, CO, CR, IN, UK, NO, RU, KZ, BD, AT. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.
+
+Please include your updated resume when applying for this role.
+Show more

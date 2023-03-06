@@ -1,0 +1,90 @@
+Role title: Junior S-W Developer
+
+Location: Fremont, CA
+
+
+
+
+What the role entails
+
+(Key Responsibilities)
+
+1. Developing the codebase, improving coding skills with best
+
+practices, writing and maintaining code, and working on major and
+
+minor bug fixes.
+
+2. Participating in code reviews and quality assurance activities
+
+3. Work in an agile environment to deliver high-quality software.
+
+4. Experience with distributed, multi-tiered systems, algorithms, and
+
+relational databases.
+
+5. Assist the development manager with all software design and
+
+coding aspects and contribute to Project development meetings.
+
+Effectively articulate technical challenges and solutions.
+
+6. Adept at handling ambiguous or undefined problems and the ability to think abstractly.
+
+
+
+
+What we are looking for in you
+
+(Skills, Knowledge, Special Attributes, Mobility)
+
+IT Experience of one year or more (Other than internship jobs) for this software development engineer role.
+
+Languages: Java, Python Full Stack developers with Frontend Skills using
+
+Angular, React JS, Microservices Application developers
+
+Experience working with an Agile team, methodologies, and tools (e.g.,
+
+Jira-Rally)
+
+Creation and development of relational database schemas and SQL
+
+Familiarity with software engineering support systems and tools (e.g.,
+
+Bitbucket, Git, VS, TFS, Postman)
+
+DevOps experience would be an advantage.
+
+
+
+
+Experience & education Minimum qualifications
+
+
+
+
+Bachelor’s or master’s degree in Computer Science, Computer Engineering, Information Systems, Data Analytics, or Cyber Security majors with minimum 1 yr of working experience into developemen.
+
+
+
+
+About STL Digital
+
+STL Digital is a global IT services and consulting company that enables enterprises and industries to experience the future of digital transformation. With an end-to-end portfolio of services across product engineering, software, cloud, data and analytics, enterprise application services and cyber-security, STL Digital works with global businesses to deliver innovative experiences and operational excellence with agility. To learn more, visit https:--www.stldigital.tech
+
+STL Digital is a wholly owned subsidiary of STL (Sterlite Technologies Limited), one of the industry's leading integrators of digital networks that transforms everyday lives by bringing the best digital experiences to billions across the world. With core capabilities in Optical Interconnect, Virtualized Access Solutions, Network Software and System Integration, STL is the industry’s leading end-to-end solutions provider for global digital networks. For more information, visit https:--www.stl.tech
+
+STL is committed to investing in the holistic health and wellbeing of all STLers and their families. Our benefits and perks programs include, but are not limited to:
+
+Competitive medical, dental and vision coverage
+Competitive 401(k) Plan with a generous company contribution with immediate vesting
+Paid Time Off, paid holidays, parental leave and more
+Protection Plans including; Life Insurance, Disability Insurance and EAP
+Employee discounts to be used on what matters most to you, whether that’s tech gadgets, wellness, childcare, travel and much more.
+
+All applicants must be authorized to work in the US.
+
+STL is an equal opportunity employer; committed to a culture of inclusion, and an environment free from discrimination, harassment, and retaliation. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via your recruiter.
+
+Show more

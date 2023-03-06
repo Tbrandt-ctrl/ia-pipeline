@@ -1,0 +1,45 @@
+About PhAST
+
+PhAST is a venture-backed AI healthcare startup developing computer vision technology for rapidly diagnosing antibiotic resistance. Our platform provides clinical decision support for doctors, workflow improvement for hospitals, and helps accelerate the drug development process for pharmaceutical companies. Company headquarters are located in the biotech innovation hub of Boston (USA), the data analysis team is based in Zurich, and a clinical validation team is based in Seoul. This opening is for a position in the Boston, Massachusetts headquarters.
+
+Job Description
+
+PhAST is seeking a junior software engineer to join the software team as a developer able to work on multiple distinct software systems:
+
+A device has been developed that will be used in medical labs. It accepts patient samples and records microscopy videos, then uploads them to an AWS-based cloud system for analysis. The GUI used by lab technicians, the software to operate the device and acquire the videos, and the software to upload the data to the cloud are all being developed in-house at PhAST.
+
+The AWS-based cloud system will process and manage all metadata and media. The algorithms used to analyze the media are being developed by PhAST’s data science team, but it will be the software team that integrates these algorithms into the cloud system.
+
+A web application is being developed that will allow customers to see the results of PhAST’s assays and to download them into the hospital database.
+
+Being able to work across the device, the cloud processing system and the web application is important. Because this is a junior position, it is not expected that a candidate be experienced in all three types of work. Experience with one or two is sufficient as long as the candidate is able to learn on the job and become proficient in all three areas over time.
+
+The candidate will have the opportunity to work as part of a highly interdisciplinary and vibrant team, to learn a full range of software engineering skills from embedded device programming to cloud programming to web applications, and to make a direct contribution to the solution of one of society’s most pressing healthcare concerns, antibiotic resistance.
+
+Responsibilities
+
+Assist in the development of software for all three parts of the PhAST software system
+
+Assist in writing test code (both unit and integration tests) for the system
+
+Provide help to the QA team to develop manual test plans
+
+Qualifications
+
+Education Required: minimum Bachelor's Degree in Computer Science or related discipline
+
+Strong coding skills in Java and-or Python
+
+Experience With AWS Or Other Cloud Platform Is Helpful
+
+Experience with embedded systems is helpful
+
+The intent of this job description is to provide a representation and level of the types of duties and responsibilities that will be required of positions given this title and shall not be construed as a declaration of the total of the specific duties and responsibilities of any particular position. Employees may be directed to perform job-related tasks other than those specifically presented in this description.
+
+The position is available immediately. Salary and equity compensation will be commensurate with experience. The candidate must be legally eligible to work in the United States. If interested, please email your resume and a cover letter to careers@phast.ai.
+Daha fazla göstere and a cover letter to careers@phast.ai.
+
+
+
+
+Show more

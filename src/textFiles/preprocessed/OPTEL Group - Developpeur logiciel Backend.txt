@@ -1,0 +1,32 @@
+OPTEL est une entreprise internationale qui développe, pour des clients basés, pour la plupart, à l’extérieur du Canada, des solutions logicielles, intergicielles et matérielles transformatrices permettant de sécuriser et d'assurer la conformité de la chaîne d'approvisionnement dans les plus grands secteurs de l'industrie tels que le pharmaceutique et l'alimentation et ce, dans le but de réduire les effets des changements climatiques et de favoriser les modes de vie durables. Si vous êtes guidé, tout comme nous, par des valeurs socio-éco-environnementales et que participer à la résolution des plus grands enjeux auxquels notre monde est confronté actuellement vous interpelle, voici comment vous pouvez nous aider : 
+
+Pourquoi rejoindre notre équipe ? 
+
+S’épanouir professionnellement dans une organisation internationale où des perspectives d’évolution sont possibles compte tenu de la taille de nos équipes et de la diversité des produits et langages ;
+Évoluer au sein d’une équipe multidisciplinaire et autonome, qui pratique l’agilité depuis plus de 6 ans, et dans laquelle ta curiosité et ta créativité seront encouragées ;
+Participer à la solution en apportant tes idées, afin de contribuer ensemble à la construction d’un monde meilleur pour les générations futures.
+
+Ton Rôle
+
+Chez Optel, les développeurs écrivent plus que du code : ils participent à toutes les phases du développement, du design à l’implémentation, en proposant des solutions innovantes aux défis logiciels. Dans une ambiance agile, nos équipes multidisciplinaires comprennent un product owner, un scrum master, un architecte, un responsable qualité et des développeurs. De l’évaluation des tâches à la libération d’une nouvelle version, tout se fait en équipe dans un seul but : livrer des produits de qualité en tenant les engagements !
+
+Au sein d’une de nos escouades, tu contribueras au développement de notre produit de traçabilité (application web), qui centralise l’ensemble des données des différentes lignes d’un site de production.
+
+Responsabilités principales
+
+Développer, maintenir et améliorer notre application web et les services qui s’y rattachent,
+Créer et maintenir les tests automatisés et unitaires,
+Effectuer de la modélisation sur des ensembles de données,
+Contribuer au déploiement du produit et des services, et s’assurer de son bon fonctionnement,
+Apporter le soutien technique nécessaire pour le produit et services, et leur déploiement,
+Effectuer une veille technologique et proposer des solutions qui permettent l’atteinte des objectifs de l’équipe,
+Proposer de nouveaux outils et méthodes de travail pour s’améliorer continuellement,
+Participer aux activités d’équipe et apporter ta contribution !
+
+Exigences
+
+Tu as une excellente connaissance du Python 3 avec un minimum de 5 années d’expérience en développement logiciel.
+Tu es autodidacte et tu as une capacité à résoudre des problèmes,
+Tu connais le TDD et l'automatisation de tests
+Tu es capable de collaborer et est ouvert aux commentaires des membres de ton équipe sur ton code
+Tu comprends bien les béné

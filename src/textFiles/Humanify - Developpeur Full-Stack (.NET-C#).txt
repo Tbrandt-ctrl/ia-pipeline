@@ -1,0 +1,44 @@
+Job Donnee
+
+L’equipe d’Humanify est fiere de contribuer au succes de son client, acteur majeur du secteur du commerce de detail, en l’accompagnant dans ses recherches d’un nouveau :
+
+Developpeur(e) motive(e), fiable et equipier(ere) consciencieux(se)
+
+Une jeune startup montrealaise, formee d’une dizaine de cerveaux determines à revolutionner le marche des presentations. Notre produit est une application web novatrice Software as a Service (SAAS), destinee aux createurs de presentations et dont le lancement est prevu en 2022. Nous effectuons aussi plusieurs mandats de developpement applicatif en tous genres.
+
+Nous sommes à la recherche de talents afin de joindre notre aventure entrepreneuriale et d’avoir la chance de participer à un projet innovant dans un contexte dynamique. Vous aurez directement acces à des gens d’experience autant dans le domaine technique que la gestion des affaires. Nous travaillons fort à la realisation de notre projet d’entreprise, mais nous croyons en une culture de collaboration dans une atmosphere professionnelle, decontractee et flexible.
+
+Technologies privilegiees pour ce poste : .NET-C#, JavaScript,Typescript, Java, Python, SQL,Node.js, React.js, Docker, Azure, ElasticSearch et CircleCI.
+
+Annees dexperience requise : 2 à 6 ans
+
+RESPONSABILITÉS
+
+Nous sommes à la recherche de Developpeurs passionnes par la programmation qui apprecient travailler dans une culture de collaboration avec des collegues talentueux et centres sur la livraison d’applications innovantes et de qualite.
+
+Votre Engagement
+
+Faire preuve d’ouverture d’esprit en evaluant les solutions à un probleme ;
+Respecter vos collegues et travailler en collaboration plutet qu’en solitaire ;
+Developper continuellement vos aptitudes techniques et interpersonnels ;
+Approcher avec enthousiasme les defis de toutes sortes, peu importe la technologie requise ;
+Aider vos pairs aux meilleurs de vos capacites afin de toujours ameliorer le niveau de l’equipe.
+
+Profil
+
+À PROPOS DE VOUS
+
+Si apprendre et realiser des defis est plus important que l’assurance de travailler seulement sur le back-end, le front-end, les outils DevOps ou l’integration web, nous voulons vous rencontrer.
+
+Si travailler avec d’autres Developpeurs intelligents et passionnes vous motive plus que vous effraie, nous voulons vous rencontrer.
+
+Si vous privilegiez le code simple, elegant et performant, aux solutions trop astucieuses, nous voulons vous rencontrer.
+
+Que vous ayez peu ou enormement d’experience, si vous êtes passionne par la technologie et ça capacite à simplifier notre vie, merci de faire parvenir votre candidature.
+
+Nous offrons le teletravail illimite tout en offrant un espace de bureau situe au centre-ville de Montreal.
+
+Requirements
+
+À PROPOS DE VOUS Si apprendre et realiser des defis est plus important que l’assurance de travailler seulement sur le back-end, le front-end, les outils DevOps ou l’integration web, nous voulons vous rencontrer. Si travailler avec d’autres Developpeurs intelligents et passionnes vous motive plus que vous effraie, nous voulons vous rencontrer. Si vous privilegiez le code simple, elegant et performant, aux solutions trop astucieuses, nous voulons vous rencontrer. Que vous ayez peu ou enormement d’experience, si vous êtes passionne par la technologie et ça capacite à simplifier notre vie, merci de faire parvenir votre candidature. Nous offrons le teletravail illimite tout en offrant un espace de bureau situe au centre-ville de Montreal.
+Daha fazla göster

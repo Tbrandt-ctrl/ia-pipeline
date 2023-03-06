@@ -1,0 +1,82 @@
+Joignez-vous � une equipe gagnante !
+
+Contribuez � bâtir l'avenir du developpement web!
+
+Si vous êtes presentement un etudiant qui se dirige vers une carrière en developpeur web, nous avons une opportunite incroyable pour vous!
+
+Ce stage vous donne la chance d'acquerir de l'experience dans le domaine de web developpement en faisant partie d’une equipe dynamique et axee vers les resultats!
+
+Si vous cherchez � travailler entre 30 et 35 heures par semaine nous avons l'opportunite qui va satisfaire vos attentes!
+
+Nous offrons un stage de 3 mois non-renumere en tant que Developpeur Web Front-End qui peut être accredite aux etudiants qui sont presentement en voie d’obtenir un diplôme en informatique. Nous recherchons un(e) developpeur web pour notre bureau situe dans le vieux port de Montreal , qui travaillera en etroite collaboration avec le Superviseur et l’equipe de developpeurs web pour realiser l’ensemble des activites de web developpement.
+
+Avec la possibilite de permanence, ce stage de niveau d'entree est une excellente opportunite qui offre une formation intensive et de multiples possibilites d’apprentissage pratique!
+
+Pourquoi postuler ?
+
+Pour travailler sur des projets innovants autour de thèmes du developpement web front-end.
+Se former et apprendre avec une equipe innovante !
+Environnement de travail ideal, au cœur du centre-ville de Montreal, l'une des meilleures villes etudiantes au monde.
+Et aussi....bel equilibre entre vie professionnelle et vie privee, horaires flexibles.
+
+Programme de Stage de Workland
+
+Nos stages offrent aux stagiaires un parcours excitant pour contribuer � la nouvelle technologie, produits innovantes et avoir un veritable impact sur le monde des affaires. En tant que membre de notre equipe, vous allez agrandir vos competences techniques et votre reseautage professionnel exponentiellement tout en travaillant avec les meilleurs et les plus brillants au monde!
+
+Workland est une entreprise de recrutement en plein essor situee dans le Vieux-Port de Montreal. Nous recherchons des personnes uniques pour rejoindre une equipe très dynamique de jeunes professionnels. Ceci est une excellente opportunite de stage comme developpeur web front-end qui peut être credite aux etudiants pour l’obtention de leurs diplômes, leur offrant une formation intensive et de nombreuses opportunites d'apprentissage pratique!
+
+De plus, nous travaillerons avec le candidat pour creer un horaire flexible adapte � ses etudes et � ses engagements personnels.
+
+C'est certainement une opportunite pour vous de nous montrer ce que vous pouvez faire!
+
+Description De Tâches
+
+Êtes-vous le candidat ideal ? Nous recherchons une personne qui....
+
+Doit être un etudiant en voie d’obtention d’un DEC, AEC, Certificat, Baccalaureat en informatique ou programme connexe OU être eligible de participer dans un programme de stage approuve par le Ministère de l’Éducation
+Peut creer des conceptions attrayantes et transparentes qui ameliorent l'experience de l'utilisateur
+A une forte passion pour la technologie et un interêt pour l'apprentissage de nouvelles choses
+A la capacite de travailler de façon autonome et en collaboration dans un environnement en evolution rapide
+A une bonne gestion du temps, agit de façon professionnelle et demontre de l'ethique du travail
+Est ponctuel et fait preuve d'attention aux details
+Est capable de communiquer en anglais et en français (bilingue)
+
+Avez-vous les competences techniques ? Nous recherchons quelqu'un qui possède d'excellentes connaissances dans les domaines suivants :
+Requis:
+ReactJS 16.8+ (comfortable avec hooks)
+JavaScript (ES2015 - ES6+)
+HTML - HTML5
+CSS - CSS3
+Bootstrap 5 - Responsive web design
+Atouts:
+Accessibilite (WCAG de base)
+Redux - Redux toolkit
+AngularJS 1
+SCSS-SASS
+Webpack - Rollup, Docker
+
+Voici Ce Que Vous Feriez � Chaque Semaine
+
+Creer et developper de nouvelles fonctionnalites sur le front-end
+Maintenir des caracteristiques actuelles
+Collaborer avec les autres membres de l'equipe
+Aider au processus d'examen des codes
+Ameliorer l'aspect general des sites Web
+Identifier les problèmes - risques et trouver des solutions
+
+Montez � Bord Et Vous Aurez En Prime
+
+Environnement de travail collaboratif
+Cours gratuits d'apprentissage Udemy fournis
+
+N'oubliez pas qu'� Workland, les règles sont simples :
+
+Travaillez fort, montrez votre devouement
+Respectez vos collègues
+Travailler en equipe
+Et bien sûr, amusez-vous !
+
+� Propos De Workland
+
+Workland cree des « matchs » parfaits entre nos clients qui recrutent et des professionnels talentueux. Propulse par un algorithme et une equipe de specialistes qualifies, Workland a conçue une nouvelle dynamique de recherche d’emploi grâce � un processus qui permet d’assurer un maximum de compatibilite entre le profil, les preferences et aspirations des candidats et les caracteristiques et besoins des employeurs. Suivez nos opportunites uniques au jour le jour en activant votre profil Workland dès aujourd’hui et assurez-vous de recevoir une alerte »Match! » lorsqu’une offre correspond � vos competences et ambitions!
+Mostrar más�زيد

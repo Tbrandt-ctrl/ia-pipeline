@@ -1,0 +1,44 @@
+Full Stack Developer (Data Scientist). Currently seeking a Full Stack web Application Developer in Herndon, VA to work on a suite of services that will supply users with tools to automate a wide range of enterprise-wide Information Management mission activities. The candidate will be part of a team of software developers and data scientists to enhance existing production applications and build out new web services on a routinized production cadence to meet the evolving needs of users. This is an exciting opportunity for applications developers wanting to broaden their credentials in the realm of artificial intelligence and machine learning (AI-ML). Development will take place in an iterative fashion using scrum techniques with inputs from all levels of stakeholders. The candidate must have the ability to communicate with project team members, user community, and leadership to assess changes and demonstrate iterative progress.
+
+
+
+
+TS-SCI and poly clearance is required.
+
+
+
+
+This position will include a variety of activities, including:
+
+
+
+
+Integrating AI-ML technology into a production web application.
+Participation with iterative software development teams with adherence to all reporting requirements
+Designing, developing and unit testing code for a production system and demonstration capabilities
+Developing rapid prototypes to drive out requirements and design
+Providing demonstrations and detailed walk through of features to a variety of technical and non-technical audiences
+Meeting with stakeholders, analyzing requirements, developing user stories, and translating these into software development tasks
+Working with systems engineers to specify and design the final system
+Development of technical documentation and briefing materials to support program status reviews, control gates, and other presentations as directed.
+Demonstrated experience with building web applications in the Java Spring framework.
+Demonstrated experience with building web applications using the Angular 2+ framework
+Demonstrated experience working in Linux (Bash) shell scripting
+Demonstrated experience with development and deployment of applications in the Commercial Cloud Services (C2S) environment or an Amazon Web Services cloud environment
+Demonstrated experience with Solr or ElasticSearch
+Demonstrated experience to cleanse and process (Extract, Transform, Load - ETL) large raw data sets.
+Demonstrated experience developing web-based platforms and services to perform data analytics on large data sets
+Demonstrated ability to design, develop, test and implement new applications based on project requirements
+Demonstrated experience working in a project team (3-5 developers) with experience in decomposing concepts to discrete development tasks and managing your work to a deadline
+Bachelor’s degree in Computer Science, Math, or other relevant field and minimum of six years of experience (Master’s degree equates to an additional 2 years of relevant work experience)
+
+
+
+
+Powered by JazzHR
+
+
+
+
+Jq0dbTQiIX
+Show more

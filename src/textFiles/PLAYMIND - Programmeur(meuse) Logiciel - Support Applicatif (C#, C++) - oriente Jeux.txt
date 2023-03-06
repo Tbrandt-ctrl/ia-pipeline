@@ -1,0 +1,170 @@
+Programmeur(meuse) Logiciel - Support Applicatif (C#, C++) - oriente Jeux Video
+
+English will follow
+
+
+
+
+Depuis 15 ans, PLAYMIND se specialise dans la conception, la realisation et le developpement de medias numeriques. En combinant l’analyse strategique et la conception rapide de prototypes utilisant les nouvelles technologies, nous concevons et realisons des applications et des jeux mobiles et consoles, des installations interactives ou encore des environnements immersifs.
+
+
+
+
+Voilà ta chance de faire partie du core-team d’un produit unique à echelle mondiale. Viens mettre ton plein potentiel à l'œuvre et façonner le futur de notre plateforme de jeu immersive et interactive.
+
+Nous avons presentement des ouvertures pour des postes TEMPS-PLEIN PERMANENT en programmation de niveau intermediaire ou senior.
+
+
+
+
+Principales tâches et responsabilites
+
+Vous travaillerez sur le backend et-ou le frontend de notre solution client, ainsi que sur les nouvelles integrations API et tierces parties, les tests et les revisions de code;
+Prendre en charge les incidents et problemes jusqu’à leur resolution;
+Votre mission consiste à ameliorer notre solution et à maximiser le rendement de notre produit. Tout ce que vous ferez devra porter sur l'experience utilisateur et la convivialite du produit;
+Concevoir une architecture cete client et cete serveur;
+Developper et gerer des bases de donnees et des applications fonctionnelles;
+Tester les fonctionnalites pour garantir la reactivite et l'efficacite;
+Creer des parametres de securite et de protection des donnees;
+Redaction de documentation technique.
+
+
+
+
+Competences requises
+
+Experience confirmee en tant que Developpeur à part entiere ou à un poste similaire;
+Experience avec les APIs .NET et maîtrise de C#, PowerShell;
+Bonne connaissance des bases de donnees (par exemple MySQL, MongoDB), des serveurs web (par exemple Apache) et de la conception d'interfaces utilisateur-UX;
+Experience LiveOps
+Maîtrise du systeme d’exploitation Windows, les services, les Firewalls et les bases de networking;
+Methodologie Agile dans la conception et developpement oriente par les Test (Test-Driven Development);
+Capable de rediger une documentation et une conception bien detaille des modules de systemes
+Experience dans le developpement d'applications mobiles et de bureau;
+Bonnes capacites d'organisation;
+
+
+
+
+Encore mieux si
+
+Connaissance de Unity et interêt pour le jeux video
+Connaissance de plusieurs bibliotheques et langages de pointe HTML-CSS-Javascript, XML, jQuery et PHP;
+Bonne connaissance des solutions communes;
+Excellentes competences en matiere de communication et de travail d'equipe;
+Un sens aigu du detail;
+L'esprit analytique;
+Licence en informatique, statistiques ou autre domaine pertinent (Dipleme d’une maîtrise, un atout);
+
+
+
+
+Avantages
+
+Mode de travail hybride;
+Projet engageant et innovant;
+Capacite à faire entendre sa voix au sein de l'entreprise, compte tenu de la taille reduite de nos equipes;
+Grande possibilite d'evolution de carriere au sein de l'entreprise dans notre studio en pleine croissance;
+Assurance de groupe;
+Programme de soin de sante en ligne;
+Environnement de travail agreable et dynamique;
+Studio situe dans la charmante Petite Italie de Montreal;
+Excellent esprit d'equipe;
+
+
+
+
+Étant un petit studio, les postulants ideaux seront enthousiastes à l’idee de participer au developpement d’une entreprise innovatrice où chaque voix et chaque talent sont reconnus.
+
+N’hesitez pas à nous envoyer votre CV accompagne d’une lettre de presentation !
+
+
+
+
+----
+
+
+
+
+Software Programmer - Application Support (C#, C++) - Video Games oriented
+
+English will follow
+
+
+
+
+For 15 years, PLAYMIND has specialized in the design, production, and development of digital media. By combining strategic analysis and rapid prototyping using new technologies, we design and build mobile and console games and applications, interactive installations, and immersive environments.
+
+
+
+
+This is your chance to be part of the core team of a unique product on a global scale. Come put your full potential to work and shape the future of our immersive and interactive gaming platform. We currently have openings for FULL-TIME PERMANENT programming positions at the intermediate and senior levels.
+
+
+
+
+Main tasks and responsibilities
+
+You will work on the backend and-or frontend of our client solution, as well as new API and 3rd party integrations, testing, and code reviews;
+Take ownership of incidents and issues until they are resolved;
+Your mission is to improve our solution and maximize the performance of our product. Everything you do should be focused on the user experience and usability of the product;
+Design client-side and server-side architecture;
+Develop and manage functional databases and applications;
+Test functionality to ensure responsiveness and efficiency;
+Create security and data protection settings;
+Writing technical documentation.
+
+
+
+
+Required Skills
+
+Demonstrated experience as a full-fledged developer or in a similar role;
+Experience with .NET APIs and proficiency with C#, PowerShell;
+Good knowledge of databases (e.g. MySQL, MongoDB), web servers (e.g. Apache), and UI-UX design;
+LiveOps experience
+Proficiency in Windows operating system, services, firewalls, and networking databases;
+Agile methodology in design and Test-Driven Development;
+Able to write well-detailed documentation and design system modules
+Experience in mobile and desktop application development;
+Good organizational skills;
+
+
+
+
+Even better if
+
+Knowledge of Unity and interest in video games
+Knowledge of several leading libraries and languages HTML-CSS-Javascript, XML, jQuery, and PHP;
+Good knowledge of common solutions;
+Excellent communication and teamwork skills;
+Strong attention to detail;
+Analytical mind;
+Bachelor's degree in computer science, statistics, or other relevant fields (Master's degree an asset);
+
+
+
+
+Benefits
+
+Hybrid work mode;
+Engaging and innovative project;
+Ability to make your voice heard within the company, given the small size of our teams;
+Great opportunity for career development within the company in our growing studio;
+Group insurance;
+Online health care program;
+Pleasant and dynamic work environment;
+Studio located in the charming Little Italy of Montreal;
+Excellent team spirit;
+
+
+
+
+Being a small studio, ideal applicants will be excited to participate in the development of an innovative company where every voice and talent is recognized.
+
+
+
+
+Do not hesitate to send us your CV with a cover letter!
+
+Show more

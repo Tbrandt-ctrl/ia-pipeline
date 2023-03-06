@@ -1,0 +1,43 @@
+Situe dans le cœur du Mile-End à Montréal, Alborea est une entreprise spécialisée dans le développement d'applications Web à usage industriel.
+
+Le poste - En Bref
+
+Poste permanent à temps plein (37,5-semaine). La personne retenue participera concrètement à la conception, la réalisation et le déploiement en suivant les dernières tendances logicielles, visuelles et technologiques. Elle sera amenée à mettre à profit ses compétences en développement applicatif Web en étroite collaboration avec les chargés de projets et le reste de l'équipe de développement logiciel.
+
+La personne idéale aura des compétences en gestion de projets et d’équipe, sera autonome, créative, sensible aux détails, curieuse et animée à explorer de nouvelles tendances, pistes et solutions.
+
+Les responsabilités
+
+- Communiquer et collaborer de manière constante avec le reste de l'équipe de développement logiciel et ses chargés de projets;
+- Créer des applications Web modernes, autant client que serveur;
+- Améliorer les performances et maintenir nos applications Web actuelles;
+- Concevoir des interfaces utilisateurs adaptatives (responsive design) suivant les normes;
+- Concevoir et mettre en place des stratégies de tests. 
+
+Les connaissances requises
+
+- Diplôme d'études en développement d'applications (Collégial ou universitaire) ou expériences équivalentes;
+- Minimum 5 ans d'expérience dans le domaine;
+- Solides compétences avec Angular (actuellement version 8.x) ou autres clients (React, Vue.js);
+- Maîtrise de JavaScript, HTML, CSS et Node.js;
+- Connaissances de PostgreSQL;
+- Connaissances de tests sur le Web (Protractor);
+- Pratique de développement Agile;
+- Bonnes aptitudes de communications et rigueur.
+
+Seront Jugés Comme Des Atouts
+
+- Expérience de développement dans le milieu industriel;
+- Expérience avec les frameworks serveur LoopBack (3.x ou 4.x)
+- Connaissances de DigitalOcean, AWS, IBM Cloud;
+- Bilinguisme (Français - Anglais).
+
+Les avantages que nous offrons et ce qui nous distingue
+
+C’est notre équipe, notre vision, notre authenticité et nos compétences. Chez nous, on carbure au dépassement et à l’ingéniosité. On célèbre les réalisations. On cultive la fierté. La hiérarchie, très peu pour nous : on valorise le talent au lieu des titres. On aligne nos passions avec nos réalisations. Ça vous parle ?
+
+De plus, cela comprend une couverture d’assurances collectives, un régime de retraite, une allocation si vous pratiquez du sport, une équipe dynamique et visionnaire.
+
+Faites parvenir une lettre de motivation et votre curriculum vitae à notre Service des ressources humaines à l’adresse suivante rh@alphard.com.
+
+L’usage du masculin est utilisé à des fins d’allégement de texte sans aucune discrimination. L’entreprise souscrit au principe d’équité en matière d’emploi. Le poste est ouvert à tous les candidats répondant aux critères spécifiés.

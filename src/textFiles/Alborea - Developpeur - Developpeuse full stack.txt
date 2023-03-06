@@ -1,0 +1,91 @@
+Groupe Alborea
+
+
+
+
+Situe dans le cœur du Mile-End à Montreal, Alborea est une entreprise specialisee dans le developpement d'applications Web à usage industrielles.
+
+
+
+
+Le poste - En Bref
+
+
+
+
+Poste permanent à temps plein (37.5-semaine). La personne retenue participera concretement à la conception, la realisation et le deploiement en suivant les dernieres tendances logicielles, visuelles et technologiques. Elle sera amenee à mettre à profit ses competences en developpement applicatif Web en etroite collaboration avec les charges de projets et le reste de l'equipe de developpement logiciel.
+
+
+
+
+La personne ideale aura des competences en gestion de projets et d’equipe, sera autonome, creative, sensible aux details, curieuse et animee à explorer de nouvelles tendances, pistes et solutions.
+
+
+
+
+Les responsabilites
+
+
+
+
+Communiquer et collaborer de maniere constante avec le reste de l'equipe de developpement logiciel et ses charges de projets;
+Creer des applications Web modernes, autant client que serveur;
+Ameliorer les performances et maintenir nos applications Web actuelles;
+Concevoir des interfaces utilisateurs adaptatives (responsive design) suivant les normes;
+Concevoir et mettre en place des strategies de tests.
+
+
+
+
+Les connaissances requises
+
+
+
+
+Diplemes d'etudes en developpement d'applications (Collegial ou universitaire) ou experiences equivalentes;
+Minimum 5 ans d'experience dans le domaine);
+Solides competences avec Angular (actuellement version 8.x) ou autres clients (React, Vue.js);
+Maîtrise de JavaScript, HTML, CSS et Node.js;
+Connaissances de PostgreSQL;
+Connaissances de tests sur le Web (Protractor);
+Pratique de developpement Agile;
+Bonnes aptitudes de communications et rigueur.
+
+
+
+
+Seront Juges Comme Des Atouts
+
+
+
+
+Experience de developpement dans le milieu industriel;
+Experience avec les frameworks serveur LoopBack (3.x ou 4.x)
+Connaissances de DigitalOcean, AWS, IBM Cloud;
+Bilinguisme (Français - Anglais).
+
+
+
+
+Les avantages que nous offrons et ce qui nous distingue
+
+
+
+
+C’est notre equipe, notre vision, notre authenticite et nos competences. Chez nous, on carbure au depassement et à l’ingeniosite. On celebre les realisations. On cultive la fierte. La hierarchie, tres peu pour nous : on valorise le talent au lieu des titres. On aligne nos passions avec nos realisations. Ça vous parle ?
+
+
+
+
+De plus, cela comprend une couverture d’assurances collectives, un regime de retraite, une allocation si vous pratiquez du sport, une equipe dynamique et visionnaire.
+
+
+
+
+Faites parvenir une lettre de motivation et votre curriculum vitae à notre Service des ressources humaines à l’adresse suivante rh@alphard.com.
+
+
+
+
+L’usage du masculin est utilise à des fins d’allegement de texte sans aucune discrimination. L’entreprise souscrit au principe d’equite en matiere d’emploi. Le poste est ouvert à tous les candidats repondant aux criteres specifies.
+Daha fazla göster

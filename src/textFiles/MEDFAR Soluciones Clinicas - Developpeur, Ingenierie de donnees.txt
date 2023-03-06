@@ -1,0 +1,83 @@
+Description de l'entreprise
+
+
+
+
+MEDFAR Solutions Cliniques a ete fondee en 2010 par deux ingenieurs aeronautiques qui ont realise que les systèmes de sante n'exploitaient pas le plein potentiel de la technologie. Soutenue par une vaste communaute d'experts medicaux et axee sur le succès des cliniques et la securite des patients, MEDFAR a ete la première entreprise � certifier un Dossier Medical Électronique infonuagique au Canada, MYLE (Make Your Life Easy).
+
+
+
+
+Engagee � promouvoir l'excellence et l'efficacite des soins de sante dans le monde entier, MEDFAR se differencie en offrant une solution de gestion de soins unique pour les cliniques, qui remplace les processus inefficaces par une alternative technologique plus rapide et plus securitaire.
+
+
+
+
+Description du poste
+
+
+
+
+Depuis 2010, les cliniques et leurs patients font confiance � MEDFAR Solutions Cliniques pour leurs donnees demographiques et medicales. L'evolution actuelle vers la medecine d’actualite et basee sur les donnees a fait en sorte que de plus en plus de professionnels du domaine de la sante cherchent � extraire des informations et � exploiter la puissance de leurs donnees afin de fournir des soins plus precis et personnalises.
+
+
+
+
+À titre de developpeur, ingenierie de donnees, vous serez au cœur de cette transformation. Vous aurez � comprendre les besoins de nos clients en matière d’analyse de donnees et � contribuer au developpement des produits MEDFAR pour y integrer l’intelligence d’affaires. Vous jouerez un rôle important au sein du departement R&D et innovation participant � la conception de la structure de la solution afin qu’elle soit bien adaptee aux besoins et � l’evolution de ceux-ci.
+
+
+
+
+Principales responsabilites
+
+
+
+
+Concevoir, developper et maintenir la solution d'agregation des donnees pour le système d’intelligence d’affaires de MEDFAR
+En partant de la solution actuelle qui permet de generer et mettre � jour la “data Warehouse”, faire evoluer la solution pour en ameliorer la maintenabilite, la qualite des donnees, la securite, la performance et la gestion de la croissance.
+Faciliter l’accès aux donnees pour les analystes et y ajouter les nouveaux modèles.
+Collaborer avec les equipes axees sur les produits, les equipes de fiabilite de site (SRE) et d’architecture principale pour mieux integrer les solutions d’intelligence d’affaires de MEDFAR dans ses offres.
+L'emploi du masculin dans nos communications designe autant les femmes que les hommes.
+
+
+
+
+Qualifications
+
+
+
+
+Études postsecondaires (cegep ou universite) dans le domaine du genie logiciel, un domaine connexe ou toute experience equivalente;
+Au moins 5 ans d'experience en tant que developpeur backend, ayant travaille avec des bases de donnees de façon extensive;
+Une formation en conception d'entrepôt de donnees (modelisation dimensionnelle) et en exploitation de donnees, ou tout autre domaine connexe;
+Comprehension approfondie des systèmes de gestion de bases de donnees, du traitement analytique en ligne (OLAP).
+Experience avec C#, SQL Server, .NET, un atout;
+Capacite � communiquer couramment en anglais.
+
+
+
+
+Informations complementaires
+
+
+
+
+Rejoindre les rangs de MEDFAR, c’est travailler dans un environnement dynamique où la confiance, l’innovation, la qualite et le succès client guident nos journees. Chez MEDFAR, nous promouvons l’efficacite et l’excellence en sante en offrant le dossier medical electronique (DMÉ) le plus performant sur le marche.
+
+
+
+
+Possibilite de teletravail;
+Culture entrepreneuriale;
+Bonus en fonction de la performance � tous les employes;
+Genereuse couverture d'assurance collective;
+Horaire flexible (conciliation travail et vie personnelle);
+Semaine de conge � Noël offerte;
+Activites sociales et sportives (suspendues en ce moment en raison de la pandemie);
+Environnement de travail dynamique et multiculturel;
+Notre bureau � Montreal (QC) est accessible en transport en commun et est � quelques pas des stations de metro Peel et Bonaventure;
+
+
+
+
+Mostrar más

@@ -1,0 +1,39 @@
+Vous aimez la technologie et les defis? MOON by Simaudio vous offre la possibilite de vous joindre à notre equipe dynamique à titre de Developpeur d’applications mobiles.
+
+En participant à rendre notre application mobile fonctionnelle, vous permettrez à de nombreux clients de configurer et contreler facilement leur appareil grâce à l’application MOON MiND Controller.
+
+Sommaire du poste
+
+Relevant du Directeur Recherche & Developpement, Vous serez responsable de la conception et de la realisation d’applications mobiles fonctionnant sur des tablettes et des telephones cellulaires. Vous integrerez une equipe dynamique utilisant les techniques modernes de developpement telles que la methodologie Agile et le traçage des erreurs.
+
+Donnee des principales responsabilites
+
+Vous participerez à la conception et à l’implementation des architectures techniques
+Vous developperez des interfaces graphiques modernes en collaboration avec le directeur Produits
+Vous examinerez les problemes rapportes et trouverez des solutions
+Vous offrirez un support technique au departement de service à la clientele
+Vous maintiendrez la compatibilite des implementations avec l’evolution de l’exigence des plateformes
+Vous assurerez le respect des exigences fonctionnelles et la qualite des fonctionnalites livrees par des plans de tests et l’integration continue
+Vous serez responsable de la planification et de la gestion de votre temps afin de rencontrer les dates d’achevements
+
+Competences Recherchees
+
+Vous êtes une personne autonome, methodique et perseverante
+Vous avez une approche professionnelle
+Vous êtes dispose à voyager à l’occasion
+
+Exigences
+
+Baccalaureat en informatique ou experience equivalente
+Experience en programmation mobile Android et iOS
+Maîtrise des concepts avances objet et bonne comprehension de C#, Java et Swift
+Experience en construction de vues natives Android et iOS
+Maîtrise du français et fonctionnel en anglais
+
+Atouts
+
+Connaissance de Xamarin - Visual Studio - Rider
+Experience en integration continue et Developpement pilote par les tests (TDD)
+Maîtrise de l’environnement .Net
+Bonne connaissance des techniques d’integration d’API RESTful
+और दिखाएं

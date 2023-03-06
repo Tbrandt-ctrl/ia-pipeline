@@ -1,0 +1,97 @@
+TÉLÉTRAVAIL À 95% + DÉPLACEMENTS PAYÉS***
+
+
+
+
+Situee � Trois-Rivières, la firme d’experts en technologies de l’information que nous representons est � la recherche d’un programmeur PHP afin de developper et de deployer des solutions web pour ses clients.
+
+
+
+
+Tu as soif de defis?
+Tu es innovateur?
+Tu partages les valeurs de l’entreprise : l’engagement, le travail d’equipe, l’innovation, l’excellence et l’amour du travail?
+
+
+
+
+ON A UNE PLACE POUR TOI DANS NOTRE ÉQUIPE!
+
+
+
+
+Voici Les Defis Qu'on Te Propose
+
+
+
+
+Proceder au developpement d’applications en PHP et deploiement sur les serveurs Linux
+Realiser des projets .NET 6 et C# et les deployer sur Google Cloud Platform (GCP) en utilisant des conteneurs docker sur Kubernetes
+Application de la certification SOC2
+Concevoir des interfaces utilisateur Web utilisant les plus recentes techniques de programmation (SPA Framework)
+Utiliser les differents types de chiffrement (confidentialite)
+Concevoir des librairies JavaScript autogenerees pour utiliser nos interfaces de programmation (APIs)
+Maintenir les environnements Web redondants permettant des accords de niveau de service (SLA) très eleve
+Integrer et deployer en continue (CI-CD) nos applications en utilisant des outils tels que AzureDevOps (Developpement agile entre les equipes de developpement et d’exploitation)
+
+
+
+
+Quelles sont les competences recherchees ?
+DEC ou BAC en informatique
+5 annees d’experience en programmation orientee objet avec PHP ou experience equivalente avec d’autres outils de developpement et de programmation et une capacite d’apprentissage (ASP.NET, Ruby, C#,…)
+Savoir programmer en SQL, VBA, C Sharp (C#) et HTML
+Bonne connaissance des interfaces Web HTML-CSS-Javascript
+Bonne connaissance d’un Framework SPA (ex. : VueJS)
+Connaissance minimale de Bash
+Bonne connaissance du SQL et bases de donnees relationnelles (MySQL)
+Minimum 1-2 ans d’experience en developpement Web
+Competences en programmation :
+PHP (Symfony)
+JavaScript (VueJS + Vuetify).
+Environnements de developpement integre (JetBrains, PhpStorm)
+Conception de tests unitaires
+Programmation orientee objet
+Linux- WSL
+CSS et le HTML (interfaces web)
+Logiciel de contrôle de source (Git)
+Bilinguisme fonctionnel
+
+
+
+
+Ce Que L’entreprise a � Vous Offrir
+
+
+
+
+Salaire TRÈS concurrentiel + BONI DE PERFORMANCE
+Possibilite de teletravail � 95% (en mode hybride)
+Environnement inspiration Google (terrasse, table de baby-foot, table de ping-pong, salle de repos,…)
+3 jours de conge maladie sans justification (24h de bonheur)
+Assurance complète incluant soins dentaires paye � 100% par l’entreprise
+REER + RPDB
+Stationnement et cafe gratuits
+Club social actif
+
+
+
+
+On attend ton votre cv en mentionnant le poste � : emploi@phenixgroupeconseil.ca
+
+
+
+
+ou appelez-moi pour en discuter : Dominic au 581-372-1067
+
+
+
+
+N'HÉSITES PAS À NOUS CONTACTER, TU NE SERAS PAS DÉÇU ;)
+
+
+
+
+>Vous pouvez nous rejoindre en dehors des heures normales de bureau.
+Vous connaissez une personne qui possède les talents indiques dans cet affichage? N’hesitez pas � me recommander cette personne sans attendre et profiter de notre programme de referencement pour une GÉNÉREUSE compensation.**
+और दिखाएं

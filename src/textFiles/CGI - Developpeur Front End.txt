@@ -1,0 +1,132 @@
+Donnee de poste
+
+
+
+
+Notre client du secteur municipal a entame un grand chantier visant à reviser ses reglements d’urbanisme et a saisi cette occasion pour revoir en profondeur sa reglementation dans le cadre d’une refonte complete.
+
+
+
+
+Afin de couvrir les besoins de developpement de la phase de construction du projet, le service
+
+
+
+
+de l’Innovation et des Technologies est actuellement à la recherche d’un Integrateur pour
+
+
+
+
+assurer l’integration, la coordination et le lead technique au sein du projet.
+
+
+
+
+La ressource identifiee collaborera etroitement avec le charge de projet, l’analyste d’affaires
+
+
+
+
+et les autres Developpeurs. Elle devra egalement, se coordonner avec la personne
+
+
+
+
+responsable de l’architecture TI.
+
+
+
+
+Fonctions et responsabilites
+
+
+
+
+Dans le cadre de ce projet, la methodologie Agile sera utilisee dans la mesure du possible.
+Le Developpeur assurera le developpement des livrables qui lui seront confies.
+Le livrable principal sera un site Web responsive. Incluant des fonctions de recherche tant dans des elements de textes, que des elements cartographiques ou mixtes. Il est possible que le Developpeur ait des API à developper ou utiliser pour connecter divers systemes lies au projet.
+
+
+
+
+Qualites requises pour reussir dans ce rele
+
+
+
+
+Maîtrise du developpement Back end
+Maîtrise du JavaScript, React, Gatsby (requis obligatoire!)
+Experience dans la realisation d’interface HTML5, CSS et JavaScript avec des cartes web (geospatial).
+Experience en React JS
+Experience TDD (test Driven Development)
+Experience pratique DevSecOps
+Experience avec le Web mapping (bonne connaissance d’une librairie : MapBox, Leaflet, ESRI JsAPI, ou Google)
+Experience avec les services REST securises par OpenID Connect
+Experience avec le developpement d’API en JavaScript
+Experience avec SQL Server
+Experience dans la gestion d’equipe de Developpeurs
+
+
+
+
+Technologies requises
+
+
+
+
+La maîtrise de la suite bureautique MS Office, Visio
+Gestionnaire de code source GIT, TFS
+Visual Studio Code ou equivalent
+NPM, YARN, NodeJS
+
+
+
+
+Competences - connaissances particulieres requises
+
+
+
+
+Experience de 5 ans minimum dans le domaine
+Experience de travail dans un projet en methodologie Agile
+Excellente connaissance du français, ecrit et oral
+Experience avec asp.Net Core
+
+
+
+
+Atouts
+
+
+
+
+Connaissance du domaine municipal
+Habilete à organiser et animer des groupes de travail
+
+
+
+
+Allier savoir et faire
+
+
+
+
+Alors que la technologie s’inscrit au cœur de la transformation numerique de nos clients, nous savons que les individus sont au cœur du succes en affaires.
+
+
+
+
+Lorsque vous rejoignez CGI, vous devenez un conseiller de confiance, collaborant avec vos collegues et clients pour proposer des idees exploitables qui produisent des resultats concrets et durables. Nous appelons nos employes "membres" parce qu’ils sont actionnaires et proprietaires de CGI. Ils ont du plaisir à travailler et à grandir ensemble pour bâtir une entreprise dont nous sommes fiers. C’est notre rêve depuis 1976. Il nous a menes là où nous sommes aujourd’hui – l’une des plus importantes entreprises independantes de conseil en technologie de l’information (TI) et en management au monde.
+
+
+
+
+Chez CGI, nous reconnaissons la richesse que la diversite nous apporte. Nous aspirons à creer une culture à laquelle nous appartenons tous et collaborons avec nos clients pour creer des communautes plus inclusives. En tant qu’employeur qui prene l’egalite des chances pour tous, nous voulons donner à tous nos membres les moyens de reussir et de s’epanouir. Si vous avez besoin d’un accompagnement specifique durant le processus de recrutement et d’integration, veuillez nous en informer. Nous serons heureux de vous aider.
+
+
+
+
+Prêt à faire partie d’une entreprise qui est gage d’excellence? Rejoignez CGI – où vos idees et vos actions changent la donne.
+
+और दिखाएं

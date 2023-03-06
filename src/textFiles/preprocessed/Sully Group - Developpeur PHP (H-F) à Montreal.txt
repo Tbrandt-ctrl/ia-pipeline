@@ -1,0 +1,34 @@
+Vous avez envie de prendre part à un beau challenge ? Nous avons certainement ce qu’il vous faut !
+
+Dans le cadre du développement de notre agence située à Montréal, nous recherchons des développeurs PHP confirmés (H/F). 
+Vous pourrez intervenir pour le compte de nos clients canadiens ou, depuis l'agence de Montréal, en collaboration avec notre Centre de services PHP basé en France.
+
+Vos missions :
+
+- Analyser et comprendre le périmètre ;
+- Produire un code facilement testable et bien testé ;
+- Effectuer des révisions de code ;
+- Respecter les normes et les engagements qualité ;
+- Prendre du recul sur les réalisations menées pour proposer des améliorations.
+
+Stack technique : 
+- PHP ;
+- Symfony ;
+- Méthodes agiles ;
+- Git ;
+- Maven ;
+- Sonar ;
+- SQL (PostgreSQL, Oracle…) ;
+- Docker ;
+- Micro services.
+
+Ce poste est à pourvoir en mandat de longue durée dès que possible et est basé à Montréal.
+
+Parlons de vous : 
+
+D’un naturel communicant, vous aimez travailler en équipe, vous êtes rigoureux et impliqué sur les projets. 
+Vous avez envie de développer et partager vos connaissances au sein d’une équipe conviviale et soudée. 
+Pour une prise de poste en toute sérénité, une expérience de 3 à 8 ans est nécessaire. 
+Si vous avez lu jusqu’ici et que vous vous reconnaissez, alors il ne nous reste plus qu’à faire connaissance !
+
+Pour plus d'informations, n'hésitez pas à contacter Pascal LEBRUN, Directeur d'Agence : pascal.lebrun@sully-group.com

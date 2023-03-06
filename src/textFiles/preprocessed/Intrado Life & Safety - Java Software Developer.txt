@@ -1,0 +1,37 @@
+Nous recherchons un développeur Java pour rejoindre notre équipe technologique à Montréal, au sein de la division des services d’urgence de Intrado ! 
+
+Dans le cadre de la division des services d’urgence, notre équipe développe et maintient une solution pour acheminer les appels d’urgence de type voix sur IP au centre d’appel approprié. La solution utilise deux produits différents (SaaS et hébergés) en utilisant différentes technologies. Notre équipe recherche quelqu'un qui participera au développement de ces produits.
+
+Nous sommes une équipe Agile expérimentée et bien établie qui utilise Scrum depuis plusieurs années et qui recherche une personne motivée et dynamique pour se joindre à nous.
+
+Que vous soyez un développeur de logiciels expérimenté ou un développeur plus junior, si vous recherchez des défis techniques intéressants dans une atmosphère amicale et coopérative, nous sommes intéressés à vous entendre ! 
+
+En tant que membre de l’équipe de développement, vous participerez à toutes les étapes du développement dans un environnement très dynamique où nous faisons plusieurs releases par année.
+
+Exigences minimales 
+
+Éducation
+
+Un diplôme universitaire d’un établissement reconnu en sciences de l’informatique, génie informatique ou dans un domaine connexe est requis. Une expérience professionnelle équivalente dans un poste similaire peut remplacer l’exigence en matière d’éducation.
+
+Compétences techniques
+
+Solide compréhension de la programmation orientée-objet
+
+Expérience avec Java, Javascript, SQL et Linux
+
+Expérience sur AWS est un atout
+
+Exposition à C# et PHP est un atout
+
+Expérience en VOIP et en réseautique est un atout
+
+Connaissance de SOAP-REST est un atout
+
+Autres
+
+Parler et écrire couramment en français et anglais requis
+
+Avantages et rémunération
+
+Voulez-vous aimer l'endroit où vous travaillez ? Chez Intrado, nous offrons un programme de prestations complet qui comprend ce que vous attendez (couverture médicale, dentaire, visuelle, de la vie et de l'invalidité, temps libre payé et plusieurs autres prestations qui vont au-delà - remboursement des frais de scolarité, congé parental payé, accès à une riche bibliothèque de ressources personnelles et professionnelles, remises pour les employés, assurance contre les maladies graves, indemnisation hospitalière et assurance pour les animaux de compagnie, protection de l'identité et plus encore ! Postulez aujourd’hui pour nous rejoindre dans un travail qui en vaut la peine !

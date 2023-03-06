@@ -1,0 +1,47 @@
+About SERVPRO
+
+For more than 50 years, SERVPRO® has been a trusted leader in fire and water cleanup and restoration services, mold mitigation, construction, biohazard and pathogen remediation throughout the United States and Canada. Our 2,000+ individually owned and operated franchises are supported by our dedicated headquarters team. We strive to cultivate a professional community that respects and celebrates the things that make us unique, the things we share in common, and the collaborative spirit we bring to the work we pursue together. SERVPRO HQ has been recognized by The Tennessean as a Top Workplace for the 4th consecutive year.
+
+What we offer
+
+Excellent health benefits plan, which includes medical, vision and dental options
+401(k) with company match
+Company profit sharing plan
+Generous vacation, paid time-off and paid holidays
+Paid parental leave
+2 free on-site fitness rooms
+Employee Assistance Program
+Employee Resource Groups
+Personal and professional development programs
+
+Job Summary
+
+This position is responsible for providing software development and maintenance of applications for SERVPRO corporate and franchise initiatives. Development responsibilities include coding solutions that follow development standards and integrate with other systems, building software in a consistent manner to meet business requirements, and unit testing software components to ensure business requirements are fulfilled.
+
+This position will collaborate with cross-functional teams to design, develop, and implement new features and improvements to existing applications and troubleshoot and debug applications in a timely manner to resolve technical issues.
+
+You Will
+
+Develop and maintain high-quality, scalable, and secure applications using React and GatsbyJS.
+Code solutions that are clean, maintainable, and follow SERVPRO development standards.
+Participate in scoping sessions to understand requirements and provide coding estimates.
+Perform unit testing of each software component to ensure business requirements are fulfilled.
+Resolve defects by priority and severity that are discovered during the testing phase.
+Ensure that all technical application artifacts are archived in a code repository such as Gitlab.
+Stay up to date with emerging technologies and industry trends to ensure continual growth.
+Complete assignments in a timely and accurate manner and escalate any risks to Management.
+Collaborate effectively with cross-functional teams.
+Provide consistent and concise status reports as requested by Management.
+Provide other duties and functions as requested by Management.
+
+You Have
+
+Minimum of 3 years successful experience in software development in an Agile environment using React, GatsbyJS, REST APIs, CSS pre-processors (such as SASS or LESS), HTML, and JavaScript.
+Experience with AWS technologies including Simple Storage Service (S3), Simple Queue Notification Service (SQS), Simple Notification Service (SNS), Elastic Container Service (ECS), ECS Fargate, Lambda, Elastic Kubernetes Service (EKS), Application Load Balancers, Simple Systems Manager (SSM), CloudFront and CI-CD Pipeline Automation (Gitlab) highly desired.
+Ability to read, write, and speak the English language to communicate with employees, customers, suppliers, in person, on the phone, and by written communications in a clear, straightforward, and professional manner.
+Must possess good written skills, positive attitude and initiative, high degree of analytical and interpersonal skills, and a teamwork approach. Additional experience should include how to apply development efforts to achieve business objectives and revenue goals.
+Associates degree in Information Technology or Business-related field preferred.
+
+SERVPRO is an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, gender, sexual orientation, national origin, veteran or disability status.
+
+Show more

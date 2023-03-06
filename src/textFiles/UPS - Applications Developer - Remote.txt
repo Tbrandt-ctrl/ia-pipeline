@@ -1,0 +1,54 @@
+We’re the obstacle overcomers, the problem get-arounders. From figuring it out to getting it done… our innovative culture demands “yes and how!” We are UPS. We are the United Problem Solvers.
+
+
+
+
+About Applications Development at UPS Technology:
+
+
+
+
+Our Application Development teams use their expertise in programming languages and software design to develop next-generation technology. They are responsible for developing the applications which track and move up to 38 million packages in a single day (4.7 billion annually). This team works closely with all of our customers to build innovative technologies that are customized to drive our business and provide the ultimate customer experience. As a member of the applications development family, you will help UPS grow and provide valuable services across the globe.
+
+
+
+
+About this role:
+
+
+
+
+The Applications Developer provides input and support for full systems life cycle management activities. Performs tasks within planned durations and established deadlines. This position collaborates with teams to ensure effective communication in supporting the achievement of objectives. Provides knowledge, development, maintenance, and support for applications. Participates in component and data architecture design, technology planning, and testing for Applications Development (AD) initiatives to meet business requirements. This position provides input to applications development project plans and integrations. Collaborates with teams to ensure effective communication and achievement of objectives. This position provides knowledge and support for applications development, integration and maintenance. This role participates in full software development life cycle activities such as analysis, design, coding, testing and implementation.
+
+
+
+
+Applications Developer position will be part of a team that works on UPS.com Authorization and Authentication. Position is required to build Abstraction layer to minimize the impact of IMS modernization on client applications. IMS Modernization will modernize the CIAM on ups.com and introduce modern features like Multi Factor Authentication, Step up authentication and Trusted devices. These changes are part of UPS.com Transformation Workstream 2.
+
+
+
+
+Software developer with experience building Java applications and REST web service. Candidate should also have experience developing Java UI servlet - JSP applications. Proficient in Linux, Tomcat, WebLogic, Maven, and Jenkins.
+
+
+
+
+Experience with Agile Development, Java Programming, Linux Fundamentals and Web Development
+Experience building Java applications and REST web service
+Experience developing Java UI servlet - JSP applications
+Proficient in Linux, Tomcat, WebLogic, Maven, and Jenkins
+Knowledge of Technical Analysis
+Excellent written and verbal communication skills
+Must be detail-oriented and a self-motivated learner
+Bachelor's degree in Computer Science or related discipline or the equivalent in education and work experience
+
+
+
+
+This position offers an exceptional opportunity to work for a Fortune 50 industry leader. If you are selected, you will join our dynamic technology team in making a difference to our business and customers. Do you think you have what it takes? Prove it! At UPS, ambition knows no time zone.
+
+
+
+
+UPS is an equal opportunity employer. UPS does not discriminate on the basis of race-color-religion-sex-national origin-veteran-disability-age-sexual orientation-gender identity or any other characteristic protected by law
+Voir plus

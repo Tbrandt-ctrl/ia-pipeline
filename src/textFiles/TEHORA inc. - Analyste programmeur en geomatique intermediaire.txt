@@ -1,0 +1,94 @@
+TEHORA est presentement à la recherche d’un(e) Analyste programmeur en geomatique intermediaire ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses competences au sein d’une equipe polyvalente.
+
+Sans être exhaustifs, voici les services et livrables que devront fournir la personne retenue.
+
+Donnee des travaux ou des biens livrables :
+
+▪ procede au developpement en fonction du plan etabli et met à jour le plan au besoin;
+
+▪ effectue l’analyse fonctionnelle et la realisation technique des livraisons conformement à
+
+l’architecture detaillee et aux orientations technologiques retenues;
+
+▪ elabore les dossiers fonctionnels;
+
+▪ effectue le support fonctionnel requis aux etapes subsequentes du developpement;
+
+▪ prepare les dossiers d’essais fonctionnels et realise les essais;
+
+▪ effectue la programmation informatique, realise tous les essais unitaires et realise les
+
+demandes de correction suite aux retours d’essais;
+
+▪ supporte les personnes responsables des essais fonctionnels integres et des essais de
+
+systeme, et gere les demandes de correction issues de ceux-ci;
+
+▪ supporte l’equipe de pilotage dans la realisation des essais d’acceptation, et gere les
+
+demandes de correction issues de ceux-ci;
+
+▪ realise les demandes de changement de systeme autorisees pendant le developpement;
+
+▪ realise les elements de documentation prevus à la methode de developpement en vigueur,
+
+notamment :
+
+architecture : (donnees, fonctionnelle, processus, securite et logicielle);
+etude technique;
+preuve de concept;
+implantation;
+formation.
+
+
+Requirements
+
+Posseder un dipleme universitaire de 1er cycle (BAC) en geomatique, ou informatique, ou en administration option systeme d’information organisationnelle, ou encore dans une discipline pertinente reconnue par le ministere de l'Éducation ou l'equivalent.
+
+Posseder cinq (5) annees d’experience à titre d'analyste programmeur en developpement ou maintenance de systemes d'information du domaine de la geomatique, avec un SGBD relationnel.
+
+
+Benefits
+
+LIEU DE TRAVAIL
+
+Le lieu de travail sera determine selon le mandat, il peut être en tele travail ou chez le client.
+
+POURQUOI SE JOINDRE À TEHORA?
+
+TEHORA est une firme quebecoise multidisciplinaire reconnue pour l'excellence de ses services professionnels, de nature technique et de gestion de projets à l'echelle nationale et internationale. Notre mission est d'accompagner nos clients dans la concretisation de leurs projets par l'excellence de notre savoir-faire et de notre creativite.
+
+Depuis sa creation en 2017, notre equipe de professionnels connait une croissance exponentielle en repondant aux besoins importants en gestion de projets multidisciplinaires, dans le domaine des transports, du genie civil, du TI et plus.
+
+Nos collaborateurs travaillent sur des mandats aussi bien à l’interne que chez des clients d’envergures.
+
+TEHORA se distingue par sa culture d’entreprise, axee sur le bonheur de ses employes et la diversite.
+
+Chez TEHORA, chaque collaborateur est un membre important de l'equipe qui contribue à notre succes collectif. Nos membres ont la flexibilite requise pour avoir un equilibre entre le travail et leur vie privee, tout en menant une carriere enrichissante.
+
+Nous offrons un environnement de travail motivant. La diversite des projets, la grande autonomie et l’interaction directe avec les clients sont appreciees. Une telle proximite est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre equipe et les clients.
+
+AVANTAGES
+
+Du teletravail et de la flexibilite pour s’adapter à vos obligations familiales
+
+Une culture entrepreneuriale favorisant la creativite et l'innovation
+
+Horaires flexibles (selon le type de contrat de travail)
+
+Conges en cas de maladie et à l'occasion d'evenements familiaux
+
+Outils informatiques adaptes
+
+Espace de travail epanouissant et motivant
+
+Initiatives sociales et environnementales
+
+Programme d’apprentissage en milieu de travail
+
+Cheminement de carriere
+
+SALAIRE
+
+Le salaire sera calcule sur la base du taux horaire moyen correspondant à votre profil.
+

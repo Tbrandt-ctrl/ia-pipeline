@@ -1,0 +1,33 @@
+En tant que Developpeur d'architecture de donnees, vous appuierez l'une des plus grandes plateformes publicitaires du secteur du divertissement en ligne, qui diffuse six milliards de publicites par jour. Vous vous joindrez à une communaute de Developpeurs reunis par leur passion pour l'architecture de donnees, la creativite et l'exploration des dernieres tendances technologiques. Vous interagirez avec des Developpeurs de logiciels et de methodes d'assurance qualite afin de vous assurer que notre vision cadre avec la reussite de nos projets dans un environnement exigeant mais gratifiant. Ce poste s'adresse à des Developpeurs PHP d'experience desirant faire le saut du cete base de donnees et les professionels en base de donnees souhaitant apprendre ou renforcer leurs competences sur Vertica!
+
+Ce que vous ferez
+
+Concevoir l'architecture de tableaux et enquêter sur les problemes lies aux donnees
+Surveiller et superviser la performance des algorithmes
+Rediger, tenir à jour et optimiser les requêtes et les procedures conservees
+Redessiner la structure des donnees et des tableaux pour en assurer la performance et l'optimisation
+Agir en tant que specialiste des bases de donnees aupres de l'equipe de developpement Web
+
+
+Ce dont vous aurez besoin pour reussir :
+
+Competences essentielles :
+
+Dipleme universitaire en science -genie informatique ou dans un domaine connexe ou experience pertinente
+Au moins 4 ans d'experience pratique en architecture de donnees sur MySQL
+Experience en programmation ou volonte d'apprendre des langages Web
+Excellentes capacites d'analyse, de resolution de problemes et de prise de decision
+Comprehension de la complexite, de l'extensibilite et de la securite des calculs et des donnees
+
+
+Atouts :
+
+Connaissance pratique des methodologies de developpement Agile de preference
+Connaissance de Vertica
+Experience de la programmation en PHP et des plateformes de donnees à grande echelle
+
+
+En tant qu'employeur souscrivant au principe de l'egalite d'acces à l'emploi, notre entreprise celebre la diversite et s'engage à creer un environnement inclusif pour tous ses employes.
+
+Ce poste peut vous exposer à du contenu pour adultes.
+Daha fazla göster

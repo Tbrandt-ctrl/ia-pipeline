@@ -1,0 +1,39 @@
+NET Developer Jacksonville, Florida ARC Group is currently looking for an Application Developer for a client of ours in the downtown area of Jacksonville, Florida. This opportunity is a hybrid work environment working some of the time in the office and some of the time at your home office. To be considered for this role, you must be living in- or willing to relocate to the greater Jacksonville, Florida area.
+
+
+
+
+Job Description
+
+
+
+
+This role will involve both new technologies as well as working on Classic ASP and VB6 for support when needed. The ability to work in MS Access is highly preferred too.
+Develop new components or modules to meet functionality requirements.
+This role requires the ability to perform at a high level with Microsoft T-SQL & SSIS for projects involving the change of system challenges of the organization.
+Follow development methodologies and standards for systems design, coding, testing, implementation, maintenance, and support of applications software.
+Work closely with customers, business analysts, and team members to understand business requirements that drive the analysis and design of quality technical solutions.
+Ensure that solutions are aligned with business and IT strategies and comply with the organization's architectural standards.
+Must be willing to work in the Hybrid Environment (Onsite & Remote)
+
+
+
+
+Requirements
+
+
+
+
+5 or more years of relevant experience of .NET development in a professional setting
+A Bachelor's degree in Computer Science or higher is highly preferred for this role.
+Must be able to write & understand complex SQL queries, joins, stored procedures, triggers
+Hands-on expertise with current .NET technologies including C#, ASP.NET, and VB.NET.
+Experience with RESTful API integration. RESTful API uses HTTP requests to GET, PUT, POST, and DELETE data.
+Perform development using agile methodology and proper source control, preferably Git on TFS.
+Previous experience working with a government agency is preferred.
+Would you like to know more about this role? For immediate consideration, please send your resume directly to Jon Meredith by emailing him at jonm@arcgonline.com or calling 954-715-4793. You can also apply online and view all our open positions at www.arcgonline.com.
+
+ARC Group is a Forbes-ranked top 20 recruiting and executive search firm working with clients nationwide to recruit the highest quality technical resources. We have achieved this by understanding both our candidate's and client's needs and goals and serving both with integrity and a shared desire to succeed.
+
+ARC Group is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.
+Show more

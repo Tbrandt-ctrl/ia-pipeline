@@ -1,0 +1,64 @@
+They are looking for a software developer to join an Analytics team as part of mortgage. As a member of the Analytics team, the individual will be responsible for supporting the overall firm in developing tools and infrastructure to support the various business functions and senior management of the organization. Additionally, the individual will be supporting the investment team and working on custom tools for the entire trade lifecycle, from pre-trade analysis to asset management and reporting.
+
+
+
+Compensation: 120k - 140k
+
+
+
+
+Responsibilities:
+* Work with various stakeholders to develop tools for tape cracking, loan pricing, diligence tracking and other trading activities.
+* Build and improve the firm-wide data lake, including ETL processes, data quality monitoring and user reporting tools.
+* Integrate new data APIs and third-party modeling tools (Intex, Polypaths, etc.)
+* Migrate existing tools to a cloud infrastructure.
+* Gather requirements from business users to build analytical tools and reports.
+* Proactively identify technical or operational inefficiencies and recommend improvements.
+* Support and troubleshoot existing applications.
+* Handle ad hoc business requests.
+
+Essential competencies:
+* 2+ years of practical coding experience is preferred, but will consider strong candidates with less experience.
+* Bachelor's degree in computer science or a quantitative discipline.
+* Ability to work collaboratively or independently, taking ownership of projects.
+* Solid understanding of object-oriented and relational database design patterns.
+* Strong verbal and written communication skills.
+* Experience working with ETL processes is a plus.
+* Familiarity with mortgage data is a plus.
+
+
+
+
+Desired Skills and Experience
+
+Python, ETL, API and Cloud
+
+
+
+
+
+
+
+
+
+
+
+EOE Statement: Specialist Staffing Group is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+To find out more about Huxley please visit www.huxley.com
+
+
+
+Tunjukkan lagi

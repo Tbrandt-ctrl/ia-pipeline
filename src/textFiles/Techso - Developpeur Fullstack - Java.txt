@@ -1,0 +1,39 @@
+Fondee en 2014, Techso est une jeune entreprise en pleine croissance proposant des services de consultation en developpement de solutions specifiques. La firme de consulting s’est forgee une reputation pour la qualite de ses projets livres chez de prestigieux clients, tel que Tesla, Honda, Bombardier, Pratt&Whitney, Desjardins, Airbus, et bien d'autres. Le consultant Techso aura la chance de travailler dans differents secteurs tels que l’evenementiel, l’industrie, le bancaire et assurances, la sante et bien plus !
+
+
+
+
+Vous interviendrez en tant que Developpeur fullstack afin d'appuyer nos equipes DEV et repondre aux besoins de nos clients bases à Montreal et à l'international.
+
+
+
+
+Responsabilites
+
+
+
+
+Dans le cadre de vos missions, vous participerez à la conception et aux developpements des projets de nos clients (nouvelles applications, developpement de nouvelles fonctionnalites sur des applications existantes et maintenance…).
+Vous contribuerez à la definition de l’architecture de solutions innovantes et determinerez les objectifs et exigences de nos clients.
+Vous mettrez en production les solutions developpees et effectuerez la gestion du changement.
+Vous redigerez des tests unitaires et garantirez les normes de developpement les plus elevees en suivant le cycle de developpement de logiciels.
+Vous redigerez de la documentation technique.
+Vous suivrez l'evolution des nouvelles solutions - technologies du marche.
+Vous travaillerez avec des equipes Agiles-Scrum.
+
+
+
+
+Competences requises
+
+
+
+
+Baccalaureat en informatique ou logiciel
+Experience significative en developpement Java (connaissance du framework Spring est un atout).
+Vous avez de solides connaissances en developpement Front-End(React.JS, AngularJS, VueJS, etc…).
+Vous avez de solides competences en bases de donnees relationnelles(frameworks ORM et DAO comme Hibernate, langage SQL, etc…). La connaissance des bases de donnees noSQL est un atout.
+Vous êtes capable de communiquer en anglais, à l'ecrit comme à l'oral.
+Votre communication, votre curiosite et votre capacite d'adaptation sont vos atouts.
+Vous souhaitez evoluer dans une equipe multiculturelle, familiale et dynamique !
+और दिखाएं

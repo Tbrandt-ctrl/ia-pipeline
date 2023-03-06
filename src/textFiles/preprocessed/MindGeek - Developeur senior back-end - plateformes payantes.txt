@@ -1,0 +1,28 @@
+Vous travaillerez au sein d'une équipe dynamique, créative et amusante dans le but d'atteindre les objectifs communs.
+
+Ce que vous ferez :
+
+Concevoir, élaborer et maintenir des microservices, des API et des applications construites autour de PHP et du cadre Symfony.
+Exploiter le plein potentiel de diverses technologies dorsales afin de tirer parti du traitement en pipeline en temps réel de données volumineuses et sécurisées. Travailler avec des caches, des files d'attente de messages, des bases de données et divers systèmes internes et externes.
+Favoriser l'esprit d'équipe ainsi que l'ambiance d'apprentissage et de croissance en interagissant avec les coéquipiers débutants et intermédiaires, en les dirigeant et en leur enseignant.
+S'approprier les composants et la connaissance du domaine, guider vos pairs au moyen de demandes de tirage et de revues de code, et participer à la propagation de la culture de développement, des processus et des valeurs partagées par l'équipe.
+
+Ce dont vous aurez besoin pour réussir :
+
+Compétences essentielles :
+
+Excellente connaissance de PHP 7 et 8, ainsi que des cadres récents Symfony ou Laravel
+Compétence et expérience en matière de conception d'architecture orientée services (SOA)
+Comprehension de la complexité, de l'extensibilité et de la sécurité des calculs et des données
+Bonne connaissance des modèles de conception et des algorithmes applicables
+Capacité à concevoir, à bâtir et à gérer des applications et des composants efficaces
+
+Atouts :
+
+Expérience professionnelle connexe d'au moins 3 ans en tant que Développeur de logiciels back-end ; un baccalauréat en informatique ou en génie informatique
+Une expérience avec Docker, ELK, RabbitMQ, Redis et GitLabCI
+Connaissance de système de mise en cache
+
+En tant qu'employeur souscrivant au principe de l'égalité d'accès à l'emploi, notre entreprise célèbre la diversité et s'engage à créer un environnement inclusif pour tous ses employés.
+
+Ce poste peut vous exposer à du contenu pour adultes.

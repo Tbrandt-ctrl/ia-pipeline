@@ -1,0 +1,48 @@
+Œuvrant dans le domaine des structures de bois, nous sommes presentement � la recherche d’un(e) informaticien (ne) industriel - Developpeur (se) MES;
+
+
+
+
+Sous la responsabilite du Directeur de l’automation, l’informaticien(ne) industriel a pour mission de mettre en place des systèmes d’informations servant � la production, au contrôle de la performance et � la maintenance des equipements industriels. Il diagnostique les problèmes de fonctionnement et apporte des solutions.
+
+
+
+
+Principales fonctions
+
+
+
+
+Faire des rapports de production;
+Connaître, diagnostiquer et corriger les systèmes informatiques industriels;
+Diagnostiquer les problèmes d’integrite des donnees et proposer des ameliorations;
+Developper et supporter les sections de programmes PLC utilise dans l’integration des systèmes d’informations comme le MES , avec le personnel des equipes automation;
+Former et supporter les utilisateurs dans l’usine (technicien, contremaitre, qualite, etc.) dans l’utilisation et la configuration de nos systèmes MES et HMI par exemple;
+Tester les configurations, modifications ou les nouvelles applications, outils, developpes par l’equipe d’ingenierie;
+Creer les modèles de rapports de production relationnels (SQL) et dimensionnels (MDX, Cube) dans un contexte de reutilisation;
+Support aux techniciens automation;
+Participer et collaborer avec l’equipe d’ingenierie dans les developpements et le choix de nouveaux processus et systèmes ou dans l’amelioration de ceux existants;
+Promouvoir l’utilisation des systèmes en place.
+
+Description des competences
+
+
+
+
+Connaissance de C#, SQL;
+Connaissance des PLC est un atout;
+Avoir dej� travailler avec un MES est un atout.
+
+Niveau d’etudes et-ou experience
+
+
+
+
+Bachelier(ère) en informatique ou Technicien en Automation.
+
+
+
+
+Type d’emploi : Temps Plein, Permanent
+
+عرض المزيد

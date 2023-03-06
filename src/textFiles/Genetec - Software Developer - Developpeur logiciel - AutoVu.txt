@@ -1,0 +1,116 @@
+The team:
+
+You could be part of the AutoVu Edge Devices multidisciplinary team, which brings together enthusiasts in software development, onboard equipment design (electronic, firmware, mechanical) and quality assurance.
+
+The work consists of collaborating on the development of our specialized automatic license plate recognition (ALPR) product, combining high-definition cameras with an onboard vision, satellite positioning and machine learning system in an exclusive case resistant to various weather conditions. The camera is integrated with a multitude of systems based on the Microsoft Azure cloud platform, the Genetec Security Center platform and the AutoVu Patroller vehicle application, which complements the police and parking enforcement mobile solutions.
+
+We will ensure you feel supported in learning about the company, its culture, its teams, its products and your colleagues. You will have the chance to learn, but also to share your knowledge and influence your team's decisions.
+
+Matched with an experienced mentor, you will undertake code changes concerning increasingly ambitious missions, which you will deploy and test on real ALPR cameras.
+
+Genetec encourages continuous learning by offering training and lectures given by recognized personalities on subjects such as computer security, microservices and the user experience.
+
+What your day will look like:
+
+Design functionalities adapted to the new requirements of the customers and the market
+Implement fault-resistant quality code with automated tests, reviews and reworking
+Support the Quality Assurance team to test the products so they are ready for delivery
+Write documentation throughout the software development lifecycle
+Act as an applications specialist and provide technical assistance to the support team and the partners
+Manage your work and your time to comply with the milestones and the delivery dates, in Kanban agile mode
+
+
+About you:
+
+You have a Bachelor’s degree in Computer Science- Software Engineering and at least 3 years' concrete experience with .NET and C#
+You are proficient with the Visual Studio, TFS and GIT development tools
+You have solid knowledge of integration of API-services, such as REST, SignalR and gRPC
+You are able to identify and communicate technical problems, procedures and solutions
+You are sensitive to improvement of the user experience
+
+
+Great if you have:
+
+Experience with modern Web technologies, such as Blazor WASM, React or Angular
+Experience in programming and administration of Linux onboard systems
+Experience in network connectivity (Ethernet, Wi-Fi, cellular) and protocols (TCP, UDP, Sockets)
+Experience with cloud service providers, such as Azure, AWS or Google Cloud
+Experience in encoding-decoding and video streaming (HTTP, RTSP, MJPEG, H.264-H.265)
+Experience in data security and confidentiality (OWASP, authentication, cryptography)
+Experience in native programming (C-C++)
+
+
+Let's talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Flexible working schedule including hybrid working environment
+Office furniture program
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L’equipe :
+
+Vous pourriez faire partie de l'equipe multidisciplinaire AutoVu Edge Devices qui rassemble des passionnes de developpement logiciel, de design de materiel embarque (electronique, firmware, mecanique) et d'assurance qualite.
+
+Le travail consiste � collaborer au developpement de notre produit specialise en reconnaissance automatique des plaques d’immatriculation (RAPI), alliant des cameras haute definition � un système embarque de vision, de positionnement par satellite et d’apprentissage machine dans un boîtier exclusif resistant aux diverses conditions meteo. La camera s’intègre avec une multitude de systèmes bases sur la plateforme infonuagique Microsoft Azure, la plateforme Genetec Security Center et l’application vehiculaire AutoVu Patroller qui complemente les solutions mobiles policières et de stationnement.
+
+Nous veillerons � ce que vous vous sentiez supporte dans votre apprentissage de la compagnie, sa culture, ses equipes, ses produits et vos collègues. Vous aurez la chance � la fois d’apprendre, mais egalement de partager vos connaissances et d’influencer les decisions de votre equipe.
+
+Jumele avec un parrain d'experience, vous entreprendrez des changements de code, visant des missions de plus en plus ambitieuses, que vous deploierez et testerez sur de vraies cameras RAPI.
+
+Genetec encourage l'apprentissage continu en offrant des formations et conferences donnees par des personnalites reconnues sur des sujets tels que la securite informatique, les microservices et l'experience utilisateur.
+
+À quoi ressemblera votre journee :
+
+Concevoir des fonctionnalites adaptees aux nouvelles exigences des clients et du marche
+Implementer du code de qualite et resistant aux fautes avec tests automatises, revues et reusinage de code
+Appuyer l’equipe d’assurance qualite pour tester les produits afin qu’ils soient prêts pour la livraison
+Rediger une documentation tout au long du cycle de vie du developpement logiciel
+Agir en tant que specialiste des applications et fournir une aide technique � l'equipe de support ainsi qu'aux partenaires
+Gerer votre travail et votre temps pour respecter les jalons et les dates de livraison, en mode agile Kanban
+
+
+Votre profil :
+
+Vous detenez un baccalaureat en informatique- genie logiciel et un minimum de 3 ans d'experience concrète en .NET et C#
+Vous maîtrisez les outils de developpement Visual Studio, TFS et GIT
+Vous avez des connaissances solides sur l'integration d'API-services comme REST, SignalR et gRPC
+Vous êtes capable de cerner et de communiquer les problèmes techniques, les procedures et les solutions
+Vous êtes sensible � l'amelioration de l’experience utilisateur
+
+
+Encore mieux si vous possedez ces atouts :
+
+Experience avec les technologies Web modernes comme Blazor WASM, React ou Angular
+Experience en programmation et administration de systèmes embarques Linux
+Experience en connectivite reseau (Ethernet, Wi-Fi, cellulaire) et protocoles (TCP, UDP, Sockets)
+Experience avec des fournisseurs de services infonuagiques comme Azure, AWS ou Google Cloud
+Experience en encodage-decodage et diffusion video (HTTP, RTSP, MJPEG, H.264-H.265)
+Experience en securite et confidentialite des donnees (OWASP, authentification, cryptographie)
+Experience en programmation native (C-C++)
+
+
+Voil� ce que nous offrons !
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes � notre incroyable Bistro (Les Cordons Bleus)-Des cours de cuisine virtuels
+Équilibre entre vie professionnelle et vie privee grâce � un horaire de travail flexible et environnement de travail hybride
+Programme de mobilier de bureau
+Cafe gratuit � volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place-Des cours d'exercices virtuels
+
+
+Si vous souhaitez savoir � quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise : Culture � Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises � soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+عرض المزيد

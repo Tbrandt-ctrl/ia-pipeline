@@ -1,0 +1,112 @@
+The team:
+
+Working in Genetec’s AutoVu division is a chance to immerse yourself in an extremely interdisciplinary environment. Software developers (both embedded and cloud), hardware engineers and technicians, mechanical designers, specialists in deep neural networks, computer vision, and production, work together to develop a range of innovative products. Be part of an ecosystem where collaboration is the watchword, made up of specialists always on the lookout for scientific and technological discoveries.
+
+You can be part of a multidisciplinary team of computer vision-machine learning specialists and software developers. The team collaborates on the development of intelligent vehicle centric cameras in optical, image acquisition control and machine learning aspects. We have built an infrastructure of cloud tools that allow to acquire, store, generate, manage a very large amount of data and to monitor cameras. These are the essential tools for the neural networks and data science functionalities development.
+
+Genetec is looking for an experienced developer in video or image processing to join the research and development team.
+
+What your day will look like:
+
+You will be responsible to develop, test and integrate video processing algorithms (low level control of camera, diffusion and management of video stream, intelligent analysis of video, real time transformation of video stream, etc.) and image processing algorithms in Genetec products
+You will participate to the acceleration of the algorithms that run real time, taking advantage of the possibilities of our processors and coprocessors
+You will design automated tests and modernize existing code
+You will evaluate the system components, recommend possible alternative (including newer technologies) and then implement, test and evaluate changes
+You will propose, test, develop and evaluate proofs of concepts and prototypes for new generations of products; propose new products and-or solutions to enlarge existing product line
+
+
+About you:
+
+Bachelor's degree in computer engineering, computer science, electrical engineering, physics or mathematics
+A minimum of three years of experience in object-oriented programming
+A minimum of three years of experience in image or video processing
+Strong ability to conduct experimental and hands-on research
+A strong sense of initiative
+
+
+Technical Requirements:
+
+Mastering an object language: C #, C ++, Java
+Ability to recognize, analyze and integrate new technologies into the development of new products
+Knowledge of different software development methods and procedures
+Excellent technical and communication skills
+
+
+Great if you have:
+
+Knowledge in build pipelines
+Knowledge of concurrent and async (thread pools, async await)
+Knowledge of embedded programming
+Experience with containerization technologies such as Docker and Kubernetes
+Experience in Linux
+
+
+Let's talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+L'equipe
+
+Travailler dans la division AutoVu de Genetec c’est avoir la chance de baigner dans un milieu extrêmement multidisciplinaire. Des equipes de Developpeurs en programmation embarquee, infonuagique, firmware, des ingenieurs et techniciens hardware, des designers mecaniques, des specialistes en reseaux neuronaux, en imagerie et en mise en production, collaborent pour developper une gamme de produits innovants. Faites partie d’un ecosysteme dans lequel la collaboration est le mot d’ordre, compose de specialistes toujours à l’affût des decouvertes scientifiques et technologiques.
+
+Vous pourriez faire partie d’une equipe multidisciplinaire de specialistes en vision numerique, en apprentissage machine et en developpement logiciel. Le developpement logiciel est autant embarque qu’infonuagique. L’equipe collabore au developpement de cameras intelligentes, tant dans les aspects optiques, de contrele d’acquisition d’images que de developpement d’analytiques centres sur les vehicules. Nous avons bâti une infrastructure d’outils infonuagiques qui permettent d’acquerir, stocker, generer et gerer un tres grand nombre de donnees ainsi que monitorer des cameras. Ce sont les outils essentiels au developpement de reseaux neuronaux et d’outils en science des donnees.
+
+Genetec est à la recherche d’un Developpeur experimente traitement video ou en traitement d’images pour se joindre à l’equipe de recherche et developpement.
+
+À quoi ressemblera votre journee:
+
+Vous serez responsable de developper, tester et integrer des algorithmes de traitement video (contrele bas niveau de camera, diffusion et gestion de flux video, analyse intelligente de la video, transformation de flux video en temps reel, etc.) et de traitement d’images dans les produits Genetec
+Vous participerez à l’acceleration de nos algorithmes roulant en temps reel en profitant des possibilites des processeurs et coprocesseurs
+Vous concevrez des tests automatises, et moderniserez du code existant
+Vous evaluerez les composantes des systemes actuels, recommanderez des alternatives possibles (en incluant les nouvelles technologies) ainsi qu’implementer, tester et evaluer les changements
+Vous devrez aussi proposer, tester, developper et evaluer les concepts et prototypes pour les nouvelles generations de produits; proposer de nouveaux produits et-ou solutions en vue d’elargir la gamme de produits existants
+
+
+Votre profil:
+
+Baccalaureat en genie informatique, science informatique, genie electrique, physique ou en mathematiques
+Un minimum de trois annees d’experience en programmation objet
+Un minimum de trois annees d’experience en traitement d’images ou video
+De fortes capacites à effectuer des recherches experimentales et pratiques
+Un grand sens de l’initiative
+
+
+Expertise technique:
+
+Maitrise d’un langage objet : C#, C++, Java
+Habilete à reconnaître, analyser et integrer de nouvelles technologies dans le developpement de nouveaux produits
+Connaissance des differentes methodes et procedures de developpement de logiciels
+Possede d’excellentes aptitudes techniques et de communication
+
+
+Encore mieux si vous possedez ces atouts:
+
+Connaissance des pipelines de build
+Connaissances en programmation concurrente et asynchrone (thread pools, async await)
+Connaissance de la programmation embarquee
+Experience avec les technologies de conteneurisation telles que Docker et Kubernetes
+Experience en Linux
+
+
+Voilà ce que nous offrons!
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes à notre incroyable Bistro (Les Cordons Bleus)
+Équilibre entre vie professionnelle et vie privee grâce à un horaire de travail flexible
+Cafe gratuit à volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place
+
+
+Si vous souhaitez savoir à quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise: Culture à Genetec
+और दिखाएं

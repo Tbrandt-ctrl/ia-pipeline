@@ -1,0 +1,28 @@
+En tant que Développeur PHP, vous aurez l'occasion de mettre en place certains des sites Web les plus visités au monde, de travailler avec des mégadonnées et de repousser vos limites en vous familiarisant avec de nouvelles technologies et en collaborant avec certains des Développeurs les plus talentueux.
+
+Ce que vous ferez :
+
+Concevoir et maintenir à jour des microservices, des API et des applications construites autour du langage PHP et d'un cadre Symfony.
+Exploiter le plein potentiel de diverses technologies dorsales pour tirer parti du traitement en pipeline en temps réel de mégadonnées sécurisées.
+Travailler avec des caches, des files d'attente de messages, des bases de données et divers systèmes internes et externes.
+Assimiler les connaissances sur les composants et les domaines en guidant vos pairs à l'aide de demandes de retrait et de revues de code. Participer à la propagation de la culture, des processus et des valeurs de développement partagés par l'équipe.
+
+Ce dont vous aurez besoin pour réussir :
+
+Compétences essentielles :
+
+Au moins 3 ans d'expérience professionnelle connexe en tant que Développeur de logiciels dorsaux
+Baccalauréat en informatique/ingénierie (atout)
+Excellente connaissance d'un langage Web (PHP, Java Web, Python, GO, etc.)
+Compréhension de la complexité, de l'extensibilité et de la sécurité des calculs et des données
+
+Atouts :
+
+Expérience du langage PHP et d'un cadre (Lumen, Yii, Laravel, Symfony, etc.)
+Expérience avec Docker, ELK, RabbitMQ, Redis et GitLabCI
+Connaissance approfondie des technologies de base de données permettant de faire évoluer les sites Web à fort volume (Redis, Memcached)
+Expérience de la gestion de sites Web de grande envergure recevant des millions de visites par jour
+
+En tant qu'employeur souscrivant au principe de l'égalité d'accès à l'emploi, notre entreprise célèbre la diversité et s'engage à créer un environnement inclusif pour tous ses employés.
+
+Ce poste peut vous exposer à du contenu pour adultes.

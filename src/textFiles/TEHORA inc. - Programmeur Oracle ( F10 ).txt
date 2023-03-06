@@ -1,0 +1,107 @@
+TEHORA est presentement à la recherche d’un(e) Programmeur Oracle ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses competences au sein d’une equipe polyvalente.
+
+Sans être exhaustifs, voici les services et livrables que devront fournir la personne retenue.
+
+Donnee des travaux ou des biens livrables :
+
+Prendre connaissance du cadre de developpement et de la methodologie utilisee au ministere;
+Participer, avec les membres de l’equipe, à l’estimation des histoires du carnet de commandes et des iterations;
+Travailler en cocreation avec les equipes produits pour bien comprendre et realiser des solutions representant les intentions et les objectifs d’affaires;
+Participer au recueil et à la definition des besoins utilisateurs;
+Prendre connaissance du dossier fonctionnel et du dossier de conception;
+Livrer la solution logicielle de maniere incrementale;
+Demontrer les resultats obtenus au terme de chacune des iterations;
+Prendre connaissance des besoins de realisation technique;
+Effectuer le decoupage organique des composantes à developper;
+Identifier les composantes communes à creer ou à utiliser et les migrer dans les differents environnements;
+Modifier ou elaborer la documentation organique du systeme;
+Effectuer le developpement et l’entretien de services et applications, soient le code, les essais et l’exploitation, en appliquant les bonnes pratiques de developpement d’applications securitaires;
+Assurer l’arrimage et la conformite à l’architecture organique;
+Preparer et modifier les jeux d’essais existants;
+Effectuer tous les niveaux d’essais (notamment les essais de non-regression, unitaires), en preparer les devis et les donnees ainsi que realiser les correctifs necessaires;
+Automatiser les essais grâce aux methodologies appliquees au Ministere, telle que BDD-TDD, et se porter imputable de la qualite;
+Supporter la realisation des essais fonctionnels, integres et des essais d’acceptation;
+Documenter les solutions techniques et les pratiques pour assurer la perennite des produits;
+Modifier ou elaborer le plan d’implantation pour la mise en production;
+Implanter la solution;
+Fournir le support à la production, à l’implantation et à la phase post implantation;
+Collaborer à l’evaluation des correctifs requis pour resoudre les problemes rencontres dans le cadre de la production ou des divers projets;
+Identifier et resoudre les problemes techniques;
+Participer aux reunions au sein du projet ou des activites recurrentes du projet ou du maintien et de l’evolution des systemes;
+Effectuer les activites reliees à la gestion des composantes dans les environnements;
+Fournir le support aux utilisateurs, aux analystes et autres membres de l’equipe;
+Participer aux divers travaux de realisation et d’entretien requis dans le mode de developpement agile de type Scrum, Kanban ou Scrumban;
+Assurer une vigie des technologies et pratiques de developpement et partager les meilleures pratiques et façons de faire au sein des equipes produits.
+Toute autre responsabilite qui releve de ce niveau d’intervention.
+
+
+Biens livrables Notamment :
+
+Biens livrables relies au parcours approprie base majoritairement sur la methodologie au Ministere (Guide Vert issu de la methodologie du MacroscopeMD) et les evolutions de la methodologie;
+Dossier et documentation organique;
+Documentation des codes sources des programmes et autres composantes informatiques;
+Dossier d’essais comprenant les devis et jeux d’essais permanents;
+Plan d’implantation de la solution;
+Dossiers de mise en production et soutien à la production;
+Documentation reliee à la gestion des composantes;
+Tout autres livrables lies aux activites precedentes.
+
+
+Requirements
+
+Posseder un minimum de cinq (5) annees d’experience dans le domaine des technologies de l’information dont :
+Deux (2) annees à titre de programmeur Oracle au cours des cinq (5) dernieres annees, et plus specifiquement en developpement et en amelioration de systemes, dans l’environnement de developpement des produits ORACLE dont la generation de Forms 12c,
+
+
+le developpement de Report 12c, Base de donnees Oracle 19c, la programmation SQL et PL-SQL.
+
+Atouts :
+
+Detenir un dipleme d’etudes collegiales (DEC) ou l’equivalent dans le domaine de l’informatique ou des technologies de l’information;
+Avoir au moins une experience de projets dans un contexte Agile.
+
+
+Benefits
+
+LIEU DE TRAVAIL
+
+Le lieu de travail sera determine selon le mandat, il peut être en tele travail ou chez le client.
+
+POURQUOI SE JOINDRE À TEHORA?
+
+TEHORA est une firme quebecoise multidisciplinaire reconnue pour l'excellence de ses services professionnels, de nature technique et de gestion de projets à l'echelle nationale et internationale. Notre mission est d'accompagner nos clients dans la concretisation de leurs projets par l'excellence de notre savoir-faire et de notre creativite.
+
+Depuis sa creation en 2017, notre equipe de professionnels connait une croissance exponentielle en repondant aux besoins importants en gestion de projets multidisciplinaires, dans le domaine des transports, du genie civil, du TI et plus.
+
+Nos collaborateurs travaillent sur des mandats aussi bien à l’interne que chez des clients d’envergures.
+
+TEHORA se distingue par sa culture d’entreprise, axee sur le bonheur de ses employes et la diversite.
+
+Chez TEHORA, chaque collaborateur est un membre important de l'equipe qui contribue à notre succes collectif. Nos membres ont la flexibilite requise pour avoir un equilibre entre le travail et leur vie privee, tout en menant une carriere enrichissante.
+
+Nous offrons un environnement de travail motivant. La diversite des projets, la grande autonomie et l’interaction directe avec les clients sont appreciees. Une telle proximite est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre equipe et les clients.
+
+AVANTAGES
+
+Du teletravail et de la flexibilite pour s’adapter à vos obligations familiales
+
+Une culture entrepreneuriale favorisant la creativite et l'innovation
+
+Horaires flexibles (selon le type de contrat de travail)
+
+Conges en cas de maladie et à l'occasion d'evenements familiaux
+
+Outils informatiques adaptes
+
+Espace de travail epanouissant et motivant
+
+Initiatives sociales et environnementales
+
+Programme d’apprentissage en milieu de travail
+
+Cheminement de carriere
+
+SALAIRE
+
+Le salaire sera calcule sur la base du taux horaire moyen correspondant à votre profil.
+

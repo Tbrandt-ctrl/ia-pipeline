@@ -1,0 +1,34 @@
+TEHORA est actuellement à la recherche d’un(e) Programmeur Oracle ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses compétences au sein d’une équipe polyvalente.
+
+Sans être exhaustifs, voici les services et livrables que devra fournir la personne retenue :
+
+Travaux ou biens livrables :
+- Prendre connaissance du cadre de développement et de la méthodologie utilisée au ministère ;
+- Participer, avec les membres de l’équipe, à l’estimation des histoires du carnet de commandes et des itérations ;
+- Travailler en cocréation avec les équipes produits pour bien comprendre et réaliser des solutions représentant les intentions et les objectifs d’affaires ;
+- Participer au recueil et à la définition des besoins utilisateurs ;
+- Prendre connaissance du dossier fonctionnel et du dossier de conception ;
+- Livrer la solution logicielle de manière incrémentale ;
+- Démontrer les résultats obtenus au terme de chacune des itérations ;
+- Prendre connaissance des besoins de réalisation technique ;
+- Effectuer le découpage organique des composantes à développer ;
+- Identifier les composantes communes à créer ou à utiliser et les migrer dans les différents environnements ;
+- Modifier ou élaborer la documentation organique du système ;
+- Effectuer le développement et l’entretien de services et applications, soient le code, les tests et l’exploitation, en appliquant les bonnes pratiques de développement d’applications sécuritaires ;
+- Assurer l’arrimage et la conformité à l’architecture organique ;
+- Préparer et modifier les jeux de tests existants ;
+- Effectuer tous les niveaux de tests (notamment les tests de non-régression, unitaires), en préparer les devis et les données ainsi que réaliser les correctifs nécessaires ;
+- Automatiser les tests grâce aux méthodologies appliquées au Ministère, telle que BDD-TDD, et se porter imputable de la qualité ;
+- Supporter la réalisation des tests fonctionnels, intégrés et des tests d’acceptation ;
+- Documenter les solutions techniques et les pratiques pour assurer la pérennité des produits ;
+- Modifier ou élaborer le plan d’implantation pour la mise en production ;
+- Implanter la solution ;
+- Fournir le support à la production, à l’implantation et à la phase post implantation ;
+- Collaborer à l’évaluation des correctifs requis pour résoudre les problèmes rencontrés dans le cadre de la production ou des divers projets ;
+- Identifier et résoudre les problèmes techniques ;
+- Participer aux réunions au sein du projet ou des activités récurrentes du projet ou du maintien et de l’évolution des systèmes ;
+- Effectuer les activités relatives à la gestion des composantes dans les environnements ;
+- Fournir le support aux utilisateurs, aux analystes et autres membres de l’équipe ;
+- Participer aux divers travaux de réalisation et d’entretien requis dans le mode de développement agile de type Scrum, Kanban ou Scrumban ;
+- Assurer une veille des technologies et pratiques de développement et partager les meilleures pratiques et façons de faire au sein des équipes produits.
+- Toute autre responsabilité qui relè

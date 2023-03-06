@@ -1,0 +1,31 @@
+Voici un poste d'emploi :
+
+Votre travail et votre contribution :
+- Travailler activement au développement du logiciel « Collabox », de type ERP à la carte qui inclut un CRM
+- Contribuer à la recherche et développement du logiciel en proposant des solutions créatives
+- Participer aux séances de remue-méninges pour solutionner différentes situations
+- Aider les autres en contribuant à leur code
+- Effectuer de la programmation Full Stack avec une bonne proportion de Back-end
+- Chez Collabox nous avons aussi parfois des projets spéciaux pour des clients, vous pourrez donc y contribuer. 
+
+Vos compétences, vos connaissances :
+- Habile avec les outils HTML, CSS; JavaScript; JQuery; Ajax; PHP; SQL
+- Maîtriser GIT serait un bon atout
+- Avoir des connaissances en C++ et/ou en QT serait aussi un atout
+- Avoir un diplôme d’études collégiales (DEC ou AEC) correspondant au poste
+- Cumuler un minimum de cinq ans d’expérience de travail comme programmeur.euse
+- Être attentif aux détails et avoir des réflexes de « contrôle-qualité » de son travail
+- Avoir un désir d’apprendre et de se perfectionner en mode continu
+- Chez Collabox nous travaillons en français, donc il faut savoir bien s’exprimer et écrire en langue française.
+
+Travailler chez Collabox c’est :
+- Obtenir un poste à temps plein 37,5 heures par semaine du lundi au vendredi
+- Profiter de notre « Programme Avantages-Collabox » composé d’avantages financiers, d’avantages liés aux soins de santé et un programme spécial de reconnaissance au travail
+- Pouvoir négocier un horaire assez flexible (sur entente)
+- La possibilité de faire du télétravail avec des outils de collaboration efficaces et en temps réel
+- La possibilité de travailler en mode hybride : au bureau (espace de co-working disponible dans nos locaux) et en télétravail
+- Participer à des activités sociales (virtuelles ou en présence, parce que nos collègues travaillent de partout !)
+- Le partage des expériences, l’entraide et le co-développement font partie de notre quotidien.
+- Un environnement de travail agréable et chaleureux, mais structuré.
+
+Nous vous invitons à nous faire parvenir votre candidature à Louise Lahaie : louise.lahaie@collabox.com.

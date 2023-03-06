@@ -1,0 +1,43 @@
+Nous sommes actuellement � la recherche de developpeurs full stack pour l'un de nos clients du secteur bancaire.
+
+Postes permanents
+
+40h-semaine.
+
+Poste Hybride (presence demandee au bureau 1 fois par semaine).
+
+Locaux Montreal centre-ville.
+
+
+
+
+Description de poste:
+
+• Participer � l’analyse, la conception technique, au developpement et � d’autres tâches, au besoin, afin d’assurer la livraison de projets � echeances serrees.
+
+• Participer au developpement de composants reutilisables (cadres d’application, modèles).
+
+• Travailler dans un environnement infonuagique; comprendre la philosophie et la methodologie inherentes � l’informatique en nuage; comprendre Amazon Web Services (AWS).
+
+
+
+
+Il s'agit d'un projet de migration java vers du typescript.
+
+
+
+
+Voici les langages:
+
+Principalement Node JS et typescript.
+
+o Technologies utilisees : Typescript-Javascript, React, Redux, Node, Java JEE, Spring MVC, NPM, Maven, CodeCommit, CodePipeline, DynamoDB, Cognito, Lambdas, MySQL, REST, SOAP, Tomcat, Websphere.
+
+
+
+
+Si vous êtes interesse merci de m'envoyer votre candidature � aakif@sourcevolution.com
+
+Au plaisir d'echanger ensemble!
+
+Mostrar más

@@ -1,0 +1,46 @@
+Focus Labs est une société qui s'engage dans la création d'applications web et de plateformes de publication personnalisées dirigées par des vétérans du secteur, passionnés par la création des meilleures solutions pour aider d'autres entreprises à réussir. Ils travaillent avec des clients à tous les stades du développement et se spécialisent dans l'aide à la monétisation de votre contenu numérique pour une rentabilité accrue.
+
+L'idée derrière Focus Labs est de permettre aux clients de créer leurs projets de manière itérative, leur permettant d'évoluer au fur et à mesure de sa progression. Cela permet d'être flexible et modifiable en cas de besoin, tout en étant capable de répondre rapidement aux besoins de vos utilisateurs. La méthodologie agile crée ce dont vous avez besoin au lieu d'essayer de prédire ce dont vous aurez besoin.
+
+Données du poste :
+
+Vous êtes un-e programmeur-euse passionné-e qui rêve de faire partie d'une équipe de feu et de participer à des projets stimulants ? Le tout dans le confort de votre propre maison ? Si c'est le cas, cette offre est faite pour vous !
+
+Focus Labs est en pleine croissance et recherche activement 1 programmeur-euse WordPress - Sage 10 et VueJS pour participer au développement de divers projets et sites web.
+
+Poste à temps plein ou temps partiel, permanent. 37,5 heures par semaine en télétravail. Entrée en fonction immédiate.
+
+Une journée typique chez nous :
+
+- Concevoir, construire et maintenir des sites web.
+- Travailler avec une équipe de Développeurs compétents qui s'engagent à offrir la meilleure expérience à ses clients.
+- Participer aux décisions relatives à l'architecture et à la priorisation des projets avec les autres membres de l'équipe.
+- Travailler sur de nouveaux projets sur une base régulière.
+- Relever des défis !
+
+Les avantages de travailler avec nous :
+
+- Horaire flexible.
+- Projets stimulants avec des Développeurs d’expérience
+- Vacances, jours fériés et congés payés entre Noël et le jour de l’An
+- Conciliation travail-famille ou travail-style de vie.
+
+Qualifications :
+
+Ce que nous recherchons :
+
+- Détenir au moins 2 ans d'expérience professionnelle en tant que Développeur WordPress - Sage.
+- Excellente connaissance de PHP 7 & 8
+- Excellente connaissance du Javascript moderne ECMAScript 2015 +
+- Expérience avec Github, MySQL, TailwindCSS
+- Avoir la capacité de concevoir, construire et gérer des sites web et ses composants.
+- Être créatif-ve, passionné-e, débrouillard-e et proactif-ive.
+
+Informations complémentaires :
+
+Nous sommes impressionnés si vous connaissez aussi :
+
+- Docker et l'invite de commande Linux.
+- VueJS - AplineJS
+- Laravel
+- WooCommerce et Shopify

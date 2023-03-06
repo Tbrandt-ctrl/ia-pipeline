@@ -1,0 +1,97 @@
+Description Du Poste
+
+
+
+
+En tant que programmeur·e reseaux � Ubi Montreal, vous aurez une influence directe sur la qualite de l’experience connecte du jeu. On vous confiera le developpement des systèmes de reseaux bas-niveau, le developpement de l’engin multijoueur, et l’optimisation de la performance reseaux. Vous serez membre d’une equipe qui a comme mission d’assurer une experience connectee optimale.
+
+
+
+
+À chaque nouvelle iteration, vous vous engagerez � repondre aux questions les plus fondamentales : Est-ce que le jeu va être performant pendant les matchs multijoueurs? Est-ce que la latence satisfait et depasse les attentes des joueurs professionnels? Est-ce que l’experience connectee est fluide?
+
+
+
+
+En tant que membre fiable d’une equipe de developpement online cohesive, vous participerez � la conception, au developpement, aux tests, � l’integration et au debogage des systèmes reseaux du jeu. Vous vous souciez d'offrir la meilleure experience multijoueur que nos joueurs meritent.
+
+
+
+
+Ce que vous ferez
+
+
+
+
+Developper des fonctionnalites reseaux performants, fiables et surtout fun en collaboration avec les equipes de gameplay et de conception de jeu.
+Comprendre les fonctions existantes et suggerer et developper des ameliorations afin de creer la meilleure experience multijoueur.
+Collaborer avec plusieurs equipes de production et de support � la production.
+Corriger les bogues reseaux.
+Documenter votre travail.
+
+
+
+
+Qualifications
+
+
+
+
+Ce que vous apportez � l'equipe
+
+
+
+
+Un baccalaureat en informatique ou genie informatique
+Au moins 5 ans d’experience en developpement et optimisation de code en C++ et Python
+De l’experience avec les engins multijoueur, les systèmes distribuees, l’optimisation de code reseaux et le multi-threading
+De l’experience en developpement de fonctionnalites reseaux sur les consoles Microsoft et Sony est un atout
+De l’experience sur une equipe qui a livre un jeu multijoueur est un atout; De l’experience avec C# est un atout
+Une competence pour communiquer avec tous les corps de metier et pour appuyer et tirer votre equipe vers le haut en matière de la qualite et de la vision du jeu
+De la creativite et de l'innovation
+
+
+
+
+Ce qu’il faut nous envoyer
+
+
+
+
+Votre CV mettant en valeur votre formation, vos experiences et vos competences
+
+
+
+
+Informations complementaires
+
+
+
+
+À propos de nous
+
+
+
+
+Les equipes d’Ubisoft comptent 20 000 personnes reparties sur plus de 30 pays aux quatre coins du monde et sont liees par une mission commune : enrichir la vie des joueuses et des joueurs au moyen d’experiences de jeu originales et memorables. Leur energie et leur talent ont permis de donner vie � de nombreuses franchises acclamees telles que Assassin’s Creed, Far Cry, Watch Dogs, Just Dance, Rainbow Six et bien d’autres � venir.
+
+
+
+
+Ubisoft est une entreprise soucieuse de l’egalite des chances et estime que la diversite des origines et des perspectives est essentielle pour creer des mondes qui permettent l’epanouissement et l’expression de tous·tes.
+
+
+
+
+Travailler � Ubi MTL, c’est jouir d’un milieu de travail qui eveille la creativite et favorise la connexion. Nous offrons un espace collaboratif axe sur l'avancement professionnel, les occasions d'apprentissage et le bien-être (nos importants avantages sociaux en temoignent!).
+
+
+
+
+Si vous êtes enthousiaste � l’idee de relever des defis passionnants, d’exploiter les toutes dernières technologies et de prendre part au futur du divertissement, rejoignez-nous pour creer l’inconnu. 
+
+
+
+
+À Ubisoft, vous êtes les bienvenu·es tel·les que vous êtes. Nous accueillons la diversite sous toutes ses formes. Nous nous engageons � favoriser un environnement de travail inclusif et respectueux de toutes les differences.
+Show more

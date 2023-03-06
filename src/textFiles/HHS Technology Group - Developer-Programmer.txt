@@ -1,0 +1,163 @@
+Developer-Programmer
+
+
+
+
+
+
+
+WHO WE ARE:
+
+
+
+At HHS Tech Group (HTG), our work matters, and each of us makes a difference in the lives of people every day.
+
+
+
+HTG is a leader in the development and delivery of innovative, purpose-built modular software and technology solutions to clients in the commercial and government sectors.
+
+
+
+
+
+
+
+WHAT WE DO:
+
+
+
+HHS Tech Group creates innovative, purpose-built technology products and solutions, resulting in value and positive, quantifiable impact for our clients and the people they serve.
+
+
+
+Our people bring our software to life through collaborative relationships with our clients, working as a team, helping to solve complex problems that create positive personal and community impact for the people our clients serve.
+
+
+
+Each day, our software products and our people are making a difference.
+
+
+
+
+
+
+
+OUR PEOPLE MATTER MOST:
+
+
+
+Improving the lives of others and making an impact daily is no simple task. We are dedicated to our team’s professional and personal growth and well-being. Some key rewards and benefits include:
+
+
+
+Generously sponsored Medical Insurance
+Fully paid premiums on dental, vision, life and disability insurance.
+Generous 401k matching program (100% match up to 6%)
+Tuition and Certification reimbursement
+Open PTO policy
+
+
+
+
+
+Join us!
+
+
+
+
+
+
+
+WHO WE ARE HIRING: Developer-Programmer
+
+
+
+
+
+
+
+WHAT YOU WILL DO:
+
+
+
+
+
+
+
+We are seeking one full-time Developer- Programmer to work on designing, developing, and testing integration layer software that will expose APIs to third-party vendors to meet the CMS patient access interoperability rule. They will also help rewrite more than 50 web services so as to move from BPM to ACE. The Developer- Programmer will write software for the EDI team (Electronic Data Interchange – the HIPAA standard for exchanging electronic health claims, etc.) to upgrade Core2 and the Minnesota Provider Screening and Enrollment (MPSE) software from WTX (support going away) to ITX and ACE.
+
+
+
+
+
+
+
+Responsibilities:
+
+
+
+Collaborate with business analysts and developers to produce software designs
+Formulate program specifications and basic prototypes
+Transform software designs and specifications into high functioning code in the appropriate language
+Integrate individual software solutions to higher level systems
+Use web-based tools to create and advance applications
+Test code to ensure it produces the desirable results and perform debugging when necessary
+Perform upgrades to make software and systems more secure and efficient
+Create technical documentation
+Provide knowledge transfer
+
+
+
+
+
+Required Experience
+
+
+
+Seven (7) years’ experience in Developer-Programmer role
+A Master’s degree substitutes for three years of experience, or a Bachelor’s degree substitutes for two years, or an Associate’s degree substitutes for one year
+Two (2) engagements lasting more than one (1) year in Developer-Programmer role
+One (1) year IBM integration Bus (IIB) experience
+
+
+
+
+
+Preferred Experience
+
+
+
+WebSphere developer who has experience providing analysis and developing and using:
+Business Process Execution Language (BPEL)
+Process server administration
+Experience providing analysis and developing and using:
+Core Java
+IBM BPM 8.5
+JAVA 2EE
+Spring Core
+Spring JDBC
+AXIS2, XML
+XSD
+SOAP
+MAVEN
+Apache open source Libraries, WebSphere, Oracle
+IBM Integration Designer (IID)
+HHS Tech Group-Engage Point Notify
+BIRT-Freemarker template languages
+Centers for Medicare & Medicaid Services (CMS) and Audit Products
+Excellent knowledge with relational databases, SQL and ORM technologies
+Detail-oriented and excellent concentration ability
+An analytical mindset and critical thinking
+Demonstrable ability to discover and fix errors in code
+Strong communication skills
+Ability to work independently and in team settings
+
+
+
+
+
+
+
+
+
+Mostrar más

@@ -1,0 +1,114 @@
+Title
+
+1356-NN_ADMINPRO - Application Systems Analyst-Developer
+
+Business Title
+
+Application Programmer
+
+Additional Titles
+
+Location:
+
+WSU PULLMAN CAMPUS
+
+Employee Type
+
+Admin. Professional (+) (Fixed Term)
+
+Job Family
+
+Administrative Professional - Not OT Eligible
+
+Position Details
+
+Summary of Duties:
+
+The Programmer is responsible for information technology development, programming, and support of web-based, open-source software that is used nationally and globally for storage, data mining, and visualization of scientific data related to genomics, genetics, and breeding. This position will support the expansion of an existing software package that will integrate analytical workflows using high-performance computing and implementation of RESTful web services. Job duties include programming in PHP, JavaScript, HTML, SQL, and related technologies. The position is responsible for the development of tutorials and outreach material for the software.
+
+These efforts will support scientists working in genomics, genetics, and breeding. The work will expand the open-source project Tripal (http:--tripal.info) which currently has a national and international impact.
+
+This position is expected to provide mentorship to contract workers on the project.
+
+Required Qualifications
+
+Positions require a Bachelor’s degree and three (3) years professional experience. Any combination of relevant education and experience may be substituted for the educational requirement on a year-for-year basis.
+Experience with an object-oriented programming language. Experience with PHP, PostgreSQL, JavaScript, the UNIX command line, Docker, web development, and custom Drupal 8+ module development.
+Demonstrated communication skills and experience with team development.
+
+Preferred Qualifications
+
+Bachelor’s degree in Computer Science, Computer Engineering, Information technology or related field.
+
+Area-College
+
+Additional Information:
+
+College of Agriculture, Human, and Natural Resource Sciences (CAHNRS)
+
+Department Name
+
+Horticulture
+
+City, State, Zip
+
+Pullman, WA 99164-6414
+
+Department Link
+
+www.horticulture.wsu.edu
+
+Monthly Salary
+
+$4,942.10 - $5,598.96
+
+Fte
+
+100%
+
+Temporary End Date
+
+This is a temporary position expected to end on September 30, 2023. Renewal is dependent on the need for extension and-or if additional funding is secured to extend employment.
+
+Posting Close Date
+
+Applicants must submit their completed application by March 8, 2023 at 11:59 p.m.
+
+Background Check
+
+This position has been designated by the department to require a background check because it requires access to children or vulnerable adults as defined by RCW 74.34, engages in law enforcement, requires security clearance, interacts with WSU students in a counseling or advising capacity, has access to personal identifying and-or financial information, unsupervised access to university buildings-property, or other business-related need. A background check will not be completed until an initial determination of qualification for employment has been made.
+
+Application Instructions
+
+Applicants must upload the following documents to their online application.
+External candidates, please upload all documents in the “Resume-CV” section of your application.
+Internal candidates, please upload all documents in the “Resume-Cover Letter” section of your application.
+Documents may be submitted in one file or separate files.
+Applicants are encouraged to upload as a PDF if possible .
+Applicants will be requested to provide contact information for professional references within the online application.
+Application materials should clearly communicate how the applicant meets all required qualifications and additional requirements.
+
+Required Documents
+
+Resume
+Cover letter
+Contact information for three (3) professional references
+
+In accordance with RCW 49.58.110, the above salary reflects the full salary range for this position. Individual placement within the range is based on the candidate’s current experience, education, skills, and abilities related to the position. Successful candidates typically begin up to mid-point of the salary range. For more information regarding Administrative Professional (AP) Compensation at Washington State University (WSU), please visit the following website: https:--hrs.wsu.edu-managers-classification-compensation-ap-compensation-structure-.
+
+WSU offers a comprehensive benefits package which includes paid sick and vacation leave; paid holidays; medical, dental, life and disability insurance package for employees and dependents; retirement; deferred compensation and optional supplemental retirement accounts.
+
+For a more detailed summary of benefits offered by WSU for AP staff visit: https:--hrs.wsu.edu-wp-content-uploads-2022-04-2022-Benefit-Overview-for-Faculty-and-AP.pdf. Find total compensation information here: https:--hrs.wsu.edu-managers-recruitment-toolkit-total-compensation-.
+
+Time Type
+
+Full time
+
+Position Term
+
+WASHINGTON STATE UNIVERSITY IS AN EQUAL OPPORTUNITY-AFFIRMATIVE ACTION EDUCATOR AND EMPLOYER. Members of ethnic minorities, women, special disabled veterans, veterans of the Vietnam-era, recently separated veterans, and other protected veteran, persons of disability and-or persons age 40 and over are encouraged to apply.
+
+WSU employs only U.S. citizens and lawfully authorized non-U.S. citizens. All new employees must show employment eligibility verification as required by the U.S. Citizenship and Immigration Services.
+
+WSU is committed to providing access and reasonable accommodation in its services, programs, activities, education and employment for individuals with disabilities. To request disability accommodation in the application process, contact Human Resource Services: 509-335-4521 (v), Washington State TDD Relay Service: Voice Callers: 1-800-833-6384; TDD Callers: 1-800-833-6388, 509-335-1259(f), or hrs@wsu.edu.
+Mostrar más

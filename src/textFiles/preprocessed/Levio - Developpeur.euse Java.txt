@@ -1,0 +1,18 @@
+Voonyx, une entreprise de Levio, est à la recherche des meilleurs Développeurs Back-End Java dans la province de Québec afin de participer à des projets d'envergure chez nos clients. En tant qu'expert des technologies Java, vous serez appelé à occuper des rôles clés dans des mandats à caractère complexe et à relever d'importants défis permettant à nos clients d'atteindre leurs objectifs d'affaires.
+
+Nous vous confierons des défis à la hauteur de votre talent ! Si vous faites partie de l'élite, que vos livrables sont de grande qualité, que vous vous démarquez sans cesse, que vous êtes passionnés par votre travail et que vous souhaitez rejoindre la meilleure équipe Java dans nos bureaux de Québec, de Montréal ou de votre propre domicile (télétravail), nous sommes très intéressés à vous rencontrer.
+
+Pour faire partie de l'excellence :
+
+- Vous détenez une formation universitaire en génie logiciel-informatique ou un diplôme connexe au domaine ;
+- Vous avez une solide expérience en développement, intégration ou architecture avec les technologies Java-JEE dans un environnement d'entreprise ;
+- Vous possédez un bon niveau de connaissance de plusieurs technologies dont Eclipse-IntelliJ-Netbeans, Spring, Apache Tomcat, JBoss, SOAP, REST, JMS, JPA, Hibernate, JDBC, Servlet, EJB et/ou XML ;
+- Vous maîtrisez les concepts d'architecture orientée service (SOA) ou les microservices ;
+- Vous démontrez une excellente connaissance d'une ou plusieurs bases de données suivantes : Oracle, DB2, MySQL, PostgreSQL, SQLServer et/ou NoSQL ;
+- Vous réalisez votre développement dans un environnement agile avec des processus de livraison continue (CI-CD) ;
+- Vous vous définissez par le travail d'équipe, par vos compétences en communication interpersonnelle et vous n'avez pas peur de donner vos idées pour faire partie de la solution ;
+- Vous êtes bilingue (français-anglais).
+
+Nous offrons les meilleures conditions ; la rémunération la plus compétitive sur le marché en plus de plusieurs autres avantages qui se démarquent de la concurrence.
+
+Curieux d'en savoir plus ? À la recherche ou non d'un nouveau défi, nous nous ferons un plaisir d'en discuter avec vous, rh@voonyx.ca ou écrivez-nous directement sur LinkedIn !

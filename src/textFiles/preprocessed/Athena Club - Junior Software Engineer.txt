@@ -1,0 +1,34 @@
+Nous recherchons un développeur·se logiciel·le junior passionné·e pour rejoindre notre équipe dynamique et innovante. En tant que développeur·se logiciel·le junior, vous serez chargé·e de développer des solutions frontend et backend de haute qualité qui offriront à nos utilisateurs une expérience exceptionnelle. Vous aurez l'opportunité de travailler de manière transversale et d'initier des changements avec autonomie. Si vous êtes à l'aise avec la technologie, autonome et attentif·ve aux détails, c'est une occasion fantastique d'influer directement sur nos expériences numériques !
+
+Responsabilités
+
+• Développer, tester et déployer des applications web full stack 
+• Déboguer et résoudre des problèmes dans des applications web 
+• Travailler avec les équipes produit et design pour créer des expériences utilisateur innovantes 
+• Concevoir de nouvelles fonctionnalités et améliorer celles existantes 
+• S'assurer que la nouvelle fonctionnalité répond aux normes de qualité logicielle existantes 
+• Expliquer des concepts techniques complexes à des interlocuteurs non techniques
+
+Exigences
+
+• Diplôme universitaire en informatique, génie ou un domaine connexe 
+• Expérience du développement d'applications web full stack 
+• Familiarité avec des technologies telles que VueJS, PHP et MySQL 
+• Expérience de projet e-commerce un plus 
+• Excellentes compétences en communication et collaboration, à distance et en personne 
+• Capacité à s'adapter à une technologie changeante 
+• Maîtrise de Git et de GitHub pour la gestion des dépôts de code 
+
+Avantages
+
+• Assurance maladie complète + couverture hors province, soins dentaires, soins de la vue, plan de remboursement médical (MRP), assurance vie et invalidité optionnelles - assurance AD&D 
+• Produits gratuits et super réductions pour les amis et la famille 
+• Événements et sorties en équipe 
+
+Pourquoi nous rejoindre ? 
+
+• Nous avons travaillé diligemment pour créer une culture d'équipe empathique, performante et sans ego qui est vraiment unique - vous pouvez sentir l'énergie positive à partir de votre premier entretien 
+• Les bonnes idées peuvent venir de n'importe où et nous avons créé un environnement de travail pour faciliter la collaboration et le partage d'inspiration 
+• Nous accordons de l'importance à l'interaction 1:1 et à la connaissance de vos collègues en dehors du travail - dîners, retraites, cafés - nous allons le faire 
+• Notre objectif est de favoriser le talent interne et de créer des occasions de croissance et de promotion. Nous croyons fermement que lorsqu'un membre de l'équipe réussit, nous réussissons tous 
+• Athena Club est une start-up en pleine expansion, à la croissance réfléchie, avec un énorme potentiel - tous ceux qui nous rejoignent à cette étape peuvent faire partie de notre succès précoce et avoir une véritable prise en main sur leur rôle.

@@ -1,0 +1,43 @@
+En tant que Developpeur Java au sein de l'equipe Atlas, vous aurez l'occasion de travailler sur une vaste plateforme financiere et de referencement de webmestres qui sert des centaines de milliers d'affilies et de partenaires. Ayez la chance de faire partie d'une equipe forte et dynamique qui prene le travail d'equipe et qui aime resoudre ensemble des problemes complexes.
+
+Ce que vous ferez :
+
+Élaborer, creer et mettre à jour des applications dorsales orientees objet.
+Effectuer l'examen du code et determiner des recommandations d'adaptation.
+Analyser et documenter les processus.
+
+
+Ce dont vous aurez besoin pour reussir :
+
+Competences essentielles :
+
+Au moins 5 ans d'experience dans un poste similaire
+Solide connaissance de Java
+Experience avec Spring, Hibernate et Spring Batch
+Experience des environnements infonuagiques : GCP, AWS et Azure
+Experience du developpement et de l'exploitation (DevOps), des outils d'integration et de livraison continues (CI-CD), de Gitlab, de Jenkins, de Bamboo (facultatif), de Docker et de GKE
+Experience avec le cadre JS conventionnel Angular-ReactJS-etc.
+Experience en segmentation de processus
+Connaissance intermediaire des systemes bases sur Unix
+Capacite à travailler de façon autonome et en equipe
+Capacite à faire face à des priorites techniques en constante evolution
+
+
+Atouts :
+
+Experience avec les systemes de gestion de base de donnees relationnelle (SGBDR), PostgreSQL et Pooling
+Experience avec les systemes de cache, Redis
+Experience avec les files d'attente de messages, RabbitMQ-SQS-Pub Sub
+Experience avec Hibernate
+Experience avec Elasticsearch
+Experience des plateformes de distribution publicitaire
+Experience des plateformes de traitement des paiements
+Baccalaureat en informatique
+
+
+En tant qu'employeur souscrivant au principe de l'egalite d'acces à l'emploi, notre entreprise celebre la diversite et s'engage à creer un environnement inclusif pour tous ses employes.
+
+Ce poste peut vous exposer à du contenu pour adultes.
+
+Le masculin est utilise dans le seul but d'alleger le texte.
+और दिखाएं

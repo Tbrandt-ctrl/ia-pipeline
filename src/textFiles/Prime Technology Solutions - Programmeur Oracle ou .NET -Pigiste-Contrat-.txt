@@ -1,0 +1,38 @@
+Description generale :
+
+
+
+
+Le programmeur a pour principal rôle de realiser les programmes informatiques (applications) repondant aux specifications fonctionnelles et d’en assurer l’entretien et l’evolution. C’est aussi lui qui realise les essais unitaires de système et qui assure le soutien technique aux analystes fonctionnels.
+
+
+
+
+Tâches :
+
+
+
+
+Collaborer en tant que conseiller et realisateur de programmes informatiques et maintenir la portee de la solution conforme aux exigences formellement etablies;
+Participer aux rencontres de suivi de l’equipe de realisation et faire part de son niveau d’avancement, d’avenues de solution ou de problèmes pouvant compromettre les echeanciers ou la realisation du projet;
+Participer au prototypage et aux essais de systèmes, selon les analyses approuvees;
+Collaborer � l'implantation des correctifs et evolutions apportes aux systèmes;
+Participer � l’elaboration des solutions (conception d’approches repondant aux contraintes techniques);
+Participer � la validation de certains livrables d'architecture detaillee et d’analyse si requis;
+Effectuer le developpement necessaire pour l'adaptation des modules identifies par les architectes et-ou analystes;
+Participer � l’analyse des problèmes de production et � leur resolution;
+S'assurer du respect des echeanciers des mandats � sa charge;
+Effectuer toutes autres tâches connexes � son profil et � son expertise.
+
+
+
+
+Exigences minimales quant � l’experience et aux connaissances :
+
+
+
+
+Cumuler un minimum de cinq (5) ans d’experience en programmation dans la technologie visee (specifiee dans la demande d’intervention) ;
+Avoir participe � au moins un (1) mandat dans un environnement technologique en tant qu’analyste fonctionnel au cours des deux (2) annees precedant la demande d’intervention ;
+Avoir participe activement en tant que programmeur dans la technologie visee � au moins un (1) mandat d’une envergure minimale de 1000 j-p au cours des deux (2) annees precedant la demande d’intervention.
+और दिखाएं

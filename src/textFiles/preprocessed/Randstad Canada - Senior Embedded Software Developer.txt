@@ -1,0 +1,36 @@
+Vous avez envie de réussir au sein d'une équipe de recherche et développement à l'ambiance familiale située à Saint-Eustache et vous souhaitez contribuer activement à leur croissance continue tout en jouant un rôle essentiel en tant que Développeur embarqué senior ? Alors le poste de développeur embarqué senior dans un environnement dynamique et dans une entreprise internationale à Saint-Eustache en pleine croissance est fait pour vous. Le Développeur embarqué senior qui travaillera au sein de l'équipe R&D de la société qui est située à Saint-Eustache jouera un rôle essentiel dans le développement de différents produits révolutionnaires passionnants en C-C++ embarqué.
+
+Avantages
+
+• Un salaire compétitif et des avantages concurrentiels
+• Une assurance collective et un programme REER
+• 4 semaines de vacances dès la première année d'emploi et des jours flexibles durant l'année
+• Un lieu de travail dynamique et une entreprise en pleine croissance
+• Un environnement de travail familial conçu pour leurs employés et un parking gratuit
+• Développement professionnel continu et possibilité d'évoluer et de faire partie de différents projets.
+
+Responsabilités
+
+• Responsable de tout ou partie d'un projet en C-C++ embarqué
+• Participer à des projets très stimulants qui mèneront à la prochaine génération de systèmes.
+• Travailler dans une équipe de personnes motivées et compétentes qui ont à cœur de réaliser un excellent produit.
+• Contribuer au développement de projets et faire partie d'une équipe qui crée des systèmes innovants et stables.
+
+Qualifications
+
+• Au moins 5 ans d'expérience professionnelle en C-C++.
+• Une passion pour travailler dans des méthodologies organisées, avec des revues de code, et documenter régulièrement votre code.
+• Vous vous sentez à l'aise avec la plupart des termes suivants : RTOS, MCU, RS-485, RS-232, circuits analogiques-numériques, protocoles RF, IP, Git, Agile, schémas, réseau, IaaS, cryptage de données.
+• Un diplôme en informatique, en ingénierie informatique similaire
+• Communication bilingue ou uniquement en anglais
+• Avoir la passion d'amener les concepts à la réalité grâce à votre expertise et voir les projets jusqu'à leur matérialisation.
+• Une expérience préalable dans des secteurs tels que la sécurité, le traitement du signal, la détection de mouvement, le contrôle d'accès, les capteurs, les communications ou l'électronique grand public est attendue ou constitue un atout.
+• Intérêt au-delà de vos connaissances de base et désir d'apprendre et d'enseigner dans un environnement d'équipe, par exemple, Linux embarqué, bases de données relationnelles et non relationnelles (SQL, MongoDB), et autres langages de programmation est un plus.
+
+Sommaire
+
+Le rôle vous intéresse ? N'hésitez pas à postuler et/ou à envoyer votre CV à ayad.nahas@randstad.ca
+
+Au plaisir !
+
+Randstad Canada s'engage à favoriser une main-d'œuvre représentative

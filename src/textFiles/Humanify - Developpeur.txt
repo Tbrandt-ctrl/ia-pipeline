@@ -1,0 +1,61 @@
+Aujourd’hui, nous avons une place pour celles et ceux qui ont un goût marque pour penser des produits exceptionnels, pour assurer le bon deroulement des operations, pour mettre leur ingeniosite au service de leur equipe, en plus de contribuer à valoriser leur expertise et developper des pratiques uniques!
+
+Alors n’attends plus et rejoins nous! Tu y rencontreras des ambitieux.ses et des passionne.es du monde du divertissement!
+
+Ta mission
+
+Être responsable des deploiements à travers l’outil de release management;
+Effectuer les activites de developpement en respectant les requis d’affaire, les normes de developpement et les orientations d’architecture;
+Être axe sur l’automatisation des tâches repetitives (automatisation de pipeline ex: CI, CD);
+Utiliser au meilleur toutes les capacites de communication et de retroaction de notre outil de planification agile (Azure DevOps);
+Assurer la maintenance et le support du parc des applications maison;
+Contribuer dans la communaute de Developpeurs (Partage de connaissance, Accompagnement, Wiki, framework et espace de collaboration);
+Animer et contribuer au wiki et à l’espace de collaboration pour les Developpeurs;
+Contribuer à l’evolution de la plateforme Cloud de la compagnie à travers les exigences des projets et autres initiatives de developpement;
+Participer aux activites de revue de code;
+Participer au developpement de notre plateforme Cloud, securite, performance, enjeux technologiques, solutions de contournement quand Technologie pas suffisante ou en probleme;
+Travailler avec l’equipe de donnees dans l’ensemble des projets pour uniformiser la definition des modeles de donnees et l’echange des donnees;
+Travailler avec l’equipe d’architecture (interne et Microsoft) pour faire evoluer nos plateformes.
+
+Competences
+
+Minimum de 7 ans d'experience dans le domaine du developpement et integration applicatif;
+DEC ou Baccalaureat ou l'equivalent en informatique concentration Developpement -Integration Web ou dans un domaine connexe;
+Maitriser l'outil de contrele de code source Git: branches, pull requests, rebase;
+Connaissance de la plateforme Microsoft en general, des solutions Web, Plateforme .Net 4.5 et plus, ASP.Net, WebApi, Visual Studio- VSCode, SQL;
+Maîtrise de C# et Entity Framework;
+Maîtrise de javascript ou typescript (experience significative en developpement React souhaitee);
+Être à l'aise avec les principes d'architecture REST, de code asynchrone, l’Inversion de Contrele, le protocole HTTP et le pipeline OWIN;
+Connaissances de Microsoft Azure, ressources d’integration (Service Bus, Logic Apps, Function Apps);
+À l'affût des innovations et des technologies emergentes en matiere du Web;
+Langues: français et anglais;
+Habilete à travailler dans un contexte Agile qui evolue;
+Esprit d’equipe et habiletes relationnelles pour influencer les autres de maniere efficace et constructive vers l'atteinte des objectifs fixes;
+Capacite à travailler dans un environnement de developpement iteratif tres dynamique et axe sur la satisfaction du client et les livraisons regulieres.
+
+Avantages
+
+Pour vivre au rythme de la creation, de la production et de la diffusion de nos produits, notre proposition d’employeur est unique.
+
+En voici un aperçu
+
+Un mode de travail hybride inclusif base sur l’experience d’equipe et la flexibilite d’horaire
+L’acces à un bureau individuel les jours où tu te presentes au Studio de Montreal, un environnement stimulant qui te permettra de mettre à profit toute ta creativite
+Une culture axee sur le developpement de pratiques equitables et d’evenements rassembleurs
+Une croissance professionnelle axee sur les projets de tres grande qualite pour propulser ta carriere
+Un programme d’assurances collectives, de REER et autres avantages qu’il nous fera plaisir de te presenter
+Un accompagnement personnalise et adapte à tes ambitions professionnelles : programme de formation, check-ins reguliers, contribution inter-equipe.
+Minimum de 5 ans d'experience dans le domaine du developpement et integration applicatif;
+DEC ou Baccalaureat ou l'equivalent en informatique concentration Developpement -Integration Web ou dans un domaine connexe;
+Maitriser l'outil de contrele de code source Git: branches, pull requests, rebase;
+Connaissance de la plateforme Microsoft en general, des solutions Web, Plateforme .Net 4.5 et plus, ASP.Net, WebApi, Visual Studio- VSCode, SQL;
+Maîtrise de C# et Entity Framework;
+Maîtrise de javascript ou typescript (experience significative en developpement React souhaitee);
+Être à l'aise avec les principes d'architecture REST, de code asynchrone, l’Inversion de Contrele, le protocole HTTP et le pipeline OWIN;
+Connaissances de Microsoft Azure, ressources d’integration (Service Bus, Logic Apps, Function Apps);
+À l'affût des innovations et des technologies emergentes en matiere du Web;
+Langues: français et anglais;
+Habilete à travailler dans un contexte Agile qui evolue;
+Esprit d’equipe et habiletes relationnelles pour influencer les autres de maniere efficace et constructive vers l'atteinte des objectifs fixes;
+Capacite à travailler dans un environnement de developpement iteratif tres dynamique et axe sur la satisfaction du client et les livraisons regulieres.
+Daha fazla göster

@@ -1,0 +1,62 @@
+TransVoyant is seeking a Junior Software Developer with strong communication skills and the ability to thrive in a nimble and fast-paced Agile development environment. The ideal candidate must have a desire to take on new challenges and learn quickly–working well in a team environment, as well as individually.
+
+
+
+
+Responsibilities
+
+
+
+
+Help build the next-generation dynamic event processing platform
+Develop web-enabled software in a multi-threaded, multi-tiered, and scalable architecture
+Take ownership of assigned development tasks and oversee them to completion with attention to detail
+Research and create useful analytics from a large data repository
+Communicate with customers and internal staff as needed
+Participate in meaningful work for our customers and country
+
+
+
+
+Desired Skills & Experience
+
+
+
+
+1+ years hands-on Java development experience
+Desire to work in an Agile development environment
+Experience with Eclipse
+Expertise in common Java libraries and frameworks such as Spring, Hibernate etc.
+Experience in web technologies such as REST, HTTP, JavaScript, JSON, HTML, XML, etc.
+Familiarity with Cloud Computing, Distributed Caching, RDBMS, No-SQL Data Stores is a plus
+Experience with Amazon Web Services is a plus
+Background in GIS (Geographic Information Systems) and-or Computational Geometry is a plus
+Experience with data analytics or machine learning is a plus
+Experience with iOS and-or Android development is a plus
+A desire to learn NoSQL-Hadoop technologies (e.g. Couchbase, Amazon EMR, etc.)
+
+
+
+
+About Transvoyant
+
+
+
+
+TransVoyant delivers our customers continuous insights to increase revenues, reduce costs and manage risks by combining the current and future behavior of their enterprises, their ecosystems and they dynamic world around them. We are innovative, creative, focused on customer success and love what we do. Team members enjoy highly competitive compensation, a fast-growing and flexible work environment, comprehensive benefits, 100% 401k matches, unlimited vacation days and professional development opportunities.
+
+
+
+
+We respect your personal information. Please review our
+
+
+
+
+Powered by JazzHR
+
+
+
+
+KKEOC5g7Hg
+Show more

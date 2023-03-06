@@ -1,0 +1,40 @@
+Contexte et mandat
+
+
+
+
+Electronic Client File (ECF) est l'application qui gère tous les documents requis pour les activites clientes de prêts et de services-conseils � l’entreprise. L'idee derrière ECF est de creer un dossier client electronique dont la classification est uniforme dans tout le pays, ce qui facilite la recherche et le partage de documents. Base sur la technologie SharePoint de Microsoft, le projet ECF a plusieurs objectifs dont le passage � une version plus recente sur site, suivi d’une migration vers les technologies infonuagiques de Microsoft 365. Afin de pouvoir atteindre notre cible nous devons rendre « cloud ready » les APIs en utilisant les plus recentes approches de developpement d’APIs en micro-services, et aussi moderniser l'experience applicative actuelle.
+
+
+
+
+L’analyste système, qui relève du gestionnaire, Livraison de solutions d’affaires est integre au sein des equipes de livraison de solutions TI. Il-elle a pour responsabilite de developper des solutions en matière de technologies de l’information en reponse � des besoins fonctionnels complexes, en s’appuyant sur sa solide expertise en programmation. Le-la titulaire du poste sera responsable d’analyse technique, de la programmation et des tests. Il-elle travaillera en etroite collaboration avec differents specialistes pour bâtir les solutions.
+
+
+
+
+Duree : 12 mois
+
+
+
+
+Possibilite de renouvellement du mandat: Oui
+
+
+
+
+Possibilite de conversation en poste permanent: Oui
+
+
+
+
+Responsabilites
+
+
+
+
+Établir des specifications qui traduisent les besoins des utilisateurs en solutions tout en respectant les budgets convenus, les calendriers et les paramètres techniques.
+Concevoir et developper les composantes des systèmes, incluant la programmation, la documentation et les tests de la solution.
+Travailler conjointement avec les representants utilisateurs et les analystes lors du developpement, des tests et de la livraison des solutions.
+Assurer la qualite et la stabilite des systèmes en suivant les standards ou pr
+عرض المزيد

@@ -1,0 +1,67 @@
+IINGTECH est une firme d’ingenierie et de technologie specialisee dans les systèmes de vehicules lourds ayant pour mission de propulser l’industrie du transport. Notre plateforme centralisee de gestion de flotte permet � nos clients d’optimiser leurs operations, d’acquerir de l’information et des connaissances pertinentes, de garantir leur conformite et d’ameliorer leur securite.
+
+
+
+
+Êtes-vous passionne par la programmation et l’informatique ? Cherchez-vous une opportunite vous permettant de relever des defis stimulants auprès d’une equipe des plus dynamiques ? Si vous vous reconnaissez, ce poste de developpeur full-stack est fait pour vous !
+
+
+
+
+RESPONSABILITÉS :
+
+
+
+
+Comprendre et valider le besoin emis par le client, et ce, en etroite collaboration avec le responsable de produit (PO) et-ou les utilisateurs.
+Communiquer et discuter des choix techniques avec ses pairs.
+Appliquer les meilleures pratiques de developpement.
+Mesurer la qualite de la solution developpee (performance, robustesse, couverture fonctionnelle des essais, etc.);
+Soutenir techniquement la solution une fois en production (anomalies, maintenance, surveillance, etc.)
+Contribuer au processus de revue de code.
+Contribuer � la documentation.
+
+
+
+
+PROFIL TECHNIQUE RECHERCHÉ:
+
+
+
+
+DEC ou BAC en informatique ou tout autre domaine connexe pertinent (autodidactes passionnes avec experience pertinente acceptes);
+Minimum 3 ans d’experience en technologies de l’information;
+Connaissance des principes agile et DevOps et capacite � les appliquer dans un contexte de travail d’equipe;
+Maîtrise des langages de programmation Typescript, Javascript, et-ou PHP et-ou Java;
+Maîtrise des technologies Web, API REST, Git, Docker (GraphQL, et les micro- services sont un plus);
+Maîtrise des bases de donnees SQL serveur;
+Experience en programmation orientee objet et des principes SOLID;
+Experience en tests unitaires.
+
+
+
+
+AUTRES COMPÉTENCES RECHERCHÉES:
+
+
+
+
+Esprit d’equipe
+Capacite � communiquer en français � l’oral comme � l’ecrit
+Curiosite et passion du metier
+Goût du defi
+
+
+
+
+AVANTAGES :
+
+
+
+
+Salaire et avantages sociaux concurrentiels
+Entreprise en croissance
+Teletravail et-ou hybride
+Activites d’equipe
+3 semaines de vacances
+Mostrar más

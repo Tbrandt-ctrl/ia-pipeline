@@ -1,0 +1,149 @@
+Department Information
+
+
+
+
+Together, we innovate for a stronger Colorado
+
+
+
+
+The work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve. But our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of providing equitable access to services.
+
+
+
+
+We believe equity, diversity, and inclusion drive our success, and encourage candidates from all identities, backgrounds, and abilities to apply. We know it's important to support each other, and that means having a healthy balance of work and personal time, and benefits that allow us all to have fulfilling lives.
+
+
+
+
+Watch this video to learn about how OIT is thinking differently!
+
+
+
+
+Description of Job
+
+
+
+
+The Developer I has responsibilities across the full Software Development Life Cycle (SDLC) with a primary focus on development activities.
+
+
+
+
+Responsibilities will include: commenting code for peers and testers; performing unit testing, configuration management, and source code control.
+
+
+
+
+Operational support services will vary in scope from minor bug fixes to major enhancements.
+
+
+
+
+The Developer I will also contribute to support of: APIs development, enterprise data service tools, ensure ongoing, effective functioning of software, documentation of best practices, and trouble-shooting.
+
+
+
+
+Responsibilities Will Include
+
+
+
+
+Application Development and Support
+
+
+
+
+Develop applications using Agile or Waterfall methodologies.
+Perform coding (in-house applications) or configuration management (COTS applications).
+Contribute to the implementation of break-fix solutions
+Organize, build, and validate all segments of the code related to a specific build (release) for final User Acceptance Testing.
+Determine the best approach in the development of an application’s code
+Find unique ways to resolve issues in the development process
+Minimum Qualifications, Substitutions, Conditions of Employment & Appeal Rights
+
+
+
+
+A wide salary range is posted for this position and any job offer is based upon a salary analysis to comply with the Colorado Equal Pay for Equal Work Act. The salary analysis considers relevant experience, education, certifications, and state seniority as compared to others doing substantially similar work. While all offers are compliant with the Colorado Equal Pay for Equal Work Act, there is no guarantee an offer will be at the top of the posted range based on the salary analysis.
+
+
+
+
+Minimum Qualifications
+
+
+
+
+Education & Training:
+
+
+
+
+Undergraduate degree from an accredited college or university in information technology, computer science, or related fields
+
+
+
+
+Substitutions
+
+
+
+
+Additional appropriate education will substitute for the required experience on a year-for-year basis, but cannot completely substitute for these qualifications.
+
+
+
+
+Training or Certification related to the work assigned to the position will be assigned credit towards substitution for experience and-or education, but cannot completely substitute for these qualifications.
+
+
+
+
+Additional, appropriate paid or unpaid experience will substitute for the required education on a year-for-year basis.
+
+
+
+
+Preferred Qualifications
+
+
+
+
+1 year SQL
+1 year C#.NET, Java or other relevant software stacks.
+
+
+
+
+Conditions Of Employment
+
+
+
+
+OIT employees must comply with any screening procedures in place at state entity locations where they might be required to perform work.
+
+
+
+
+A pre-employment background check will be conducted as part of the selection process.
+
+
+
+
+Positions supporting some agencies such as the Department of Corrections and the Department of Public Safety will also require a pre-employment drug test.
+
+
+
+
+This position may require travel within the specified geographic area, and to locations across the state as needed.
+
+
+
+
+This position may require on-call duties as needed by the position.
+Voir plus

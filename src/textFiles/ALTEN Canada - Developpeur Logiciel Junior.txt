@@ -1,0 +1,89 @@
+Qui sommes-nous?
+
+
+
+
+Leader mondial sur le marche de l’Ingenierie et du conseil en Technologies avec plus de 48 000 consultants repartis à travers le monde, le Groupe ALTEN optimise la performance technologique des entreprises depuis pres de 50 ans. ALTEN Canada est actuellement à la recherche de conseiller-eres juniors fraîchement dipleme-es pour participer au succes organisationnels de ses clients de renom dans la grande region de Montreal.
+
+VOTRE MISSION
+
+
+
+
+Vous ferez partie d'une equipe creative et passionnee qui tirera parti des dernieres technologies de jeu pour fournir et introduire des solutions innovantes dans les produits de simulation. Le-la candidat-e ideal est passionne-e par la technologie logicielle.
+
+
+
+
+Dans ce rele :
+
+
+
+
+Concevoir, architecturer et developper des solutions pour fournir des produits de simulation
+Être responsable de toutes les phases de developpement à partir des exigences en passant par les tests et l'integration finale sur un simulateur
+Travailler en collaboration avec plusieurs equipes pour resoudre des defis techniques complexes
+Participer activement aux revues de code
+Rester au courant des tendances technologiques
+
+
+
+
+Ce que nous recherchons :
+
+BS ou MS en genie logiciel, informatique ou experience equivalente
+Connaisseur-se et passionne-e par le C ++ moderne
+Un-e excellent-e programmeur-se, qui est plus que confortable pour ecrire du code
+Bonne connaissance des principes du genie logiciel (conception orientee objet)
+Experience dans le developpement, le deploiement et la maintenance d'applications evolutives et en constante evolution (CI-CD) (experience du cloud un atout)
+Comprehension et experience des principes de reseautage
+Experience dans un environnement de developpement interdisciplinaire, avec d'excellentes competences en communication interdisciplinaire
+
+
+
+
+*********************************************************************************
+
+Who is ALTEN?
+
+
+
+
+ALTEN Group is a global leader in the Engineering and Technology Consulting market with more than 48,000 consultants around the world. For nearly 50 years, ALTEN Group has been optimizing the technological performance of major companies. ALTEN Canada is currently looking for freshly graduated junior consultants to participate in the organizational success of its renowned clients in the greater Montreal area.
+
+
+
+
+YOUR MISSION
+
+
+
+
+You will be part of a creative and exciting team that will leverage the latest technology to deliver and introduce innovative capabilities into simulation products. The ideal candidate is passionate about software and working in technology.
+
+
+
+
+In this role, you will :
+
+Design, architect and develop solutions to deliver simulation products
+Be responsible for all phases of development starting from requirements through tests and final integration on a simulator
+Work with multiple teams to collaborate and solve complex technical challenges
+Actively participate in code reviews
+Stay up to date on technology trends
+
+
+
+
+What we’re looking for :
+
+
+
+
+BS or MS Degree in Software Engineering, Computer Science, or equivalent experience
+Fluent and passionate about modern C++
+Well-versed in software development principles (object-oriented design and design patterns)
+Experience developing, deploying and maintaining scalable and continuously evolving applications (CI-CD) (cloud experience an asset)
+Understanding and experience of networking principles
+Experience in a cross-disciplinary development environment, with excellent cross-discipline communication skills
+Show more

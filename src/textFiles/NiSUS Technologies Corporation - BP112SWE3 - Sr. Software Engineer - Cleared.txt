@@ -1,0 +1,26 @@
+The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Works individually or as part of a team. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware-software trade- offs, software reuse, use of Commercial Off-the-shelf (COTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.
+
+Requirements
+
+TS-SCI with poly required
+
+Twenty (20) years experience as a SWE in projects of similar scope, type, and complexity is required.
+Bachelor’s degree in Computer Science or related discipline from an accredited college or university is required.
+Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor’s degree.
+ServiceNOW platform to include development
+Agile frameworks
+Java
+HTML-CSS
+
+
+Benefits
+
+Health & Life Insurance
+Dental Insurance
+Disability Insurance
+401K Retirement Plan with Matching
+Tuition Assistance
+Vacation and Sick Leave
+Hiring Bonuses
+Referral Recruitment Program
+Vis mer

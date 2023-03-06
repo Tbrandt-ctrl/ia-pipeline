@@ -1,0 +1,40 @@
+TEHORA est présentement à la recherche d'un(e) Analyste programmeur COBOL ayant d'excellentes aptitudes techniques, d'excellentes connaissances et qui souhaite mettre à profit ses compétences au sein d'une équipe polyvalente.
+
+Sans être exhaustifs, voici les services et les livrables que devra fournir la personne retenue :
+
+- Prendre connaissance du ou des dossiers d'architecture fonctionnelle ou du carnet de produit;
+- Consulter les utilisateurs;
+- Réaliser ou modifier des dossiers fonctionnels;
+- Présenter et faire valider les dossiers fonctionnels aux utilisateurs;
+- Apporter les correctifs des anomalies aux dossiers fonctionnels avant la mise en production;
+- Soutenir les utilisateurs dans la préparation des essais d'acceptation, de stratégie, d'inventaire de cas, suivre le déroulement des essais et corriger les anomalies;
+- Effectuer toute autre activité liée à ce mandat.
+
+Biens livrables :
+
+Les biens livrables à produire ou à reviser comprennent, en tout ou en partie, les éléments suivants, sans pour autant être exhaustifs :
+
+- Dossiers fonctionnels;
+- Devis d'essais fonctionnels, les cas et les résultats;
+- Données des unités de programmation
+- Code des unités de programmation
+- Stratégie d'essais intégrés, les cas ainsi que les résultats;
+- Stratégie d'implantation;
+- Déploiement des solutions
+- Demandes de graduation
+- Tout document sous-jacent aux responsabilités précédentes.
+
+Requirements
+
+- Détention d'un diplôme universitaire de premier cycle (baccalauréat) dans le domaine des technologies de l'information (informatique, génie logiciel ou génie informatique) ou autre domaine pertinent ou un minimum de six (6) années d'expérience pertinentes;
+- Posséder cinq (5) années d'expérience en développement et entretien de systèmes centraux et/ou clients-serveurs dans un environnement distribué;
+- Posséder deux (2) années d'expérience dans la réalisation de dossiers fonctionnels dans le cadre du développement ou de l'entretien de systèmes;
+- Posséder trois (3) années d'expérience comme analyste fonctionnel dans un environnement de systèmes centraux opérant avec une base de données IDMS et utilisant un des langages suivants : COBOL et CICS avec les outils TSO-ISPF et JCL.
+
+Avantages
+
+- LIEU DE TRAVAIL : Le lieu de travail sera déterminé selon le mandat, il peut être en télétravail ou chez le client.
+
+- POURQUOI SE JOINDRE À TEHORA? TEHORA est une firme québécoise multidisciplinaire reconnue pour l'excellence de ses services professionnels, de nature technique et de gestion de projets à l'échelle nationale et internationale. Notre mission est d'accompagner nos clients dans la concrétisation de leurs projets par l'excellence de notre savoir-faire et de notre créativité.
+
+Depuis sa création en 2017, notre équipe de professionnels connaît une croissance exponentielle en répondant aux besoins importants en gestion de projets multidisciplinaires, dans le domaine des

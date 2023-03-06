@@ -1,0 +1,34 @@
+Hippocratic AI is a seed-stage startup applying large language models to medical education and healthcare. We’re on a mission to transform medical education and practice by harnessing the power of data and algorithms to optimise medical training, clinical workflows, and empower patients to take charge of their own healthcare. Hippocratic AI is recently raised their seed round from the OpenAI Startup Fund as part of their inaugural Converge cohort of startups.
+
+
+
+
+We are seeking a junior software engineer to join our growing startup. As our first full-time engineering hire, this individual will have the opportunity to work on our React.js application and possibly contribute to expanding our product into mobile applications. This role requires an individual who is motivated, flexible, and able to work independently. As a startup, we value individuals who are excited to learn and grow with our company.
+
+
+
+
+What you’ll do:
+
+Contribute to development of our React.js application.
+Troubleshoot and debug applications.
+Participate in code reviews, product design discussions, and other engineering activities.
+Act as a key member of our early engineering team, contributing to our company culture and helping to shape our technical direction and process
+
+
+
+
+What we are looking for:
+
+You have a bachelors degree in computer science, software engineering, or a related field (new grads are encouraged to apply!)
+You have strong knowledge of React.js and experience working with JavaScript
+You have the ability to own projects end-to-end and have an enthusiasm for working in a fast paced startup environment
+You are love to learn and excited to contribute to diverse technical projects
+You are passionate about large language models and their possible applications to healthcare
+
+
+
+
+We are open to both fully remote and partially remote candidates, with office space available in San Francisco. This role offers a salary of $110,000 plus equity. We look forward to hearing from you!
+
+Show more

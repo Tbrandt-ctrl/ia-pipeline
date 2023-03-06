@@ -1,0 +1,102 @@
+The team:
+
+You could be part of a research and development team on which you will have to participate daily in one of the squads dedicated to unification and viewing of the data, ingestion of data from IoT devices, and automation of security systems.
+
+These systems allow the user to act according to the data received and create automated processes to respond automatically to data changes. Here's an example: when the temperature in a server room becomes too high, respond automatically by triggering an alarm and activating an air conditioning system to cool the room concerned. These systems integrate into the Security Center platform and allow, among other things, a map centric approach to get situational awareness of the events and powerful dashboards to visualize the data at a glimpse.
+
+As a Software Developer, you will contribute to building a dynamic, flexible, and scalable unification platform that will solve real world problems for thousands of clients. You will have the chance to learn the latest technologies (Docker-Kubernetes, .NET 6, etc.) and apply them to solve real world problems.
+
+In this role, you will have the chance to define your own career objectives autonomously and with engagement. We want our developers to be solid and successful, and this role is the ideal opportunity for you to develop your potential and succeed. You can progress in your career as the team gains scope and evolves!
+
+What your day will look like:
+
+Actively participate in the development of the software by writing readable, maintainable, and scalable solutions
+Analyze, critique, and make recommendations on solutions proposed by peers by performing code reviews daily
+Collaborate with the QA team and other stakeholders in decision making related to the design, conception, and test coverage of new features
+Learn and apply new technologies in practice to solve very large-scale problems
+Communicate the challenges and problems to the team to solve them collaboratively, as needed
+Work in a dynamic environment where the issues are new and fascinating every day
+
+
+About you:
+
+Bachelor's degree or College degree in Computer Science, Computer Engineering or equivalent experience
+Solid knowledge and experience with the .NET ecosystem and, ideally WPF
+Experience with high data flow systems and systems with strict or flexible real time constraints
+Solid competencies in relational and non-relational databases with SQL, MongoDB, etc.
+Excellent communication skills and ability to express ideas, challenges, and solutions clearly
+
+
+Great if you have:
+
+Experience in development of multithread apps
+Experience with microservices, distributed architectures, asynchronous paradigms
+Experience with cloud platforms (Azure, AWS, Google Cloud, etc.)
+
+
+Let’s talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L’equipe :
+
+Tu pourrais faire partie d’une equipe en recherche et developpement où tu auras à collaborer quotidiennement dans un des squads dedies à l’unification et la visualisation des donnees, l’ingestion des donnees provenant d’appareils IoT, ainsi que l’automatisation de systemes de securite.
+
+Ces systemes permettent à l’utilisateur de prendre action selon les donnees reçues et de creer des processus automatises pour reagir automatiquement aux changements de donnees. Un exemple: la temperature dans une salle de serveurs devenant trop elevee, reagir automatiquement en declenchant une alarme et en activant un systeme de climatisation pour refroidir la piece concernee. Ces systemes s'integrent à la plate-forme Security Center et permettent, entre autres, une approche centree sur la carte pour obtenir une connaissance de la situation des evenements et des tableaux de bord puissants pour visualiser les donnees en un coup d'œil.
+
+À titre de Developpeur logiciel, tu contribueras à bâtir une plateforme d’unification dynamique, flexible et evolutive qui resoudra des problemes du monde reel pour des milliers de clients. Tu auras la chance de faire l’apprentissage des dernieres technologies (Docker-Kubernetes, .NET 6, etc.) et les mettre à profit pour resoudre des problemes du monde reel.
+
+Dans ce rele, tu auras la chance de definir tes propres objectifs de carriere de façon autonome et engagee. Nous souhaitons que nos Developpeurs soient solides et qu’ils reussissent, et ce rele est l’occasion ideale pour toi de developper ton potentiel et reussir. Tu auras egalement l’occasion de faire progresser ta carriere à mesure que l’equipe prendra de l’ampleur et evoluera !
+
+À quoi ressemblera votre journee :
+
+Participer activement à l’effort de developpement en ecrivant des solutions lisibles, maintenables et evolutives
+Analyser, critiquer et formuler des recommandations sur les solutions proposees par des pairs en effectuant des revisions de code sur une base quotidienne
+Travailler en cooperation avec l’equipe QA et autres partenaires dans la prise de decision relative au design, à la conception et à la couverture de test des nouvelles fonctionnalites
+Être amene à travailler sur differents projets d’envergures alliant differentes technologies
+Communiquer les defis et les problematiques à l’equipe pour être en mesure de les resoudre de façon collaborative
+Travailler dans un milieu dynamique où les enjeux sont nouveaux et stimulants chaque jour
+
+
+Votre profil :
+
+Baccalaureat ou dipleme d’etudes collegiales en informatique, en genie informatique ou experience equivalente
+Solides connaissances et experience avec l’ecosysteme .NET et, idealement, WPF
+Experience avec des systemes à haut debit de donnees et des systemes avec contraintes en temps reel strict ou souple
+Solides competences en bases de donnees relationnelles et-ou non-relationnelles avec SQL, MongoDB, etc.
+Excellentes aptitudes en communication et capacites d’exprimer clairement ses idees, les defis et les solutions
+
+
+Encore mieux si vous possedez ces atouts :
+
+Experience en developpement d’applications multithreads
+Experience avec les micro-services, les architectures distribuees, les paradigmes asynchrones
+Experience avec les plateformes cloud (Azure, AWS, Google Cloud, etc.)
+
+
+Voilà ce que nous offrons !
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes à notre incroyable Bistro (Les Cordons Bleus)
+Équilibre entre vie professionnelle et vie privee grâce à un horaire de travail flexible
+Cafe gratuit à volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place
+
+
+Si vous souhaitez savoir à quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise : Culture à Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises à soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+Daha fazla göster

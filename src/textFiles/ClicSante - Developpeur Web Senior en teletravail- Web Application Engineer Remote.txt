@@ -1,0 +1,96 @@
+À toi developpeuse, Developpeur,
+
+Toi qui manges du code à tous les repas;
+
+Toi qui carbures à l'innovation et l'optimisation;
+
+Toi qui se passionnes pour les solutions qui ont un impact immediat sur la societe;
+
+Viens vivre avec nous l'experience d'une entreprise qui est en pleine expansion. Le genre d'entreprise en grande croissance qui offre des defis constants et fait preuve d’ouverture aux idees novatrices, une organisation qui tente de repousser les limites constamment.
+
+Notre produit Clic Sante - Clic Health est un logiciel de gestion de prise de rendez-vous en ligne de type SaaS qui gere des millions de rendez-vous dans le domaine de la sante. Clic Sante c'est une solution completement cloud (sur Google Cloud Platform (GCP)) et notre approche est axee sur le serverless. Notre equipe travaille dans un modele CI-CD avec des pipelines de developpement et des tests unitaires.
+
+En fait, notre entreprise c'est le modele type de la startup: structuree, en evolution et en deploiements rapides, relevant des defis technos, qui fonctionne en teletravail et où tous ont beaucoup de plaisir au quotidien!
+
+Tu en veux plus? Parfait, continue à lire!
+
+Attention! le poste mentionne differentes responsabilites. Tu n'es pas un Full Stack ou un DevOps? Pas de probleme, tant que tu peux faire du back-end ou du front-end ou de l'infrastructure, ça nous va. On veut te parler!
+
+Vos principales responsabilites
+
+Developper des solutions front-end, back-end ou des composants pour l'infrastructure;
+Deboguer et maintenir les solutions existantes;
+Travailler en collaboration avec les differentes equipes de notre entreprise.
+
+
+Ou plus precisement:
+
+Analyser, reflechir, proposer des solutions aux problemes rencontres;
+Travailler avec des technologies :
+frontend comme Vue.js et Vuetify 1.5-2.x;
+backend comme PHP 7 ou NodeJS 10;
+d'infrastructure comme Terraform et Google Cloud;
+Rediger des tests unitaires et d'integration pour assurer une stabilite de nos technologies;
+Participer aux tests de charge et à l'optimisation des composantes pour soutenir un gros volume;
+Participer à la revue de code et les correctifs;
+Assurer la comprehension par une bonne documentation.
+
+
+On utilise ces outils:
+
+GitLab (pour le code et les pipelines);
+Slack (pour les communications);
+Google Workspace (Gmail, Drive, Calendar, etc) (Pour l'organisation);
+Jira (pour la planification et le suivi);
+Et plusieurs autres outils cloud.
+
+
+On te veut si:
+
+Tu es debrouillarde-debrouillard et autonome;
+Motive-e, motivante-motivant;
+Tu adores apprendre, mais aussi donner aux autres.
+
+
+Minimum requis:
+
+Au moins 5 ans d'experience dans un contexte comparable (si tu as un dipleme universitaire, c'est encore mieux);
+De l'experience dans au moins une des spheres suivantes : Frontend, Backend, Infrastructure.
+
+
+On s'attend à ce que:
+
+Tu organises ta semaine de travail de 37.5h en fonction des minimums requis (9h à 16h EST-DST);
+Tu sois present, en video avec la gang durant ce temps. Un headset, une camera et une connexion internet sont donc requis;
+Tu communiques avec tous et chacun en utilisant les outils de l'entreprise comme Slack, Google Workspace, Jira et GitLab;
+Tu puisses communiquer principalement en français, mais aussi en anglais.
+
+
+Ceci est un emploi en teletravail! GMT-5
+
+Nous sommes une equipe distribuee et recherchons des gens capables d'être efficaces avec un minimum de supervision. Pour reussir dans votre rele, vous devez collaborer et communiquer efficacement de maniere asynchrone avec un maximum d'autonomie et un minimum de supervision.
+
+Tu dois egalement posseder une installation necessaire pour effectuer ton travail, ceci inclus:
+
+Une camera web de qualite raisonnable pour participer aux videoconferences de l'equipe. On veut te voir!;
+Un casque d'ecoute et un environnement propice pour discuter avec tes collegues via Google Meet ou Slack;
+Une connexion internet stable d'un minimum de 15 mbps.
+
+
+Avantages chez Trimoz
+
+100% teletravail
+Une belle gang!
+Horaires de travail flexibles
+Beaucoup d'entraide
+Salaire concurrentiel
+Des outils logiciels de pointe et à jour
+Assurance collective
+
+
+À propos de Trimoz
+
+Trimoz Technologies œuvre depuis 2009 à l'evolution et au perfectionnement de solutions de prise de rendez-vous en ligne. Bien connus pour son application Clic Sante, nous sommes un leader mondial en gestion de rendez-vous de masse pour des soins d'urgence et des services de sante courants. Avec les etablissements de sante que nous desservons, nous creons des portes d'acces aux services de sante qui permettent à la population de prendre une part active dans la gestion et le suivi de leurs rendez-vous. Notre mission : ameliorer l'acces aux soins de sante pour la population.
+
+Ensemble en sante, pour la sante!
+Daha fazla göster

@@ -1,0 +1,42 @@
+Notre client du secteur municipal a entamé un grand chantier visant à réviser ses règlements d'urbanisme et a saisi cette occasion pour examiner en profondeur sa réglementation dans le cadre d'une refonte complète. Afin de couvrir les besoins de développement de la phase de construction du projet, le service de l'Innovation et des Technologies est actuellement à la recherche d'un Intégrateur pour assurer l'intégration, la coordination et le lead technique au sein du projet. La ressource identifiée collaborera étroitement avec le chargé de projet, l'analyste d'affaires et les autres Développeurs. Elle devra également se coordonner avec la personne responsable de l'architecture TI.
+
+Fonctions et responsabilités
+
+Dans le cadre de ce projet, la méthodologie Agile sera utilisée dans la mesure du possible. Le Développeur assurera le développement des livrables qui lui seront confiés. Le livrable principal sera un site Web responsive. Incluant des fonctions de recherche tant dans des éléments de textes, que des éléments cartographiques ou mixtes. Il est possible que le Développeur ait des API à développer ou utiliser pour connecter divers systèmes liés au projet.
+
+Qualités requises pour réussir dans ce rôle
+
+Maîtrise du développement Back end
+Maîtrise du JavaScript, React, Gatsby (requis obligatoire!)
+Expérience dans la réalisation d'interface HTML5, CSS et JavaScript avec des cartes web (géospatial).
+Expérience en React JS
+Expérience TDD (Test Driven Development)
+Expérience pratique DevSecOps
+Expérience avec le Web mapping (bonne connaissance d'une librairie : MapBox, Leaflet, ESRI JsAPI, ou Google)
+Expérience avec les services REST sécurisés par OpenID Connect
+Expérience avec le développement d'API en JavaScript
+Expérience avec SQL Server
+Expérience dans la gestion d'équipe de Développeurs
+
+Technologies requises
+
+La maîtrise de la suite bureautique MS Office, Visio
+Gestionnaire de code source GIT, TFS
+Visual Studio Code ou équivalent
+NPM, YARN, NodeJS
+
+Compétences - connaissances particulières requises
+
+Expérience de 5 ans minimum dans le domaine
+Expérience de travail dans un projet en méthodologie Agile
+Excellente connaissance du français, écrit et oral
+Expérience avec asp.Net Core
+
+Atouts
+
+Connaissance du domaine municipal
+Habileté à organiser et animer des groupes de travail
+
+Allier savoir et faire
+
+Alors que la technologie s'inscrit au cœur de la transformation numérique de nos clients, nous savons que les individus sont au cœur du succès en affaires. Lorsque vous rejoignez CGI, vous devenez un conseiller de confiance, collaborant avec vos collègues et clients pour proposer des idées exploitables qui produisent des résultats concrets et durables. Nous appelons nos employés "membres" parce qu'ils sont actionnaires et propriétaires de CGI. Ils ont du plaisir à travailler et à grandir ensemble pour bâtir une entreprise dont nous sommes fiers. C'est notre rêve depuis 1976. Il nous a menés là où nous sommes aujourd'hui - l'une des plus importantes entreprises indépendantes de conseil en technologie de l'information (TI) et en

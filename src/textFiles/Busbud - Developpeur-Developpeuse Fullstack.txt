@@ -1,0 +1,86 @@
+Qui nous sommes
+
+
+
+
+Busbud est le site Web de reservation de voyages en bus interurbain offrant la plus grande couverture internationale. Les voyages sont notre passion, et nous travaillons fort pour offrir le reseau de transport interurbain le plus complet. Nous offrons plus de 2,3 millions de routes à travers 80 pays et 21 000 villes. Notre ambition est de mettre un monde ecologique, accessible et interconnecte à la portee de tous.
+
+
+
+
+Le rele
+
+
+
+
+Salut! Busbud cherche un(e) Developpeur-Developpeuse Fullstack pour rejoindre son equipe! À titre de Developpeur
+
+
+
+
+se full-stack senior, tu contribues à creer les API ainsi que les experiences utilisateur qui alimentent le site web de Busbud, adapte aux telephones mobiles et utilise par des millions de voyageurs dans le monde entier. Tu travailles sur une base de code moderne et entierement native (Typescript, Javascript, React, NodeJS, Postgres et Redis).
+
+
+
+
+En quoi consiste cette opportunite?
+
+
+
+
+Concevoir, realiser et livrer la prochaine generation de fonctionnalites pour les voyageurs utilisant notre API publique ainsi que notre site web adapte aux mobiles pour reserver des billets d’autobus
+Collaborer avec les gestionnaires de produits et les ingenieurs logiciels, tant au sein de ton equipe (equipe interfonctionnelles telles que les paiements, l’approvisionnement, l'experience produit et le marketing) que dans d'autres equipes de Busbud, afin de fournir des produits de haute qualite pour nos utilisateurs.
+Suivre des approches fondees sur les donnees pour mener des experiences et iterer des fonctionnalites
+Identifier et traiter les axes d'amelioration afin que notre plateforme soit la meilleure dans sa categorie
+Proceder à des revisions de code
+Mettre en œuvre des plans appropries de couverture de tests, d'automatisation, de suivi et de deploiement
+Trouver un equilibre entre l’ampleur des projets et les delais afin de garantir la qualite et la rapidite
+
+
+
+
+Comment peux-tu nous impressionner?
+
+
+
+
+Environ 5 ans d'experience professionnelle à temps plein dans le domaine du genie logiciel, axee sur le developpement d'API ou de sites web
+Tu as deploye une ou plusieurs API, applications web ou mobiles, idealement disponibles actuellement sur internet, Google Play Store ou l'App Store
+Tu es enthousiaste à l'idee de nous montrer des projets personnels qui montrent une aptitude à l'excellence technique et un sens du produit sur les appareils mobiles
+Ton esprit d'entreprise : tu peux livrer des projets efficacement avec des ressources limitees et une petite equipe
+Tu as de solides connaissances techniques : tu es respecte
+e et tes collegues ont confiance en tes opinions
+Ta passion et ton esprit de croissance : tu aimes ce que tu fais et tu es toujours desireux
+se d'apprendre de nouvelles choses.
+
+
+
+
+Qu'y a-t-il pour vous ?
+
+
+
+
+Remuneration competitive
+Conges payes illimites
+Prestations de soins de sante (sante, medicaments, vision, dentaire)
+Culture à distance d'abord
+Des equipements Apple pour travailler efficacement depuis chez soi
+Billets de bus gratuits pour le monde entier
+Travailler dans un environnement diversifie et inclusif
+
+
+
+
+Busbud s'engage à offrir une egalite d'acces à l'emploi à tous les employes et à fournir aux membres de l'equipe un environnement de travail exempt de discrimination et de harcelement. Toutes les decisions d'emploi à Busbud sont fondees sur les besoins de l'entreprise, les exigences professionnelles et les qualifications individuelles, quelle que soit la religion ou les convictions, l'origine nationale, sociale ou ethnique, le sexe, l'âge, le handicap physique, mental ou sensoriel, le statut VIH, l'orientation sexuelle, l'identite ou l'expression de genre, l'etat matrimonial, la grossesse ou tout autre statut protege par les lois ou reglements en vigueur dans les territoires où nous sommes en activite. Decouvrez pourquoi nous accordons de l'importance à.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+vIa89TmvaT
+Daha fazla göster

@@ -1,0 +1,125 @@
+20230221-401-03-01
+
+
+
+
+Active Top Secret Clearance With Poly Required
+
+
+
+
+Salary Range: Up to $195K
+
+
+
+
+Job Summary
+
+
+
+
+This is a unique position for an applications developer to work on a high-profile suite of services that will supply users with productionized data analytics to automate a wide range of Information Management mission activities conducted across the Sponsor organization. The candidate will work with a team of software developers and data scientists to refine existing analytic tools and build out new tools on a routinized production cadence to meet the evolving needs of Sponsor users. This is an exciting opportunity for developers wanting to broaden their credentials in the realm of container infrastructure service management and data analytics. The candidate must have the ability to communicate clearly with project team members, application users, and Sponsor leadership about technical activities related to of the development of the application.
+
+
+
+
+Responsibilities And Duties
+
+
+
+
+Designing, developing, unit testing, and maintaining code for a production system
+Deploying containerized software to an AWS infrastructure
+Developing wireframes and flow diagrams used for rapid prototyping in order to drive out requirements and design
+Providing demonstrations of new features to a variety of technical and non-technical audiences
+Meeting with stakeholders, analyzing requirements, developing user stories and translating these into software development tasks
+Working with systems engineers to specify and design the system infrastructure that supports applications
+Developing technical documentation and briefing materials to provide support needed for security, disaster recovery, and continuity of operations.
+
+
+
+
+Experience Needed:
+
+
+
+
+Citizenship: Must Be a US Citizen
+Existing Clearance Required: Active Top Secret SCI with Poly
+Demonstrated on-the-job experience in developing RESTful web services with the Java Spring Framework
+Demonstrated on-the-job experience working in Linux environments (must be comfortable writing shell scripts and using VI)
+Demonstrated on-the-job experience with RDBMs (Relational Database Management Systems) such as MySql, Postgres, or Oracle
+Experience with creating, editing, pushing, and merging code in Git based version control software (GitHub, GitLab)
+Bachelor’s degree in Computer Science, Math, or other relevant field and minimum of 3 years of experience
+
+
+
+
+Other skills and demonstrated experiences that are highly desired but not required to perform the work include:
+
+
+
+
+Demonstrated on-the-job experience with Solr or ElasticSearch
+Demonstrated on-the-job experience with DevOps related functions with AWS (such as configuring Load Balancers, Autoscaling Groups, S3 Security Groups, Creating SQS queues and Cloudformation templates)
+Demonstrated on-the-job experience scaling software-infrastructure to processes large data sets
+Experience developing Python software (esp. web application frameworks like Flask, Django) and-or willingness to learn Python
+Experience developing application front ends with the Angular 5+ framework and-or willingness to learn Angular
+Demonstrated on-the-job experience with creating Docker containers for a production applications and-or willingness to learn how to build and deploy containers
+Experience developing applications with the Node.js framework.
+
+
+
+
+Health Benefits
+
+
+
+
+Work-Life Balance
+
+
+
+
+Financial Opportunities
+
+
+
+
+Medical, Dental, Vision, Health Savings Account and more.
+
+
+
+
+Paid Time Off, Holidays, Social Events, Employee Assistance Program and Team Building
+
+
+
+
+401K, Tuition Assistance, Annual and Referral Bonuses
+
+
+
+
+Main Number: 1-888-663-2690 | |
+
+
+
+
+Dezign Concepts provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+
+
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+qLxBf4KGFN
+Show more

@@ -1,0 +1,102 @@
+L'equipe :
+
+L’equipe Écosystème video est chargee d’integrer aux produits Genetec des integrations et des fonctionnalites essentielles pour l’entreprise que nous fournissent nos partenaires de l’industrie des cameras.
+
+En tant que Developpeur logiciel, vous aurez l’occasion de travailler avec plusieurs partenaires de Genetec afin de leur fournir differentes fonctionnalites pour leurs appareils et de contribuer � la resolution de problèmes et � l’amelioration de l’experience utilisateur. Vous participerez � l’analyse, � la conception et � la mise en place de differentes fonctionnalites tout en effectuant les cas d’utilisation requis.
+
+Chez Genetec, le transfert de connaissances, le perfectionnement professionnel et le contrôle de la qualite sont assures au moyen d’evaluations par des pairs, conformement � notre culture de collaboration. Vous participerez � des reunions quotidiennes de coordination des tâches, vous ferez le point sur vos progrès et vos difficultes et vous collaborerez etroitement avec d’autres specialistes en developpement logiciel pour trouver des solutions � des problèmes importants.
+
+À quoi ressemblera votre journee :
+
+Concevoir et ecrire du code pour des applications distribuees orientees objet en utilisant la plateforme Windows et Microsoft Visual Studio
+Concevoir et developper de nouvelles fonctionnalites dans un environnement de microservices en utilisant Azure DevOps, Docker et .NET core
+Participer � la conception de differentes fonctionnalites et API de services
+Travailler avec differents modèles de cameras et d’encodeurs IP afin de maximiser leurs fonctionnalites (configuration et surveillance de la video, de l’audio et des metadonnees, reception et analyse des evenements, commandes et contrôle du dispositif VPIZ, etc.) en se basant sur l’API du fabricant (TCP, HTTP, SOAP, REST-JSON, etc.)
+Travailler en collaboration avec nos differents partenaires dans le monde
+
+
+Voici un aperçu des technologies que nous utilisons :
+
+C#, .NET core
+C++, C++-CLI
+Linux et Windows
+Visual Studio 2022 et ReSharper
+Docker
+Wireshark
+
+
+Votre profil :
+
+Baccalaureat en genie informatique, en genie logiciel ou en sciences informatiques
+Experience en C++ ou C# (l’equipe utilise les deux langages en fonction de l’architecture et de la plateforme d’integration)
+Connaissance approfondie de la programmation orientee-objet
+Connaissance des tests unitaires, du developpement base sur les tests et-ou des essais d’acceptation par l’utilisateur
+Connaissance du reseautage (TCP-IP, UDP)
+
+
+Voil� ce que nous offrons !
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Environnement avec bon niveau de maturite Agile
+Équilibre entre vie professionnelle et vie privee grâce � un horaire de travail flexible
+Cafe gratuit � volonte
+Espace de stationnement gratuit et-ou remboursement du transport en commun
+Des cours d'exercices virtuels- rabais sur l’abonnement au gym
+
+
+Si vous souhaitez savoir � quoi ressemble l’environnement de travil chez Genetec, voici le lien vers notre video d’entreprise : Culture � Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises � soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+
+The team:
+
+The Video ecosystem group is responsible for providing business critical integrations and features from our camera partners to Genetec products.
+
+As a Software Developer, you will have the opportunity to work with numerous partners offering many features available through their devices, assisting in the resolution of issues, and improving the user experience. You will take part in the analysis, design, and implementation of tasks, completing the required use cases.
+
+In line with our collaborative culture, we rely on peer review for knowledge transfer, personal improvements and quality control. You will also participate in daily meetings to synchronize work, share updates of your progress and blockers and collaborate closely with other developers to build solutions to significant problems.
+
+What your day will look like:
+
+Design and write code for object-oriented distributed applications using the Windows platform and Microsoft Visual Studio
+Design and build new functionalities in a microservices environment using Azure DevOps, Docker and .NET core
+Participate in the design of different features and service APIs
+Work with several camera models and IP encoders to leverage their functionalities (video-audio-metadata configuration and monitoring, reception and parsing of events, PTZ commands and control, etc.) based on the manufacturer’s API (TCP, HTTP, SOAP, REST-JSON, etc.)
+Work in conjunction with our different partners across the globe
+
+
+Here’s a sneak peek of the technologies we’re using:
+
+C#, .NET core
+C++, C++-CLI
+Linux and Windows
+Visual Studio 2022 and ReSharper
+Docker
+Wireshark
+
+
+About you:
+
+Bachelor’s degree in Computer Engineering, Software Engineering or Computer Sciences (or equivalent)
+Experience in C++ or C# (the two languages are used in the team depending on the integration architecture and platform)
+Strong knowledge of object-oriented programming
+Knowledge of Unit testing, Test-Driven Development (TDD) and-or User Acceptance Tests (UAT)
+Knowledge of networking (TCP-IP, UDP)
+
+
+Let's talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Mature Agile environment
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Free parking for all employees and-or reimbursement on public transport
+Virtual exercise classes- discounts on your gym membership
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Please note that only qualified candidates will be contacted for an interview. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+Mostrar más�زيد

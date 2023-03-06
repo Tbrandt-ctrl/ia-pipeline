@@ -1,0 +1,40 @@
+UNCAGE YOUR AMBITION as a
+
+Web Developer
+
+We are FlightHub Group , an ambitious team of people that created FlightHub and Justfly . Our brands have grown to become two of the top-ranked travel agencies in North America. We now serve over 3 million customers per year, totaling 3 billion dollars in sales, and, whereas the pandemic may have slowed us down a little, we are coming back even stronger. We dream big, pursue passionately, and follow through with resolute self-belief and rigorous commitment. We are a group of individuals sharing a common vision and values, having come together to pursue a collective mission: overtaking the #1 spot in the world.
+
+We are looking for a Backend PHP Developer with 5+ years of experience to join our team. Working alongside Ezequiel, Lead Web Developer, and cross-functionally within our Finance, Loss Prevention, and Fraud departments, you would be responsible for programming internal tools and systems to support their day-to-day activities. Using PHP, your main tasks will revolve around building new back-end office systems to increase efficiency and maximize productivity. From implementing new features, to fixing bugs, and automating existing flows, your days will be filled with coding and collaborative teamwork with internal stakeholders.
+
+Many career paths can prepare you for this life-changing opportunity, but preferably, you’re highly skilled in:
+
+PHP programming (Laravel);
+Working knowledge of modern frontend technologies (Bootstrap, Tailwind, VueJs) considered an asset;
+Working with key-value stores (Memcache, Redis) as well as SQL-NoSQL databases (MySQL, Clickhouse);
+Testing and continuous integration (PHPUnit, Travis-CI)
+Working with high volume publish-subscribe message brokers such as Redis, RabbitMQ, Kafka;
+Integrating 3rd party APIs;
+Working in a fast-paced technological environment, with the ability to communicate effectively and efficiently with various stakeholders.
+Please note this position is in Montreal, Quebec.
+
+Show us your drive and join our team!
+
+Check us out https:--flighthubgroup.com-takeoff
+
+LIBÉREZ VOTRE AMBITION –
+
+DEVENEZ Developpeur PHP
+
+Nous sommes le groupe FlightHub, nous formons une equipe ambitieuse derriere les agences de voyages en ligne FlightHub et Justfly. Nos marques sont devenues deux des agences de voyages en ligne les plus importantes en Amerique du Nord. Nous servons maintenant plus de trois millions de clients par annee, et generons au-delà de trois milliards de dollars de ventes, et, même si la pandemie nous a un peu ralenti, l'industrie des voyages recommence à montrer des signes de vie, et le moment est propice pour vous joindre à nous parce que nous en profitons pour revenir encore plus forts. Nous rêvons en grand, nous poursuivons nos objectifs avec passion, et nous avons confiance en notre habilite à les atteindre.
+
+Nous recherchons un Developpeur Web PHP avec plus de 5 ans d'experience pour rejoindre notre equipe de prevention des fraudes au sein de notre departement de Comptabilite. Aux cetes d'Ezequiel, une de nos leaders Developpeurs Web, vous serez responsable de la programmation des outils et systemes internes qui soutiennent nos equipes de prevention des fraudes et des pertes, ainsi que de comptabilite. Travaillant avec la technologie PHP, vos principales tâches consisteront à creer de nouveaux systemes de back-end afin d'accroître l'efficacite et de maximiser la productivite. De la mise en œuvre de nouvelles fonctionnalites à la correction de bogues, en passant par l'automatisation des flux d’information existants, vos journees seront remplies de developpement et de travail d'equipe en collaboration avec les differentes parties prenantes internes.
+
+De Nombreux Parcours Professionnels Peuvent Vous Preparer à Cette Opportunite Unique, Mais De Preference, Vous Êtes Hautement Qualifies En
+
+La programmation PHP (Laravel), et une connaissance pratique des technologies modernes (Bootstrap, Tailwind, VueJs) ;
+Travailler avec des systemes de cache (Memcache, Redis) ainsi que des bases de donnees SQL-NoSQL (MySQL, Clickhouse) ;
+Tests et integration continue (PHPUnit, Travis-CI).
+Travailler avec des courtiers de messages à haut volume de type publish-subscribe tels que Redis, RabbitMQ, Kafka ;
+Integration d'API de tierces parties ;
+Travailler dans un environnement technologique rapide, avec la capacite de communiquer de maniere efficace et efficiente avec divers intervenants.
+और दिखाएं

@@ -1,0 +1,19 @@
+Acumatica est une entreprise engagée dans une mission. Nous sommes un innovateur de premier plan dans le domaine de l'ERP en nuage et nos clients sont situés dans le monde entier. Mais ne prenez pas nos mots pour vous-même - lisez ce que les analystes comme G2 et Info-Tech ont à dire à notre sujet.
+
+Acumatica est un fournisseur de premier plan de logiciels de gestion des affaires en nuage qui permet aux petites et moyennes entreprises de libérer leur potentiel et de stimuler leur croissance. Construit sur la meilleure technologie cloud et mobile du monde et un modèle de licence axé sur le client unique, Acumatica fournit une suite d'applications de gestion des affaires entièrement intégrées, telles que la comptabilité, la distribution, la gestion des relations clients (CRM) et la comptabilité de projet, sur une plateforme robuste et flexible. Dans un monde interconnecté, Acumatica permet aux clients de prendre pleinement le contrôle de leurs entreprises, de jouer à leurs forces uniques et de soutenir leurs clients en les suivant partout, sur n'importe quel appareil.
+
+La culture d'Acumatica est décontractée et à haute énergie. Nous sommes passionnés par notre produit et notre mission et nous sommes loyaux les uns envers les autres et notre entreprise. Nous accordons de l'importance à l'équilibre vie professionnelle, l'efficacité, la simplicité, un service client exceptionnellement convivial et contribuer à changer le monde. Acumatica offre un potentiel de croissance professionnelle et financière exceptionnel.
+
+En tant que développeur logiciel senior (plateforme), vous ferez partie de l'équipe de développeurs Acumatica qui collaborent et créent des applications web ERP, CRM et autres de grande échelle basées sur le cloud utilisant des technologies Microsoft (.NET, C #, MS Sql Server) pour les entreprises du monde entier. Nous recrutons des développeurs logiciels seniors à Montréal, Québec, Ottawa et nous examinerons les candidats pour un travail à distance à Toronto ou dans d'autres régions.
+
+Vos tâches seront les suivantes :
+
+• Participer à la conception et au développement de la plateforme Acumatica Cloud xRP
+• Développer et améliorer les interfaces de programmation de la plateforme Acumatica xRP (API des contrôleurs d'entreprise, collection automatique de DTO, moteur de droits d'accès, planification des tâches en arrière-plan, multitenant, audit, personnalisation sans code ou à faible code et bien plus encore)
+• Implémenter les fonctionnalités de reporting de base, y compris le traitement OLAP en mémoire, le moteur de tableaux de bord et le générateur d'interrogations sans code
+• Recherche et prototypage de fonctionnalités transversales ERP et intégrations utilisant de nouvelles technologies
+• Support pour le code existant, optimisation et refactoring du code
+• Analyser le code, rechercher et corriger les erreurs dans la fonctionnalité existante
+• Travailler avec d'autres développeurs pour les revues d'architecture et de code
+• Encadrer les nouveaux développeurs junior-moyens et aider les nouveaux développeurs seniors à l'intégration
+• Fournir des conseils et un soutien aux développeurs d'applications et promouvoir le cadre Acumatica

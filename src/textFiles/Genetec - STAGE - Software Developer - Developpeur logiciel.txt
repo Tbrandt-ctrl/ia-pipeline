@@ -1,0 +1,71 @@
+The internship dates for the Summer session are from May 8 to August 18, 2023.
+
+What your day will look like
+
+An internship as Software Developer means that you will work on the code that makes all Genetec products tick. You will sharpen your parallelism know-how to ensure that our product can scale to meet the ever-growing needs of our customers. You’ll face unexpected and complex challenges, but you won’t be alone. You’ll be part of the team. You’ll learn from the best and most experienced developers.
+
+Key Responsibilities
+
+Design and develop new features part of Security Center software core system
+Write unit tests for new functionalities
+Collaborate with various teams to diagnose and resolve technical issues
+Actively participate in the various Agile ceremonies
+
+
+About You
+
+Studying in Computer Engineering, Software Engineering or Computer Sciences at a bachelor’s level
+Competency in written and verbal communication (English and French)
+Development experience in C# programming
+Development experience in SQL programming and database design
+Strong knowledge in Object-Oriented programming
+Strong knowledge of multithreading concepts and associated best practices
+Strong knowledge in asynchronous programming
+
+
+Great if you have
+
+Experience with Microsoft .NET Framework 4.6
+Experience with Microsoft Visual Studio
+Experience with Microsoft SQL Server
+Knowledge of networking protocols (TCP-IP and UDP)
+Knowledge of cryptographic protocols (TLS and SSL)
+
+
+Les dates de stage sont du 8 mai au 18 août 2023.
+
+À quoi ressemblera votre journee
+
+Un stage en tant que Developpeur logiciel signifie que vous travaillerez sur le code qui alimente tous les produits Genetec. Vous aiguiserez votre savoir-faire sur les principes fondamentaux du parallelisme afin de permettre � nos produits de rencontrer les besoins grandissants de nos clients. Vous ferez face � des problèmes complexes et inattendus, mais vous ne serez pas seul. Vous ferez partie de l’equipe. Vous apprendrez des meilleurs et des plus experimentes.
+
+Vos responsabilites
+
+Élaborer et developper de nouvelles fonctions integrees au logiciel Security Center
+Proceder � des essais unitaires pour les nouvelles fonctionnalites
+Collaborer avec diverses equipes afin d’analyser et de resoudre des problèmes techniques
+Participer activement aux diverses ceremonies Agile
+
+
+Votre profil
+
+Études de baccalaureat en genie informatique, en genie logiciel ou en informatique
+Maîtrise du français et de l’anglais (oral et ecrit)
+Exigences techniques
+Experience en developpement pour la programmation en langage C#
+Experience en developpement pour la programmation en langage SQL et en conception de bases de donnees
+Solide connaissance de la programmation orientee objet
+Solide connaissance des concepts et meilleures pratiques lies au « multithreading »
+Solide connaissance de la programmation asynchrone
+
+
+Encore mieux si vous possedez ces atouts
+
+Experience avec Microsoft .NET Framework 4.6
+Experience avec Microsoft Visual Studio
+Experience avec Microsoft SQL Server
+Bonne connaissance des protocoles de reseautique (TCP-IP et protocole UDP)
+Bonne connaissance des protocoles de cryptage (TLS et SSL)
+
+
+Dans ce document, l’emploi du masculin n’a d’autres fins que celle d’alleger le texte.
+Mostrar más�زيد

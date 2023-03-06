@@ -1,0 +1,72 @@
+Job Donnee
+
+For this opening we will consider candidates from the following locations: ,QC,Canada | Montreal,QC,Canada
+
+Developeur de logiciels
+
+Dans le cadre de la division des services d’urgence de Intrado, notre equipe developpe et maintient une solution pour acheminer les appels d’urgence de type voix sur IP au centre d’appel approprie. La solution est composee de deux different produits (SaaS et hosted) utilisant differentes technologies. Nous cherchons une personne qui travaillera principalement (mais pas uniquement) sur les portails web de nos produits.
+
+Nous sommes une equipe Agile experimentee et bien etablie qui utilise Scrum depuis plusieurs annees. Nous sommes à la recherche d’une personne motivee et dynamique pour se joindre à nous.
+
+Que vous soyez un Developpeur de logiciels experimente ou encore quelqu’un avec moins d’experience, si vous recherchez des defis techniques interessants dans une atmosphere amicale et pleine d’entraide, nous sommes interesses à vous entendre!
+
+Au sein de l’equipe de developpement, vous participerez à toutes les etapes de developpement dans un environnement tres dynamique où nous faisons plusieurs releases par annee.
+
+Education
+
+Un dipleme universitaire d’un etablissement agree en sciences de l’informatique, genie informatique ou dans un domaine connexe. Une experience professionnelle equivalente dans un poste similaire peut remplacer l’exigence en matiere d’education.
+
+Exigences techniques
+
+Solide connaissance de la programmation oriente-objet
+
+Experience avec Ruby on Rails, Java, Javascript, SQL et Linux
+
+Connaissance de C# et PHP est un atout
+
+Experience en reseautique et VOIP est un atout
+
+Connaissance de SOAP-REST est un atout
+
+Autres exigences
+
+Parler et ecrire couramment en français et anglais.
+
+Intrado’s Life & Safety group in Montreal is hiring a Java Developer to join our technology team!
+
+As part of the Life and Safety division, our team is developing and maintaining a solution to route VOIP emergency calls to the proper public safety answering point. The solution uses two different products (SaaS and hosted) using different technologies. Our team is looking for someone who will participate to the development of those products.
+
+We are an experienced and well-established Agile team using Scrum for many years now looking for a motivated and energetic person to join us.
+
+That you be an experienced software developer or a more junior one, if you are looking for interesting technical challenges within a friendly and cooperative team, we are interested to speak to you!
+
+As part of the team, you will be involved in all steps of the software development in a fast-paced development cycle (several releases a year)
+
+Minimum Requirements
+
+Education
+
+Degree from an accredited college or university in computer science, computer engineering or a related field required. Equivalent work experience in a similar position may be substituted for educational requirements.
+
+Technical Skills
+
+Solid understanding of object-oriented programming
+
+Experience with Java, Javascript, SQL and Linux
+
+Experience on AWS an asset
+
+Exposure to C# and PHP is an asset
+
+Experience in VOIP and networking is an asset
+
+Knowledge of SOAP-REST and asset
+
+Other
+
+Proficient spoken and written in French and English required
+
+Benefits & Compensation
+
+Want to love where you work? At Intrado, we offer a comprehensive benefits package that includes what you’d expect (medical, dental, vision, life and disability coverage, paid time off, and several that go above and beyond – tuition reimbursement paid parental leave, access to a robust library of personal and professional training resources, employee discounts, critical illness, hospital indemnity and pet insurances, identity protection and more! Apply today to join us in work worth doing!
+Show more

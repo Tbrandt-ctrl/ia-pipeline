@@ -1,0 +1,114 @@
+The team:
+
+Genetec’s Clearance team is at the center of a revolution in digital evidence management. We’re a small, close-knit, diverse group of passionate, innovative developers and testers who build and maintain one of Genetec’s fastest growing products.
+
+At our core, we’re about providing a safe, secure, reliable means for people to share digital evidence and help protect the everyday. To do that we work daily with concepts like software security, cloud-scale distributed systems and DevOps. We also care about diversity and inclusion, innovation and experimentation, and the fun of sharing group activities together.
+
+What your day will look like:
+
+As part of Clearance, you’ll be on a full-stack DevOps team with other like-minded developers and testers. You’ll collaborate closely to design and code features, you’ll write automated tests but most important of all, you’ll push code into production regularly.
+
+You’ll explore new technologies, learn about software security and experiment as you work on a cutting edge, cloud-based distributed microservice architecture.
+
+Your creativity, troubleshooting and debugging skills will be valuable to maintain cloud infrastructure and ensure a seamless experience for our customers.
+
+About you:
+
+Bachelor's degree in Computer Science, Software Engineering or equivalent experience
+At least three years experience developing software in the cloud
+Passionate about teamwork, state of the art technology, and DevOps
+Solid analytical and debugging skills
+Good communication and interpersonal skills
+Working knowledge of English
+
+
+Technical Requirements:
+
+A strong foundation in an object-oriented programming language like C#
+Knowledge of networking, distributed systems and multi-threaded application development
+Knowledge of web technologies such as React, HTML, Javascript, TypeScript and CSS
+Knowledge of cloud technologies such as Microsoft Azure
+
+
+Great if you have:
+
+Experience developing SaaS services in a microservice architecture
+Experience with containerization technologies such as Docker and Kubernetes
+Practical experience with Visual Studio-GIT
+Experience in infrastructure as code technologies such as Terraform
+Experience with Azure Pipelines in YAML
+Experience working in a DevOps environment
+
+
+Let’s talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L'equipe:
+
+L’equipe de Genetec Clearance est au cœur d’une revolution dans la gestion des preuves numeriques. Nous sommes une petite equipe très soudee et diversifiee de developpeurs et de testeurs passionnes et innovants qui construisent et entretiennent l’un des produits de Genetec qui affichent la plus forte croissance.
+
+Notre objectif principal est de fournir un moyen sûr et fiable pour que les gens puissent partager des preuves numeriques et d’aider � proteger le quotidien. Pour atteindre cet objectif, nous travaillons quotidiennement avec des concepts tels que la securite des logiciels, les systèmes repartis � travers le nuage et DevOps. Nous favorisons egalement � la diversite, l’inclusion, l’innovation, l’experimentation et le plaisir de participer � des activites de groupe.
+
+À quoi ressemblera votre journee:
+
+En tant que membre de l’equipe de Clearance, vous ferez partie d’une equipe de DevOps qui s’occupe de toute la pile et est composee d’autres developpeurs et testeurs ayant des perspectives semblables. Vous collaborerez etroitement � la conception et au codage des fonctionnalites et des tests automatises, mais surtout, vous mettrez regulièrement du code en œuvre côte production.
+
+Vous explorerez de nouvelles technologies, vous familiariserez avec la securite des logiciels et experimenterez en travaillant sur une architecture de microservices infonuagiques de pointe.
+
+Votre creativite et vos aptitudes en matière de depannage et de debogage seront precieuses pour entretenir l’infrastructure du nuage et garantir une bonne experience � nos clients.
+
+Votre profil:
+
+Detenir un baccalaureat en informatique, en genie logiciel ou une experience equivalente
+Au moins 3 ans d’experience dans le developpement de logiciels infonuagiques
+Être interesse par le travail en equipe, les technologies de pointe et DevOps
+Bonne capacite d’analyse et de debogage
+Bonnes competences en communication et grandes aptitudes interpersonnelles
+Maîtrise fonctionnelle de l’anglais
+
+
+Expertise technique :
+
+Bonne connaissance des bases des methodes de programmation orientee objet, comme C#
+Connaissance des reseaux, des systèmes distribues et du developpement d’applications multithread
+Connaissance des technologies Web comme React, HTML, JavaScript, TypeScript et CSS
+Connaissance des technologies infonuagiques telles que Microsoft Azure
+
+
+Encore mieux si vous possedez ces atouts :
+
+Experience du developpement de solutions SaaS dans une architecture de microservices
+Experience avec les technologies de conteneurisation telles que Docker et Kubernetes
+Experience pratique de Visual Studio-GIT
+Experiences des infrastructures de technologies de codage telles que Terraform
+Experience avec les pipelines Azure dans YAML
+Experience de travail dans un environnement de DevOps
+
+
+Voil� ce que nous offrons!
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes � notre incroyable Bistro (Les Cordons Bleus)
+Équilibre entre vie professionnelle et vie privee grâce � un horaire de travail flexible
+Cafe gratuit � volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place
+
+
+Si vous souhaitez savoir � quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise : Culture � Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises � soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+Show moreلمزيد

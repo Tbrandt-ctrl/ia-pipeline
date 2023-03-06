@@ -1,0 +1,39 @@
+Pomeroy is looking for a skilled Customer1 Mainframe Application Developer for a 6 month contract with possible extension. Fully remote role.
+
+
+
+
+MUST HAVE SKILLS - Energy and Utility Industry experience & Customer 1 experience
+
+
+
+
+Having Good Knowledge of the Energy & utility Industry
+Proficient in the Customer 1 application
+Should have working experience in :
+Different Order types - like cut-out, cut-in, connect disconnect, investigations, collection orders, etc.
+Impact of orders on billing
+Bundling of orders
+Auto completion of orders
+WFM creation, completion and impact on Billing
+Different ways of order creation
+AGS and FCP knowledge to make the required change for the Front end (desktop application).
+
+
+
+
+Technical
+
+
+
+
+Cobol
+JCL
+DB2
+MQ
+
+
+
+
+Founded in 1981, Pomeroy provides high quality managed IT infrastructure services, professional and staffing services and procurement and logistics services, and is a recognized leader in the service desk and managed desktop services markets. Pomeroy is based in Hebron KY, in the Cincinnati OH metro area. Learn more about Pomeroy at https:--www.pomeroy.com-managed-workplace-services-it-staffing-services-.
+Show more

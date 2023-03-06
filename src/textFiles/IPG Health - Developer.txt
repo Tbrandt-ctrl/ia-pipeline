@@ -1,0 +1,79 @@
+ESSENTIAL FUNCTIONS
+
+Web Development
+
+Executes front-end development for assigned deliverables.
+
+
+
+
+Design
+
+Brainstorm with the Business Development team and account to develop ideas to transform generic, text-heavy presentations into more graphically engaging, concise, and interactive experiences
+
+
+
+
+JOB DUTIES & RESPONSIBILITIES
+
+• Must know HTML 5 and Web Standards, with an understanding of markup hierarchy
+
+• Must know SASS, CSS preprocessor and how to manipulate styles and layout in code. Also, experience with CSS animations and transitions is required.
+
+• Must have an understanding of Javascript and Jquery, and ideally would have some experience with Gulp and-or Grunt.
+
+• Collaborate and listen to all agency team members
+
+• Assist teams with technology needs, including explanations about digital standards and best practices
+
+• Able to apply copy edits and fixes in markup to digital projects
+
+• Articulate digital solutions to both senior technologists and non-digital audiences
+
+• Explore and share new technologies with the larger team
+
+• Understand and apply standard software development methodologies
+
+• Applies knowledge of industry trends and developments to improve service to our clients
+
+Education
+
+Bachelor of Art (BS)
+
+Experience
+
+2 years Web Design or Development Services, Ideally as a Consultant or in a Digital Consulting Company
+
+
+
+
+KNOWLEDGE & SKILLS
+
+HTML-CSS-Javascript
+
+React, Angular, Vue, or other similar front end frameworks
+
+.Net and C#
+
+MVC and other Object-Oriented Programming experience
+
+Sitecore CMS
+
+MySQL, SQL Server, and other relational databases
+
+REST API development, integration, and testing experience
+
+Azure, AWS, Google Cloud, and similar cloud service providers
+
+
+
+
+
+
+
+
+
+
+For U.S. Job Seekers It is the policy of FCB and any of its affiliates to provide equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, ethnic origin, gender, gender identity, age, marital status, veteran status, sexual orientation, disability, or any other basis prohibited by applicable federal, state, or local law. EOE-AA-M-D-V-F.
+
+Voir plusás

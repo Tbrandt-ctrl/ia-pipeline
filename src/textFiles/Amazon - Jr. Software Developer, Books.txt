@@ -1,0 +1,35 @@
+Description
+
+The Jr Developer Program is a unique employment opportunity for students seeking to gain on-the-job software development experience and receive excellent mentoring while completing their education. Jr Developers are immersed in an Amazon team and work on exciting, meaningful projects that impact real Amazon customers. Paired 1:1 with a Amazon Jr Dev Mentor, Jr Developers receive guidance and support in all aspects of their role: skill development, career advisement, project collaboration, and more! Upon successful completion of the Jr Developer Program, the opportunity for full-time employment will be available at the Amazon corporate sites in Seattle, WA, San Luis Obispo, CA, and Arlington, VA.
+
+Our Internship Program Is Unique In Several Respects
+
+We offer work year-round, part-time (16 hrs-week) while in school and full-time (40hrs-week) during summer. Working schedules are flexible and can be re-arranged each quarter to accommodate class schedules.
+We offer excellent mentoring. Our full-time software developers are willing and able to mentor exceptional student developers.
+Jr Developers are given responsibilities and roles that prepare them to enter the workforce after graduation with “real world” software programming experience.
+The students who participate in the Jr Developer Program routinely say that the real reason they’re here is for the valuable learning experience, especially because of the uniform excellence of the team they work with, the mentoring offered by experienced developers, and the challenge of being a principal contributor to software products. They say it’s like taking an additional practicum course that complements their university experience.
+
+Qualifications
+
+BASIC QUALIFICATIONS
+
+Currently enrolled in a Bachelor's program in Computer Science or related STEM discipline.
+Graduation date falls between June 2024- June 2026.
+Ability to work year-round: part time (16 hours-week) during the school year and full-time (40 hours-week) during the summer.
+Knowledge of data structures and JAVA or other object oriented programming language.
+Living within commutable distance to Seattle, WA.
+
+Preferred Qualifications
+
+Solid knowledge of JAVA
+Advanced programming classes
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https:--www.amazon.jobs-en-disability-us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $15-hr in our lowest geographic market up to $75.63-hr in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and-or other benefits. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2315282
+Show more

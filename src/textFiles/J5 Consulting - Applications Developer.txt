@@ -1,0 +1,127 @@
+J5 Consulting is a Maryland based company established in 2006 to provide computing and consulting services for government and commercial entities. Our services improve Information System networking performance and compliance and protect electronic assets from loss and compromise. We welcome your application to receive consideration for the following position.
+
+
+
+
+This position is available immediately.
+
+
+
+
+Job Overview:
+
+
+
+
+The Customer provides business operations support to include identifying business information, providing a means to capture and store any additional required business information, aggregating all business information, and visualizing this information to facilitate strategic decision making across all business interests. The Team will support the existing business operations technical systems as well as enrich current capabilities.
+
+
+
+
+This position will:
+
+
+
+
+Assist the Customer with existing systems including a Customer application using Redshift, RDS and Amazon Web Services (AWS) Workflows to aggregate data.
+Create a more robust repository to aggregate and consolidate additional information such as Internal Use Software (IUS).
+Provide an Enterprise capability to collect and report business information across not just the Customer but the entire Enterprise.
+Utilize the Customer’s applications and sites to provide a data feed service to multiple enterprise systems.
+
+
+
+
+Required skills and demonstrated experience:
+
+
+
+
+Demonstrated experience with Java development with the ability to work at all tiers of the architecture such as Web UI, Business Logic, and Database layer.
+Demonstrated experience with creating web applications using HTML 5, CSS and JavaScript UI frameworks such as React.js, Angular 5+, Vue.js.
+Demonstrated experience using a relational database with tools such as Oracle or MySQL and PostgreSQL-Aurora.
+Demonstrated experience with navigating 508 requirements.
+Demonstrated experience managing and supporting Amazon Web Services such as AWS Relational Database (RDS), Cloudwatch, EC2, EBS, S3, Lambda, and API Gateway.
+Demonstrated experience to integrating with various customer applications using web services.
+Demonstrated experience working in an agile environment and incorporate DevOps practices such as sprint planning, continuous integration, testing, deployment and delivery of minimum value increments.
+Demonstrated experience communicating clearly with end users and resolve issues.
+Demonstrated experience with Linux Shell scripting.
+
+
+
+
+Highly desired skills and demonstrated experience:
+
+
+
+
+Demonstrated experience with the Customer’’s security requirements to include providing strong data protection.
+Demonstrated experience in the Customer’s environment with requesting application or server certifications and updating Amazon Machine Instance (AMIs).
+Demonstrated experience with DevOps tools such as GitHub, Jenkins, CruiseControl, Gradle, NPM, Artifactory, and Confluence.
+Demonstrated experience developing in Java 1.8+.
+Demonstrated experience with Javascript unit testing tools such as Jest.
+Demonstrated experience integrating software with Customer’s LDAP, PKI, STS and must use services.
+Demonstrated experience effectively communicating technical information to both technical and non-technical audiences via documentation and briefings.
+Demonstrated experience providing strong oral and written communication.
+
+
+
+
+____________________________________________________________________
+
+
+
+
+US Citizenship:
+
+
+
+
+This position requires US Citizenship. Verification of US Citizenship to meet federal government security requirements will be confirmed.
+
+
+
+
+Security Clearance:
+
+
+
+
+The successful candidate must have an active U.S. Government Top Secret Security Clearance with a Full Scope Polygraph.
+Clearance Verification: This position requires successful verification of the stated security clearance to meet federal government customer requirements. You will be asked to provide clearance verification information prior to an offer of employment.
+
+
+
+
+Travel:
+
+
+
+
+This position is expected to be onsite. The position will be located within the Washington Metropolitan Area (WMA).
+Local travel-POV will be on an as needed basis, within the local place of performance.
+
+
+
+
+______________________________________________
+
+
+
+
+This position is available immediately
+
+
+
+
+J5 Consulting offers excellent benefits and compensation packages. We are an Equal Opportunity Employer committed to providing fair and equal employment opportunities to all employees and applicants without regard to race, color, religion, gender, pregnancy, sexual orientation, national origin, age, disability, genetic information, veteran or military status, or any other characteristic protected by applicable laws.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+jucdQyjdp5
+Voir plus

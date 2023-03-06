@@ -1,0 +1,162 @@
+Ludia – une entreprise Jam City
+
+
+
+
+Fonde � Montreal en 2007, et acquis par la societe de divertissement mobile primee Jam City en 2021, Ludia est un des studios leaders du jeu video mobile au Canada. Notre ambition : être au cœur de la vie des gens, attiser la flamme de leur imaginaire et avoir un impact positif dans leur quotidien. C’est pourquoi nous travaillons main dans la main avec les plus grandes licences de divertissement au monde et que chaque jour est dedie � creer le meilleur des jeux mobiles.
+
+
+
+
+Ludia – A Jam City Company
+
+
+
+
+Founded in Montreal in 2007 and acquired by award-winning mobile entertainment company Jam City in 2021, Ludia is one of Canada's leading mobile video game studios. Our ambition: to become a part of everyone’s life, to spark the flame of their imagination and make a positive impact on their daily lives. That is why we work hand-in-hand with the world's leading entertainment franchises and dedicate ourselves in creating the best of mobile gaming every day.
+
+
+
+
+Quelles sont tes missions en tant que Programmeur chez Ludia ?
+
+
+
+
+Implementer les systèmes et modules critiques du jeu;
+Proposer des ameliorations � l’architecture du jeu;
+Fournir des analyse et des estimations pour les fonctionnalites � developper;
+Regler les problèmes techniques critiques;
+Maintenir le moteur de jeu et les differents sdk � jour;
+Guider, conseiller et apporter un appuie technique aux programmeurs plus juniors;
+Releve les risques et defis technique du projet et fournir des plans de contingences;
+Supporter le lead technique dans la validation des fonctionnalites developpees par l'equipe;
+Creer des documentations techniques de qualites;
+Proposer et developper des outils afin d'ameliorer les differents pipelines de production;
+
+
+
+
+What are your tasks as a programmer at Ludia?
+
+
+
+
+Implement critical game systems and modules;
+Propose improvements to the game's architecture;
+Provide analysis and estimates for features to be developed;
+Fix critical technical issues;
+Maintain the game engine and the various SDKs up to date;
+Guide, advise and provide technical support to junior programmers;
+Identify technical risks and challenges of the project and provide contingency plans;
+Support the technical lead in the validation of features developed by the team;
+Create quality technical documentation;
+Propose and develop tools to improve the various production pipelines;
+
+
+
+
+FR Version
+
+
+
+
+3+ ans d'experience en tant que programmeur de jeux;
+Connaissance avancee de la programmation et du debogage en C# et Java;
+Connaissance approfondie du moteur de jeu Unity;
+Experience en programmation reseau (Client-Serveur)
+Experience dans le developpement de jeux pour Android et iOS;
+Connaissance avancee des outils de profilage de performance et des techniques d'optimisation;
+Bilinguisme (FR-ENG).
+
+
+
+
+ENG Version
+
+
+
+
+3+ years of experience as a game programmer;
+Advanced programming and debugging knowledge in C# and Java;
+In-depth knowledge of the Unity game engine;
+Experience in network programming (Client-Server)
+Experience developing games for Android and iOS;
+Advanced knowledge of performance profiling tools and optimization techniques;
+Bilingualism (FR-ENG).
+
+
+
+
+Avantages
+
+
+
+
+Pourquoi Ludia pourrait être l’endroit parfait pour toi ? Parce qu’on prend grand soin de nos Ludiens !
+
+
+
+
+Une flexibilite � 100% : travail � distance dans tout le Quebec et horaires flexibles
+
+
+
+
+Un plan de sante impressionnant et une assistance medicale virtuelle disponible 24h-24 ;
+
+
+
+
+REER collectif avec participation de l'employeur, programmes de recommandation et de primes
+
+
+
+
+Avantages du bureau dans le Vieux-Montreal : petits dejeuners, cafe et the, et dejeuners gratuits, 5@7, Gym ;
+
+
+
+
+Remboursement partiel de votre STM-RTM ;
+
+
+
+
+Perks And Benefits
+
+
+
+
+Why is Ludia the perfect place for you? Because we take great care of our Ludians !
+
+
+
+
+100% flexibility: remote work in all Quebec and flexible hours
+
+
+
+
+An impressive health plan and a virtual medical assistance available 24h-24;
+
+
+
+
+Collective RRSP with employer participation, referral and bonus programs
+
+
+
+
+Office perks in Old Montreal: breakfasts, coffee and tea, and free lunches, 5@7, Gym;
+
+
+
+
+Partial refund of your STM-RTM;
+
+
+
+
+Interested? We can’t wait to meet you!
+और दिखाएं

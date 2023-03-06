@@ -1,0 +1,83 @@
+Exsilio has an immediate opening for an Associate Application Developer to join our Development team. This is a full-time, direct-hire, permanent position.
+
+
+
+
+Exsilio Solutions is a consulting firm that focuses on delivering business value to their stakeholder, by utilizing IT solutions. The mission of the associate developer consultant is to deliver Web Application solutions while growing their technical and business knowledge. The associate developer consultant will be accountable for their tasks and communicating to their manager-project lead.
+
+
+
+
+Responsibilities:
+
+
+
+
+Utilize a deliver methodology (SDLC or another approach) to complete tasks within estimated timeframe.
+Work with manager-project lead to review tasks and establish estimates.
+Work with project teams to provide client with IT solutions that resolves business need.
+Perform basic support and debugging in test and production environment.
+Identify and escalate problems.
+
+
+
+
+Minimum Qualifications:
+
+
+
+
+Excellent communication skills (written and oral)
+Experience in Application development using C#, ASP.NET
+Working knowledge of Front End technology: HTML, CSS, Bootstrap, AngularJS, jQuery, etc.
+Ability to write simple SQL queries
+Experience working in Visual Studio
+REST development
+.NET-ASP.NET Core
+OO Design
+Reactive Programming knowledge
+gRPC knowledge
+
+
+
+
+Understanding of working as an Agile Developer on Scrum teams using Agile methodologies, including:
+
+
+
+
+Test Driven Development
+Continuous Integration-Continuous Delivery
+Strong customer service skills
+Typescript
+Node.JS
+GraphQL
+Functional and Reactive Programming
+Fastify Experience
+
+
+
+
+Preferred Qualifications:
+
+
+
+
+Experience in a client facing role
+Microsoft Certified
+
+
+
+
+Exsilio's success is grounded in the perfect balance of size and ability; we have the capacity to expertly handle many large enterprise accounts while still being able to move on a dime and change with our client's diverse needs. Our teams carry with them an arsenal of diverse, expert knowledge and fierce dedication to the success of our customers. We're committed to the idea of getting in the trenches with our customers and really understanding their business to achieve the best results. Working at Exsilio isn’t only about working on projects, we always look for opportunities to stay active in the industry whether it be participating in design competitions and hackathons or showcasing your talents in videos, podcasts or blog form.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+39cNZuaodn
+Mostrar más

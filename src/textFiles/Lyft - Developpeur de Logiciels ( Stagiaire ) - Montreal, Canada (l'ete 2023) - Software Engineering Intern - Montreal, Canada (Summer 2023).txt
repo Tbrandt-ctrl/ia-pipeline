@@ -1,0 +1,151 @@
+Developpeur de Logiciels ( Stagiaire )
+
+
+
+
+Chez Lyft, notre mission est d'ameliorer la vie des gens avec le meilleur moyen de transport au monde. Pour ce faire, nous commençons par notre propre communaute en creant une organisation ouverte, inclusive et diversifiee.
+
+
+
+
+Nous nous soucions profondement d'offrir la meilleure experience de transport; cela signifie la meilleure experience pour le passager et la meilleure experience pour le conducteur. Nous croyons que cette qualite de service ne peut être atteinte qu'avec une comprehension profonde de notre monde, de nos villes, de nos rues... comment elles evoluent, comment elles respirent.
+
+
+
+
+Les stagiaires travaillent côte � côte avec les meilleurs ingenieurs de l'industrie tout en ayant une autonomie dès le depart. Ils contribuent aux produits destines aux utilisateurs et peuvent voir leur travail être mis en ligne rapidement. Lyft favorise un environnement collaboratif au bureau, il y a donc toujours un esprit vif desireux d'entendre parler de votre prochaine idee. Alors, quel est le vôtre ?
+
+
+
+
+Responsabilites:
+
+
+
+
+Maîtrisez votre projet, tout en verifiant avec les autres membres de l'equipe tout au long de la journee avec des questions et des mises � jour
+Vous laissez le code dans un meilleur etat que lorsque vous l'avez trouve (refactorisation progressive)
+Vous appreciez la fiabilite, assuree par des tests (tests unitaires, d'integration et de charge)
+Participer aux revues de code pour assurer la qualite du code et diffuser les connaissances
+Integration et deploiement continus
+Rentrez chez vous en sachant que votre travail d'aujourd'hui ameliore considerablement la vie de chaque chauffeur Lyft et de chaque passager Lyft !
+
+
+
+
+Experience:
+
+
+
+
+Étudie actuellement en informatique ou dans un domaine connexe, avec au moins un semestre supplementaire � terminer après la fin de ce stage
+Disponible durant l'ete 2023 pour votre stage
+Solide connaissance des fondamentaux en Science de L’informatique
+Excellentes competences en communication
+Passion pour la communaute, la durabilite et-ou le transport
+Capacite � prosperer dans un environnement de startup
+Experience avec les problèmes de technologie en temps reel
+Contributions � des projets open source
+Experience de travail avec des bases de donnees
+Experience dans la resolution de problèmes technologiques en temps reel
+Travail anterieur avec les reseaux sociaux
+Doit parler couramment l'anglais parle et ecrit et avoir une maîtrise du français
+
+
+
+
+Avantages:
+
+
+
+
+Bienfaits pour la sante mentale
+En plus des conges de l'entreprise, les stagiaires beneficient d'un jour de conge paye et de 3 jours de conge de maladie
+
+
+
+
+Lyft embauche une main-d'œuvre diversifiee. L'entreprise estime que chaque personne a droit � des chances d'emploi egales sans discrimination quant � sa race, son ascendance, son lieu d'origine, la couleur de sa peau, son origine ethnique, sa citoyennete, ses croyances, son sexe, son orientation sexuelle, son identite sexuelle, son expression sexuelle, son âge, son etat civil, sa situation familiale, son incapacite, son pardon d'une offense ou pour tout autre motif relevant de la loi applicable ou d'une politique de l'entreprise. Lyft cherche � creer un milieu de travail sain et securitaire et, � ce titre, interdit formellement tout type de harcèlement. Des mesures d'adaptation seront proposees sur demande aux personnes ayant un handicap, conformement aux lois applicables, durant le processus de candidature et d'embauche. Veuillez communiquer avec votre recruteur si vous souhaitez presenter une telle demande.
+
+
+
+
+Jusqu'� nouvel ordre, les employes de Lyft travaillant aux États-Unis et au Canada � quelque titre que ce soit (selon un horaire quotidien ou hybride, � distance ou en tant que visiteur) sont tenus de fournir la preuve qu'ils sont entièrement vaccines et � jour contre la COVID-19. Complètement vaccine et � jour signifie qu'un employe a : 1) reçu toutes les doses recommandees dans une première serie de vaccins contre la COVID-19 ; et 2) a reçu une dose de rappel ou n'est pas encore eligible pour recevoir une dose de rappel mais le fera lorsqu'il sera eligible. Lyft conservera les dossiers associes � votre historique de vaccination d'une manière conforme � toutes les lois federales, etatiques et locales applicables. Les exceptions � cette exigence sont les employes qui ont besoin d'une exemption religieuse ou medicale approuvee par le processus d'accommodement de Lyft. Les nouveaux employes doivent fournir une preuve de vaccination complète ou recevoir une approbation d'exemption avant leur date de debut.
+
+
+
+
+Software Engineer Intern
+
+
+
+
+At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+
+
+
+We care deeply about delivering the best transportation experience; this means the best experience for the passenger and the best experience for the driver. We believe this quality of service can only be achieved with a deep understanding of our world, our cities, our streets… how they evolve, how they breathe.
+
+
+
+
+Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are able to see their work go live quickly. Lyft fosters a collaborative environment in the office, so there's always a sharp mind eager to hear about your next idea. So what's yours?
+
+
+
+
+Responsibilities:
+
+
+
+
+Own your project, while checking in with other team members throughout the day with questions and updates
+You leave the code in a better state than when you found it (progressive refactor)
+You value reliability, ensured by testing (unit, integration and load tests)
+Participate in code reviews to ensure code quality and distribute knowledge
+Continuous integration and deployment
+Go home knowing that your work today is meaningfully improving the lives of every Lyft driver and every Lyft passenger!
+
+
+
+
+Experience:
+
+
+
+
+Currently pursuing a degree in Computer Science or a related field, with at least one additional term of school to complete after the end of this internship
+Available for 12 weeks during Summer 2023 for an internship
+Strong knowledge of CS fundamentals
+Excellent communication skills
+Passion for community, sustainability, and-or transportation
+Ability to thrive in a startup environment
+Experience with real-time technology problems
+Contributions to open source projects
+Experience working with databases
+Experience solving real-time technology problems
+Previous work with social networks
+Must be fluent in spoken and written English and have a working proficiency in French
+
+
+
+
+Benefits:
+
+
+
+
+Mental health benefits
+In addition to company holidays, interns receive 1 day paid time off and 3 days sick time off
+
+
+
+
+Lyft is an equal opportunity-affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+
+
+
+
+Until further notice, Lyft employees working in the United States and Canada in any capacity (on a daily or hybrid schedule, remote, or as a visitor) are required to provide proof that they are fully vaccinated and up to date against COVID-19. Fully vaccinated and up to date means an employee has: 1) received all recommended doses in a primary series of COVID-19 vaccine; and 2) either has received a booster dose or is not yet eligible to receive a booster dose but will do so when eligible. Lyft will maintain records associated with your vaccination history in a way that is compliant with all relevant Federal, state and local laws. Exceptions to this requirement are employees who require religious or medical exemption as approved through Lyft's accommodations process. New employees must provide proof of full vaccination or receive an accommodation exception approval prior to their start date.
+Show moreلمزيد

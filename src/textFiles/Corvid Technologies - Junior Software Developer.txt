@@ -1,0 +1,68 @@
+Job Description
+
+
+
+
+Corvid Technologies is seeking junior software developers with experience in engineering sciences to join our development group in Mooresville, NC. This position will provide an opportunity for talented candidates to advance state-of-art technology that supports Corvid's endeavor to deliver timely and accurate engineering solutions to our customers.
+
+
+
+
+Representative Duties And Tasks
+
+
+
+
+Participate in the research, design, and development of Corvid's engineering analysis and post-processing tools.
+Collaborate with application engineers-customers, analyze real-world problems, and provide robust and fast turn-around solutions.
+Design, prototype, and implement advanced algorithms that can improve speed and accuracy of the tools.
+
+
+
+
+Required Qualifications
+
+
+
+
+B.S., M.S. or Ph.D. in Aerospace Engineering, Mechanical Engineering, Civil Engineering, Physics, Applied Mathematics, Computer Science, or related fields.
+Strong background in both Numerical Mathematics and Computer Science (algorithms, data structures, etc.). Related course works or previous experience are highly desired.
+Proficient in C++11 or later
+Proficient in shell scripting languages.
+Ability to write clear, elegant, and maintainable codes.
+Familiar with version control, continuous integration, and software testing tools.
+An open-minded team player with excellent oral and written communication skills.
+US citizen or permanent resident only.
+
+
+
+
+Desired Qualifications
+
+
+
+
+C++14-17 experience
+Fortran 77-90-95-etc. experience
+
+
+
+
+We value our people and offer employees a broad range of benefits. Benefits for full-time employees include:
+
+
+
+
+Paid gym membership
+Flexible schedules
+Blue Cross Blue Shield insurance including Medical, Dental and Vision
+401k match up to 6%
+Three weeks starting PTO; increasing with tenure
+Continued education and training opportunities
+Uncapped incentive opportunities
+
+
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+Daha fazla göster

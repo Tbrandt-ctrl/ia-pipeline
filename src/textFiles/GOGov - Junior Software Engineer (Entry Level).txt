@@ -1,0 +1,52 @@
+GOGov is a fast-growing software company in the highly attractive GovTech space based out of Long Island, NY. Our mission – make government simple - for the citizens and people that manage it.
+
+
+
+
+We are seeking a highly motivated junior software developer who wants to be part of a fun & successful team that develops awesome products using the latest technologies.
+
+
+
+
+Compensation
+
+$70,000 - $90,000
+Benefits – Medical, Dental, Vision
+Free Office Snacks, Company Lunches and Teambuilding events
+
+
+
+
+Responsibilities
+
+Develop, test, and deploy software solutions using Ruby, Typescript and React.
+Troubleshoot software application issues across the stack.
+Observe best practices regarding quality, security, and data privacy.
+Work with technical and non-technical roles within organization to design, architect, and plan software solutions.
+
+
+
+
+Qualifications
+
+1 or more years of Ruby, React, Typescript or other OOP experience required
+2 or more years of consecutive work experience preferred
+We are also considering new graduates with a Bachelor degree in Computer Science
+Must be located within reasonable commuting distance to Patchogue, NY.
+
+
+
+
+Expand Your Skills
+
+We offer junior developers several avenues to expand their technical skills. Here are some areas one might explore and work in as they grow their career with GOGov:
+
+
+
+
+Full Stack Development – Ruby - Rails - React - Typescript - Sinatra - PHP - MySQL
+Cross Platform Mobile Development – Flutter - Dart - Swift - Kotlin
+CI-CD - Docker - CircleCI - Github Actions - Fastlane - Firebase
+TDD - Cucumber - Jest - RSpec
+DEVOPS - Terraform - Kubernetes - AWS - Google Cloud- Datadog
+Show more

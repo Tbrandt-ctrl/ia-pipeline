@@ -1,0 +1,71 @@
+Job Summary
+
+
+
+
+We’re looking for a Junior Software Developer to join our team and help us build and implement functional programs. Works with other developers and product managers throughout the software development life cycle (SDLC). A team player with a keen eye for detail and problem-solving skills. Experience in Agile frameworks and popular coding languages. Build efficient programs and systems that serve user needs.
+
+
+
+
+Essential Functions
+
+
+
+
+• Work with developers to design algorithms and flowcharts
+
+• Produce clean, efficient code based on specifications
+
+• Integrate software components and third-party programs
+
+• Verify and deploy programs and systems
+
+• Troubleshoot, debug, and upgrade existing software
+
+• Gather and evaluate user feedback
+
+• Recommend and execute improvements
+
+• Create technical documentation for reference and reporting
+
+
+
+
+Competencies
+
+
+
+
+• Proven experience as a Software Developer, Software Engineer, or similar role
+
+• Familiarity with Agile development methodologies
+
+• Experience with software design and development in a test-driven environment
+
+• Knowledge of coding languages (e.g., C++, C#, Java, JavaScript, Python, VB) and frameworks-systems (e.g., Angular, Azure, Git)
+
+• Experience with databases and Object-Relational Mapping (ORM) frameworks (e.g., Hibernate)
+
+• Ability to learn new languages and technologies
+
+• Excellent communication skills
+
+• Resourcefulness and troubleshooting aptitude
+
+• Attention to detail
+
+
+
+
+Education-Experience
+
+
+
+
+Bachelor’s degree in Computer Science, Computer Engineering, or equivalent
+1-3 year's related experience including extensive experience in scripting-programming, testing, debugging, and upgrade of existing software
+Database management-administration experience
+Cloud computing experience
+You will have a portfolio of work that can be showcased to our recruitment team and management showing your experience
+Show more

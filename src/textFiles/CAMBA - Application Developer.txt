@@ -1,0 +1,96 @@
+Who We Are: CAMBA is a community of staff, volunteers, clients, donors, neighbors and partners who work together to build an inclusive New York City, where all children and adults have access to the resources and supports they need to thrive. We take a comprehensive approach by offering more than 160 integrated programs in: Education & Youth Development, Family Support, Job Training & Employment Support Services, Health, Housing, and Legal Services. We reach more than 65,000 individuals and families each year at our 90 locations, including 10,000 youth. CAMBA serves a diverse cross section of New Yorkers from new mothers in Brownsville to job seekers in the Rockaways. More than half of our clients are immigrants and refugees from around the globe. Over 85% of our families are in living in poverty, reflecting the challenges faced by nearly 1.7 million New Yorkers today.
+
+
+
+
+Information Technology (IT) Department provides reliable, practical, and cost-effective Information Technology support to the CAMBA staff.
+
+
+
+
+Position: Application Developer
+
+
+
+
+Reports To: Program Manager
+
+
+
+
+Location: 20 Snyder Avenue, Brooklyn, NY 11226
+
+
+
+
+What the Application Developer Does:
+
+
+
+
+Design, implement and manage multi-databases for several agency departments.
+Conduct website development, migration and support for associated databases.
+Provide application maintenance utilizing full project life-cycle development processes (such as testing-quality assurance and support)
+Conduct assessment of database needs.
+Analyze Microsoft SharePoint standardized and customizable functionalities.
+Collaborate with Web Portal Team to determine optimal SharePoint solution for improving internal company processes, communications and accessibility.
+Document all design work and provide a reference guide of all project designs-implementations.
+Design and implement SQL Server databases including creating stored procedures, triggers, custom queries, views, and user defined functions.
+Practice Universal Precautions-Standard Protocol & Procedures.
+
+
+
+
+Minimum Education-Experience Required:
+
+
+
+
+Bachelor’s degree (B.S.) in Computer Science or Information Systems and at least five years of experience working with Sharepoint 2016, SharePoint Designer.
+
+
+
+
+Other Requirements:
+
+
+
+
+Proficiency with Visual Studio, C#, .NET, CSS, SQL, HTML, JavaScript, JQUERY
+Experience with SharePoint 2019 or SharePoint online is a plus
+
+
+
+
+Compensation: $80,000 - $100,000 annually
+
+
+
+
+Status: Full-time (35 hours per week)
+
+
+
+
+Benefits: CAMBA offers a comprehensive benefits package including health insurance, dental insurance, 403(b) retirement plan with employer match, paid time off (vacation, personal, and sick time), and paid holidays.
+
+
+
+
+CAMBA is a City contractor that provides services where employees can be expected to physically interact with members of the public. All CAMBA staff are subject to the City’s October 21, 2021 COVID-19 Vaccine Mandate, whether they have direct involvement with members of the public, or they support others who have direct involvement.
+
+
+
+
+All new hires must provide proof of vaccination against the COVID-19 virus, unless they have been granted a reasonable accommodation for religious or medical reasons. If you are offered employment at CAMBA, this requirement must be met by your date of hire, unless a reasonable accommodation is received and approved by CAMBA.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+1vK6KoouJD
+Mostrar más

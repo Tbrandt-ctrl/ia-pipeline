@@ -1,0 +1,61 @@
+We are actively looking for talented Junior Software Engineers jump starting their software development careers at SpiderRock Platform Services, LLC. We expect this individual to have a desire to learn, participate in engineering discussions, and contribute to the various components of the SpiderRock cloud, APIs and software. We seek a candidate with a strong desire to contribute to our development team's fast paced development cycle. This is a full-time salaried position starting in May 2023.
+
+What You Will Do
+
+Learn and gain experience on a variety of Windows based C# technologies
+Assist in debugging and analyzing our user APIs and interfaces (GUI, MySQL, REST API)
+Learn about financial markets
+Work with DevOps, IT and client support teams to troubleshoot issues
+Deep dive learning sessions on the SpiderRock software philosophy
+Learn our Agile methodology
+Provide SpiderRock development teams and business units with software solutions and ideas
+Contribute to our client support team's software quality assurance
+Assist integration efforts for SpiderRock's growing client base
+What SpiderRock Is Looking For:
+
+Bachelor's degree in Computer Science, Computer Engineering, or related field
+Minimum 1 years' experience in software development
+Knowledge of the financial markets (CBOE, NYSE, CME), a plus
+Demonstrable C#, .NET, WPF, Javascript, Java, R, Python, REST skills
+Debugging and problem solving
+Excellent programming skills
+Strong work ethic
+Communication with end users, assessing requirements and managing expectations professionally
+Ability to work in a fast-paced, high pressured technology environment
+Independent project and time management
+Professional, motivated attitude
+Strong interpersonal skills
+What Type of Technology Environment You Will Work With:
+
+OS: Windows, Linux
+Development: Visual Studio, Subversion
+Derivative Products: Equities, Options, Futures, Options on Futures
+Languages: C#, WPF, Statistical software (R or S), ElasticSearch (REST), Python, PowerShell
+Here's What to Expect:
+
+Highly competitive pay, benefits and bonus structure
+Position requires that you be vaccinated against Covid-19
+Dynamic workforce environment
+Work with high-caliber and innovative professionals
+Team oriented mentoring and shadowing
+Will work on projects right away as you start learning our methodology and our platform
+Access to unlimited snacks and beverages in our lounge area
+Monthly happy hours
+Quarterly office events
+State of the art office
+401K plan and match
+Unlimited time off benefits
+Gym membership at our building fitness center on our floor
+Divvy bike access
+A fun and collaborative environment
+Interview Engagement:
+
+Short video interview
+Prescreen -> CTO Interview -> Team Panel Interview
+Coding take home test
+If given offer, must complete a background and reference check
+Interviews may be done virtually and-or onsite
+SpiderRock is an Equal Opportunity Employer
+
+Job Posted by ApplicantPro
+Show more

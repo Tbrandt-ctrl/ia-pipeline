@@ -1,0 +1,42 @@
+Êtes-vous un développeur full-stack proactif à la recherche du prochain défi dans une entreprise en pleine croissance située à Laval? Cherchez-vous à rejoindre une équipe située à Laval qui fournit des technologies de pointe en matière de traitement, analyse et transmission vidéo en tant que développeur Full-Stack? Cette opportunité dans une entreprise située à Laval est une occasion à ne pas manquer pour tous les développeurs full-stack qui souhaitent rejoindre une équipe très dynamique leur permettant de développer considérablement leurs compétences et leurs capacités.
+
+Avantages
+
+Assurance télémédecine
+Trois semaines de vacances
+Compte de gestion santé
+Congé anniversaire
+Quatre jours de congé pendant les périodes des fêtes
+Cinq jours de maladie par année
+Options stock
+Horaire et mode de travail flexibles
+Équipe dynamique et environnement stimulant
+
+Responsabilités
+
+Le développeur full stack va travailler sur la partie firmware
+Concevoir et développer un excellent logiciel, évolutif et robuste, puis le faire fonctionner.
+Diriger la feuille de route et la définition technique et aider l'équipe à établir des priorités et à planifier.
+Identifier les lacunes dans les connaissances, les outils et les processus et travailler pour les combler.
+Incorporer les meilleures pratiques et habitudes de développement.
+Travailler avec des ingénieurs partageant les mêmes idées dans un environnement agile avec des journées de démonstration, des révisions de code, des bogues et des pics de recherche.
+Développer des modules logiciels axés sur la gestion et la transmission vidéo en temps réel à l'aide des derniers codecs et SoC matériels.
+Développer des modules logiciels embarqués de haute performance qui ciblent les environnements Linux et Windows en temps réel.
+Développer des applications utilisateur interactives qui ciblent les environnements Windows.
+Développer des modules logiciels mettant en œuvre des protocoles logiciels spécifiques (ONVIF, PTZ, etc.).
+
+Qualifications
+
+3+ années d'expérience en développement de logiciels en C#, C++ et C.
+Expérience dans la construction et la maintenance d'API (REST).
+Expérience en développement de protocole comme ONVIF, RTSP, PTZ, etc.
+Expérience en développement HTML, Java Script, Angular.
+Connaissance des systèmes de gestion vidéo (VMS).
+
+Sommaire
+
+Le rôle vous intéresse ? N'hésitez pas à postuler et/ou à envoyer votre CV à ayad.nahas@randstad.ca.
+
+Au plaisir !
+
+Randstad Canada s'engage à favoriser une main-d'œuvre représentative de toutes les populations du Canada. Nous nous engageons par conséquent à développer et à mettre en œuvre des stratégies pour promouvoir l'équité, la diversité et l'inclusion dans toutes nos sphères d'activité en examinant nos politiques, pratiques et systèmes internes tout au long du cycle de vie de notre main-d'œuvre, y compris au niveau du recrutement, de la rétention et de l'avancement pour tout individu. En plus de notre profond engagement sur le respect des principes des droits de la personne, nous nous

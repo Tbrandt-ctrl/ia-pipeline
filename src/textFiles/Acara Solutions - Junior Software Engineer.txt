@@ -1,0 +1,63 @@
+One of Acara Solutions clients located in Itaca, NY is looking for a Junior level Software Engineer to join their team!
+
+
+
+
+Position Type: Direct Hire
+
+Compensation: $75k + bonus, benefits
+
+Work Setting: Hybrid, Ithaca NY (4 days remote, 1 day onsite)
+
+Time to Fill: ASAP
+
+
+
+
+Primary Function
+
+This position is responsible to work closely with marketing, manufacturing & other engineering disciplines to develop software for the clients medical device systems. This position will support software development and maintenance for New Product Development and Sustaining Engineering products that are used clinically as well as in research areas including: cardiovascular; surgery; interventional radiology; and other such areas.
+
+
+
+
+Duties and Responsibilities
+
+Design, develop, and test software in compliance with applicable regulations and processes.
+Troubleshoot, debug, maintain, and support software on existing products.
+Define and implement software requirements and designs.
+Review software developed by other team members.
+Investigate new computer science technologies in industry and their potential applications to optimize software performance in current and new products.
+Assist with software related documentation and the maintenance of a team wiki.
+Work on multiple projects and drive with objectives and priority
+Participate in planning discussion that includes time and complexity estimation of team tasks.
+Willingness to perform other duties as requested, directed or assigned by Management.
+
+Job Requirements
+
+Required Skills - Qualifications:
+
+1-3 years of industry experience with Object Oriented Languages; C++ preferred.
+Experience with multi-threaded-multi-processed programs required.
+Proficiency in Linux operating system development, required.
+Experience with Agile based development processes (iterations, velocities, kanbans, etc.).
+Experience with software versioning control techniques, GIT and SVN preferred.
+
+Preferred Skills - Qualifications:
+
+Experience with DevOps tools such as GitLab a plus
+Familiarity with SQL Databases, SQLite preferred.
+RTOS experience a plus.
+Knowledge of scripting tools such as Python, Linux shell scripting or equivalent, preferred.
+
+
+
+
+Aleron companies (Acara Solutions, Aleron Shared Resources, Broadleaf Results, Lume Strategies, TalentRise, Viaduct, and Aleron's strategic partner, SDI) are Equal Employment Opportunity and Affirmative Action Employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender identity, sexual orientation, national origin, genetic information, sex, age, disability, veteran status, or any other legally protected basis. The Aleron companies welcome and encourage applications from diverse candidates, including people with disabilities. Accommodations are available upon request for applicants taking part in all aspects of the selection process.
+
+
+
+
+Applicants for this position must be legally authorized to work in the United States. This position does not meet the employment requirements for individuals with F-1 OPT STEM work authorization status.
+
+Tunjukkan lagi

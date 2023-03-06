@@ -1,0 +1,30 @@
+Job Title: Junior Software Engineer
+
+Job Locaiton: Bedford, MA (On-Site)
+
+Job Type: Contract to Hire
+
+Job Description
+
+Maintain and enhance enterprise applications and develop new software solutions under guidance
+Contribute to all phases of the application product lifecycle, including designing and writing code
+Collaborate with other engineers on existing software solutions
+Able to learn the codebase
+Perform analysis, design, development and testing tasks with direction
+Document the implementation by developing documentation, flowcharts, layouts, diagrams, charts and code comments
+Understand and align Agile development methodology
+
+Responsibilities
+
+BS in Computer Science or related technical field or equivalent experience
+1+ year's experience with C# development and one or more of the following skillsets:
+.NET Core, Angular & MVC
+.NET framework
+ASP.Net & MVC
+SQL Server
+Basic understanding of object-oriented programming, data structures and algorithms
+Must possess hands on technical skills, along with an ability to work under supervision & guidance
+Basic understanding of Relational Database Systems
+
+Interested candidates can send their updated resumes at apoorva.sahu@agile-techlabs.com
+Show more

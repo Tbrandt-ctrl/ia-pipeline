@@ -1,0 +1,86 @@
+TEHORA est presentement à la recherche d’un(e) Analyste programmeur cobol ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses competences au sein d’une equipe polyvalente.
+
+Sans être exhaustifs, voici les services et livrables que devront fournir la personne retenue.
+
+Les activites à realiser dans le cadre de ce mandat sont, en tout ou en partie :
+
+Prendre connaissance du ou des dossiers d’architecture fonctionnelle ou du carnet de produit;
+Consulter les utilisateurs;
+Realiser ou modifier des dossiers fonctionnels;
+Presenter et faire valider les dossiers fonctionnels aux utilisateurs;
+Apporter les correctifs des anomalies aux dossiers fonctionnels avant la mise en production;
+Soutenir les utilisateurs dans la preparation des essais d’acceptation, de strategie, d’inventaire de cas, suivre le
+
+
+deroulement des essais et corriger les anomalies;
+
+Effectuer toute autre activite reliee à ce mandat.
+
+
+Biens livrables :
+
+Les biens livrables à produire ou à reviser comprennent, en tout ou en partie, les elements suivants, sans pour autant être exhaustifs :
+
+Dossiers fonctionnels;
+Devis d’essais fonctionnels, les cas et les resultats;
+Donnee des unites de programmation
+Code des unites de programmation
+Strategie d’essais integres, les cas ainsi que les resultats;
+Strategie d’implantation;
+Deploiement des solutions
+Demandes de graduation
+Tout document sous-jacent aux responsabilites precedentes.
+
+
+Requirements
+
+Detenir un dipleme universitaire de premier cycle (baccalaureat) dans le domaine des technologies de l’information (informatique, genie logiciel ou genie informatique) ou autre domaine pertinent ou un minimum de six (6) annees d’experience pertinentes;
+Posseder cinq (5) annees d’experience en developpement et entretien de systemes centraux et-ou clients-serveurs dans un environnement distribue;
+Posseder deux (2) annees d’experience dans la realisation de dossiers fonctionnels dans le cadre du developpement ou de l’entretien de systemes;
+Posseder trois (3) annees d’experience comme analyste fonctionnel dans un environnement de systemes centraux operant avec une base de donnees IDMS et utilisant un des langages suivants : COBOL et CICS avec les outils TSO-ISPF et JCL.
+
+
+Benefits
+
+LIEU DE TRAVAIL
+
+Le lieu de travail sera determine selon le mandat, il peut être en tele travail ou chez le client.
+
+POURQUOI SE JOINDRE À TEHORA?
+
+TEHORA est une firme quebecoise multidisciplinaire reconnue pour l'excellence de ses services professionnels, de nature technique et de gestion de projets à l'echelle nationale et internationale. Notre mission est d'accompagner nos clients dans la concretisation de leurs projets par l'excellence de notre savoir-faire et de notre creativite.
+
+Depuis sa creation en 2017, notre equipe de professionnels connait une croissance exponentielle en repondant aux besoins importants en gestion de projets multidisciplinaires, dans le domaine des transports, du genie civil, du TI et plus.
+
+Nos collaborateurs travaillent sur des mandats aussi bien à l’interne que chez des clients d’envergures.
+
+TEHORA se distingue par sa culture d’entreprise, axee sur le bonheur de ses employes et la diversite.
+
+Chez TEHORA, chaque collaborateur est un membre important de l'equipe qui contribue à notre succes collectif. Nos membres ont la flexibilite requise pour avoir un equilibre entre le travail et leur vie privee, tout en menant une carriere enrichissante.
+
+Nous offrons un environnement de travail motivant. La diversite des projets, la grande autonomie et l’interaction directe avec les clients sont appreciees. Une telle proximite est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre equipe et les clients.
+
+AVANTAGES
+
+Du teletravail et de la flexibilite pour s’adapter à vos obligations familiales
+
+Une culture entrepreneuriale favorisant la creativite et l'innovation
+
+Horaires flexibles (selon le type de contrat de travail)
+
+Conges en cas de maladie et à l'occasion d'evenements familiaux
+
+Outils informatiques adaptes
+
+Espace de travail epanouissant et motivant
+
+Initiatives sociales et environnementales
+
+Programme d’apprentissage en milieu de travail
+
+Cheminement de carriere
+
+SALAIRE
+
+Le salaire sera calcule sur la base du taux horaire moyen correspondant à votre profil.
+Show more

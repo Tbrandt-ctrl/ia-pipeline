@@ -1,0 +1,24 @@
+Logient est à la recherche d'un Développeur embarqué C++ pour l'un de nos clients. 
+
+L'Ingénieur en logiciel embarqué développera des logiciels-micrologiciels embarqués pour des contrôles et des relais de protection en temps réel de haute performance utilisés pour des applications de réseau intelligent dans l'industrie de la distribution d'énergie électrique. L'Ingénieur en logiciel embarqué collaborera avec d'autres ingénieurs en logiciel embarqué et avec l'ingénierie des systèmes, l'ingénierie du matériel et l'assurance qualité pour concevoir et mettre en œuvre des fonctionnalités pour les produits de distribution d'électricité.
+
+Fonctions Essentielles
+
+Mettre en œuvre des fonctionnalités pour les dispositifs électroniques intelligents des systèmes d'alimentation, notamment les algorithmes de protection des systèmes d'alimentation, les diagnostics-pronostics des systèmes, les protocoles de communication, la cybersécurité et d'autres relais, les fonctions de contrôle et de surveillance en utilisant C - C++ sur divers systèmes d'exploitation (Linux, Green Hills Integrity, Zephyr, FreeRTOS) et microprocesseurs.
+Travailler avec les responsables fonctionnels, l'ingénierie des systèmes et les ingénieurs en logiciel embarqué pour distiller les exigences et les cas d'utilisation du produit-système en conceptions-stories de micrologiciels, en développant du code au niveau du module et du système et des tests unitaires.
+Participer aux tâches liées au développement de nouveaux produits, y compris la planification, l'estimation des tâches-story, la conception, la programmation, les tests unitaires, l'examen par les pairs, l'intégration et la diffusion.
+Concevoir et mettre en œuvre les tests unitaires à l'appui des activités de test des Développeurs et de l'intégration avec les pipelines d'intégration continue (IC).
+Participer et diriger les revues de conception et de code
+Planifier et exécuter des tâches en collaboration avec l'équipe de projet afin de garantir l'atteinte des objectifs.
+
+Qualifications
+
+Baccalauréat d'une institution accréditée en ingénierie, en technologie de l'information ou en informatique.
+Expérience de stage ou de coopération dans le domaine des logiciels embarqués.
+Expérience de développement en utilisant C - C++ ou d'autres langages de programmation.
+Familiarité avec Linux et les environnements virtualisés
+Compréhension de l'utilisation de systèmes utilisant des protocoles réseau tels que Serial, TCP-IP, Ethernet, SPI, I2C.
+Connaissance des principes de conception orientée objet (OOD), du codage sécurisé et des meilleures pratiques en matière de cybersécurité.
+Modélisation des conceptions à l'aide d'UML ou de méthodologies similaires, le cas échéant.
+Familiarité avec les concepts Agile Scrum
+Expérience de l'utilisation d'outils de gestion du SDLC dans un environnement d'équipe (par exemple, Jira, Git, etc.).

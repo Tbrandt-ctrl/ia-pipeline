@@ -1,0 +1,69 @@
+TEHORA est presentement � la recherche d’un(e) Programmeur Orace ou .Net ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre � profit ses competences au sein d’une equipe polyvalente.
+
+Sans être exhaustifs, voici les services et livrables que devront fournir la personne retenue.
+
+Description des travaux ou des biens livrables :
+
+Implantation, developpement et configuration de l’application Dynamics en conformite avec la documentation d’analyse ;
+Developpement de plug-in, web ressources, etc. au moyen de JavaScript, C#, et autres mecanismes standards de developpement Dynamics ;
+Creation de formulaires electroniques avec le module Power Portals ;
+Creation, developpement et support des migrations de donnees (via SSIS ou outil similaire), integrations et interfaces avec les systèmes en place, experience de Power Automate ;
+Creation et maintien de tests (unitaires, smoke tests, etc.) ainsi que l’automatisation des processus de test et de deploiement ;
+Production de documentation technique ;
+Realisation de modifications dans l’application, en suivant les procedures de gestion du changement et assister dans la transformation des besoins d’affaires ;
+Assistance dans l’analyse des besoins et proposer des solutions d’affaires complexes ;
+Participation � l’estimation de tâches technique complexe ;
+Configuration et utilisation des outils de gestion de code et de deploiement (ex. Jira, Azure DevOps, etc.).
+
+
+Requirements
+
+Cumuler un minimum de trois (3) ans d’experience en programmation dans la technologie visee (specifiee dans la demande d’intervention) ;
+Avoir participe � au moins un (1) mandat dans un environnement technologique comparable � celui du Tribunal en tant qu’analyste fonctionnel au cours des deux (2) annees precedant la demande d’intervention ;
+Avoir participe activement en tant que programmeur dans la technologie visee � au moins deux (2) mandats d’une envergure minimale de 1500 j-p au cours des cinq (5) annees precedant la demande d’intervention.
+
+
+LIEU DE TRAVAIL
+
+Le lieu de travail sera determine selon le mandat, il peut être en tele travail ou chez le client.
+
+Benefits
+
+POURQUOI SE JOINDRE À TEHORA?
+
+TEHORA est une firme quebecoise multidisciplinaire reconnue pour l'excellence de ses services professionnels, de nature technique et de gestion de projets � l'echelle nationale et internationale. Notre mission est d'accompagner nos clients dans la concretisation de leurs projets par l'excellence de notre savoir-faire et de notre creativite.
+
+Depuis sa creation en 2017, notre equipe de professionnels connait une croissance exponentielle en repondant aux besoins importants en gestion de projets multidisciplinaires, dans le domaine des transports, du genie civil, du TI et plus.
+
+Nos collaborateurs travaillent sur des mandats aussi bien � l’interne que chez des clients d’envergures.
+
+TEHORA se distingue par sa culture d’entreprise, axee sur le bonheur de ses employes et la diversite.
+
+Chez TEHORA, chaque collaborateur est un membre important de l'equipe qui contribue � notre succès collectif. Nos membres ont la flexibilite requise pour avoir un equilibre entre le travail et leur vie privee, tout en menant une carrière enrichissante.
+
+Nous offrons un environnement de travail motivant. La diversite des projets, la grande autonomie et l’interaction directe avec les clients sont appreciees. Une telle proximite est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre equipe et les clients.
+
+AVANTAGES
+
+Du teletravail et de la flexibilite pour s’adapter � vos obligations familiales
+
+Une culture entrepreneuriale favorisant la creativite et l'innovation
+
+Horaires flexibles (selon le type de contrat de travail)
+
+Conges en cas de maladie et � l'occasion d'evenements familiaux
+
+Outils informatiques adaptes
+
+Espace de travail epanouissant et motivant
+
+Initiatives sociales et environnementales
+
+Programme d’apprentissage en milieu de travail
+
+Cheminement de carrière
+
+SALAIRE
+
+Le salaire sera calcule sur la base du taux horaire moyen correspondant � votre profil.
+

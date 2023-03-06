@@ -1,0 +1,36 @@
+TEHORA est actuellement à la recherche d'un programmeur-analyste .Net possédant d'excellentes aptitudes techniques, des connaissances approfondies et qui souhaite mettre à profit ses compétences dans une équipe polyvalente.
+
+Principales Responsabilités :
+- Concevoir, documenter, développer, déployer et supporter de nouvelles applications-KPI-rapports (SQL) en utilisant un framework web (Logi) ;
+- Concevoir, documenter, développer, déployer et supporter de nouvelles applications-DLL en .NET (C#, ASP) et Stored Proc. sur SQL Server ;
+- Concevoir, documenter, développer, déployer et supporter de nouveaux mappings d'interfaces EDI avec divers clients-partenaires ;
+- Concevoir, documenter, développer, déployer et supporter de nouvelles bases de données et maintenir celles existantes (SQL Server, DB2-400) ;
+- Fournir des estimations en termes d'effort et de coûts pour la planification des projets TI ;
+- Créer et exécuter des scénarios de tests d'acceptation client ;
+- Fournir un support-résolution de problèmes ;
+- Bien documenter le fonctionnel et la technique des travaux livrés ;
+- Bien comprendre les différentes sources de données ;
+
+Exigences :
+- Baccalauréat en génie logiciel, informatique ou équivalent ;
+- 3+ ans d'expérience en programmation .Net ;
+- Très bonne connaissance de SQL (Microsoft SQL Server 2005-2008-2012) ;
+- Maîtrise de la programmation (SQL, C#) ;
+- Capacité à comprendre, décrire, traduire et documenter les besoins des utilisateurs en langage informatique (analyse fonctionnelle) ;
+- Connaissances en procédures stockées et Performance Tuning ;
+- Forte capacité à travailler en équipe ;
+- Excellent sens du détail et de la précision ;
+- Autonome et polyvalent ;
+- Flexibilité concernant l'horaire de travail pour supporter les échanges en cas de problème ;
+- Excellentes aptitudes de communication - bilinguisme atout important ;
+- Expérience avec un Framework WEB ;
+- Connaissances AS400 ;
+- Connaissances EDI (format X12, EDIFACT, protocole AS2, VAN).
+
+Avantages :
+- TEHORA applique un programme d’accès à l’égalité et invite les femmes, les minorités visibles, les Autochtones et les personnes handicapées à présenter leur candidature.
+- Le lieu de travail est hybride : en télétravail et sur site.
+- TEHORA se distingue par sa culture d’entreprise, axée sur le bonheur de ses employés et la diversité. Chez TEHORA, chaque collaborateur est un membre important de l'équipe qui contribue à notre succès collectif. Nos membres ont la flexibilité requise pour avoir un équilibre entre le travail et leur vie privée, tout en menant une carrière enrichissante.
+- Nous offrons un environnement de travail motivant. La diversité des projets, la grande autonomie et l’interaction directe avec les clients sont appréciées. Une telle proximité est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre équipe et les clients.
+- Du télétravail et de la flexibilité pour s'adapter à vos obligations familiales ;
+- Un programme d

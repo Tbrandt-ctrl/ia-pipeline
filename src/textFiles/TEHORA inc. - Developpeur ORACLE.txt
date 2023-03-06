@@ -1,0 +1,54 @@
+TEHORA est presentement à la recherche d’un collaborateur Developpeur ORACLE ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses competences au sein d’une equipe polyvalente.
+
+Principales Responsabilites
+
+Proceder à la realisation technique, notamment la programmation des unites de tâches ou des modules (principalement avec APEX);
+Faire des procedures, des fonctions, des packages, etc. à l’aide de PL-SQL Developer ;
+Participer à la programmation dans le cadre des travaux de la migration Oracle de la version 10g à 19c;
+Realiser les essais unitaires des programmes informatiques à partir des specifications fournies par les analystes fonctionnels;
+Supporter les analystes dans le cadre des essais fonctionnels;
+Supporter les utilisateurs dans le cadre des essais d’acceptation;
+Effectuer le transfert de connaissance.
+
+
+Requirements
+
+Posseder trois (3) ans d’ex­perience en TI à titre de pro­grammeur avec une bonne maitrise de APEX
+Avoir un DEC en technologies de l’information
+Faire preuve d’une grande capacite d’autonomie ;
+Avoir une maîtrise des bonnes pratiques courantes en matiere de programmation ;
+Faire preuve de creativite et d’adaptabilite lors de recherche de solutions ;
+Connaissance des outils de developpement en APEX, PL-SQL, Oracle versions 10 et +, BIRT Reporting, Oracle Forms et Reports, REACT, JAVASCRIPT, PHP.
+
+
+TEHORA applique un programme d’acces à l’egalite et invite les femmes, les minorites visibles, les Autochtones et les personnes handicapees à presenter leur candidature.
+
+Benefits
+
+Lieu de travail
+
+Le lieu de travail est hybride: en tele-travail et sur site.
+
+Pourquoi se joindre à TEHORA ?
+
+TEHORA se distingue par sa culture d’entreprise, axee sur le bonheur de ses employes et la diversite. Chez TEHORA, chaque collaborateur est un membre important de l'equipe qui contribue à notre succes collectif. Nos membres ont la flexibilite requise pour avoir un equilibre entre le travail et leur vie privee, tout en menant une carriere enrichissante.
+
+Nous offrons un environnement de travail motivant. La diversite des projets, la grande autonomie et l’interaction directe avec les clients sont appreciees. Une telle proximite est possible en raison de notre structure organisationnelle horizontale, qui se traduit par des relations de confiance et une communication efficace entre notre equipe et les clients.
+
+Avantages
+
+Du teletravail et de la flexibilite pour s’adapter à vos obligations familiales
+Un programme d’assurance collective complete
+Un REER collectif avec une contribution de l’employeur
+Couverture d'assurance collective flexible
+Conges en cas de maladie et à l'occasion d'evenements familiaux
+Outils informatiques adaptes
+Espace de travail epanouissant et motivant.
+Initiatives sociales et environnementales
+Programme d’apprentissage en milieu de travail
+
+
+Salaire
+
+Le salaire sera calculer sur la base du taux horaire moyen correspondant à votre profil.
+Daha fazla göster

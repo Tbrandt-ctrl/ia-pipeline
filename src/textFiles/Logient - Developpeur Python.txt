@@ -1,0 +1,48 @@
+Titre : Developpeur Python
+
+Logient est à la recherche de son prochain Developpeur Python pour l'un de nos client oeuvrant dans le secteur de la securite.
+
+Responsabilites liees au poste
+
+Participer et contribuer aux discussions ayant pour objectif d’assurer le developpement de solutions techniques de qualite superieure et qui conviennent aux exigences d’affaires de nos clients ;
+Participer à toutes les phases de developpement de solutions Python, notamment la conception, le developpement, le debogage, les tests unitaires, la maintenance et l’evolution de divers projets ;
+Preparer la documentation technique pour le deploiement et le soutien d’applications ;
+Effectuer une veille technologique continue.
+Les competences requises :
+
+Python
+API REST
+Postgresql (SQL)
+Javascript
+Git
+Les competences appreciees :
+
+Experience avec Flask (ou Django)
+Experience avec la librairie Polymer
+
+________________________________________________________
+
+Title: Python Developer
+
+Logient is looking for the next Python Developer for one of our clients in the security industry.
+
+Job Responsibilities
+
+Participate in and contribute to discussions aimed at ensuring the development of high quality technical solutions that meet the business requirements of our clients;
+Participate in all phases of Python solution development, including design, development, debugging, unit testing, maintenance and evolution of various projects;
+Prepare technical documentation for application deployment and support;
+Conduct ongoing technology watch.
+
+Required Skills
+
+Python
+REST API
+Postgresql (SQL)
+Javascript
+Git
+
+Valued Skills
+
+Experience with Flask (or Django)
+Experience with the Polymer library
+और दिखाएं

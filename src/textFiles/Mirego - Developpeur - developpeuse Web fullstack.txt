@@ -1,0 +1,119 @@
+En tant que Developpeur
+
+
+
+
+euse web fullstack chez Mirego, tu travailles chaque jour à creer des produits numeriques innovants qui ont pour ambition de changer le monde, à petite ou grande echelle. Tu n’as pas peur des defis et tu es toujours à l’affût des dernieres nouveautes en matiere de developpement. Tu eprouves une grande fierte à livrer d’excellents produits et services; c’est pourquoi tu aimes t’entourer des meilleurs afin de toujours en apprendre davantage
+
+
+
+
+
+TES FUTURS ACCOMPLISSEMENTS
+
+
+
+
+Informer et divertir via les applications de Bell Fibe TV et les applications de TV5Unis;
+Alimenter la passion des fans de hockey via l’application du Canadien de Montreal;
+Repenser l’epicerie via les applications de Sobeys-IGA;
+Donner acces à un medecin 24-7 via l’application de telemedecine Olive;
+Planifier et simplifier des sorties en motoneige via l’application BRP GO! de BRP;
+Faciliter la recherche et la decouverte de vins et spiritueux via l’application de la SAQ;
+Assurer un service d’information regionale via l’ecosysteme de journaux numeriques de CN2i-Omerlo;
+Bâtir la pharmacie de demain via l’ecosysteme de Familiprix
+
+
+TON QUOTIDIEN
+
+
+
+
+Tu collabores à la conception et à la realisation d’applications Web et de services Cloud Native de calibre mondial;
+Tu participes aux ceremonies agiles et tu as ton mot à dire sur l’evolution des produits, peu importe ton rele dans l’equipe;
+Tu enrichis l’equipe avec tes connaissances;
+Tu contribues à creer des experiences utilisateurs exceptionnelles
+
+
+CE QU'IL TE FAUT
+
+
+
+
+Tu es passionne
+e et toujours oriente
+e vers les resultats;
+Tu es capable d’evaluer et gerer les priorites et tu as une bonne capacite à analyser et comprendre les situations;
+Tu es curieux.se et tu as dejà saisi l'importance des langages fonctionnels tel qu’Elixir;
+Tu as une bonne connaissance (ou pas, en autant que tu veuilles apprendre!) d’un ou plusieurs des langages et frameworks suivants : TypeScript, Elixir, Ruby, Java, Kotlin, Ember.js, React ou Vue.js;
+Tu possedes une expertise avec les services Web REST ou GraphQL et des connaissances sur les outils modernes de deploiement (ex: Docker, Terraform ou Kubernetes) ainsi que des principes DevOps;
+Tu as la volonte de bâtir des produits et services de haute qualite;
+Tu es autonome et proactif
+ve;
+Ton savoir-faire et ton savoir-être contribuent à rendre l’equipe meilleure;
+Tu as un minimum d’experience en developpement logiciel;
+Tu as une connaissance approfondie des concepts fondamentaux de design, de developpement oriente objet (ou de developpement fonctionnel!) et tu as un interêt pour la programmation reactive
+
+
+Full Stack Web Developer
+
+
+
+
+As a full stack web developer at Mirego, your daily work is to create innovative applications that have the ambition to change the world, on a small or large scale. Challenges do not scare you. You’re always one step ahead on the latest trends. You take great pride in delivering excellent products and services and that’s why you want to be around the best, so you can always learn more.
+
+
+
+
+YOUR FUTURE ACCOMPLISHMENTS
+
+
+
+
+Inform and entertain via the Bell Fibe TV apps and the TV5Unis apps
+Fuel the passion of hockey fans via the Montreal Canadiens app
+Rethink grocery shopping via the Sobeys-IGA apps
+Provide 24-7 access to a doctor via the Olive telemedicine app
+Plan and simplify snowmobile outings via BRP’s BRP GO! app
+Facilitate the search and discovery of wines and spirits via the SAQ app
+Provide a regional news service via CN2i-Omerlo’s digital newspaper ecosystem
+Build the pharmacy of tomorrow via the Familiprix ecosystem
+
+
+
+
+
+YOUR DAY-TO-DAY
+
+
+
+
+Collaborate on the design and development of world-class web applications and cloud native services
+Participate in agile ceremonies and contribute to product evolution, regardless of your role on the team
+Make the team stronger through sharing your knowledge
+Help create exceptional user experiences
+
+
+
+
+
+What You Need
+
+
+
+
+You need to be comfortable in French since we have a predominantly French speaking work environment
+You’re passionate and always committed to results
+You can assess and manage priorities
+You demonstrate a good ability to analyze and understand situations
+You’re curious and aware that functional languages such as Elixir are important enablers
+Good knowledge of one or more of the following languages and frameworks: TypeScript, Elixir, Ruby, Java, Kotlin, Ember.js, React or Vue.js —and if not, being strongly motivated to learn them
+Expertise with REST or GraphQL web services and knowledge of modern deployment tools (e.g., Docker, Terraform or Kubernetes) as well as of DevOps principles;
+A commitment to building high-quality products and services;
+Autonomy and proactivity
+The expertise and people skills that help make the team better;
+A minimum of experience in software development;
+A deep understanding of fundamental design concepts, object-oriented development (or functional development!) and an interest in reactive programming
+
+
+Daha fazla göster

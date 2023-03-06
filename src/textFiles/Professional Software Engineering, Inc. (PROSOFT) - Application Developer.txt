@@ -1,0 +1,99 @@
+Position: Application Developer
+
+Location: Norfolk, VA 23551
+
+Req: 2022.39.3.17.02.03
+
+Salary: Competitive
+
+Task Description
+
+Develop SharePoint web parts, custom solutions, web site design, dashboards, and
+
+business intelligence reports.
+
+Develop custom applications that utilizes external and internal data sources with web
+
+front-end interfaces and backend databases.
+
+C onfigure Windows servers and related services and features.
+Implement information assurance security controls such as IAVA and STIG.
+Performs thorough code testing and error validation prior to deploying to production.
+Participates in the planning, documentation, design, meetings, development, review of
+
+custom SharePoint solutions and-or applications.
+
+Translates high-level business requirements into specific design by developing an effective
+
+and efficient prototyping and storyboard.
+
+Utilize SharePoint, Windows Servers, Microsoft SQL, Visual Studio, TFS, Virtualization (VMWare or Hyper-V),
+
+C#, Java Script, T-SQL, HTML, CSS, JSON, Visio, InfoPath, Designer, PowerShell and related technologies for
+
+application and solution development.
+
+Develop POAM for all projects and tasks using AGILE concepts and best practices.
+Develop application technical guides.
+Provide support and training to end users.
+Participate in regularly scheduled meetings to discuss projects, tasks, and requirements.
+Provide technical advice and recommendations such as best practices on current and trending technologies
+
+on its potential use and gain for the government.
+
+Qualification
+
+Education
+
+Bachelor Degree in Computer Science-Engineering or Assocate Degree in Computer
+
+Science With Additional 2 Years Of Experience.
+
+Experience:
+Six years of web application development and SharePoint custom solutions using
+
+C#, Java Script, HTML, T-SQL, .NET, CSS, JSON, Visio, Designer, PowerShell and related
+
+technologies.
+
+Six years of experience in the installation, configuration and management of Microsoft
+
+Servers, Microsoft IIS, Microsoft SQL, and Visual Studio.
+
+Proficient and in depth experience in data modeling, user interface and-or experience
+
+(UI-UX) design and implementation.
+
+Proficient and in depth experience using Microsoft Office and VBA.
+Proficiency and in-depth experience in using AGILE concepts and best practices.
+Proficiency and in-depth experience in implementing Security Technical Implementation
+
+Guide (STIG) and Information Assurance (IA) policies.
+
+Experience in writing technical manuals and use guides.
+Knowledge of current DON or DOD Information Assurance policies
+Certification
+Must maintain current CompTIA Security+ certification.
+Microsoft Certified Solutions Associate (MCSA) Web Applications Certification. MCSA certification
+
+must be one of the current published paths by Microsoft or follow-on certification with emphasis on
+
+the platform or system being supported in this PWS. Candidates who do not currently possess a Microsoft
+
+certification, but meet all other minimum requirments, may be considered for this position. If
+
+selected, the candidate will be required to obtain the required certification within 30 days.
+
+Security Clearance
+Must have an active TS-SCI Clearance
+
+All candidates selected will be subject to a background security investigation.
+
+Please visit our website, www.prosoft-eng.com for all up to date listings of all Open and Available positions.
+
+About Us: From our inception in 1984 to the present, we have had a single focus: to provide integrated solutions that exceed customer expectations in every performance area, by fostering an environment where PROSOFT employees continue to thrive. We are headquartered in Virginia Beach, VA, with technical engineering and administrative staff serving in locations worldwide. PROSOFT has an established reputation for providing our clients superlative support in four distinct areas of expertise: Program Management & Administrative Services, Systems & Software Engineering, Network & Infrastructure Engineering, and Training Development & Delivery.
+
+EEOC Information
+
+The recruitment, testing and hiring of all personnel will be without discrimination against any individual with regard to race, color, religion, gender, national origin, gender identity, disability, or protected veteran status. Attempts will be made to contact known sources of minority and women potential applicants so as to maximize the participation of such applicants.
+Show more

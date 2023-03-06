@@ -1,0 +1,36 @@
+Établi à St-Georges-de-Beauce depuis plus de 40 ans, notre client, une entreprise familiale offrant des produits et des services en électrotechnique industrielle pour les entreprises de l’Amérique du Nord et de l’Europe, est à la recherche d’un PROGRAMMEUR C#. 
+
+Le programmeur informatique aura à relever les défis suivants : 
+
+- Participer à l’analyse des besoins et à programmer des applications pour les clients locaux et internationaux. 
+- Effectuer la phase d’essai de sa programmation et apporter des solutions pour éliminer les bugs suite aux tests qualité. 
+- Former les clients sur les nouvelles fonctionnalités (à distance ou chez le client). 
+- Participer à l’optimisation des applications déjà en place. 
+- Documenter son travail afin de transférer ses connaissances et permettre aux utilisateurs de comprendre comment utiliser les systèmes programmés et leurs fonctionnalités. 
+- Lier des applications entre elles, améliorer les bases de données et générer des tableaux de bord, des rapports de production ou tout autre outil pour faciliter le travail des différents départements de l’entreprise.
+
+Profil recherché : 
+
+- Personne passionnée, ayant une attitude positive, ayant à cœur la satisfaction du client 
+- Forte aptitude à mener à terme ses mandats de façon rigoureuse et autonome 
+- Désir d’innovation et débrouillardise 
+- Facilité à transcrire les besoins des clients en idées concrètes
+
+Compétences recherchées : 
+
+- DEC ou BAC en informatique ou génie logiciel 
+- 1 à 3 années d’expérience en programmation 
+- Anglais fonctionnel (client anglophone) 
+- Savoir programmer en C#, ASP.net, SQL 
+- Être à l’aise pour former les clients à l’utilisation des interfaces programmées
+
+Ce que l’entreprise a à offrir : 
+
+- Salaire entre 60K$ et 80K$ selon l’expérience 
+- Télétravail possible 
+- Flexibilité d’horaire 
+- Possibilité de déplacement chez les clients 
+- Assurances collectives + REER 
+- PAE 
+- Programme de reconnaissance par les pairs 
+- Possibilité d’avancement

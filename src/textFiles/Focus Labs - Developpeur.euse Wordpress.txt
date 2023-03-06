@@ -1,0 +1,95 @@
+Donnee de l'entreprise
+
+
+
+
+Focus Labs est une societe qui oeuvre dans la creation d'applications web et de plateformes de publication personnalisees dirigees par des veterans du secteur, passionnes par la creation des meilleures solutions pour aider d'autres entreprises à reussir. Ils travaillent avec des clients à tous les stades du developpement et se specialisent dans l'aide à la monetisation de votre contenu numerique pour une rentabilite accrue.
+
+
+
+
+L'idee derriere Focus Labs est de permettre aux clients de creer leurs projets de façon iterative, permettant à ceux-ci d'evoluer au fur et à mesure de sa progression. Cela permet d'être flexible et modifiable en cas de besoin, tout en etant capable de repondre rapidement aux besoins de vos utilisateurs. La methodologie agile cree ce dont vous avez besoin au lieu d'essayer de predire ce dont vous aurez besoin.
+
+
+
+
+Donnee du poste
+
+
+
+
+Vous êtes un-e programmeur-e passionne-e qui rêve de faire partie d'une equipe de feu et de participer à des projets stimulants ? Le tout dans le confort de votre propre maison ? Si c'est le cas, cette offre est faite pour vous !
+
+
+
+
+Focus Labs est en pleine croissance et recherche activement 1 programmeur-euse Wordpress - Sage 10 et vuejs pour participer au developpement de divers projets et sites web.
+
+
+
+
+Poste à temps plein ou temps partiel, permanent.
+37,5 heures par semaine en teletravail.
+Entree en fonction immediate.
+
+
+
+
+Une journee typique chez nous :
+
+
+
+
+Concevoir, construire et maintenir des sites web.
+Travailler avec une equipe de Developpeurs competents qui s'engagent à offrir la meilleure experience à ses clients.
+Participer aux decisions relatives à l'architecture et à la priorisation des projets avec les autres membres de l'equipe.
+Travailler sur de nouveaux projets sur une base reguliere.
+Relever des defis !
+
+
+
+
+Les avantages de travailler avec nous :
+
+
+
+
+Horaire flexible.
+Projets stimulants avec des Developpeurs d’experience
+Vacances, jours feries et conges payes entre Noël et le jour de l’An
+Conciliation travail-famille ou travail-style de vie.
+Qualifications
+
+
+
+
+Ce que nous recherchons :
+
+
+
+
+Detenir au moins 2 ans d'experience professionnelle en tant que Developpeur Wordpress - Sage.
+Excellente connaissance de PHP 7 & 8
+Excellente connaissance du Javascript moderne Ecmascript 2015 +
+Experience avec Github, MySQL, Tailwindcss
+Avoir la capacite de concevoir, construire et gerer des sites web et ses composants.
+Être creatif-ve, passionne-e, debrouillard-e et proactif-ive.
+
+
+
+
+Informations complementaires
+
+
+
+
+Nous sommes impressionnes si vous connaissez aussi :
+
+
+
+
+Docker et l'invite de commande Linux.
+VueJS - AplineJS
+Laravel
+WooCommerce et Shopify
+Show more

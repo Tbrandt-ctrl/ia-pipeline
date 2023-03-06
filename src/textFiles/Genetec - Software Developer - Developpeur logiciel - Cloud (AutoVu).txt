@@ -1,0 +1,98 @@
+The team:
+
+You could be part of a software development team that works in collaboration with other teams to develop and maintain a cloud platform for a brand-new innovative product “Cloudrunner”.
+
+Cloudrunner is a cloud-based vehicle-centric investigation system that transports our many years of automatic license plate recognition (ALPR) experience into the cloud using state-of-the-art technologies.
+
+The Cloudrunner team works with other teams to deliver this end-to-end solution starting from the device up to the cloud. We are looking for a multidisciplinary candidate (full-stack) with a marked interest in backend development. You will be a full member of the team, and a regular contributor to the platform. We want you to succeed!
+
+What your day will look like:
+
+Support and participate in the development of secure and scalable applications in Azure
+Participate in architectural and design discussions and ensures that the team's objectives are met; scalability, security, compliance, monitoring, alerting, and reporting for Genetec Cloud Infrastructure and Services
+Conduct code reviews in order to increase the overall skill level of the team and the quality of the product
+Diagnose software problems and implement any required corrective measures while ensuring timely resolution and recovery of systems failure
+Foster a culture of continuous improvement and DevOps practices throughout Genetec
+
+
+About you:
+
+Bachelor's degree or College degree in Computer Science, Computer Engineering, or equivalent experience
+Strong knowledge and experience with C# and the .NET framework
+Knowledge of Web technologies such as Angular, Typescript, and CSS
+Experience with Azure DevOps
+Fluently bilingual in both French and English
+Strong analytical and troubleshooting skills
+
+
+Great if you have:
+
+Experience with scaling high throughout real time systems
+Good knowledge and experience with Microsoft Azure
+Experience with microservices & containerization
+
+
+Let's talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Flexible working schedule including hybrid working environment
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L’equipe :
+
+Vous avez l’occasion de faire partie d’une equipe de developpement de logiciels qui collabore avec d’autres equipes afin de developper et de maintenir une plateforme infonuagique pour un tout nouveau produit novateur « Cloudrunner. »
+
+Cloudrunner est un système d’enquête infonuagique centre sur les vehicules qui transfère, � l’aide de technologies de pointe, nos nombreuses annees d’experience en matière de reconnaissance automatique des plaques d’immatriculation dans le nuage.
+
+L’equipe de Cloudrunner collabore avec d’autres equipes pour offrir cette solution de bout en bout, du dispositif jusqu’au nuage. Nous sommes � la recherche d’un candidat multidisciplinaire (generaliste) qui travaillerait pour un marche visant le developpement d’applications dorsales. Vous êtes appele � devenir un membre � part entière de l’equipe qui contribue regulièrement � la plateforme. Nous voulons que vous reussissiez!
+
+À quoi ressemblera votre journee :
+
+Participer au developpement d’applications securisees et evolutives dans Azure
+Participer aux discussions portant sur l’architecture et la conception et veiller � ce que l’equipe atteigne ses objectifs en assurant la securite, la conformite et la surveillance de l’infrastructure de Genetec et en procedant � l’alerte et au signalement de tout problème pour les services et l’infrastructure infonuagiques de Genetec
+Effectuer des revues de code afin d’ameliorer le niveau de competence de l’equipe et la qualite du produit
+Faire le diagnostic de problèmes logiciels et mettre en œuvre des mesures correctives tout en resolvant les defaillances des systèmes et veillant � ce qu’ils soient remis en etat le plus rapidement possible
+Favoriser une culture d’amelioration continue et de pratiques de developpement et d’exploitation (DevOps) au sein de Genetec
+
+
+Votre profil :
+
+Baccalaureat en genie logiciel, sciences informatiques ou une experience equivalente
+Solides connaissances et experience avec C# et le framework .NET
+Connaissance des technologies Web telles que Angular, Typescript et CSS
+Experience avec Azure DevOps
+Aptitudes de communication bilingue (anglais et français)
+Forte capacite d’analyse et de depannage
+
+
+Encore mieux si vous possedez ces atouts :
+
+Experience en deploiement, surveillance et gestion de ressources informatiques � grande echelle
+Bonnes connaissances et experience avec Microsoft Azure
+Experience avec les microservices et la containeurization
+
+
+Voil� ce que nous offrons !
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes � notre incroyable Bistro (Les Cordons Bleus)-Des cours de cuisine virtuels
+Équilibre entre vie professionnelle et vie privee grâce � un horaire de travail flexible et environnement de travail hybride
+Cafe gratuit � volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place-Des cours d'exercices virtuels
+
+
+Si vous souhaitez savoir � quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise : Culture � Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises � soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+عرض المزيد

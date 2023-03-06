@@ -1,0 +1,32 @@
+À PROPOS DE NOUS
+
+Nous sommes unis par la passion, venant de tous horizons. Chaque nouveau projet est une page blanche qui attend la créativité et le talent de chacun, quel que soit le rôle, les responsabilités ou les compétences. Avoir le goût d'inventer, d'essayer, d'échouer pour recommencer et d'apprender des autres nous permet de participer collectivement à des projets plus grands que nous. Grâce à une équipe de 350 créatifs, nous avons la chance de créer des environnements multimédia immersifs pour des artistes, des musées, des aéroports, des marques, des parcs thématiques ou des événements, en plus de nos spectacles signature. Quel que soit le canevas, la soif d'expérimenter et d'innover en vidéo, en éclairage, en architecture multimédia, en design sonore, en effets spéciaux et en interactivité est au cœur de notre ADN.
+
+TON ÉQUIPE
+
+Notre équipe diversifiée de systèmes opère au cœur du département interactif. Tu te joindras à notre équipe multidisciplinaire composée de développeurs de différents horizons : Front-end, Back-end, Micro-contrôleurs, Ingénieurs, Musiciens, Autodidactes. Nous sommes essentiels dans la liaison entre les différents systèmes et départements au sein de Moment Factory. Notre petite équipe tissée serrée apprécie l'entraide et le partage des connaissances. Nous apprécions également la compagnie de nos collègues lors de nos activités sociales et sportives. Bien que nous soyons tous des développeurs, nous avons également une grande affinité pour les arts, la musique et l'interactivité.
+
+TA MISSION
+
+Dans ton rôle de développeur système, tu devras trouver des solutions innovantes pour soutenir nos installations immersives. Tu travailleras sur des projets variés, dont la durée et les échéanciers varieront. Tu seras en collaboration avec les architectes logiciels et les autres développeurs afin de déterminer l'orientation technique à suivre.
+
+FONCTIONS ET RESPONSABILITÉS
+
+- Programmer des solutions event driven pour les projets ;
+- Trouver et explorer de nouvelles librairies nécessaires à la bonne réalisation des projets ;
+- Interfacer du matériel (capteurs, appareils) avec nos solutions logicielles ;
+- Interfacer les projets avec des sources de données externes (APIs, bases de données) ;
+- Comprendre les différents protocoles multimédia utilisés dans l'industrie ;
+- Prototyper des preuves de concept ;
+- S'assurer de la qualité de son travail à l'aide de tests unitaires et fonctionnels ;
+- Programmer des plateformes embarquées (Raspberry PI, micro-contrôleurs) ;
+- Déployer son code de manière efficace avec nos solutions d'intégration continue (Gitlab, Balena, Docker).
+
+EST-CE QUE TON PARCOURS CONTIENT…
+
+- Une expérience en contexte professionnel d'au moins 4 ans ;
+- Connaissance de Node.JS et/ou JavaScript ;
+- Connaissance de Git ;
+- Connaissance ou intérêt à l'apprentissage de Node-RED ;
+- Connaissance de Linux, Windows ;
+- Connaissance ou intérêt à l'apprentissage de Docker

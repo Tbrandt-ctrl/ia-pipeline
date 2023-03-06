@@ -1,0 +1,106 @@
+The team:
+
+Genetec’s core UI team is growing and we are currently looking for a Mobile Developer! We need a motivated, passionate and resourceful person who is not afraid of a challenge. We are responsible for the UI (not just buttons and colors) of an enterprise level software system with millions of lines of code and a mobile application used worldwide that is in constant evolution.
+
+So why do you want to work on our team?
+
+Because you’re passionate about serious software development
+Because you want to work within a tight knit team of highly talented, highly technical people where your voice will be heard
+Because you want to use your unique mix of software development skill and creativity to build the front end on a world class mobile application
+Because you like the challenge of a varied, constantly changing work environment
+Because you like to share your knowledge and experience
+Because you want to be part of something important
+
+
+What your day will look like:
+
+Development of a mobile platform for Android and iOS phones using Xamarin
+Development of the backend for the mobile platform in C#
+Full partnership in the product development lifecycle including user experience, design, development and maintenance
+Put your strong understanding of object-oriented programming to use to design, build and maintain efficient, reusable and reliable code
+
+
+About you:
+
+Bachelor’s degree in Computer Engineering, Software Engineering or Computer Science
+Minimum of 2 years of experience in a similar role
+Someone who is motivated by a fast-paced, changing environment and enjoys the challenge of new and unfamiliar tasks
+Someone who works well in teams and thrives on collaboration
+Good understanding of SOLID principle and TDD
+
+
+Technical Requirements:
+
+Excellent knowledge of programming in C#
+Experience with Visual Studio and basic concepts of software development (version management, code analysis, unit testing)
+Mobile development experience
+
+
+Let's talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L'equipe:
+
+L’equipe UI de Genetec est en pleine expansion et nous sommes actuellement à la recherche d’un Developpeur mobile! Le titulaire du poste doit être motive, passionne, debrouillard et enthousiaste à l’idee de relever des defis. Nous sommes responsables de gerer l’interface utilisateur (et pas seulement les boutons et les couleurs) d’un systeme logiciel entreprise qui comprend des millions de lignes de code, ainsi que d’une application mobile en constante evolution et utilisee partout dans le monde.
+
+Pourquoi voudriez-vous faire partie de notre equipe?
+
+Parce que vous êtes passionne du developpement de logiciels puissants et complexes
+Parce que vous desirez travailler au sein d’une equipe tissee serree composee d’experts techniques tres talentueux qui vont ecouter vos suggestions
+Parce que vous souhaitez mettre à profit votre combinaison unique de creativite et de competences en developpement de logiciels pour concevoir l’application mobile d’un systeme de calibre mondial
+Parce que vous recherchez un environnement de travail diversifie et stimulant
+Parce que vous desirez partager vos connaissances et votre experience
+Parce que vous desirez contribuer à quelque chose de grand
+
+
+À quoi ressemblera votre journee:
+
+Developpement d’une plateforme mobile pour iOS et Android utilisant Xamarin
+Developpement du backend pour supporter la plateforme mobile en C#
+Pleine participation à l’ensemble du cycle de developpement du produit, y compris l’experience utilisateur, la conception, le developpement et la maintenance
+Mettre à profit votre solide comprehension de la programmation orientee-objet pour concevoir, creer et maintenir un code efficace, reutilisable et fiable
+
+
+Votre profil:
+
+Baccalaureat en genie informatique, en genie logiciel ou en sciences informatiques
+Minimum de 2 ans d’experience dans un poste similaire
+Desir de travailler dans un environnement au rythme rapide et en constante evolution, et de relever de nouveaux defis en effectuant de nouvelles tâches
+Esprit d’equipe et axe sur la collaboration
+Bonne comprehension des principes SOLID et du TDD
+
+
+Expertise technique:
+
+Connaissance approfondie de la programmation C#
+Experience avec Visual Studio et connaissance des concepts de base en developpement de logiciels (gestion de versions, analyse de code, test unitaire)
+Experience en developpement d’applications mobiles
+
+
+Voilà ce que nous offrons!
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes à notre incroyable Bistro (Les Cordons Bleus)
+Équilibre entre vie professionnelle et vie privee grâce à un horaire de travail flexible
+Cafe gratuit à volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place
+
+
+Si vous souhaitez savoir à quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise : Culture à Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises à soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+Daha fazla göster

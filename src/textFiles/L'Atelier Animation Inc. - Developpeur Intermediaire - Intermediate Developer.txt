@@ -1,0 +1,202 @@
+Donnee de l’entreprise:
+
+
+
+
+L’Atelier Animation est un studio specialise dans la fabrication de series et de longs metrages d'animation en images de synthese.
+
+
+
+
+Établie à Montreal depuis 2012, l'Atelier se demarque par le choix de ses projets d'envergure et par son infrastructure technologique en constante amelioration.
+
+
+
+
+Veritable lieu de creativite, le studio privilegie le talent et l'audace en s'entourant d'artistes, de techniciens et de gestionnaires passionnes.
+
+
+
+
+Donnee du poste :
+
+
+
+
+Sous la supervision du Directeur R&D, le Developpeur est responsable de creer et maintenir les librairies necessaires à notre pipeline et nos outils.
+
+
+
+
+Le poste requiert de solides competences en developpement de pipeline avec une capacite à elaborer du code efficace, robuste, facile à maintenir et facile pour les utilisateurs.
+
+
+
+
+Responsabilites :
+
+
+
+
+Developper, creer et soutenir de nouveaux flux de travail ainsi que ceux dejà existants.
+Optimiser, entretenir et moderniser le pipeline du studio en developpant et en maintenant un code efficace.
+Coder, deployer, tester, maintenir et documenter les API et l’infrastructure.
+Aider à depanner, analyser et reparer les problematiques des outils de pipeline - front-end existants.
+Modifier et prolonger l’existence des outils de pipeline afin qu’ils prennent en charge les nouveaux flux de travail, conception de nouveaux systemes ou optimisation des fonctionnalites existantes.
+Maintenir une bonne entente et une bonne dynamique d’equipe.
+
+
+
+
+Competences exigees :
+
+
+
+
+3+ ans d'experience souhaitee.
+De solides competences en programmation Python sont requises.
+Familier avec les differents DCC-logiciels utilises dans l’industrie (Maya, Nuke, etc).
+Connaissance de Qt-PySide est un plus.
+Une connaissance des tests logiciels (par exemple: tests unitaires, tests d'integration, etc.) est un plus.
+Excellentes competences en matiere de depannage et de debogage.
+Capacite averee à travailler de façon autonome et en equipe.
+Proactif, tres motive et desireux de travailler avec les dernieres technologies.
+Bonne connaissance pratique de Linux, de preference.
+Connaissance d'Autodesk ShotGrid et experience en programmation est un plus.
+L'orientation professionnelle vers l'industrie des effets visuels est un plus.
+Capacite et interêt à acquerir de nouvelles competences de maniere autonome hautement souhaites.
+Connaissance du langage de programmation C++ est un plus.
+Maîtrise du français et-ou de l'anglais, parle et ecrit.
+
+
+
+
+Titre du poste: Developpeur Intermediaire
+
+
+
+
+Statut: Temps plein permanent
+
+
+
+
+Lieu de travail: Montreal
+
+
+
+
+Entree en poste : ASAP
+
+
+
+
+Salaire annuel: En fonction de l’experience
+
+
+
+
+Company Donnee:
+
+
+
+
+L’Atelier Animation is an animation studio that specializes in the creation of 3D feature films and television series.
+
+
+
+
+Founded in Montreal in 2012, L'Atelier has distinguished itself by its choice of highly creative projects to work on and its constantly evolving technological infrastructure.
+
+
+
+
+At its core, L'Atelier is a place of creativity, and the studio prides itself on the talent and audacity of all its passionate artists, technicians and managers.
+
+
+
+
+Job Donnee :
+
+
+
+
+Under the supervision of the Head of R&D, the Developer is responsible for creating and maintaining the necessary libraries for our pipeline and tools.
+
+
+
+
+This position requires strong knowledge in pipeline development with the ability to elaborate an efficient, solid, user-friendly and easy-to-maintain code base.
+
+
+
+
+Responsibilities :
+
+
+
+
+Develop, create and support new and existing pipeline initiatives and workflows.
+Optimize, keep relevant and modernize the studio's pipeline by writing and maintaining efficient code.
+Code, deploy, test, maintain and document new and existing APIs and frameworks.
+Help troubleshoot, analyze and repair issues in current pipeline-front-end tools.
+Modify and extend existing pipeline tools to accommodate new workflows, take better advantage of new systems or optimize existing functionality.
+
+
+
+
+Qualifications :
+
+
+
+
+3+ years experience.
+Strong Python programming skills are required.
+Familiar with the different DDC-software used in the industry (ex. Maya, Nuke, etc.)
+Qt-PySide knowledge is a plus.
+Familiarity with software testing (e.g. unit testing, integration testing, etc) is a plus.
+Excellent troubleshooting and debugging skills.
+Proven ability to work independently and in a team setting.
+Proactive, highly motivated and eager to work with the latest technologies.
+Strong working knowledge of Linux is preferred.
+Autodesk ShotGrid knowledge and programming experience is a plus.
+Career focus for the visual effects industry is a must.
+Ability and interest in learning new skills autonomously are highly desired.
+Knowledge of the C++ programming language is a plus.
+Proficient in French and-or English, spoken and written.
+
+
+
+
+Job Title: Intermediate Developer
+
+
+
+
+Status: Full-time, permanent
+
+
+
+
+Place of work: Montreal
+
+
+
+
+Start date: ASAP
+
+
+
+
+Annual Salary: Experience-based
+
+
+
+
+Powered by JazzHR
+
+
+
+
+duiYR7Gpp5
+और दिखाएं

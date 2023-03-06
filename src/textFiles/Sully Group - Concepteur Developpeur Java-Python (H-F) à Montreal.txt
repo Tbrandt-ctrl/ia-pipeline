@@ -1,0 +1,34 @@
+Nous sommes à la recherche d’un Concepteur-Developpeur Java - Python pour une entreprise dans le domaine public situee à Montreal.
+
+Date de debut : ASAP
+Lieu de travail : presentiel 2 jours par semaine (variable selon les besoins du projet) à Montreal
+Semaine de travail : 40 h-semaine
+Langue de travail : français
+Vos missions
+
+Le concepteur-Developpeur Java viendra completer une equipe qui travaille sur plusieurs projets de developpement applicatif en cours, afin d’aider à securiser nos differents engagements à court et moyen terme.
+
+Les Responsabilites Seront Les Suivantes
+
+Agir comme concepteur-Developpeur Java-Python
+Effectuer le traitement des modeles mathematiques produits par le client
+Conseiller le projet dans les choix et decisions technologiques touchant les developpements.
+Analyser, concevoir et realiser (programmer) des solutions avec le langage Java et Python.
+Contribuer à l’amelioration continue des activites de developpement (agilite, assemblage du code, tests automatises, deploiement...)
+Parlons de vous
+
+Nous Recherchons Un Profil Senior (6 à 9 Ans D’experience) Avec Une Tres Bonne Connaissance Des Technologies Java, Spring MVC, Spring Boot, Python Et Une Bonne Connaissance D'outils Technologiques Parmi Les Suivants
+
+Messaging (JMS, AMQP), OpenShift, Kubernetes, Docker
+Base de donnees Oracle et SQL
+Securite : openID, certificats cle publique
+Swagger
+Outils de test : Mockito, Junit
+Outils de simulation (mocking): CastleMock, SoapUI, Postman
+Avoir une bonne connaissance des concepts de modelisations mathematiques
+Avoir une bonne connaissance des plateformes et solution d’integration
+Avoir une bonne connaissance de l'environnement de developpement SCRUM Agile.
+Avoir une bonne connaissance des principes et environnements DevOps
+Avoir une connaissance de l'application Jira et-ou Confluence, un atout
+Technologies-outils requis : Java 8+, Python, SQL, Spring 5, Spring Boot 2, Hibernate, Junit 4+, Maven, Mockito, GIT
+और दिखाएं

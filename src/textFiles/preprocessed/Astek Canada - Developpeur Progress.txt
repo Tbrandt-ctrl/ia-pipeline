@@ -1,0 +1,36 @@
+Astek Canada recherche un·e programmeur·euse Progress pour l'un de ses clients. Sous la responsabilité du chef de service, le·la développeur·euse travaille dans une structure matricielle. Il·elle fait partie de l'équipe évolution d'un domaine d'affaires spécifique et est également chargé·e de réaliser des projets dans une équipe de projets. Son mandat consiste à effectuer et/ou participer aux analyses, à effectuer le développement et le support des applications, tout en faisant le lien avec le client.
+
+
+RESPONSABILITÉS :
+
+• Coder selon les spécifications du document d'analyse ;
+• Participer ou rédiger des analyses selon les besoins ;
+• Effectuer les tests unitaires du système ;
+• Participer à la rédaction et à l'exécution des scénarios de tests intégrés du système ;
+• Rédiger, à l'occasion, la documentation fonctionnelle et technique ;
+• Participer à la mise en production ;
+• Assurer le suivi pendant la période post-implantation ;
+• Participer à la formation du personnel de support ;
+• Tenir à jour les procédures et la documentation des applications ;
+• Participer à définir les besoins (clients, analystes, etc.) ;
+• Suivre la méthodologie et les normes du bureau de projets ;
+• Assister le support niveau 3, selon les besoins ;
+• Participation obligatoire à l'équipe de support en dehors des heures normales de bureau (équipe en rotation).
+
+Exigences :
+
+• Détention d'un diplôme d'études collégiales ou d'un diplôme universitaire en informatique ;
+• Posséder au moins cinq (5) années d'expérience dans le développement de système, avec expérience à titre de développeur d'application ;
+• Posséder de l'expérience dans le commerce de détail et de la distribution (atout) ;
+• Maîtrise du langage de programmation Progress ;
+• Posséder de l'expérience avec GWT (Google WEB Tools), Java, .NET (atout) ;
+• Posséder de l'expérience avec Oracle (atout) ;
+• Posséder de l'expérience sur les technologies PL-SQL (atout) ;
+• Posséder un esprit d'équipe et de leadership ;
+• Posséder des capacités d'analyse et de synthèse ;
+• Avoir la capacité de vulgariser et de communiquer ses connaissances ;
+• Avoir la capacité de s'adapter facilement aux changements ;
+• Être à l'écoute des clients ;
+• Avoir le sens de l'organisation, du service et le souci de la qualité ;
+• Maîtriser la langue française (parlé et écrit) et être fonctionnel en anglais (parlé et écrit) ;
+• Posséder des connaissances pratiques des outils Microsoft Office.

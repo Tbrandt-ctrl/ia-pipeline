@@ -1,0 +1,25 @@
+Department Description: Oracle Cloud Infrastructure (OCI) combines the elasticity and utility of public cloud with the granular control, security, and predictability of on-premises infrastructure to deliver high-performance, high availability and cost-effective infrastructure services. Multiple compute options provide the flexibility to run the most demanding workloads, as well as less compute-intensive applications, in a secure and highly available cloud environment. Customers can self-service provision virtual machines right alongside bare metal servers and clusters on the same virtual cloud networks, through a unified web console, APIs, CLI or via industry-standard tools such as Terraform and Chef. OCI's approach gives the customer choices for storage us industry leading local NVME storage or elastic network block storage.
+
+
+
+
+The Touchless Region Build (ToRB) team builds the tools and services that continually allow OCI to expand. It will be in use by a variety of external customers with an overall goal of being able to build an entire datacenter autonomously. The team operates a 24x7 service at scale. We have a large roadmap of features to enable scenarios for new customers coming onboard in the coming quarters. Position Overview: We're looking for hands-on engineers with expertise and passion in solving difficult problems in distributed systems, virtualized infrastructure, and highly available services. If this is you, at Oracle you can design and build innovative new systems from the ground up. These are exciting times in our space - we are growing fast, still at an early stage, and working on ambitious new initiatives. An engineer at any level can have a significant technical and business impact.
+
+
+
+
+The ideal software engineer candidate for this team is a proficient programmer who has large breadth of knowledge and experience including areas such as networking, storage, internet protocols and distributed systems. We need engineers who are self sufficient and are able to dive deep into unknown areas. Responsibilities Dive deep to identify issues and bottlenecks within the Region Build system Work across all service teams to engineer the best system (both for operations and for customers) regardless of org boundaries or ownership. Debug, maintain, and improve existing systems, with a focus especially for reducing operational burden and on performance. Be a generalist, able to debug issues across a wide breadth of our stack. Scale our systems by building tooling and automation. Work with partner teams outside our org and external to Oracle.
+
+
+
+
+Qualifications
+
+BS degree in Computer Science or related technical field involving coding or equivalent practical experience.
+4 to 5 years experience delivering and operating large-scale, highly available distributed systems.
+History of working in large codebases in C-C++, C#, Java, or Go, and experience with scripting languages such as Python, Perl, etc.
+Strong knowledge of data structures, algorithms, operating systems, and distributed systems fundamentals.
+Systematic problem-solving approach, strong communication skills, a sense of ownership, and drive.
+Experience building orchestration and automation is a plus
+
+Show more

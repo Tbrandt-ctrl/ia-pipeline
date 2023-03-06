@@ -1,0 +1,51 @@
+Logient est à la recherche d'un Développeur Back-end PHP pour l'un de nos clients.
+
+Données de l'entreprise
+
+L'entreprise, dont le siège social est situé au centre-ville de Montréal, est un pionnier dans l'utilisation de l'IA et de l'analytique pour l'amélioration des services financiers, propose un environnement de travail dynamique et fait partie d'un conglomérat international avec des bureaux dans 9 villes en Chine et au Canada.
+
+Responsabilités
+
+Développer les services back-end nécessaires à notre application web.
+Compétence en développement avec MongoDB
+Développement d'applications avec Amazon Lambda
+Développement avec les services AWS avec les SDK pertinents
+Connaissance des architectures de référence du cloud et des meilleures pratiques d'AWS.
+Documentation des modules de code de débogage sur AWS
+Rester à jour avec les dernières technologies et outils open source et leur fonctionnement.
+
+Indispensable :
+
+Au moins 5 ans d'expérience dans le développement de logiciels PHP.
+Baccalauréat en informatique, en mathématiques ou dans un domaine connexe
+Très bonne connaissance du développement orienté objet en PHP
+Très bonne connaissance des services web basés sur Restful.
+Bonne connaissance de GraphQL
+Bonne connaissance de MongoDB
+Bonne connaissance du CDN Cloudfront
+Bonne connaissance d'ElastiCache pour Redis
+Programmation orientée performance en PHP
+Bonne connaissance de l'utilisation des principaux services AWS et des meilleures pratiques de base en matière d'architecture AWS.
+Bonne connaissance du développement, du déploiement et du débogage d'applications basées sur le cloud computing à l'aide d'AWS Lambda
+Maîtrise de l'utilisation des API des services AWS, de l'AWS CLI et des SDK pour écrire des applications.
+Bonne connaissance de Bref
+Bonne connaissance de BitBucket, Jira et Confluence
+Bonne connaissance des meilleures pratiques de sécurité en PHP
+Très bonnes compétences en communication
+Très bonnes compétences en matière de travail en équipe
+
+Bon à savoir :
+
+Certification AWS ou toute autre certification
+Connaissance de base de MySQL - MariaDB
+Connaissance de base des technologies Web telles que HTML, CSS, Javascript.
+Connaissance de base des concepts CI-CD
+Connaissance de base des logiciels de comptabilité
+
+Ce que notre client offre :
+
+Une rémunération compétitive, y compris des options d'achat d'actions
+Des avantages en matière de santé
+REER collectif
+Des congés payés tels que des jours de maladie et des jours de vacances
+Options flexibles de travail à distance ou hybride

@@ -1,0 +1,30 @@
+Title: Application Developer
+
+Location: 100% Remote
+
+Duration: Contract
+
+Responsibility
+
+Document development work, and report statuses as requested.
+Ensure to accurately estimate work and complete work as committed.
+Assists in the deployment of releases and patches to the production environment
+Ensure to follow coding standards and patterns prescribed by the development architects and management staff.
+Focus on clean, reliable, quality work.
+Mentor and coach less experienced developers, ensuring that code and design standards are being understood and followed.
+Perform code reviews for other team members.
+Properly review and understand business requirements prior to handling tasks.
+Work with BA and QA staff to ensure accurate functionality, and quality
+
+Skills Required
+
+6+ years in an application development role, developing software.
+3+ years recent experience in a hands-on coding role, in Microsoft platforms, including Visual Studio, .Net-C#, MS SQL Server.
+Experience with standard development tools for efficiency and design, such as code repository (GIT, TFS), queues (RabbitMQ, MSMQ), etc.
+Experience in SDLC methodologies including Agile-Scrum
+Development experience in web-based applications, RESTful APIs, etc.
+Experience with enterprise-level development.
+Experience with unit-testing.
+Must be self-directed, detail-oriented and have strong organization skills.
+Excellent written and verbal communication skills and ability to work independently and in a team.
+Show more

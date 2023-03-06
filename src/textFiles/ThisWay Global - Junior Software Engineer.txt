@@ -1,0 +1,50 @@
+Our partner is looking for a Software Engineer in Annapolis Junction, MD. This is a level 1 software engineer role, so we encourage qualified candidates from all backgrounds of technical experience to apply.
+
+The Software Engineer shall be responsible for developing platform management dashboards-views that will display dynamically changing physical and logical resource maps, state, and availability information for complex High Performance Computing (HPC) systems.
+
+The Software Engineer designs, develops, tests, deploys, documents, maintains, and enhances complex and diverse software systems based upon documented requirements. These systems might include, but are not limited to:
+
+processing­ intensive analytics
+novel algorithm development
+manipulation of extremely large data sets
+real-time systems
+business management information systems
+systems which incorporate data repositories, data transport services, and application and systems development and monitoring
+
+
+Other Responsibilities (not an exhaustive list):
+
+Reviews and tests software components for adherence to the design requirements and documents test results.
+Resolves software problem reports.
+Utilizes software development and software design methodologies appropriate to the development environment.
+Provides specific input to the software components of system design to include hardware-software trade-offs, software reuse, use of Open Source Software (OSS) and-or Commercial Off­The-Shelf (COTS) Government Off-The-Shelf (GOTS) software in place of new development, and requirements analysis and synthesis from system level to individual software components.
+Experience developing in Unix. Ability to perform shell scripting.
+Working knowledge of Configuration Management (CM) tools and Web Services implementation.
+
+
+Requirements
+
+Master's degree in Computer Science or related discipline from an accredited college or university OR
+Bachelor's degree in Computer Science or related discipline from an accredited college or university, plus two (2) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity OR
+Four (4) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity.
+Clearance required: Top Secret-SCI Polygraph
+US. Citizenship required
+
+
+Experience with:
+
+Linux CLI
+Writing scripts using Bash-Python
+Developing with multiple programming languages such as Python and-or Java in a Linux environment
+Creating and integrating custom plugins for COTS and FOSS Data Center Infrastructure Management (DCIM) tools such as Nlyte and Device42
+IaC (Infrastructure as Code) concepts, principles and automation tools such as Ansible
+CI-CD principles, methodologies, and tools such as GitLab CI
+Software frameworks used for searching, monitoring, and analyzing big data such as Splunk and Elastic Stack
+Metrics visualization technologies such as Grafana and Kibana
+Git Version Control System
+
+
+Preferred Education, Experience, & Skills
+
+Experience with the Atlassian Tool Suite (JIRA, Confluence)
+Tunjukkan lagi

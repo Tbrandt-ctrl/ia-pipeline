@@ -1,0 +1,30 @@
+Vous souhaitez rejoindre une entreprise qui place l’humain au cœur de ses préoccupations ? On vous attend chez Extia ! Société de conseil spécialisée dans les métiers de l’IT, de l’ingénierie et du digital, Extia privilégie depuis sa création en 2007 une approche qui allie performance et bien-être au travail. Une vision de l’entreprise partagée aujourd’hui par plus de 2 500 Extien(ne)s en France et à l'international et récompensée depuis 2012 par le label Great Place to Work®.
+
+Chez Extia, c’est « D’abord qui, ensuite quoi » alors, allons-y !
+
+D'abord qui
+
+Adaptable, vous êtes un digne représentant de la Positive Attitude.
+Ayant soif d’apprendre, vous aimez prendre part aux projets les plus novateurs.
+Curieux, vous adorez partager les dernières idées innovantes que vous avez découvertes.
+
+Ensuite quoi
+
+Au sein d'une équipe de Développeurs passionnés comme vous, vous serez amené à :
+
+Concevoir des applications web en respectant l’ensemble des spécifications techniques, du contexte jusqu’aux objectifs,
+Assurer la maintenance évolutive et corrective des solutions en participant à l’étude et la conception de nouveaux composants de l’architecture logicielle,
+Participer aux sprints jusqu'à la qualification et la mise en production du produit,
+Prendre en charge des problématiques de support N3 pour répondre aux sollicitations des utilisateurs,
+Assurer le suivi et l’accompagnement du métier lors des phases de déploiement,
+Développer vos compétences autour de l’intégration HTML-CSS, l’accessibilité, le référencement ou le responsive Design,
+Suivre la qualité de code (outillage - coaching) et participer aux tests unitaires,
+Partager, progresser, transmettre et travailler en groupe dans une volonté d’amélioration continue et de veille technologique régulière,
+Participer aux réunions de suivi d’avancement du projet.
+
+Profil recherché
+
+Passionné(e) par le développement, vous justifiez d’au moins 5 ans d’expérience en développement web, plus particulièrement Front, vous êtes à la recherche de votre nouvelle aventure.
+Enthousiasmé(e) par l’Agilité, et vous vous intéressez à la philosophie Devops.
+Vous maîtrisez au moins un framework front-end en HTML, CSS et JavaScript parmi React, Angular ou Vue.
+Votre curiosité vous a déjà mené à côtoyer Node, Backbone, Bootstrap, JQuery, Less, Sass, Flex, Solr ou des CMS tels que Drupal, Joomla ou Magento […]. Ces connaissances, même limitées, pourront être un véritable atout !

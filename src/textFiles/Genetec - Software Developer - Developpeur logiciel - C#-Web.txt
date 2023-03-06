@@ -1,0 +1,116 @@
+The team:
+
+Join a passionate team who is working with the latest technologies in software development.
+
+Here is an overview of the stack used in the context of the project:
+
+A microservice ecosystem using the latest C#- .NET Core running on Linux
+Diversified and modern data layer using NoSQL databases like MongoDB, Elasticsearch and Redis
+Asynchronous and eventually consistent approach using an event-based system (AMQP) to propagate changes
+Container-based deployments using Docker and Kubernetes
+Infrastructure as code using Terraform and Argo CD
+Quality assurance with great coverage of unit, functional and integration tests
+Continuous integration and continuous delivery (CI-CD) using Azure DevOps
+Feature flagging, A-B testing, Canary release using Launch Darkly
+
+
+Web UI developed in ReactJS with:
+
+TypeScript
+MaterialUI
+ViteJS
+Cypress
+React Query
+VS Code
+
+
+What your day will look like:
+
+Develop and maintain modern microservices using bleeding edge tooling
+Play an important role within a motivated and highly collaborative team
+Sharpen your skills in frontend and backend development by being responsible for the complete stack (Full stack)
+Contribute to the full cycle of development including CI-CD, from design to DevOps
+Work in the reality of delivering Software as a Service (SaaS) where your decisions will have an impact on customers as of week 1
+
+
+About you:
+
+Bachelor’s degree in computer science or equivalent experience
+Technical knowledge of Object-Oriented Programming and related best practices
+Knowledge of cloud environments and challenges is a big plus: Azure, AWS and-or GCP
+A true passion for software development is a must!
+
+
+Let’s talk perks!
+
+Attractive compensation package
+Training Tuition Reimbursement Program
+Subsidized meals in our amazing Bistro (Les Cordons Bleus)
+Work-life balance with a flexible working schedule
+Free, unlimited coffee
+Private, free parking for all employees
+Onsite fitness facility with personal trainer
+
+
+Would you like to know what it looks like to work at Genetec? Click on the following link to find out for yourself! Genetec Culture
+
+Thank you for your application, but please note that only qualified candidates will be contacted. Head-hunters and recruitment agencies may not submit resumes-CVs through this Web site or directly to managers.
+
+L'equipe:
+
+Joignez-vous à une equipe passionnee qui travaille avec les toutes dernieres technologies en developpement logiciel.
+
+Voici quelques exemples des technologies utilisees dans le projet :
+
+Écosysteme de micro-services ecrits avec la derniere version C#- ASP.NET Core pour Linux
+Plusieurs bases de donnees NoSQL tel que MongoDB, ElasticSearch et Redis
+Communication asynchrone utilisant un systeme d’evenements (AMQP)
+Developpement par conteneurs utilisant Docker et Kubernetes
+Infrastructure orchestree en code grâce à Terraform et Argo CD
+Couverture de tests complete avec des tests unitaires, fonctionnels et d’integrations
+Integration et deploiement continue (CI-CD) utilisant Azure DevOps
+Feature flagging, A-B testing et Canary release via la plateforme Launch Darkly
+
+
+Interfaces utilisateurs developpees en ReactJS avec :
+
+TypeScript
+MaterialUI
+ViteJS
+Cypress
+React Query
+VS Code
+
+
+À quoi ressemblera votre journee:
+
+Bâtir des applications modernes de type micro-services en utilisant des outils de pointe
+Jouer un rele important au sein d’une equipe tres motivee et hautement cooperative
+Parfaire vos connaissances, autant en Frontend qu’en Backend, tout en etant responsable de la suite complete (Full stack)
+Être implique dans le cycle complet de developpement d’une application moderne, incluant les tests et le deploiement (DevOps)
+Travailler dans un environnement de logiciel en service (SaaS) où chaque decision que vous prenez aura un impact immediat sur les clients et ce, des votre premiere semaine
+
+
+Votre profil:
+
+Baccalaureat en sciences informatiques, genie logiciel ou une experience de travail equivalente
+Connaissance technique des concepts oriente-objet et les bonnes pratiques associees
+Connaissance d’un environnement infonuagique et de ses defis sera considere un atout (Azure, AWS, GCS)
+Une vraie passion pour le developpement logiciel !
+
+
+Voilà ce que nous offrons!
+
+Regime de remuneration attrayant
+Programme de remboursement des frais de formation
+Repas subventionnes à notre incroyable Bistro (Les Cordons Bleus)
+Équilibre entre vie professionnelle et vie privee grâce à un horaire de travail flexible
+Cafe gratuit à volonte
+Espace de stationnement gratuit pour tous les employes
+Centre d’entraînement sur place
+
+
+Si vous souhaitez savoir à quoi ressemble l’environnement de travail chez Genetec, voici le lien vers notre video d’entreprise : Culture à Genetec
+
+Merci pour votre candidature, mais veuillez noter que seul(e)s les candidat(e)s qualifie(e)s seront contacte(e)s. Les chasseurs de têtes et les agences de recrutement ne sont pas autorises à soumettre des CV par l'intermediaire de ce site web ou directement aux gestionnaires.
+और दिखाएं

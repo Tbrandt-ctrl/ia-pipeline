@@ -1,0 +1,113 @@
+……….
+
+
+
+
+Donnee
+
+
+
+
+Vous avez envie d’evoluer et de rejoindre une entreprise en pleine croissance? 360.Agency est un groupe d’entreprises specialisees dans la creation des meilleures solutions web et marketing pour ses clients, les concessionnaires automobiles à travers le Canada. Notre mission? Revolutionner la façon dont les consommateurs achetent des voitures au cours des 100 dernieres annees.
+
+
+
+
+360.Agency est à la recherche d’un Developpeur Backend Senior pour se joindre à une superbe equipe de developpement specialisee dans le developpement de produits et services numeriques pour l’industrie de l’automobile. Fiere de son portfolio de produits en constante evolution, 360.Agency offre des services uniques et complets permettant à ses clients d’accroître leur part de marche dans le commerce electronique.
+
+
+
+
+Vous aimez les defis, êtes à l’affût des meilleures technologies et frameworks web backend et frontend, vous desirez vous accomplir et grandir dans un emploi stimulant ?
+
+
+
+
+Rencontrons nous !
+
+
+
+
+……….
+
+
+
+
+RESPONSABILITÉS
+
+
+
+
+Soutenir le Lead Technique dans la prise de decision au niveau de l’architecture et à la conception des projets ;
+Participer au processus de developpement Agile ;
+Coaching des autres Developpeurs de l’equipe ;
+Assurer l’implementation de standards et de processus de developpement selon les normes de l’industrie ;
+Participer au developpement et à la maintenance de la gamme de produit CRM ;
+Être actif sur la veille techno et aider à mettre en place de nouvelles technologies selon les projets ;
+Programmation en pair et revue de code des autres membres de l’equipe.
+
+
+
+
+……….
+
+
+
+
+Qualifications Requises
+
+
+
+
+Developpement Back-End dans un environnement Java et NodeJS ;
+Developpement de services Web ;
+Engins de persistance tels que MySQL, Elasticsearch, MongoDB et - ou Redis ;
+Facilite à travailler en equipe ;
+Developpement dans un cadre d’integration continu ;
+Baccalaureat en informatique ou experience equivalente.
+
+
+
+
+……….
+
+
+
+
+ATOUTS
+
+
+
+
+Experience dans un cadre de travail Agile ;
+Experience avec le framework Spring ;
+Developpement Back-End dans un environnement NodeJS ;
+Developpement Front-End avec des stacks Javascripts tel que AngularJS ou React ;
+Developpement sous une architecture micro-service ;
+Familier avec Kubernetes, Docker et une infrastructure Cloud ;
+Methodologie de developpement TDD ;
+Outil de versionnage tel que Git ;
+Facilite de communication verbale et ecrite en français et une connaissance fonctionnelle de l’anglais.
+
+
+
+
+……….
+
+
+
+
+AVANTAGES
+
+
+
+
+Situe à Griffintown à proximite des transports en commun
+Travail Hybride : Au bureau et en teletravail
+Assurance collective complete des le 1er jour
+Clinique medicale virtuelle illimitee pour vous et votre famille
+Horaire flexible
+Materiels informatique fournie pour la maison et pour le bureau
+Bel environnement de travail, aire ouverte et moderne
+Activites sociales, 5 à 7, Dîners d’equipe…
+और दिखाएं

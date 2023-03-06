@@ -1,0 +1,158 @@
+View All Jobs:
+
+
+
+
+20221212-441-01-01
+
+
+
+
+Salary Range: Up to $195K
+
+
+
+
+Job Summary
+
+
+
+
+We are seeking a Full-Stack Applications Developer to support the development and O&M of a variety of systems and initiatives focused on streamlining operations, automating processes, and aligning customer solutions to the overarching digital architecture. The ideal candidate will help promote state-of-the-art IT solutions, collaborating with IT mission partners to share technology and lessons learned to ensure records management processes and requirements are included in the early design stages of IT solutions across the Intelligence Community.
+
+
+
+
+Additionally, this individual will work in concert with the customer technical interfaces to ensure future plans for technology are in line with the overall customer architecture.
+
+
+
+
+Please note: This job requires an existing Top Secret Clearance and Polygraph**
+
+
+
+
+Responsibilities And Duties
+
+
+
+
+Develop software applications as web services that are written in JavaScript capable technology unless otherwise directed by Sponsor. Examples include Node JS and Angular with Typescript, and Springboot with Hibernate and messaging; JavaScript (EXTJS, Dojo), Java (JSPs, GWT, JSF, Groovy on Grails); ; Scripting languages (Perl, PHP, Ruby on Rails); and Rich UI Plugins (Flex, Silverlight, Google Earth Plugin).
+Develop and maintain software applications as web services that interact with data stored in Postgres, MySQL, and other relational databases and-or Cloud technologies such as AWS.
+Develop, upgrade, and maintain APis and search with REST-like APis to communicate with other software applications and databases as required by Sponsor.
+Utilize XML, JSON, or other Sponsor standards for data transfer and metadata management.
+Develop and maintain Domino, SharePoint, and other content management systems as required by Sponsor.
+Has experience writing SQL queries
+Improve search and website usability and accessibility by leveraging enterprise capabilities, improving process time, and supporting legal mandates.
+
+
+
+
+Experience Needed:
+
+
+
+
+Citizenship: Must Be a US Citizen
+Existing Clearance Required: Active Top Secret SCI with Poly
+Minimum 11 years of Relevant Experience
+Extensive experience developing in Java
+Experience with JavaScript - Typescript
+Experience with application frameworks (Spring Boot, NodeJS-NestJS); Experience developing applications with the Node.js framework
+Experience with Python
+Must know to use an IDE to code (ex - IntelliJ, Eclipse, NetBeans)
+Hands on experience with cloud technology (AWS - C2S)
+Experience with web services (REST) and service oriented architecture (SOA) - Spring Boot, Tomcat
+Experience with relational databases (ex - Oracle - Postgres)
+Experience with interacting in a Linux environment (ex - Bash scripting, VI)
+Ability to present and talk to technical infrastructure (Code Reviews; PDR; etc.)
+Ability to work on shift between projects based on priorities
+Ability to work well with others as well as independently (MUST leave ego at the door)
+BS-BA in Software Engineering, Science, Mathematics, or similar OR equivalent combination of education and experience
+
+
+
+
+Other skills and demonstrated experiences that are highly desired but not required to perform the work include:
+
+
+
+
+Ideal candidate will learn how to visualize queried data into reports and dashboards
+Ability to engage with stakeholders at all levels to present, discuss, influence technical solutions
+Experience with Microservices
+Experience with front end development using Angular 10
+Familiarity with Source code management and integration (ex - GitHub-GitLab, Jenkins)
+Experience in an Agile environment
+
+
+
+
+Interested! Apply Now for immediate Consideration!
+
+
+
+
+Health Benefits
+
+
+
+
+Medical, Dental, Vision, Health Savings Account and more.
+
+
+
+
+Work-Life Balance
+
+
+
+
+Paid Time Off, Holidays, Social Events, Employee Assistance Program and Team Building
+
+
+
+
+Financial Opportunities
+
+
+
+
+401K, Annual and Referral Bonuses and Tuition Assistance
+
+
+
+
+Main Number: 1-888-663-2690 | |
+
+
+
+
+Company Overview
+
+
+
+
+At Dezign Concepts, we are building a collaboration of professionals to help supply commercial, government and the intelligence communities with the services they need to excel in current and future endeavors. We are a growing company where providing outstanding solutions and delivering impeccable service is our highest priority. We believe that great people make great companies and every day we strive to provide the type of environment that encourages creativity, growth and satisfaction.
+
+
+
+
+Dezign Concepts provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+
+
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+JCJrVPWQHN
+Voir plus

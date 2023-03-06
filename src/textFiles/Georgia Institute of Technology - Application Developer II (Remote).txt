@@ -1,0 +1,88 @@
+Job Summary
+
+Perform intermediate level system analysis, definition and design activities often of a complex nature for new software applications. Modify and maintain existing applications. This position will interact on a consistent basis with: Other software developers and analysts, project managers database administrators, customers and department management. This position typically will advise and counsel: NA. This position will supervise: NA.
+
+Responsibilities
+
+Job Duty 1 -
+
+Consult users, analyze requirements and recommend technical design and specifications
+
+Job Duty 2 -
+
+Develop, test and implement technical solutions
+
+Job Duty 3 -
+
+Modify and maintain existing applications
+
+Job Duty 4 -
+
+Prepare technical, operational and user related documentation in support of applications
+
+Job Duty 5 -
+
+Provide technical support and training to functional users
+
+Job Duty 6 -
+
+Perform other duties as assigned
+
+Required Qualifications
+
+Educational Requirements
+
+Bachelor's Degree or an equivalent combination of education and experience
+
+Required Experience
+
+Two to four years of job related experience
+
+Preferred Qualifications
+
+Preferred Qualifications:
+
+Preferred Education: Bachelor’s degree in computer science, business administration, or related area preferred
+
+Preferred Work Experience: Four or more years of progressive work experience with CRM technology.
+
+Preferred Certifications: SFDC Certified Developer (DEV-401)
+
+Preferred Skills
+
+Experience in an Agile development environment
+SFDC Certified Developer (DEV-401) or equivalent experience with APEX, Visual Force, SOQL
+Development experience using Java, JavaScript, and other object-oriented languages
+Experience with git, GitHub, or other version control software
+Proven experience in developing scheduled batch jobs, Lightning Web Components, workflows, Apex classes, and triggers
+Experience using TDD and BDD methodologies
+Proven experience in delivering Salesforce applications using LWCs, VisualForce pages, and Apex
+Experience using Salesforce data tools (Data Loader, Excel Connector, DemandTools, Eclipse Force.com IDE, Salesforce Extensions for VisualStudio Code)
+Strong attention to detail and excellent problem-solving skills
+Excellent written and verbal communication skills
+Integration experience with ESB platforms and RESTful APIs
+ETL experience strongly preferred
+
+
+Preferred Qualifications
+
+Additional Information: The CRM Developer is responsible for designing, implementing, testing, and deploying CRM solutions (within the SalesForce.com environment) for institute organizations. In addition to standard SFDC configuration, the CRM developer will be responsible for developing solutions that will leverage HTML, CSS, JavaScript, and other technologies. The CRM developer will be responsible for the customization and configuration of standard and non-standard components required to meet business requirements in an extremely high quality. The CRM Developer must be able to communicate well with academic and business units who have varying technical abilities, as well as with staff, contractors, and vendors. The CRM Developer will serve as a technical leader, setting best practices including integration and application development, deployment, testing (unit and systems), and iterative refinement.
+
+Impact & Influence: This position will interact on a consistent basis with: Other software developers and
+
+analysts, project managers, database administrators, functional user, customers, and department management. This position typically will advise and counsel: NA. This position will supervise: NA
+
+Skills
+
+Knowledge, Skills, & Abilities
+
+This job requires working knowledge and skills in application of query language, web development tools, procedural development tools, relational databases, structured programming and understanding of the software development life cycle.
+
+Equal Employment Opportunity
+
+Georgia Tech provides equal opportunity to all faculty, staff, students, and all other members of the Georgia Tech community, including applicants for admission and-or employment, contractors, volunteers, and participants in institutional programs, activities, or services. Georgia Tech complies with all applicable laws and regulations governing equal opportunity in the workplace and in educational activities. Georgia Tech prohibits discrimination, including discriminatory harassment, on the basis of race, ethnicity, ancestry, color, religion, sex (including pregnancy), sexual orientation, gender identity, national origin, age, disability, genetics, or veteran status in its programs, activities, employment, and admissions. This prohibition applies to faculty, staff, students, and all other members of the Georgia Tech community, including affiliates, invitees, and guests.
+
+Background Check
+
+Successful candidate must be able to pass a background check. Please visit http:--policylibrary.gatech.edu-employment-pre-employment-screening
+Mostrar más

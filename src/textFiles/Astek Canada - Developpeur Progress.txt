@@ -1,0 +1,89 @@
+Type de contrat : Mandat
+
+Hybride
+
+37.5h-semaine
+
+
+
+
+
+
+
+Astek Canada est � la recherche d'un(e) programmeur.euse Progress pour l'un de ses clients.
+
+
+
+
+Sous la responsabilite du chef de service, le developpeur travaille dans une structure matricielle. Il fait partie de l’equipe evolution d’un domaine d’affaires specifique et è aussi � realiser des projets dans une equipe de projets. Son mandat est d’effectuer et-ou participer aux analyses, d’effectuer le developpement et le support des applications, tout en faisant le lien avec le client.
+
+
+
+
+RESPONSABILITÉS :
+
+• Codifier selon les specifications du document d’analyse;
+
+• Peux participer ou rediger des analyses selon les besoins;
+
+• Effectuer les tests unitaires de système;
+
+• Participer � la redaction et l’execution des scenarios de tests integrer de système;
+
+• Rediger � l’occasion la documentation fonctionnelle et technique;
+
+• Participer � la mise en production;
+
+• Assurer le suivi durant la periode post-implantation;
+
+• Participer � la formation du personnel de support;
+
+• Tenir � jour les procedures et la documentation des applications;
+
+• Peux avoir � participer � la definition des besoins (clients, analystes, …);
+
+• Suivre la methodologie et les normes du bureau de projets ;
+
+• Assister le support niveau 3, selon les besoins.
+
+• Participation obligatoire � l’equipe de support en dehors des heures normales de bureau (equipe en rotation);
+
+
+
+
+
+
+
+Exigences :
+
+• Detenir un diplôme d’etudes collegiales ou un diplôme universitaire en informatique ;
+
+• Posseder au moins cinq (5) annees d’experience dans le developpement de système, avec experience � titre de developpeur d’application ;
+
+• Posseder de l’experience dans le commerce de detail et de la distribution (atout) ;
+
+• Maîtrise du langage de programmation Progress.
+
+• Posseder de l’experience avec GWT (Google WEB Tools), Java, .NET (atout) ;
+
+• Posseder de l’experience avec Oracle (atout) ;
+
+• Posseder de l’experience sur les technologies PL-SQL (atout) ;
+
+• Posseder un esprit d’equipe et de leadership ;
+
+• Posseder des capacites d’analyse et de synthèse ;
+
+• Avoir la capacite de vulgariser et � communiquer ses connaissances ;
+
+• Avoir la capacite de s’adapter facilement aux changements ;
+
+• Être � l’ecoute des clients ;
+
+• Avoir le sens d’organisation, du service et le souci de la qualite ;
+
+• Maîtriser la langue française (parle et ecrit) et être fonctionnel en anglais (parle et ecrit) ;
+
+• Posseder des connaissances pratiques des outils Microsoft Office.
+
+Show more

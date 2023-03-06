@@ -1,0 +1,32 @@
+Si le rugissement des tanks de Battlefield vous a dejà fait vibrer d'emerveillement alors qu'ils font trembler le sol, vous avez une petite idee de la puissance que recele le moteur de jeu Frostbite. Soutenu par des centaines d'ingenieurs passionnes, Frostbite tire parti d'avantages techniques exclusifs pour permettre aux creatrices et aux createurs de jeu de concevoir des œuvres de toutes tailles et de repousser les limites de ce qu'ils peuvent atteindre.
+
+Aperçu du poste
+
+L'equipe « Frostbite Procedural » est formee de membres dynamiques et enthousiastes qui mettent au point des outils et des schemas de travail dits proceduraux. Notre mission consiste à fournir aux equipes de jeu les outils et les fonctionnalites procedurales dont elles ont besoin au niveau du moteur pour pouvoir creer une experience fantastique, immersive et complete pour nos joueurs. À titre de stagiaire au sein de l'equipe Frostbite de Montreal, vous aurez la chance de comprendre comment fonctionne ce puissant moteur de jeu, de concevoir de nouvelles fonctionnalites à partir de zero, et de mieux saisir des concepts complexes en matiere de developpement de jeux.
+
+Principales Responsabilites
+
+Vous aidez à mettre au point des fonctionnalites pour ensuite les tester et les integrer au code du jeu, travaillant de concert avec d'autres ingenieurs en logiciels.
+Vous contribuez à une approche logicielle Agile axee sur des reunions-eclairs quotidiennes et la planification de sprints.
+Vous travaillez avec les equipes responsables de l'assurance-qualite et du developpement pour surmonter les obstacles et assurer l'execution des travaux.
+Vous mettez en application les pratiques exemplaires et les procedures standardisees de conception de logiciels que vous avez apprises relativement aux exigences, à la conception, à l'implantation et à la mise à l'essai.
+
+Votre Profil
+
+Vous etudiez en informatique ou dans un domaine connexe.
+Vous maîtrisez le langage C++ (connaissance de C#).
+Vous êtes au fait de la conception et de l'implantation orientees objet.
+Vous avez dejà travaille avec des environnements de developpement integres (IDE) avec contrele de version-source (Visual Studio, Perforce, Git).
+Vous pouvez mettre à l'epreuve le code d'autrui et en faire le debogage.
+Vous êtes une personne passionnee par la conception de jeu et souhaitez ameliorer vos aptitudes.
+Vous êtes avide de collaboration au sein de differentes equipes dans le but de concevoir les elements requis par la creation et la conception.
+Vous êtes une personne energique et motivee qui aime surmonter les obstacles et regler les problemes.
+
+Vous Obtenez
+
+Un stage remunere;
+Des credits de jeu;
+La possibilite de participer à des evenements reserves à la communaute interne de Electronic Arts.
+
+Vous devez être legalement autorise.e à travailler au Canada à temps plein pour un stage d'une duree de 16 semaines. Ce poste n'est pas ouvert au parrainage.
+Show more

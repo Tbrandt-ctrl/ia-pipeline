@@ -1,0 +1,31 @@
+Seeking a full-time mobile applications developer for a remote role. Candidate MUST live within 50 miles of DC, NYC, Chicago, LA, SF, Houston, or Denver.
+
+Responsibilities:
+
+Building Enterprise-level solutions within Arnold & Porter M365 and Azure environments, including form creation, workflow customization, process automation, report development, dashboard creation, and system configuration.
+Designing and developing Office 365 applications and solutions (Power Automate (Flow), Power Apps, Power BI, Dynamics 365, SharePoint Online).
+Creating and customizing mobile applications using 3rd party mobile application development platforms (e.g. Microsoft Power Platform, Fliplet)
+Analyzing the business requirements by collaborating with the stakeholders and IT Management, studying systems flow, data usage, and work processes.
+Performing software design using software development fundamentals and processes, debugging, testing, and deploying software solutions.
+Designing, developing and maintaining key components of the software suite using Azure and Office 365 APIs.
+Implementing custom solutions that leverage various Azure and Office 365 services.
+Documenting and demonstrating solutions by developing documentation, flowcharts, layouts, diagrams, etc.
+Creating and maintaining application solution documentation.
+
+
+Requirements
+Four-year college degree required, equivalent experience will be considered.
+5+ years of experience in the following:
+Designing and developing enterprise-wide applications using Office 365-PowerApps and other Mobile Apps development platforms for iOS and Android devices.
+Web development, including JavaScript, front-end frameworks (React, Angular), Dynamics 365 APIs, HTML5, CSS and JSON.
+Net or equivalent scripting language.
+Must have extensive experience building Office 365-connected solutions, including Power Automate (Flow), Power Apps, Power BI, Dynamics 365, SharePoint Online.
+Expert knowledge of building web parts, apps, page layouts and content types using the O365 API.
+Experience with Visual Studio and Azure DevOps, Git, TFS, or other source control management tools.
+Solid understanding of relational database development and SQL experience.
+Experience with IDEs and Visual Studio and Visual Studio Code as well as experience with source control tools such as Bitbucket, Azure DevOps, and Github.
+Experience with Azure resources such as Azure functions, Azure logic apps, and Azure SQL DB.
+Experience with PowerBI, SQL Server Reporting Services, SQL Server Analysis Services, and-or SQL Server Integration Services a plus
+Experience in applying software development lifecycle, including analysis, design, configuration, development, and unit testing using Microsoft technologies.
+High-level understanding of Active Directory, AD security, TCP-IP, DNS, Load balancers, Firewall, and SMTP.
+Voir plus

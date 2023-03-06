@@ -1,0 +1,47 @@
+Envie de faire plus que juste coder ? Lis ce qui suit !
+
+Que dirais-tu si on t'offrait la possibilité :
+- De travailler dans un incubateur d'idées technologiques (Openlab)
+- D'être stimulé au quotidien par des défis concrets à la hauteur de ton expertise
+- D'évoluer dans une entreprise en hypercroissance de type « startup » 
+- De triper au quotidien avec une équipe 100 % dédiée à ton projet ?
+
+Ça te parle ? Continue !
+
+Ton terrain de jeu
+
+Notre incubateur technologique (Openlab) réunit une équipe entièrement dédiée à donner naissance à des produits technologiques cultivant le potentiel des organisations. De la conception, en passant par l'élaboration, la phase test, la validation et la mise en marche, notre équipe créative travaille en synergie pour que nos produits révolutionnent le monde d'aujourd'hui et de demain.
+
+L'Openlab est une équipe où les choses bougent vite. Pour t'y plaire, tu dois avoir un profil intrapreneur, être habile à pivoter, aimer prendre des risques et porter plusieurs chapeaux. Par contre, on te fait la promesse que tu ne t'ennuieras pas, ça c'est garanti.
+
+Ta mission : code, expérimente et fais évoluer les versions d'un produit tout en participant activement à toutes les étapes du processus.
+
+Tes super-pouvoirs
+
+Tu possèdes au moins 3 ans d'expérience en :
+- Frontend en VueJS et Typescript (ou similaire)
+- Maîtrise de Git
+- Esprit d'équipe
+- Grande capacité d'écoute et ouverture d'esprit
+- Bonne maîtrise en programmation orientée objet
+- Expérience en développement d'application web
+- Aimer apprendre
+
+Ton quotidien
+
+- Participer au scrum (daily touch point, sprint review, sprint planification, etc.)
+- Analyser, concevoir, développer, maintenir et améliorer les fonctionnalités du produit
+- Savoir agir rapidement pour livrer le plus vite possible un code de qualité
+- Réaliser le contrôle qualité et le code review de son propre code et de celui des autres membres de l'équipe
+- Aider au support de l'application auprès de nos utilisateurs
+- Challenger les décisions par rapport à la vision du produit
+
+Un mot du président
+
+Notre président a de la jasette, mais surtout, de l'ambition. Découvre dans cette courte capsule vidéo ce qui t'attend si tu décides d'embarquer dans l'aventure.
+
+https://www.youtube.com/watch?v=uHNL3iidbDw&t=16s
+
+Viens écrire des lignes de codes qui propulsent. Embarque !
+
+Pas convaincu de cocher toutes les cases ? Rendu ici, qu'est-ce que tu as à perdre ? Ce que tu ne sais pas, on va te l'apprendre. Simple de même !

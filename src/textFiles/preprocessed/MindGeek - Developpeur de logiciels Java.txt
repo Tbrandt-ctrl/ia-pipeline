@@ -1,0 +1,39 @@
+En tant que Développeur Java au sein de l'équipe Atlas, vous aurez l'occasion de travailler sur une vaste plateforme financière et de référencement de webmestres qui sert des centaines de milliers d'affiliés et de partenaires. Ayez la chance de faire partie d'une équipe forte et dynamique qui prend le travail d'équipe et qui aime résoudre ensemble des problèmes complexes.
+
+Ce que vous ferez :
+
+Élaborer, créer et mettre à jour des applications dorsales orientées objet.
+Effectuer l'examen du code et déterminer des recommandations d'adaptation.
+Analyser et documenter les processus.
+
+Ce dont vous aurez besoin pour réussir :
+
+Compétences essentielles :
+
+Au moins 5 ans d'expérience dans un poste similaire
+Solide connaissance de Java
+Expérience avec Spring, Hibernate et Spring Batch
+Expérience des environnements infonuagiques : GCP, AWS et Azure
+Expérience du développement et de l'exploitation (DevOps), des outils d'intégration et de livraison continues (CI-CD), de Gitlab, de Jenkins, de Bamboo (facultatif), de Docker et de GKE
+Expérience avec le cadre JS conventionnel Angular-ReactJS-etc.
+Expérience en segmentation de processus
+Connaissance intermédiaire des systèmes basés sur Unix
+Capacité à travailler de façon autonome et en équipe
+Capacité à faire face à des priorités techniques en constante évolution
+
+Atouts :
+
+Expérience avec les systèmes de gestion de base de données relationnelle (SGBDR), PostgreSQL et Pooling
+Expérience avec les systèmes de cache, Redis
+Expérience avec les files d'attente de messages, RabbitMQ-SQS-Pub Sub
+Expérience avec Hibernate
+Expérience avec Elasticsearch
+Expérience des plateformes de distribution publicitaire
+Expérience des plateformes de traitement des paiements
+Baccalauréat en informatique
+
+En tant qu'employeur souscrivant au principe de l'égalité d'accès à l'emploi, notre entreprise célèbre la diversité et s'engage à créer un environnement inclusif pour tous ses employés.
+
+Ce poste peut vous exposer à du contenu pour adultes.
+
+Le masculin est utilisé dans le seul but d'alléger le texte.

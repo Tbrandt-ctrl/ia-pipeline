@@ -1,0 +1,36 @@
+Adecco est actuellement � la recherche de programmeurs en Automatisation pour combler des postes � temps plein qui seront des membres importants au sein de l'equipe de livraison des projets d'automation de IS&T dans les installations de Rio Tinto Aluminium au Saguenay (Arvida, AP60, Vaudreuil, Alma, Laterrière, UGB, Dubuc, UTB et Énergie Électrique). Dans divers projets, il devra participer � la programmation d'automates et interfaces homme machine ou peut être appele � agir � titre de chef d'equipe au sein du groupe d'automatisation.
+
+Les principales responsabilites du poste sont les suivantes :
+
+Programmer des automates programmables (PLC) principalement en ControlLogix de Rockwell. Certains projets peuvent être en Unity de Schneider;
+Programmer des interfaces graphiques utilisateur (HMI) selon les standards hautes performances. Principalement en FactoryTalk View SE de Rockwell;
+Planifier et realiser les tests � l'interne;
+Proceder � des Verification Pre Operationnel (VPO) et participer aux mises en route en usine;
+Participer � l'analyse, afin de bien comprendre les besoins des utilisateurs et de mettre au point un plan de programmation.
+
+
+Competences et qualifications recherchees :
+
+DEC ou BAC en genie de la production automatisee, en automatisation, en electrique, en informatique ou genie du logiciel ou encore toutes autres combinaisons de formation-experience pertinentes;
+Plus de 5 ans d'experience recherche, mais candidat plus jeune pourrait être selectionne si candidat interessant;
+Connaissance des reseaux Ethernet-IP;
+Rigueur, autonomie et sens des responsabilites;
+Habilete � travailler en equipe;
+Maîtrise de la langue française tant � l'oral qu'� l'ecrit.
+
+
+Atouts :
+
+Anglais fonctionnel;
+Experience avec le langage de programmation EDA utilise chez Rio Tinto;
+Experience de travail dans les sites industriels de Rio Tinto;
+Membre de l'Ordre des Ingenieurs du Quebec;
+Être autorise � travailler et � resider au Canada.
+
+
+Ce poste vous interesse? N'attendez plus, envoyez-nous votre candidature! Notre equipe de recruteurs dynamique est prête � vous accueillir et � vous accompagner sur la voie de la reussite!
+
+CAQRT22PM
+
+@@j
+और दिखाएं

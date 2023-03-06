@@ -1,0 +1,78 @@
+Reston, VA 20190
+
+
+
+
+Security Clearance Requirement: Current TS-SCI
+
+
+
+
+E-volve Technology Systems is hiring a junior-mid level PHP Developer to work in support of an Intelligence Community program. The Developer will join a small team supporting web database development, testing, and modernization with heavy PHP scripting and a back-end focus. Qualified candidates will have prior experience supporting one or more modernization-upgrade efforts and the ability to untangle the codes from earlier iterations.
+
+
+
+
+Position description:
+
+
+
+
+The PHP-SQL Developer will support scalable architecture, code complexity, and object-oriented PHP for high reusability and maintainability. This is a dynamic work environment providing an ambitious developer with an opportunity to collaborate with teammates and solve unique challenges.
+
+
+
+
+Duties and responsibilities:
+Develop scalable applications and backend services using PHP using appropriate software design patterns to attain high reusability and maintainability.
+Create and monitor system design patterns and tiered architecture.
+Testing of products, system architecture and design.
+Solve complex problems by applying best practices to:
+Provide direction
+Work with project business and systems
+Analyze requirements and execute
+Participate in code reviews
+Enforce standards and best practices
+
+
+
+
+Education and qualifications:
+U.S. citizenship
+Current TS-SCI security clearance
+Current CI polygraph or ability to obtain CI polygraph
+Bachelor’s degree in a related discipline is preferred
+Candidates with additional years of experience in lieu of a degree will be considered
+3+ years of object-oriented programming including:
+PHP development experience
+SQL and relational database experience
+Strong written and verbal communication skills
+DoD 8570.1 compliance at IAT Level I (Security+ or similar)
+Excellent customer service skills and interest in working in a fast-paced environment
+Ability to implement design patterns and coding best practices
+Experience with PostgreSQL relational databases
+Strong background with LAMP stack development
+Experience with Python and Perl is a plus
+Ability to read scripts and analyze an application for modernization
+Experience supporting the front end and middle layers with emphasis on the back end
+
+
+
+
+E-volve Technology Systems provides Mission Operations, Information Technology Management, and Intelligence Analysis support services to advance National Security and other Federal Government programs within the Department of Defense (DoD), Intelligence, and Civilian government agencies. For more information please visit us at www.e-volvetechsystems.com.
+
+
+
+
+E-volve Technology Systems provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+
+Powered by JazzHR
+
+
+
+
+BgRM5JbN5b
+Show more

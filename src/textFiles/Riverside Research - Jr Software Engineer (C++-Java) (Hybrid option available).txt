@@ -1,0 +1,56 @@
+Riverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical services, research and development, and prototype solutions to some of the country's most challenging technical problems.
+
+Job Number: 874
+
+Riverside Research is seeking a Junior Software Engineer to support the Air Force customer on their research and development efforts. As a key member of Riverside Research, the Junior Software Engineer will work closely with the Government customer to implement state-of the-art open architecture (OA) mission capabilities.
+
+The chosen candidate will serve as a junior technical member of a team consisting of software engineers, data architects, cybersecurity engineers and researchers to develop and demonstrate technology and advanced component prototype solutions to evolve and expand emerging OA standards and approaches for current and next-generation Air Force and DoD weapon systems. The engineer will provide mature, robust open architecture solutions to rapidly integrate mission systems, facilitate mission system capability evolution, as well as sustained competition across the system life cycle.
+
+All Riverside Research opportunities require U.S. Citizenship.
+
+Job Responsibilities:
+
+Develop high quality C++ and-or Java applications
+Implement unit, functional, regression, and acceptance tests
+Identify and resolve software issues
+Conduct peer software reviews
+Other duties as assigned
+
+
+Required Qualifications:
+
+US Citizenship required, Ability to obtain and maintain a TS-SCI security clearance
+Bachelor's Degree in Electrical Engineering, Computer Science, or other related STEM degree
+Experience with C++ or Java programming languages
+Experience with source control (Git)
+Experience with XML
+
+
+Desired Qualifications:
+
+Experience with virtual machines (VMware)
+Experience with Docker
+
+
+Riverside Research does not mandate COVID vaccination as a condition of employment. However, proof of vaccination or negative test may be required to enter certain government facilities and sites. Vaccination requirements will depend on the status of the federal contractor mandate and customer site-specific requirements. To protect the health and safety of its employees, their families, and to comply with customer requirements, the company requires all employees to disclose vaccination status (upon hire).
+
+Riverside Research strives to be one of America's premier providers of independent, trusted technical and scientific expertise. We continue to add experienced and technically astute staff who are highly motivated to help our DoD and Intelligence Community (IC) customers deliver world class programs. As a not-for-profit, technology-oriented defense company, we believe service to customers and support of our staff is our mission. Our goal is to serve as a destination company by providing an industry-leading, positive, and rewarding employee experience for all who join us. We aspire to be a valued partner to our customers and to earn their trust through our unwavering commitment to achieve timely, innovative, cost-effective and mission-focused solutions.
+
+All positions at Riverside Research are subject to background investigations. Employment is contingent upon successful completion of a background investigation including criminal history and identity check.
+
+Our EEO Policy
+
+Riverside Research is an equal opportunity employer. We recruit, employ, train, compensate and promote without regard to race, religion, sex, color, national origin, age, gender identity, sexual orientation, marital status, disability-veteran, status as a protected veteran, or any other basis protected by applicable federal, state and local law.
+
+If you need assistance at any time in our application or interview process, please contact Recruiting at email Recruiting@RiversideResearch.org. A member of the Recruiting team will be available to assist.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.
+
+For more information on "EEO is the Law," please visit:
+
+http:--www.dol.gov-ofccp-regs-compliance-posters-pdf-eeopost.pdf
+
+https:--www.dol.gov-sites-dolgov-files-ofccp-regs-compliance-posters-pdf-eeopost.pdf
+Show more

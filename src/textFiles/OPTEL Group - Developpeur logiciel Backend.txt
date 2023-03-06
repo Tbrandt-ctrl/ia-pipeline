@@ -1,0 +1,111 @@
+OPTEL. Responsable. Agile. Innovant.
+
+
+
+
+OPTEL est une entreprise internationale qui developpe, pour des clients bases, pour la plupart, � l’exterieur du Canada, des solutions logicielles, intergicielles et materielles transformatrices permettant de securiser et d’assurer la conformite de la chaîne d’approvisionnement dans les plus grands secteurs de l’industrie tels que le pharmaceutique et l’alimentation et ce, dans le but de reduire les effets des changements climatiques et de favoriser les modes de vie durables. Si vous êtes guide, tout comme nous, par des valeurs socio-eco-environnementales et que participer � la resolution des plus grands enjeux auxquels notre monde est confronte actuellement vous interpelle, voici comment vous pouvez nous aider:
+
+
+
+
+Pourquoi rejoindre notre equipe?
+
+
+
+
+T’epanouir professionnellement dans une organisation internationale où des perspectives d’evolution sont possibles compte tenu de la taille de nos equipes et de la diversite des produits et langages;
+Évoluer au sein d’une equipe multidisciplinaire et autonome, qui pratique l’agilite depuis plus de 6 ans, et dans laquelle ta curiosite et ta creativite seront encouragees;
+Participer � la solution en apportant tes idees, afin de contribuer ensemble � la construction d’un monde meilleur pour les generations futures.
+
+
+
+
+Ton Rôle
+
+
+
+
+Chez Optel, les developpeurs ecrivent plus que du code : ils participent � toutes les phases du developpement, du design � l’implementation, en proposant des solutions innovantes aux defis logiciels. Dans une ambiance agile, nos equipes multidisciplinaires comprennent un product owner, un scrum master, un architecte, un responsable qualite et des developpeurs. De l’evaluation des tâches � la liberation d’une nouvelle version, tout se fait en equipe dans un seul but : livrer des produits de qualite en tenant les engagements!
+
+
+
+
+Au sein d’une de nos escouades, tu contribueras au developpement de notre produit de traçabilite (application web), qui centralise l’ensemble des donnees des differentes lignes d’un site de production.
+
+
+
+
+Responsabilites principales
+
+
+
+
+Developper, maintenir et ameliorer notre application web et les services qui s’y rattachent,
+Creer et maintenir les tests automatises et unitaires,
+Effectuer de la modelisation sur des ensembles de donnees,
+Contribuer au deploiement du produit et des services, et s’assurer de son bon fonctionnement,
+Apporter le soutien technique necessaire pour le produit et services, et leur deploiement,
+Effectuer une veille technologique et proposer des solutions qui permettent l’atteinte des objectifs de l’equipe,
+Proposer de nouveaux outils et methodes de travail pour s’ameliorer continuellement,
+Participer aux activites d’equipe et apporter ta contribution !
+
+
+
+
+Exigences
+
+
+
+
+Tu as une excellente connaissance du Python 3 avec un minimum de 5 annees d’experience en developpement logiciel.
+Tu es autodidacte et tu as une capacite � resoudre des problèmes,
+Tu connais le TDD et l'automatisation de tests
+Tu es capable de collaborer et est ouvert aux commentaires des membres de ton equipe sur ton code
+Tu comprends bien les benefices du CI-CD et du DevOPS
+Tu as de l’experience en developpement web
+Tu as dej� travaille avec Gitlab et Jenkins
+Tu as de l’experience avec Google Cloud Platform.
+
+
+
+
+Ces competences seront considerees comme etant des atouts importants pour le poste:
+
+
+
+
+Tu as de l’experience en front-end
+Tu es � l’aise avec les conteneurs
+Tu connais Django, Pytest et autres
+
+
+
+
+Avantages et benefices
+
+
+
+
+Avoir la possibilite de travailler dans differents modes: teletravail, hybride, 100% bureau, etc.
+Remuneration competitive;
+Clinique de sante virtuelle et programme d’aide aux employes;
+Assurances collectives et dentaires dès le premier jour;
+REER et CELI collectif avec contribution de l'employeur;
+Horaires flexibles, 37.5h par semaine;
+Possibilites d’horaires alleges;
+Plusieurs commodites sur place dont le stationnement gratuit, le cafe equitable et des espaces de travail lumineux et ergonomiques;
+Activites sociales variees et comites diversifies dans lesquels vous pouvez vous impliquer (ex: Comite B-Corp , Club Social et Comite SST);
+Cours d’anglais et de français gratuits pour ceux qui souhaitent ameliorer leur niveau
+Organisation presente sur plusieurs continents;
+Certifiee B-Corp, OPTEL fait partie d'un mouvement mondial dynamique d'entreprises desireuses d'utiliser le pouvoir des affaires pour rendre notre monde meilleur
+
+
+
+
+Powered by JazzHR
+
+
+
+
+oEq4ZabDCT
+Mostrar más�زيد
