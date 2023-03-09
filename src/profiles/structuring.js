@@ -12,6 +12,7 @@ const getStructuredText = async (text, directory_path) => {
 
   let issues = [];
 
+  //Looping through the translated text
   for (let i = 0; i < text.length; i++) {
     const profile = text[i];
 
