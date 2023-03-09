@@ -82,11 +82,13 @@ const getStructuredProfile = async (profile, i, issues) => {
           "TechHardSkills":"",
           "OtherHardSkills":"",
           "SoftSkills":"", 
+          InferedSoftSkills: "",
           "Tools":"",	
           "SumYearsExperience":"",	
           "LegalAvailabilities":"",	
           "Responsibilities":"",	
-          "Studies":""
+          "Studies":"",
+          "RIASEC":""
       }
 
 
@@ -99,11 +101,13 @@ const getStructuredProfile = async (profile, i, issues) => {
       TechHardSkills : list the technical hard skills of the candidate
       OtherHardSkills	: list other hard skills the candidate has
       SoftSkills : list the soft skills the candidate has
+      InferedSoftSkills: try and infer soft skills from the text
       Tools	: list the tools the candidate is familiar with
       SumYearsExperience : Here I want a number which is the total years experience the candidate has working
       LegalAvailabilities	: If the profile mentions anything regarding the legal status of the candidate put it here
       Responsibilities	: list the responsibilities the candidate had in their last job
       Studies : list what and where the candidate studied
+      RIASEC : classify the profile according to the RIASEC test (Realistic, Investigative, Artistic, Social, Enterprising, and Conventional). If the profile can fit 3 classifications, separate them by a comma and order them by confidence in the prediction. Only give me one word or two/three separated by a comma here.
       `;
 
       const response = await openai.createCompletion({
@@ -134,11 +138,13 @@ const getStructuredProfile = async (profile, i, issues) => {
           TechHardSkills: "",
           OtherHardSkills: "",
           SoftSkills: "",
+          InferedSoftSkills: "",
           Tools: "",
           SumYearsExperience: "",
           LegalAvailabilities: "",
           Responsibilities: "",
           Studies: "",
+          RIASEC: "",
         };
 
         try {

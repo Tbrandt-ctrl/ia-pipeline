@@ -151,5 +151,36 @@
     "LegalAvailabilities": "NA",
     "Responsibilities": "Développement et conception d'expériences utilisateur d'applications Internet/Intranet, développement de frameworks Javascript MVC, création de services, création de classes dans le typescript, directives Angular 4.0, injection de dépendance, services, routage, tuyaux, animations, formulaires, configurations d'intercepteur HTTP, déploiements dans les services AWS, conceptions Web réactives (RWD), utilisation des bibliothèques D3, itinéraires dans Angular 2.0, connectivité de base de données avec le serveur MySQL",
     "Studies": "NA"
+  },
+  {
+    "ProfileTitle": "Candidat pour une offre d'emploi en informatique",
+    "ProgrammingType": "Web, Logiciel, Mobile",
+    "WorkedIndustries": "Informatique",
+    "Location": "NA",
+    "TechHardSkills": "React JS, Redux, Require JS, MVC, JavaScript, CSS3 / CSS, HTML5 / HTML, Bootstrap, TypeScript, AngularJS, NodeJS, Require JS, SASS, LESS, TypeScript, Node JS, AngularJS, ReactJS, ES6, Gulp, Karma, Jasmine, MongoDB, Express, ReactJS, NodeJS, API RESTFUL, JSP, HTML, JavaScript, jQuery, requête AJAX, JSON, XML, GULP, GRUNT, MAVEN, ANT, Oracle, DB2, SQL Server, MongoDB, Cassandra, HTML5, CSS3, DHTML, XML, XHTML, XSLT",
+    "OtherHardSkills": "Analyse, Conception, Développement, Intégration, Débogage, Mise en Œuvre, Test",
+    "SoftSkills": "Résolution de problèmes, Bonnes Qualités Analytiques, Bonne Présentation",
+    "InferedSoftSkills": "Travail d'équipe, Bonne Communication, Bonne Organisation",
+    "Tools": "Eclipse, Photoshop, Notepad++, Adobe Dream, Azure",
+    "SumYearsExperience": "8",
+    "LegalAvailabilities": "NA",
+    "Responsibilities": "Conception, Analyse, Développement, Intégration, Débogage, Mise en Œuvre, Test",
+    "Studies": "NA"
+  },
+  {
+    "ProfileTitle": "Développeur UI / Web",
+    "ProgrammingType": "web",
+    "WorkedIndustries": "NA",
+    "Location": "NA",
+    "TechHardSkills": "HTML / HTML5, CSS / CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Angular 2, XML, AJAX, JSON, W3C",
+    "OtherHardSkills": "NA",
+    "SoftSkills": "Résolution de problèmes, communication, innovation, travail d'équipe, prise de décision",
+    "InferedSoftSkills": "Capacité à travailler sous pression, proactivité, capacité à gérer plusieurs projets",
+    "Tools": "Eclipse IDE, Net beans, Visual Studio, Dream weaver, Notepad ++, Edit plus, Firebug",
+    "SumYearsExperience": "3",
+    "LegalAvailabilities": "NA",
+    "Responsibilities": "Développement d'interfaces utilisateur, conception côté client, débogage, mise en page pixel-level en CSS, conception de la compatibilité avec les navigateurs principaux et les appareils portables, développement d'application Web pour la partie arrière, manipulation d'IDE ou d'outils, développement de solutions internes innovantes",
+    "Studies": "NA",
+    "RIASEC": "Social, Conventional"
   }
 ]

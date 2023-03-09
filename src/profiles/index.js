@@ -41,7 +41,7 @@ const main = async () => {
   //Translate every single one
 
   const randomEntries = [];
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 1; i++) {
     const randomIndex = Math.floor(
       Math.random() * shortened_descriptions.length
     );
