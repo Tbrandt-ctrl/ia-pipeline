@@ -36,4 +36,25 @@ const getDescription = async (path) => {
   });
 };
 
-module.exports = { getCSV, getDescription };
+const getDescriptions = async (path) => {
+  try {
+    const desc_path = path;
+    const files = await fs.promises.readdir(desc_path);
+    const descriptions = [];
+
+    for (let i = 1; i < files.length; i++) {
+      console.log(`Getting description for ${files[i]}`);
+
+      const file_path = desc_path + "/" + files[i];
+      const description = await getDescription(file_path);
+
+      descriptions.push(description);
+    }
+
+    return descriptions;
+  } catch (err) {
+    throw err;
+  }
+};
+
+module.exports = { getCSV, getDescription, getDescriptions };
