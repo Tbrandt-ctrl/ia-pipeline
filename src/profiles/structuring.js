@@ -1,27 +1,43 @@
 const fs = require("fs");
-const { Parser } = require("@json2csv/plainjs");
-var json2csv = require("json2csv");
 const dJSON = require("dirty-json");
 
 const { Configuration, OpenAIApi } = require("openai");
 
 require("dotenv").config();
 
-const getStructuredText = async (text, directory_path) => {
+const {
+  getTranslatedProfile,
+} = require("/Users/Thomas/Documents/projects/ia-pipeline/ia-pipeline/src/profiles/translating.js");
+
+const getStructuredText = async (text, directory_path, titles) => {
   let structured_profiles = [];
 
   let issues = [];
 
-  //Looping through the translated text
+  //Looping through the description
   for (let i = 0; i < text.length; i++) {
     const profile = text[i];
 
-    const structured_profile = await getStructuredProfile(profile, i, issues);
+    console.log("GETTING TRANSLATED PROFILE");
+    const translated_profile = await getTranslatedProfile(profile, i, issues);
+
+    await new Promise((resolve) => setTimeout(resolve, 30000));
+    console.log("finished timeout");
+
+    console.log("GETTING STRUCTURED PROFILE");
+    const structured_profile = await getStructuredProfile(
+      translated_profile,
+      i,
+      issues
+    );
 
     console.log(`finished working on ${structured_profile.ProfileTitle} `);
 
     console.log("APPENDING TO JSON");
     const path = directory_path + "data/structured_profiles.json";
+
+    structured_profile.OfficialTitle = titles[i];
+
     updateJSON(structured_profile, path);
 
     await new Promise((resolve) => setTimeout(resolve, 45000));
@@ -101,7 +117,7 @@ const getStructuredProfile = async (profile, i, issues) => {
       TechHardSkills : list the technical hard skills of the candidate
       OtherHardSkills	: list other hard skills the candidate has
       SoftSkills : list the soft skills the candidate has
-      InferedSoftSkills: try and infer soft skills from the text
+      InferedSoftSkills: infer soft skills from the text and choose those from this list, that best fit : Facilité à concevoir des idées, Ordonner de l’information, Rapidité d’organisation de motifs, Visualisation spatiale, Souplesse dans la catégorisation, Raisonnement déductif, Raisonnement inductif, Raisonnement mathématique, Mémorisation, Littératie numérique, Production numérique, Pensée critique, Évaluation, Stratégies d’apprentissage et d’enseignement, Communication verbale : compréhension orale, Communication verbale : expression orale, Résolution de problèmes , Analyse de systèmes, Dépannage, Pensée analytique, Souci du détail, Autonomie, Adaptabilité, Collaboration, Esprit d’innovation, Apprentissage actif, Préoccupation des autres, Créativité, Leadership
       Tools	: list the tools the candidate is familiar with
       SumYearsExperience : Here I want a number which is the total years experience the candidate has working
       LegalAvailabilities	: If the profile mentions anything regarding the legal status of the candidate put it here
@@ -154,7 +170,7 @@ const getStructuredProfile = async (profile, i, issues) => {
         } catch (err) {
           console.log("SOMETHING WENT WRONG WITH THE PARSING");
           console.error(err);
-          issues.push(i);
+          issues.push(`structuring issues at ${i}`);
         }
 
         console.log("STRUCTURED DESCRIPTION : ");
@@ -164,10 +180,10 @@ const getStructuredProfile = async (profile, i, issues) => {
         resolve(structured_description);
       } else {
         console.error("No sentiment analysis response received");
-        issues.push(i);
+        issues.push(`structuring issues at ${i}`);
       }
     } catch (err) {
-      issues.push(i);
+      issues.push(`structuring issues at ${i}`);
       reject(err);
     }
   });

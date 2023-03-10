@@ -2,27 +2,6 @@ const { Configuration, OpenAIApi } = require("openai");
 
 require("dotenv").config();
 
-const getTranslatedText = async (text) => {
-  let translated_text = [];
-
-  let issues = [];
-
-  console.log("STARTING TRANSLATION");
-  for (let i = 0; i < text.length; i++) {
-    const profile = text[i];
-
-    const translated_profile = await getTranslatedProfile(profile, i, issues);
-
-    await new Promise((resolve) => setTimeout(resolve, 30000));
-    console.log("finished timeout");
-    translated_text.push(translated_profile);
-  }
-
-  return translated_text;
-};
-
-module.exports = { getTranslatedText };
-
 const getTranslatedProfile = async (profile, i, issues) => {
   console.log("GETTING TRANSLATED TEXT");
   return new Promise(async (resolve, reject) => {
@@ -42,7 +21,7 @@ const getTranslatedProfile = async (profile, i, issues) => {
         model: "text-davinci-003",
         prompt: prompt,
         temperature: 0.7,
-        max_tokens: 1500,
+        max_tokens: 2000,
         top_p: 1.0,
         frequency_penalty: 0,
         presence_penalty: 0,
@@ -67,11 +46,13 @@ const getTranslatedProfile = async (profile, i, issues) => {
         resolve(translated_profile);
       } else {
         console.error("No sentiment analysis response received");
-        issues.push(i);
+        issues.push(`translation issues at ${i}`);
       }
     } catch (err) {
-      issues.push(i);
+      issues.push(`translation issues at ${i}`);
       reject(err);
     }
   });
 };
+
+module.exports = { getTranslatedProfile };

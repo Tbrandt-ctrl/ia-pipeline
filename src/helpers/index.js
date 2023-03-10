@@ -48,10 +48,17 @@ const getDescriptions = async (path) => {
       const file_path = desc_path + "/" + files[i];
       const description = await getDescription(file_path);
 
-      descriptions.push(description);
+      const startIndex = files[i].indexOf("CLEAN_") + 6;
+      const endIndex = files[i].indexOf(".txt");
+      const cleanedFilename = files[i].substring(startIndex, endIndex);
+
+      const title = cleanedFilename;
+      console.log(title);
+
+      descriptions.push({ title, description });
     }
 
-    return descriptions;
+    return { descriptions };
   } catch (err) {
     throw err;
   }
