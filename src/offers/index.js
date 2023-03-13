@@ -25,9 +25,10 @@ const main = async () => {
     preprocessed_descriptions.push(description);
   }
 
-  const randomEntries = preprocessed_descriptions;
-  const randomTitles = titles;
+  const randomEntries = preprocessed_descriptions.slice(63);
+  const randomTitles = titles.slice(63);
 
+  console.log("TITRES");
   randomTitles.map((el) => console.log(el));
 
   console.log(
@@ -36,12 +37,12 @@ const main = async () => {
 
   let issues = [];
 
-  /* const structured_text = await getStructuredText(
+  const structured_text = await getStructuredText(
     randomEntries,
     directory_path,
     randomTitles,
     issues
-  ); */
+  );
 };
 
 main();
