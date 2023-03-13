@@ -1,0 +1,76 @@
+## Autres termes:
+
+Administrateur/administratrice de base de données
+Administrateur/administratrice de données
+Consignataire de données
+
+## Fonctions principales
+
+Ce groupe exerce une partie ou l'ensemble des fonctions suivantes :
+mettre au point et mettre en oeuvre les politiques, les normes et les modèles de gestion des données;
+étudier et documenter les exigences concernant les données, les politiques de collecte et d'administration des données, les règles d'accès et la sécurité;
+élaborer les politiques et procédures d'utilisation et d'accès au réseau ou à l'Internet, ainsi que les politiques et procédures de sauvegarde et de restauration des données;
+mener des études et fournir des conseils aux autres professionnels des systèmes d'information au sujet de la collecte, de la disponibilité, de la sécurité et de la recevabilité des données;
+rédiger des scripts reliés aux procédures et aux déclencheurs enregistrés;
+diriger et coordonner, s'il y a lieu, des équipes d'administrateurs de données pour élaborer et mettre en oeuvre des politiques, des normes et des modèles de données.
+
+## Activités du travail
+
+Analyser des données ou de l’information
+Communication avec des gens de l’extérieur de l’organisation
+Communiquer avec les collègues de travail
+Contrôler des machines et des processus
+Coordonner le travail et les activités d’autres personnes
+Développement d’équipe
+Développer des instructions techniques
+Élaborer des objectifs et des stratégies
+Encadrer et former des personnes
+Entretien électronique
+
+## Habiletés
+
+Souplesse dans la catégorisation
+Facilité à concevoir des idées
+Raisonnement inductif
+Ordonner de l’information
+Raisonnement mathématique
+Habileté numériques
+Identification de motifs
+Rapidité d’organisation de motifs
+Détection de problèmes
+Compréhension écrite
+
+## Compétences
+
+Pensée critique
+Prise de décisions
+Évaluation
+Instruire
+Surveillance
+Numératie
+Communication verbale : compréhension orale
+Résolution de problèmes
+Compréhension de lecture
+Analyse de systèmes
+
+## Atributs personnels
+
+Pensée analytique
+Apprentissage actif
+Adaptabilité
+Souci du détail
+Collaboration
+Autonomie
+Esprit d’innovation
+Créativité
+Leadership
+Orientation axée sur le service
+
+## RIASEC
+
+Investigateur (Très dominant)
+Conventionnel (Dominant)
+Entreprenant (Moins dominant)
+Artistique (N.a)
+Réaliste (N.a)
+Social (N.a)

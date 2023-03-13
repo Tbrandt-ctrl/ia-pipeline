@@ -21,7 +21,7 @@ const getStructuredText = async (text, directory_path, titles) => {
     console.log("GETTING TRANSLATED PROFILE");
     const translated_profile = await getTranslatedProfile(profile, i, issues);
 
-    await new Promise((resolve) => setTimeout(resolve, 30000));
+    await new Promise((resolve) => setTimeout(resolve, 45000));
     console.log("finished timeout");
 
     console.log("GETTING STRUCTURED PROFILE");
@@ -98,7 +98,7 @@ const getStructuredProfile = async (profile, i, issues) => {
           "TechHardSkills":"",
           "OtherHardSkills":"",
           "SoftSkills":"", 
-          InferedSoftSkills: "",
+          "InferedSoftSkills": "",
           "Tools":"",	
           "SumYearsExperience":"",	
           "LegalAvailabilities":"",	

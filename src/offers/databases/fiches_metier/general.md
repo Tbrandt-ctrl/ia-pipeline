@@ -1,0 +1,91 @@
+## Autres termes:
+
+Architecte d'applications
+Architecte technique de logiciels
+Chef de développement mobile
+Chef de projet de logiciels
+Chef de projet en conception de logiciels
+Chef de projet logiciel et technologies de l'information (TI)
+Concepteur/conceptrice de systèmes logiciels
+Ingénieur concepteur/ingénieure conceptrice en logiciels
+Ingénieur vérificateur/ingénieure vérificatrice en conception logicielle
+Ingénieur/ingénieure de la fiabilité de site
+Ingénieur/ingénieure des opérations infonuagiques
+Ingénieur/ingénieure en essai de logiciels
+Ingénieur/ingénieure en infrastructure infonuagique
+Ingénieur/ingénieure en intégration de systèmes logiciels
+Ingénieur/ingénieure en logiciels
+Ingénieur/ingénieure en logiciels de télécommunications
+Ingénieur/ingénieure en logiciels intégrés
+Spécialiste en architecture logicielle
+
+## Fonctions principales
+
+Ce groupe exerce une partie ou l'ensemble des fonctions suivantes :
+établir et documenter les besoins des utilisateurs et élaborer les spécifications logiques et matérielles;
+étudier et évaluer les informations techniques et faire la synthèse pour concevoir, élaborer et tester les systèmes assistés par ordinateur y compris des applications mobiles;
+élaborer des modèles de données, de processus et de réseaux pour optimiser l'architecture et évaluer la performance et la fiabilité des prototypes;
+planifier, concevoir et coordonner l'élaboration, l'installation, l'intégration et l'exploitation des systèmes assistés par ordinateur y compris des applications mobiles;
+évaluer, tester, mettre au point, documenter, améliorer et élaborer des procédures d'entretien pour les systèmes d'exploitation, les environnements de communication et les logiciels d'application;
+diriger et coordonner, s'il y a lieu, des équipes de professionnels des systèmes d'information pour l'élaboration de logiciels et de systèmes d'information intégrés, de logiciels de commande de processus et d'autres systèmes de contrôle de logiciel intégré.
+
+## Activités du travail
+
+Analyser des données ou de l’information
+Communication avec des gens de l’extérieur de l’organisation
+Communiquer avec les collègues de travail
+Contrôler des machines et des processus
+Coordonner le travail et les activités d’autres personnes
+Développement d’équipe
+Développer des instructions techniques
+Élaborer des objectifs et des stratégies
+Encadrer et former des personnes
+Entretien électronique
+
+## Habiletés
+
+Souplesse dans la catégorisation
+Facilité à concevoir des idées
+Raisonnement déductif
+Raisonnement inductif
+Ordonner de l’information
+Raisonnement mathématique
+Mémorisation
+Vision de près
+Habileté numériques
+Identification de motifs
+
+## Compétences
+
+Littératie numérique
+Production numérique
+Évaluation
+Dépannage
+Pensée critique
+Prise de décisions
+Sélection des équipements et d'outils
+Stratégies d’apprentissage et d’enseignement
+Surveillance
+Numératie
+
+## Atributs personnels
+
+Pensée analytique
+Souci du détail
+Esprit d’innovation
+Apprentissage actif
+Adaptabilité
+Collaboration
+Autonomie
+Tolérance au stress
+Créativité
+Leadership
+
+## RIASEC
+
+Investigateur (Très dominant)
+Conventionnel (Dominant)
+Entreprenant (Moins dominant)
+Artistique (N.a)
+Réaliste (N.a)
+Social (N.a)

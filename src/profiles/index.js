@@ -9,8 +9,6 @@ const {
 } = require("/Users/Thomas/Documents/projects/ia-pipeline/ia-pipeline/src/profiles/structuring.js");
 
 const main = async () => {
-  console.log("HELLO WORLD");
-
   const directory_path =
     "/Users/Thomas/Documents/projects/ia-pipeline/ia-pipeline/src/profiles/";
 
@@ -42,8 +40,9 @@ const main = async () => {
 
   //Translate every single one
 
-  const randomEntries = shortened_descriptions.slice(0, 100);
-  const randomTitles = titles.slice(0, 100);
+  const randomEntries = shortened_descriptions.slice(131);
+  const randomTitles = titles.slice(131);
+  console.log(titles.findIndex((el) => el == "QA Engineer Resume SFO, CA"));
   /* for (let i = 0; i < 100; i++) {
     const randomIndex = Math.floor(
       Math.random() * shortened_descriptions.length
@@ -52,7 +51,7 @@ const main = async () => {
     randomTitles.push(titles[randomIndex]);
   } */
 
-  //Structure them into usable JSON
+  //Translation and structuring in to usable JSON
 
   const structured_text = await getStructuredText(
     randomEntries,
@@ -60,7 +59,7 @@ const main = async () => {
     randomTitles
   );
 
-  console.log(structured_text);
+  /* console.log(structured_text); */
 };
 
 main();

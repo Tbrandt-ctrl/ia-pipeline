@@ -1,87 +1,49 @@
-const {
-  getCSV,
-  getDescription,
-} = require("/Users/Thomas/Documents/projects/ia-pipeline/ia-pipeline/src/helpers/index.js");
-
 const fs = require("fs");
-const { Parser } = require("@json2csv/plainjs");
-var json2csv = require("json2csv");
 const dJSON = require("dirty-json");
 
 const { Configuration, OpenAIApi } = require("openai");
 
-require("dotenv").config();
+const {
+  getProcessedText,
+} = require("/Users/Thomas/Documents/projects/ia-pipeline/ia-pipeline/src/offers/processing.js");
 
-const getDescriptions = async (path) => {
-  try {
-    const desc_path = path + "/textFiles/preprocessed";
-    const files = await fs.promises.readdir(desc_path);
-    const descriptions = [];
-
-    for (let i = 1; i < files.length; i++) {
-      console.log(`Getting description for ${files[i]}`);
-
-      const file_path = desc_path + "/" + files[i];
-      const description = await getDescription(file_path);
-
-      descriptions.push(description);
-    }
-
-    return descriptions;
-  } catch (err) {
-    throw err;
-  }
-};
-
-(async () => {
-  const path =
-    "/Users/Thomas/Desktop/Montréal/Cours/H2023/Réalisation d'applicaitons d'intelligence artificielle/Travail d'équipe/Données/src";
-
-  //Récupérer les jobs du fichier CSV
-  /* const jobs = await getCSV(
-    "/Users/Thomas/Desktop/Montréal/Cours/H2023/Réalisation d'applicaitons d'intelligence artificielle/Travail d'équipe/Données/src/databases/final_jobs.csv"
-  ); */
-
-  //Récupérer les descriptions pour chaque job
-  const descriptions = await getDescriptions(path);
-
-  //Structurer les descriptions de chaque job et rendre les descriptions structurées
-  let issues = [];
-
-  const structured_descriptions = await loopDescriptions(
-    descriptions.slice(22, 40),
-    path,
-    issues
-  );
-
-  console.log(issues);
-
-  //Créer le fichier CSV avec tous les descriptions structuréees
-
-  //createCSV(structured_descriptions, path);
-})();
-
-const loopDescriptions = async (descriptions, path, issues) => {
+const getStructuredText = async (descriptions, path, titles, issues) => {
   let structured_descriptions = [];
 
+  console.log(`CURRENTLY WORKING ON ${descriptions.length} ITEMS`);
+
   for (let i = 0; i <= descriptions.length; i++) {
+    console.log(`THIS IS ITEM NUMBER: ${i}`);
+
     const description = descriptions[i];
 
-    console.log(description);
+    console.log("GETTING PROCESSED DESCRIPTION");
+    const processed_description = await getProcessedText(description);
+
+    console.log("PROCESSED DESCRIPTION: ");
+    console.log(processed_description);
+
+    await new Promise((resolve) => setTimeout(resolve, 45000));
+    console.log("finished timeout for processing");
+
     const structured_description = await getStructuredDescription(
-      description,
+      processed_description,
       i,
       issues
     );
 
-    console.log(`finished working on ${structured_description.JobTitle} `);
+    console.log(
+      `finished working on ${structured_description.JobTitle} with API`
+    );
+
+    structured_description.OfficialTitle = titles[i];
     structured_descriptions.push(structured_description);
 
     //appendToCSV(structured_description, path);
     updateJSON(structured_description, path);
 
-    await new Promise((resolve) => setTimeout(resolve, 60000));
-    console.log("finished timeout");
+    await new Promise((resolve) => setTimeout(resolve, 45000));
+    console.log("finished timeout for structuring");
   }
 
   return structured_descriptions;
@@ -93,7 +55,7 @@ const updateJSON = (structured_description, path) => {
   console.log("STRUCTURED DESCRIPTION TO BE ADDED TO JSON");
   console.log(structured_description);
 
-  const file_path = path + "/databases/structured_descriptions_t2.json";
+  const file_path = path + "/databases/descriptions/final_descriptions.json";
 
   fs.readFile(file_path, function (err, data) {
     const json = JSON.parse(data);
@@ -113,7 +75,7 @@ const getStructuredDescription = async (description, i, issues) => {
 
     try {
       const configuration = new Configuration({
-        apiKey: process.env.OPENAI_API_KEY,
+        apiKey: process.env.OPENAI_API_KEY_CARLA,
       });
       const openai = new OpenAIApi(configuration);
 
@@ -153,7 +115,7 @@ CompanyName: Le nom de l'entreprise qui offre le poste
 
 JobType: Une de ces options: temps plein, temps partiel, contrat
 
-ProgrammingType: Une de ces options: web, logiciel, mobile, donnees, geomatique, jeux-videos, general
+ProgrammingType: Une de ces options selon le type de programmation le plus demandé pour l'offre: web, logiciel, mobile, système, scientifique ou analyste donnees, gestion donees, geomatique, jeux-videos, general
 
 JobIndustry: Pas l'industrie de l'emploi mais celui dans lequel l'emploi sera effectué
 
@@ -253,133 +215,4 @@ Voici la description du poste : ${description}
   });
 };
 
-const appendToCSV = (structured_description, path) => {
-  let fields = [
-    "JobTitle",
-    "CompanyName",
-    "JobLocation",
-    "JobType",
-    "ProgrammingType",
-    "YearlySalary",
-    "HourlySalary",
-    "WorkFromHome",
-    "ApplicationLimitDate",
-    "JobIndustry",
-    "RequiredHardSkills",
-    "PreferredHardSkills",
-    "RequiredSoftSkills",
-    "PreferredSoftSkills",
-    "NeededExperience",
-    "LegalRequirements",
-    "Tasks",
-    "StudyRequirements",
-    "StudyPreferences",
-    "LegalPreferences",
-  ];
-
-  const toCSV = {
-    data: structured_description,
-    fields,
-    header: false,
-  };
-
-  const file_path = path + "/databases/structured_descriptions.csv";
-  const newLine = "\r\n";
-
-  fs.stat(file_path, (err, stat) => {
-    if (err == null) {
-      console.log("File exists");
-
-      //write the actual data and end with newline
-      try {
-        const opts = { fields, header: false };
-        const parser = new Parser(opts);
-
-        const csv = parser.parse(structured_description) + newLine;
-
-        fs.appendFile(file_path, csv, function (err) {
-          if (err) throw err;
-          console.log('The "data to append" was appended to file!');
-        });
-      } catch (err) {
-        console.error(err);
-      }
-    } else {
-      //write the headers and newline
-      console.log("New file, just writing headers");
-      fields = fields + newLine;
-
-      fs.writeFile(file_path, fields, function (err) {
-        if (err) throw err;
-        console.log("file saved");
-      });
-    }
-  });
-};
-
-const createCSV = (structured_descriptions, path) => {
-  console.log(structured_descriptions);
-
-  const csvString = [
-    [
-      "JobTitle",
-      "CompanyName",
-      "JobLocation",
-      "JobType",
-      "ProgrammingType",
-      "YearlySalary",
-      "HourlySalary",
-      "WorkFromHome",
-      "ApplicationLimitDate",
-      "JobIndustry",
-      "RequiredHardSkills",
-      "PreferredHardSkills",
-      "RequiredSoftSkills",
-      "PreferredSoftSkills",
-      "NeededExperience",
-      "LegalRequirements",
-      "Tasks",
-      "StudyRequirements",
-      "StudyPreferences",
-      "LegalPreferences",
-    ],
-    [
-      ...structured_descriptions.map((desc) => [
-        desc.JobTitle,
-        desc.CompanyName,
-        desc.JobLocation,
-        desc.JobType,
-        desc.ProgrammingType,
-        desc.YearlySalary,
-        desc.HourlySalary,
-        desc.WorkFromHome,
-        desc.ApplicationLimitDate,
-        desc.JobIndustry,
-        desc.RequiredHardSkills,
-        desc.PreferredHardSkills,
-        desc.RequiredSoftSkills,
-        desc.PreferredSoftSkills,
-        desc.NeededExperience,
-        desc.LegalRequirements,
-        desc.Tasks,
-        desc.StudyRequirements,
-        desc.StudyPreferences,
-        desc.LegalPreferences,
-      ]),
-    ],
-  ]
-    .map((e) => e.join(","))
-    .join("\n");
-
-  console.log(csvString);
-
-  const file_path = path + "/databases/structured_descriptions.csv";
-
-  fs.writeFile(file_path, csvString, "utf8", (err) => {
-    if (err) {
-      console.error(err);
-    } else {
-      console.log("FILE WRITTEN");
-    }
-  });
-};
+module.exports = { getStructuredText };

@@ -1,0 +1,80 @@
+## Autres termes:
+
+Développeur Web/développeuse Web
+Développeur/développeuse de sites Internet
+Développeur/développeuse de sites Web
+Développeur/développeuse de sites Web d'affaires électroniques
+Gestionnaire du Web
+Programmeur Web/programmeuse Web
+Webmestre
+
+## Fonctions principales
+
+Ce groupe exerce une partie ou l'ensemble des fonctions suivantes :
+développer, écrire, modifier, intégrer et tester les codes et les interfaces d'applications Web liés au site Web;
+effectuer des tests et analyser les données afin de contrôler la qualité, la sécurité et l'expérience de l'interface utilisateur et d'identifier les domaines à améliorer;
+élaborer et mettre en œuvre des procédures pour une révision continue du site Web;
+surveiller et maintenir la fonctionnalité du site Web;
+participer, s'il y a lieu, à l'architecture et à la conception de sites Web en collaboration avec des concepteurs ou des clients;
+étudier et évaluer, s'il y a lieu, un grand nombre de logiciels de médias interactifs.
+
+## Activités du travail
+
+Analyser des données ou de l’information
+Communication avec des gens de l’extérieur de l’organisation
+Communiquer avec les collègues de travail
+Contrôler des machines et des processus
+Coordonner le travail et les activités d’autres personnes
+Développement d’équipe
+Développer des instructions techniques
+Élaborer des objectifs et des stratégies
+Encadrer et former des personnes
+Entretien électronique
+
+## Habiletés
+
+Facilité à concevoir des idées
+Ordonner de l’information
+Rapidité d’organisation de motifs
+Visualisation spatiale
+Souplesse dans la catégorisation
+Raisonnement déductif
+Raisonnement inductif
+Raisonnement mathématique
+Mémorisation
+Vision de près
+
+## Compétences
+
+Littératie numérique
+Production numérique
+Pensée critique
+Évaluation
+Stratégies d’apprentissage et d’enseignement
+Communication verbale : compréhension orale
+Communication verbale : expression orale
+Résolution de problèmes
+Analyse de systèmes
+Dépannage
+
+## Atributs personnels
+
+Souci du détail
+Apprentissage actif
+Adaptabilité
+Pensée analytique
+Collaboration
+Autonomie
+Préoccupation des autres
+Créativité
+Esprit d’innovation
+Leadership
+
+## RIASEC
+
+Investigateur (Très dominant)
+Conventionnel (Dominant)
+Réaliste (Moins dominant)
+Artistique (N.a)
+Entreprenant (N.a)
+Social (N.a)
