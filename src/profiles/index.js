@@ -40,9 +40,11 @@ const main = async () => {
 
   //Translate every single one
 
-  const randomEntries = shortened_descriptions.slice(131);
-  const randomTitles = titles.slice(131);
-  console.log(titles.findIndex((el) => el == "QA Engineer Resume SFO, CA"));
+  const randomEntries = shortened_descriptions.slice(131, 150);
+  const randomTitles = titles.slice(163, 300);
+  console.log(
+    titles.findIndex((el) => el == "Sr. QA ETL Tester Resume Rochester, MN")
+  );
   /* for (let i = 0; i < 100; i++) {
     const randomIndex = Math.floor(
       Math.random() * shortened_descriptions.length

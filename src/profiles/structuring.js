@@ -76,7 +76,7 @@ const getStructuredProfile = async (profile, i, issues) => {
 
     try {
       const configuration = new Configuration({
-        apiKey: process.env.OPENAI_API_KEY,
+        apiKey: process.env.OPENAI_API_KEY_FATOU,
       });
       const openai = new OpenAIApi(configuration);
 
