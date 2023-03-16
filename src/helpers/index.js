@@ -64,4 +64,18 @@ const getDescriptions = async (path) => {
   }
 };
 
-module.exports = { getCSV, getDescription, getDescriptions };
+getJSON = async (path) => {
+  try {
+    const file = fs.readFileSync(path);
+    return JSON.parse(file);
+  } catch (err) {
+    console.error(err);
+  }
+};
+
+module.exports = {
+  getCSV,
+  getDescription,
+  getDescriptions,
+  getJSON,
+};
