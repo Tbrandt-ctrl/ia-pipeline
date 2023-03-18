@@ -3,6 +3,7 @@ const {
 } = require("/Users/Thomas/Documents/projects/ia-pipeline/ia-pipeline/src/helpers/index.js");
 
 const dJSON = require("dirty-json");
+const fs = require("fs");
 
 require("dotenv").config();
 const { Configuration, OpenAIApi } = require("openai");
@@ -40,12 +41,35 @@ const main = async () => {
       const enhancing_json = await getJSON(enhancing_JSON_path);
 
       const new_description = await handleTypes(description, enhancing_json, i);
-      /* console.log(new_description); */
+
+      //write to JSON
+
+      updateJSON(new_description, directory_path);
+
+      console.log("DONE");
     }
   });
 };
 
 main();
+
+const updateJSON = (new_description, path) => {
+  console.log("UPDATING JSON");
+
+  console.log("ENHANCED DESCRIPTION TO BE ADDED TO JSON");
+  console.log(new_description);
+
+  const file_path = path + "databases/descriptions/enhanced_descriptions.json";
+
+  fs.readFile(file_path, function (err, data) {
+    const json = JSON.parse(data);
+
+    json.push(new_description);
+
+    const stringified_JSON = JSON.stringify(json);
+    fs.writeFile(file_path, stringified_JSON, () => {});
+  });
+};
 
 const handleTypes = async (description, enhancing_json, i) => {
   let issues = [];
@@ -58,6 +82,8 @@ const handleTypes = async (description, enhancing_json, i) => {
   );
 
   console.log(enhanced_tasks);
+  await new Promise((resolve) => setTimeout(resolve, 30000));
+  console.log("done with the tasks timeout");
 
   const enhanced_soft_skills = await getEnhancedSoftSkills(
     description,
@@ -65,6 +91,9 @@ const handleTypes = async (description, enhancing_json, i) => {
     issues,
     i
   );
+  console.log(enhanced_soft_skills);
+  await new Promise((resolve) => setTimeout(resolve, 30000));
+  console.log("done with the softskills timeout");
 
   const new_description = await addElements(
     description,
@@ -88,6 +117,11 @@ const addElements = async (
 
   description_new_elements.RIASEC = enhancing_json.RIASEC;
   description_new_elements.OtherTitles = enhancing_json.OtherTitles;
+  description_new_elements.Tasks = enhanced_tasks.Tasks;
+  description_new_elements.RequiredSoftSkills =
+    enhanced_soft_skills.RequiredSoftSkills;
+  description_new_elements.PreferredSoftSkills =
+    enhanced_soft_skills.PreferredSoftSkills;
 
   return description_new_elements;
 };
@@ -184,10 +218,122 @@ const getEnhancedSoftSkills = async (
   issues,
   i
 ) => {
-  //Define the correct job type
-  //Add RIASEC
-  //Add softskils
-  return;
+  const current_required_softskills = description.RequiredSoftSkills;
+  const current_prefered_softskills = description.PreferredSoftSkills;
+
+  // To string functions
+  const habibilites = enhancing_json.Habilities.join("; \n");
+
+  //To string activités
+  const competencies = enhancing_json.Competencies.join("; \n");
+
+  const prompt = `
+    Partie 1
+
+    Voici une liste de softskills nécessaires à avoir dans le cadre d’un emploi et décrits dans une offre d’emploi:
+
+    ${current_required_softskills}
+
+    Voici une liste de softskills plus générale pour ce type d’emploi:
+    ${habibilites}
+
+    En partant de la liste de softskills nécessaires dans le cadre d’un emploi (la première liste), créer une nouvelle liste qui intègre les softskills plus généraux pour ce type d’emploi. Attention de garder l’ordre d’importance quand tu les intègres.
+    Cette nouvelle liste devra utiliser le même format qu’une array javascript et donc ressembler à ceci :
+
+    “RequiredSoftSkills”: [“softskill 1”, “softskill 2”]
+
+    Partie 2
+
+    Voici une liste de softskills qu’il est intéressant à avoir dans le cadre d’un emploi et décrits dans une offre d’emploi (même emploi que pour les softskills nécessaires):
+
+    ${current_prefered_softskills}
+
+    Voici une liste de softskills intéressants à avoir plus générales pour ce type d’emploi:
+
+    ${competencies}
+
+    En partant de la liste de softskills intéressants à avoir dans le cadre d’un emploi, créer une nouvelle liste qui intègre les softskills intéressants à avoir plus généraux pour ce type d’emploi. Attention de garder l’ordre d’importance quand tu les intègres.
+    Cette nouvelle liste devra utiliser le même format qu’une array javascript et donc ressembler à ceci :
+
+    “PreferredSoftSkills”: [“softskill 1”, “softskill 2”]
+
+    Partie 3
+
+    Maintenant que tu as réalisé les parties 1 et 2 répond uniquement avec une array d’array javascript dans le format suivant et grâce à ce que tu as fait dans les parties 1 et 2:
+
+
+    {
+    “RequiredSoftSkills”: [“softskill 1”, “softskill 2”],
+    “PreferredSoftSkills”: [“softskill 1”, “softskill 2”]
+    }
+    `;
+  console.log(prompt);
+
+  //Add softskills
+
+  return new Promise(async (resolve, reject) => {
+    console.log("STARTING API CALL FOR THE SOFTSKILLS");
+    try {
+      const configuration = new Configuration({
+        apiKey: process.env.OPENAI_API_KEY_FATOU,
+      });
+      const openai = new OpenAIApi(configuration);
+
+      const response = await openai.createCompletion({
+        model: "text-davinci-003",
+        prompt: prompt,
+        temperature: 0.7,
+        max_tokens: 1000,
+        top_p: 1.0,
+        frequency_penalty: 0,
+        presence_penalty: 0,
+      });
+
+      if (
+        response &&
+        response.data.choices &&
+        response.data.choices.length > 0
+      ) {
+        const response_text = response.data.choices[0].text.trim();
+
+        console.log("RESPONSE FROM API : ");
+        console.log(response_text);
+
+        let tasks = {};
+
+        try {
+          const cleaned_response = dJSON.parse(response_text);
+
+          softskills = cleaned_response;
+        } catch (err) {
+          console.log("SOMETHING WENT WRONG WITH THE PARSING");
+          console.error(err);
+          issues.push(i);
+        }
+
+        console.log("FINAL SOFTSKILLS : ");
+        console.log(softskills);
+
+        const removeQuotes = (str) => str.replace(/^“|”$/g, "");
+        const clean_softskills = {};
+
+        for (const [key, value] of Object.entries(softskills)) {
+          const newKey = removeQuotes(key);
+          const newVal = value.map(removeQuotes);
+          clean_softskills[newKey] = newVal;
+        }
+
+        console.log("GOTTEN FINAL SOFTSKILLS TEXT");
+        resolve(clean_softskills);
+      } else {
+        console.error("No sentiment analysis response received");
+        issues.push(i);
+      }
+    } catch (err) {
+      issues.push(i);
+      reject(err);
+    }
+  });
 };
 
 const getCleanedTypes = (descriptionType) => {
