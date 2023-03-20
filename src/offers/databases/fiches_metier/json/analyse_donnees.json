@@ -1,0 +1,67 @@
+{
+  "OtherTitles": ["Analyste de base de données"],
+  "PrimaryFunctions": [
+    "établir et documenter les besoins des utilisateurs",
+    "concevoir et élaborer l'architecture des bases de données pour les projets de systèmes informatiques",
+    "concevoir, construire, modifier, intégrer, tester et mettre en application des modèles de données et des systèmes de gestion de base de données",
+    "effectuer des recherches et conseiller les autres professionnels en informatique en ce qui a trait au choix, à l'application et à la mise en place d'outils de gestion de bases de données",
+    "se servir des systèmes de gestion de bases de données afin d'analyser les données et exécuter des analyses en exploration de données",
+    "diriger, coordonner ou superviser, s'il y a lieu, d'autres travailleurs de ce groupe."
+  ],
+  "WorkActivities": [
+    "Analyser des données ou de l’information",
+    "Communication avec des gens de l’extérieur de l’organisation",
+    "Communiquer avec les collègues de travail",
+    "Contrôler des machines et des processus",
+    "Coordonner le travail et les activités d’autres personnes",
+    "Développement d’équipe",
+    "Développer des instructions techniques",
+    "Élaborer des objectifs et des stratégies",
+    "Encadrer et former des personnes",
+    "Entretien électronique"
+  ],
+  "Habilities": [
+    "Raisonnement déductif",
+    "Facilité à concevoir des idées",
+    "Raisonnement inductif",
+    "Ordonner de l’information",
+    "Raisonnement mathématique",
+    "Habileté numériques",
+    "Compréhension écrite",
+    "Souplesse dans la catégorisation",
+    "Mémorisation",
+    "Vision de près"
+  ],
+  "Competencies": [
+    "Pensée critique",
+    "Prise de décisions",
+    "Littératie numérique",
+    "Évaluation",
+    "Numératie",
+    "Communication verbale : compréhension orale",
+    "Résolution de problèmes",
+    "Compréhension de lecture",
+    "Analyse de systèmes",
+    "Coordination"
+  ],
+  "PersonalAttributes": [
+    "Pensée analytique",
+    "Souci du détail",
+    "Apprentissage actif",
+    "Adaptabilité",
+    "Collaboration",
+    "Créativité",
+    "Autonomie",
+    "Esprit d’innovation",
+    "Leadership",
+    "Tolérance au stress"
+  ],
+  "RIASEC": [
+    "Investigateur (Très dominant)",
+    "Conventionnel (Dominant)",
+    "Entreprenant (Moins dominant)",
+    "Artistique (N.a)",
+    "Réaliste (N.a)",
+    "Social (N.a)"
+  ]
+}

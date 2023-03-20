@@ -17,8 +17,12 @@ const main = async () => {
     directory_path + "databases/descriptions/final_descriptions.json"
   );
 
-  descriptions.slice(0, 1).forEach(async (description) => {
-    const i = descriptions.indexOf(description);
+  console.log(descriptions.length);
+
+  let new_descriptions = [];
+
+  for (let i = 1; i < descriptions.slice(27).length; i++) {
+    const description = descriptions[i];
 
     // Nettoyage des types de descriptions
     const cleaned_types = getCleanedTypes(description.ProgrammingType);
@@ -31,24 +35,106 @@ const main = async () => {
 
     switch (main_type) {
       case "web":
-        current_file = "web.json";
+        current_file = "json/web.json";
+        break;
+      case "logiciel":
+        current_file = "json/logiciel.json";
+        break;
+      case "systeme":
+        current_file = "json/système.json";
+        break;
+      case "general":
+        current_file = "json/general.json";
+        break;
+      case "mobile":
+        current_file = "json/mobile WIP.json";
+        break;
+      case "jeux-videos":
+        current_file = "json/jeux_videos WIP.json";
+        break;
+      case "geomatique":
+        current_file = "json/geomatique WIP.json";
+        break;
+      case "scientifique ou analyste donnees":
+        current_file = "json/analyste_donnees.json";
+        break;
+      case "gestion donnees":
+        current_file = "json/gestion_donnees.json";
+        break;
+      default:
+        current_file = undefined;
     }
 
+    console.log(main_type);
+
     if (current_file) {
+      console.log(current_file);
       const enhancing_JSON_path =
         directory_path + "databases/fiches_metier/" + current_file;
 
       const enhancing_json = await getJSON(enhancing_JSON_path);
-
       const new_description = await handleTypes(description, enhancing_json, i);
 
       //write to JSON
-
       updateJSON(new_description, directory_path);
 
       console.log("DONE");
+      new_descriptions.push(new_description);
     }
-  });
+  }
+
+  /* const new_descriptions = await Promise.all(
+    descriptions.slice(1).map(async (description) => {
+      const i = descriptions.indexOf(description);
+
+      // Nettoyage des types de descriptions
+      const cleaned_types = getCleanedTypes(description.ProgrammingType);
+      description.ProgrammingType = cleaned_types;
+
+      // Modifying the description based on the main type
+      const main_type = cleaned_types[0];
+
+      let current_file;
+
+      switch (main_type) {
+        case "web":
+          current_file = "json/web.json";
+        case "logiciel":
+          current_file = "json/logiciel.json";
+        case "systeme":
+          current_file = "json/système.json";
+        case "general":
+          current_file = "json/general.json";
+        case "mobile":
+          current_file = "json/mobile WIP.json";
+        case "jeux-videos":
+          current_file = "json/jeux_videos WIP.json";
+        case "geomatique":
+          current_file = "json/geomatique WIP.json";
+        case "scientifique ou analyste donnees":
+          current_file = "json/analyste_donnees.json";
+        case "gestion donnees":
+          current_file = "json/gestion_donnees.json";
+      }
+
+      if (current_file) {
+        const enhancing_JSON_path =
+          directory_path + "databases/fiches_metier/" + current_file;
+        const enhancing_json = await getJSON(enhancing_JSON_path);
+        const new_description = await handleTypes(
+          description,
+          enhancing_json,
+          i
+        );
+
+        //write to JSON
+        updateJSON(new_description, directory_path);
+
+        console.log("DONE");
+        return new_description;
+      }
+    })
+  ); */
 };
 
 main();
@@ -80,10 +166,11 @@ const handleTypes = async (description, enhancing_json, i) => {
     issues,
     i
   );
-
   console.log(enhanced_tasks);
-  await new Promise((resolve) => setTimeout(resolve, 30000));
+  await new Promise((resolve) => setTimeout(resolve, 45000));
   console.log("done with the tasks timeout");
+
+  /* const enhanced_tasks = []; */
 
   const enhanced_soft_skills = await getEnhancedSoftSkills(
     description,
@@ -92,8 +179,10 @@ const handleTypes = async (description, enhancing_json, i) => {
     i
   );
   console.log(enhanced_soft_skills);
-  await new Promise((resolve) => setTimeout(resolve, 30000));
+  await new Promise((resolve) => setTimeout(resolve, 45000));
   console.log("done with the softskills timeout");
+
+  /* const enhanced_soft_skills = []; */
 
   const new_description = await addElements(
     description,
@@ -115,6 +204,40 @@ const addElements = async (
 ) => {
   let description_new_elements = description;
 
+  const cleanExperience = (xp) => {
+    let cleaned;
+
+    if (xp === "NA") {
+      cleaned = "NA";
+    }
+
+    const matches = xp.match(/\d+/g);
+
+    if (matches) {
+      const numbers = matches.map((match) => parseInt(match));
+      let temp_cleaned;
+
+      if (numbers.length === 1) {
+        temp_cleaned = numbers[0];
+      } else {
+        const sum = numbers.reduce((acc, val) => acc + val, 0);
+        temp_cleaned = Math.round(sum / numbers.length);
+      }
+
+      cleaned = temp_cleaned;
+    }
+    return cleaned;
+  };
+
+  const cleaned_experience = cleanExperience(description.NeededExperience);
+
+  const needed_experience =
+    cleaned_experience === "NA"
+      ? "NA"
+      : cleaned_experience > 2
+      ? "expérimenté"
+      : "débutant";
+
   description_new_elements.RIASEC = enhancing_json.RIASEC;
   description_new_elements.OtherTitles = enhancing_json.OtherTitles;
   description_new_elements.Tasks = enhanced_tasks.Tasks;
@@ -122,6 +245,8 @@ const addElements = async (
     enhanced_soft_skills.RequiredSoftSkills;
   description_new_elements.PreferredSoftSkills =
     enhanced_soft_skills.PreferredSoftSkills;
+
+  description_new_elements.CompetencyLevel = needed_experience;
 
   return description_new_elements;
 };
@@ -226,6 +351,7 @@ const getEnhancedSoftSkills = async (
 
   //To string activités
   const competencies = enhancing_json.Competencies.join("; \n");
+  const personal_attributes = enhancing_json.PersonalAttributes.join("; \n");
 
   const prompt = `
     Partie 1
@@ -250,6 +376,7 @@ const getEnhancedSoftSkills = async (
 
     Voici une liste de softskills intéressants à avoir plus générales pour ce type d’emploi:
 
+    ${personal_attributes}
     ${competencies}
 
     En partant de la liste de softskills intéressants à avoir dans le cadre d’un emploi, créer une nouvelle liste qui intègre les softskills intéressants à avoir plus généraux pour ce type d’emploi. Attention de garder l’ordre d’importance quand tu les intègres.
@@ -299,7 +426,7 @@ const getEnhancedSoftSkills = async (
         console.log("RESPONSE FROM API : ");
         console.log(response_text);
 
-        let tasks = {};
+        let softskills = {};
 
         try {
           const cleaned_response = dJSON.parse(response_text);
@@ -311,6 +438,24 @@ const getEnhancedSoftSkills = async (
           issues.push(i);
         }
 
+        function extractSoftSkills(softskills) {
+          if ("Réponse" in softskills) {
+            return softskills["Réponse"];
+          } else if ("Réponse " in softskills) {
+            return softskills["Réponse "];
+          } else {
+            return softskills;
+          }
+        }
+
+        console.log("FINAL SOFTSKILLS BEFORE LAST CLEANUP: ");
+        console.log(softskills);
+
+        const extractedSkills = extractSoftSkills(softskills);
+
+        softskills = extractedSkills;
+        console.log("FINAL EXTRACTED SOFTSKILLS");
+        console.log(extractedSkills);
         console.log("FINAL SOFTSKILLS : ");
         console.log(softskills);
 
@@ -355,10 +500,10 @@ const getCleanedTypes = (descriptionType) => {
     "geomatique",
     "Geomatique",
     "scientifique ou analyste donnees",
-    "gestion donees",
-    "Gestion donees",
-    "Gestion donées",
-    "gestion donées",
+    "gestion donnees",
+    "Gestion donnees",
+    "Gestion données",
+    "gestion données",
     "NA",
     "Système",
     "Systeme",

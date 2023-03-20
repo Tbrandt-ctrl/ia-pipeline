@@ -115,7 +115,7 @@ CompanyName: Le nom de l'entreprise qui offre le poste
 
 JobType: Une de ces options: temps plein, temps partiel, contrat
 
-ProgrammingType: Une de ces options selon le type de programmation le plus demandé pour l'offre: web, logiciel, mobile, système, scientifique ou analyste donnees, gestion donees, geomatique, jeux-videos, general
+ProgrammingType: Une de ces options selon le type de programmation le plus demandé pour l'offre: web, logiciel, mobile, système, scientifique ou analyste donnees, gestion donnees, geomatique, jeux-videos, general
 
 JobIndustry: Pas l'industrie de l'emploi mais celui dans lequel l'emploi sera effectué
 
