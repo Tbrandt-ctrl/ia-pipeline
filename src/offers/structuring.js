@@ -75,7 +75,7 @@ const getStructuredDescription = async (description, i, issues) => {
 
     try {
       const configuration = new Configuration({
-        apiKey: process.env.OPENAI_API_KEY_FATOU,
+        apiKey: process.env.OPENAI_API_KEY_JOEL,
       });
       const openai = new OpenAIApi(configuration);
 

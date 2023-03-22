@@ -11,7 +11,7 @@ const getProcessedText = async (description) => {
     console.log("STARTING API CALL FOR PROCESSING");
     try {
       const configuration = new Configuration({
-        apiKey: process.env.OPENAI_API_KEY_FATOU,
+        apiKey: process.env.OPENAI_API_KEY_JOEL,
       });
       const openai = new OpenAIApi(configuration);
 

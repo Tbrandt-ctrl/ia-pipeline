@@ -285,7 +285,7 @@ const getEnhancedTasks = async (description, enhancing_json, issues, i) => {
     console.log("STARTING API CALL FOR THE TASKS");
     try {
       const configuration = new Configuration({
-        apiKey: process.env.OPENAI_API_KEY_FATOU,
+        apiKey: process.env.OPENAI_API_KEY_JOEL,
       });
       const openai = new OpenAIApi(configuration);
 
@@ -402,7 +402,7 @@ const getEnhancedSoftSkills = async (
     console.log("STARTING API CALL FOR THE SOFTSKILLS");
     try {
       const configuration = new Configuration({
-        apiKey: process.env.OPENAI_API_KEY_FATOU,
+        apiKey: process.env.OPENAI_API_KEY_JOEL,
       });
       const openai = new OpenAIApi(configuration);
 
